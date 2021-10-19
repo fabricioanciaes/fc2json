@@ -1,0 +1,1319 @@
+{
+  "2010": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/2010.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "2010p1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/2010p1.zip",
+    "require": [
+      "2010"
+    ]
+  },
+  "2010p": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/2010p.zip",
+    "require": [
+      "2010"
+    ]
+  },
+  "alcazar": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/alcazar.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "alphazoo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/alphazoo.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "amazing": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/amazing.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "antarct": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/antarct.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "aquatack": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/aquatack.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "aquatacka": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/aquatacka.zip",
+    "require": [
+      "aquatack"
+    ]
+  },
+  "artduel": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/artduel.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "bcquest": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/bcquest.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "bcquest2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/bcquest2.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "bcquest2ca": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/bcquest2ca.zip",
+    "require": [
+      "bcquest2"
+    ]
+  },
+  "beamridr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/beamridr.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "blockrun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/blockrun.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "bdash": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/bdash.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "boxxle": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/boxxle.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "brainstr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/brainstr.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "buckrogsgm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/buckrogsgm.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "buckrog": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/buckrog.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "bnj": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/bnj.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "btime": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/btime.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "btimem": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/btimem.zip",
+    "require": [
+      "btime"
+    ]
+  },
+  "cabbshow": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/cabbshow.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "cabbage": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/cabbage.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "cabbagep1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/cabbagep1.zip",
+    "require": [
+      "cabbage"
+    ]
+  },
+  "cabbagep2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/cabbagep2.zip",
+    "require": [
+      "cabbage"
+    ]
+  },
+  "campaign": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/campaign.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "carnival": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/carnival.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "castelo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/castelo.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "cbsmon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/cbsmon.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "centiped": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/centiped.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "choplift": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/choplift.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "chucknor": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/chucknor.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "coldblood": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/coldblood.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "cvjoytest": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/cvjoytest.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "sgmtest": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/sgmtest.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "congo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/congo.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "cavenger": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/cavenger.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "cavengera": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/cavengera.zip",
+    "require": [
+      "cavenger"
+    ]
+  },
+  "ccrisis": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/ccrisis.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "dncfntsy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/dncfntsy.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "decathln": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/decathln.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "defender": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/defender.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "destruct": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/destruct.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "digdug": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/digdug.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "digger": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/digger.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "dkong": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/dkong.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "dkonga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/dkonga.zip",
+    "require": [
+      "dkong"
+    ]
+  },
+  "dkongjr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/dkongjr.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "drseuss": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/drseuss.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "dlair": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/dlair.zip",
+    "require": [
+      "dlairsgm"
+    ]
+  },
+  "dlairsgm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/dlairsgm.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "drgnfire": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/drgnfire.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "mindmstr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mindmstr.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "evolutio": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/evolutio.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "facemakr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/facemakr.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "fallguy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/fallguy.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "fathom": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/fathom.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "finaltst": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/finaltst.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "flipslip": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/flipslip.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "fortune": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/fortune.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "fracfevr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/fracfevr.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "ffreddy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/ffreddy.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "frenzy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/frenzy.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "frenzya": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/frenzya.zip",
+    "require": [
+      "frenzy"
+    ]
+  },
+  "frenzya2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/frenzya2.zip",
+    "require": [
+      "frenzy"
+    ]
+  },
+  "frogger": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/frogger.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "frogger2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/frogger2.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "frontlin": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/frontlin.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "frontlina": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/frontlina.zip",
+    "require": [
+      "frontlin"
+    ]
+  },
+  "frostbite": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/frostbite.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "galaxian": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/galaxian.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "galaxiana": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/galaxiana.zip",
+    "require": [
+      "galaxian"
+    ]
+  },
+  "apshai": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/apshai.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "gorf": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/gorf.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "gustbust": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/gustbust.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "gyruss": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/gyruss.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "hero": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/hero.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "illusion": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/illusion.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "onlyrock": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/onlyrock.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "jbond": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/jbond.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "joust": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/joust.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "jukebox": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/jukebox.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "jmpmanjr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/jmpmanjr.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "jmpmanjra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/jmpmanjra.zip",
+    "require": [
+      "jmpmanjr"
+    ]
+  },
+  "jungleh": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/jungleh.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "kaboom": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/kaboom.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "kubjpok": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/kubjpok.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "keykaper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/keykaper.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "ladybug": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/ladybug.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "leeper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/leeper.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "linklogc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/linklogc.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "logiclvl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/logiclvl.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "looping": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/looping.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "mash": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mash.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "mecha8": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mecha8.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "mecha9": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mecha9.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "memmanor": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/memmanor.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "meteosho": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/meteosho.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "mine2049": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mine2049.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "mine2049a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mine2049a.zip",
+    "require": [
+      "mine2049"
+    ]
+  },
+  "moduleman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/moduleman.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "monkey": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/monkey.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "montezum": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/montezum.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "moonswpr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/moonswpr.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "moonswpra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/moonswpra.zip",
+    "require": [
+      "moonswpr"
+    ]
+  },
+  "mtcracer": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mtcracer.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "mtcracera": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mtcracera.zip",
+    "require": [
+      "mtcracer"
+    ]
+  },
+  "mking": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mking.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "mkinga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mkinga.zip",
+    "require": [
+      "mking"
+    ]
+  },
+  "mtrap": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mtrap.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "mtrapa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mtrapa.zip",
+    "require": [
+      "mtrap"
+    ]
+  },
+  "mrdo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mrdo.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "mrdoa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/mrdoa.zip",
+    "require": [
+      "mrdo"
+    ]
+  },
+  "docastle": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/docastle.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "musicbox": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/musicbox.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "novablst": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/novablst.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "numbump": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/numbump.zip",
+    "require": [
+      "amazing"
+    ]
+  },
+  "oilswell": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/oilswell.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "oilswella": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/oilswella.zip",
+    "require": [
+      "oilswell"
+    ]
+  },
+  "omegrace": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/omegrace.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "1on1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/1on1.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "orbit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/orbit.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "pacmancol": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/pacmancol.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "pacman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/pacman.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "pepper2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/pepper2.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "pitfall2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/pitfall2.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "pitfall": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/pitfall.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "pitstop": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/pitstop.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "pitstopa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/pitstopa.zip",
+    "require": [
+      "pitstop"
+    ]
+  },
+  "popeye": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/popeye.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "popeyea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/popeyea.zip",
+    "require": [
+      "popeye"
+    ]
+  },
+  "porkys": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/porkys.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "power": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/power.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "pquest": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/pquest.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "qbert": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/qbert.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "qberta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/qberta.zip",
+    "require": [
+      "qbert"
+    ]
+  },
+  "qbertqub": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/qbertqub.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "quintana": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/quintana.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "quintanaa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/quintanaa.zip",
+    "require": [
+      "quintana"
+    ]
+  },
+  "questgc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/questgc.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "riveraid": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/riveraid.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "robinh": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/robinh.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "robinha": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/robinha.zip",
+    "require": [
+      "robinh"
+    ]
+  },
+  "rocnrope": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/rocnrope.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "rockbolt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/rockbolt.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "rockbolta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/rockbolta.zip",
+    "require": [
+      "rockbolt"
+    ]
+  },
+  "rocky": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/rocky.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "rollover": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/rollover.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "sammylf": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/sammylf.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "sammylfa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/sammylfa.zip",
+    "require": [
+      "sammylf"
+    ]
+  },
+  "secalpha": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/secalpha.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "sewersam": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/sewersam.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "lancelot": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/lancelot.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "skiing": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/skiing.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "slither": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/slither.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "danslither": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/danslither.zip",
+    "require": [
+      "slither"
+    ]
+  },
+  "slurpy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/slurpy.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "smurfpnt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/smurfpnt.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "smurfply": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/smurfply.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "smurf": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/smurf.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "smurfa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/smurfa.zip",
+    "require": [
+      "smurf"
+    ]
+  },
+  "spacfury": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/spacfury.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "panic": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/panic.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "spectron": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/spectron.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "spyhunt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/spyhunt.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "spyhuntp1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/spyhuntp1.zip",
+    "require": [
+      "spyhunt"
+    ]
+  },
+  "spyhuntp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/spyhuntp.zip",
+    "require": [
+      "spyhunt"
+    ]
+  },
+  "squishem": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/squishem.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "starfortress": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/starfortress.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "startrek": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/startrek.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "starwars": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/starwars.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "steam": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/steam.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "strikeit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/strikeit.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "subroc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/subroc.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "sabaseb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/sabaseb.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "safootb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/safootb.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "saftsocc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/saftsocc.zip",
+    "require": [
+      "sasoccer"
+    ]
+  },
+  "sasoccer": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/sasoccer.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "scobra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/scobra.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "scobraa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/scobraa.zip",
+    "require": [
+      "scobra"
+    ]
+  },
+  "suprtest": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/suprtest.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "sprcross": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/sprcross.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "sprcrossa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/sprcrossa.zip",
+    "require": [
+      "sprcross"
+    ]
+  },
+  "superdk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/superdk.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "suprdkjr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/suprdkjr.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "ssketch": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/ssketch.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "sword": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/sword.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "tankwars": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/tankwars.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "tapper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/tapper.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "tarzan": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/tarzan.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "telly": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/telly.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "bbears": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/bbears.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "dambust": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/dambust.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "hazzard": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/hazzard.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "yolk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/yolk.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "threshld": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/threshld.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "timeplt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/timeplt.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "tomarc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/tomarc.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "ttennis": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/ttennis.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "tunnels": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/tunnels.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "turbo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/turbo.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "tutankhm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/tutankhm.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "tutankhma": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/tutankhma.zip",
+    "require": [
+      "tutankhm"
+    ]
+  },
+  "upndown": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/upndown.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "venture": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/venture.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "victory": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/victory.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "hustler": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/hustler.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "hustler1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/hustler1.zip",
+    "require": [
+      "hustler"
+    ]
+  },
+  "wargames": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/wargames.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "wargamesp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/wargamesp.zip",
+    "require": [
+      "wargames"
+    ]
+  },
+  "warroom": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/warroom.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "wingwar": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/wingwar.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "wizmath": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/wizmath.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "wordfeud": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/wordfeud.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "zaxxon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/zaxxon.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "zaxxonsgm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/zaxxonsgm.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "zenji": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/zenji.zip",
+    "require": [
+      "coleco"
+    ]
+  },
+  "coleco": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/coleco/coleco.zip"
+  }
+}

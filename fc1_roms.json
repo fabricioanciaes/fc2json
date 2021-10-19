@@ -1,0 +1,806 @@
+{
+  "1941": {
+    "download": "https://archive.org/download/fightcaderoms/1941.zip"
+  },
+  "1944": {
+    "download": "https://archive.org/download/fightcaderoms/1944.zip"
+  },
+  "19xx": {
+    "download": "https://archive.org/download/fightcaderoms/19xx.zip"
+  },
+  "2020bb": {
+    "download": "https://archive.org/download/fightcaderoms/2020bb.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "3countb": {
+    "download": "https://archive.org/download/fightcaderoms/3countb.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "sonicwi2": {
+    "download": "https://archive.org/download/fightcaderoms/sonicwi2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "sonicwi3": {
+    "download": "https://archive.org/download/fightcaderoms/sonicwi3.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "aodk": {
+    "download": "https://archive.org/download/fightcaderoms/aodk.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "avsp": {
+    "download": "https://archive.org/download/fightcaderoms/avsp.zip"
+  },
+  "alpham2": {
+    "download": "https://archive.org/download/fightcaderoms/alpham2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "androdun": {
+    "download": "https://archive.org/download/fightcaderoms/androdun.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "armwar": {
+    "download": "https://archive.org/download/fightcaderoms/armwar.zip"
+  },
+  "aof2": {
+    "download": "https://archive.org/download/fightcaderoms/aof2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "aof3": {
+    "download": "https://archive.org/download/fightcaderoms/aof3.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "aof": {
+    "download": "https://archive.org/download/fightcaderoms/aof.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "bangbead": {
+    "download": "https://archive.org/download/fightcaderoms/bangbead.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "bstars2": {
+    "download": "https://archive.org/download/fightcaderoms/bstars2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "batcir": {
+    "download": "https://archive.org/download/fightcaderoms/batcir.zip"
+  },
+  "flipshot": {
+    "download": "https://archive.org/download/fightcaderoms/flipshot.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "blazstar": {
+    "download": "https://archive.org/download/fightcaderoms/blazstar.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "bjourney": {
+    "download": "https://archive.org/download/fightcaderoms/bjourney.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "breakers": {
+    "download": "https://archive.org/download/fightcaderoms/breakers.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "breakrev": {
+    "download": "https://archive.org/download/fightcaderoms/breakrev.zip",
+    "require": [
+      "breakers"
+    ]
+  },
+  "burningf": {
+    "download": "https://archive.org/download/fightcaderoms/burningf.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "dino": {
+    "download": "https://archive.org/download/fightcaderoms/dino.zip"
+  },
+  "csclub": {
+    "download": "https://archive.org/download/fightcaderoms/csclub.zip"
+  },
+  "captcomm": {
+    "download": "https://archive.org/download/fightcaderoms/captcomm.zip"
+  },
+  "cawing": {
+    "download": "https://archive.org/download/fightcaderoms/cawing.zip"
+  },
+  "crsword": {
+    "download": "https://archive.org/download/fightcaderoms/crsword.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "cthd2003": {
+    "download": "https://archive.org/download/fightcaderoms/cthd2003.zip",
+    "require": [
+      "kof2001"
+    ]
+  },
+  "cyberlip": {
+    "download": "https://archive.org/download/fightcaderoms/cyberlip.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "cybots": {
+    "download": "https://archive.org/download/fightcaderoms/cybots.zip"
+  },
+  "dimahoo": {
+    "download": "https://archive.org/download/fightcaderoms/dimahoo.zip"
+  },
+  "ddonpach": {
+    "download": "https://archive.org/download/fightcaderoms/ddonpach.zip"
+  },
+  "donpachi": {
+    "download": "https://archive.org/download/fightcaderoms/donpachi.zip"
+  },
+  "doubledr": {
+    "download": "https://archive.org/download/fightcaderoms/doubledr.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ddsom": {
+    "download": "https://archive.org/download/fightcaderoms/ddsom.zip"
+  },
+  "ddtod": {
+    "download": "https://archive.org/download/fightcaderoms/ddtod.zip"
+  },
+  "ecofghtr": {
+    "download": "https://archive.org/download/fightcaderoms/ecofghtr.zip"
+  },
+  "eightman": {
+    "download": "https://archive.org/download/fightcaderoms/eightman.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "esprade": {
+    "download": "https://archive.org/download/fightcaderoms/esprade.zip"
+  },
+  "fatfury1": {
+    "download": "https://archive.org/download/fightcaderoms/fatfury1.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "fatfury2": {
+    "download": "https://archive.org/download/fightcaderoms/fatfury2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "fatfury3": {
+    "download": "https://archive.org/download/fightcaderoms/fatfury3.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "fatfursp": {
+    "download": "https://archive.org/download/fightcaderoms/fatfursp.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "feversos": {
+    "download": "https://archive.org/download/fightcaderoms/feversos.zip"
+  },
+  "fightfev": {
+    "download": "https://archive.org/download/fightcaderoms/fightfev.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ffight": {
+    "download": "https://archive.org/download/fightcaderoms/ffight.zip"
+  },
+  "fbfrenzy": {
+    "download": "https://archive.org/download/fightcaderoms/fbfrenzy.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "forgottn": {
+    "download": "https://archive.org/download/fightcaderoms/forgottn.zip"
+  },
+  "gaia": {
+    "download": "https://archive.org/download/fightcaderoms/gaia.zip"
+  },
+  "galaxyfg": {
+    "download": "https://archive.org/download/fightcaderoms/galaxyfg.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ganryu": {
+    "download": "https://archive.org/download/fightcaderoms/ganryu.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "garou": {
+    "download": "https://archive.org/download/fightcaderoms/garou.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ghostlop": {
+    "download": "https://archive.org/download/fightcaderoms/ghostlop.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ghouls": {
+    "download": "https://archive.org/download/fightcaderoms/ghouls.zip"
+  },
+  "gigawing": {
+    "download": "https://archive.org/download/fightcaderoms/gigawing.zip"
+  },
+  "goalx3": {
+    "download": "https://archive.org/download/fightcaderoms/goalx3.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "guwange": {
+    "download": "https://archive.org/download/fightcaderoms/guwange.zip"
+  },
+  "hsf2": {
+    "download": "https://archive.org/download/fightcaderoms/hsf2.zip"
+  },
+  "jojoban": {
+    "download": "https://archive.org/download/fightcaderoms/jojoban.zip",
+    "require": [
+      "jojoba"
+    ]
+  },
+  "jojon": {
+    "download": "https://archive.org/download/fightcaderoms/jojon.zip",
+    "require": [
+      "jojo"
+    ]
+  },
+  "kabukikl": {
+    "download": "https://archive.org/download/fightcaderoms/kabukikl.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "karnovr": {
+    "download": "https://archive.org/download/fightcaderoms/karnovr.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kotm": {
+    "download": "https://archive.org/download/fightcaderoms/kotm.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kotm2": {
+    "download": "https://archive.org/download/fightcaderoms/kotm2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kizuna": {
+    "download": "https://archive.org/download/fightcaderoms/kizuna.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "knights": {
+    "download": "https://archive.org/download/fightcaderoms/knights.zip"
+  },
+  "lresort": {
+    "download": "https://archive.org/download/fightcaderoms/lresort.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "lbowling": {
+    "download": "https://archive.org/download/fightcaderoms/lbowling.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "msword": {
+    "download": "https://archive.org/download/fightcaderoms/msword.zip"
+  },
+  "magdrop2": {
+    "download": "https://archive.org/download/fightcaderoms/magdrop2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "magdrop3": {
+    "download": "https://archive.org/download/fightcaderoms/magdrop3.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "mmatrix": {
+    "download": "https://archive.org/download/fightcaderoms/mmatrix.zip"
+  },
+  "msh": {
+    "download": "https://archive.org/download/fightcaderoms/msh.zip"
+  },
+  "mshvsf": {
+    "download": "https://archive.org/download/fightcaderoms/mshvsf.zip"
+  },
+  "mvsc": {
+    "download": "https://archive.org/download/fightcaderoms/mvsc.zip"
+  },
+  "mmancp2u": {
+    "download": "https://archive.org/download/fightcaderoms/mmancp2u.zip",
+    "require": [
+      "megaman"
+    ]
+  },
+  "megaman2": {
+    "download": "https://archive.org/download/fightcaderoms/megaman2.zip"
+  },
+  "mercs": {
+    "download": "https://archive.org/download/fightcaderoms/mercs.zip"
+  },
+  "mslug": {
+    "download": "https://archive.org/download/fightcaderoms/mslug.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "mslug2": {
+    "download": "https://archive.org/download/fightcaderoms/mslug2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "mslug3": {
+    "download": "https://archive.org/download/fightcaderoms/mslug3.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "mslug4": {
+    "download": "https://archive.org/download/fightcaderoms/mslug4.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ms5plus": {
+    "download": "https://archive.org/download/fightcaderoms/ms5plus.zip",
+    "require": [
+      "mslug5"
+    ]
+  },
+  "mslug3b6": {
+    "download": "https://archive.org/download/fightcaderoms/mslug3b6.zip",
+    "require": [
+      "mslug3"
+    ]
+  },
+  "mslugx": {
+    "download": "https://archive.org/download/fightcaderoms/mslugx.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "mpang": {
+    "download": "https://archive.org/download/fightcaderoms/mpang.zip"
+  },
+  "miexchng": {
+    "download": "https://archive.org/download/fightcaderoms/miexchng.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "mutnat": {
+    "download": "https://archive.org/download/fightcaderoms/mutnat.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "neobombe": {
+    "download": "https://archive.org/download/fightcaderoms/neobombe.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "neodrift": {
+    "download": "https://archive.org/download/fightcaderoms/neodrift.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "turfmast": {
+    "download": "https://archive.org/download/fightcaderoms/turfmast.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "neocup98": {
+    "download": "https://archive.org/download/fightcaderoms/neocup98.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "nwarr": {
+    "download": "https://archive.org/download/fightcaderoms/nwarr.zip"
+  },
+  "nitd": {
+    "download": "https://archive.org/download/fightcaderoms/nitd.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ncombat": {
+    "download": "https://archive.org/download/fightcaderoms/ncombat.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ncommand": {
+    "download": "https://archive.org/download/fightcaderoms/ncommand.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ninjamas": {
+    "download": "https://archive.org/download/fightcaderoms/ninjamas.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ragnagrd": {
+    "download": "https://archive.org/download/fightcaderoms/ragnagrd.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "overtop": {
+    "download": "https://archive.org/download/fightcaderoms/overtop.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "panicbom": {
+    "download": "https://archive.org/download/fightcaderoms/panicbom.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "pgoal": {
+    "download": "https://archive.org/download/fightcaderoms/pgoal.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "pspikes2": {
+    "download": "https://archive.org/download/fightcaderoms/pspikes2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "preisle2": {
+    "download": "https://archive.org/download/fightcaderoms/preisle2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "progear": {
+    "download": "https://archive.org/download/fightcaderoms/progear.zip"
+  },
+  "pulstar": {
+    "download": "https://archive.org/download/fightcaderoms/pulstar.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "pzloop2": {
+    "download": "https://archive.org/download/fightcaderoms/pzloop2.zip"
+  },
+  "pbobblen": {
+    "download": "https://archive.org/download/fightcaderoms/pbobblen.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "pbobbl2n": {
+    "download": "https://archive.org/download/fightcaderoms/pbobbl2n.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "uopoko": {
+    "download": "https://archive.org/download/fightcaderoms/uopoko.zip"
+  },
+  "rotd": {
+    "download": "https://archive.org/download/fightcaderoms/rotd.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "rbff2": {
+    "download": "https://archive.org/download/fightcaderoms/rbff2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "rbffspec": {
+    "download": "https://archive.org/download/fightcaderoms/rbffspec.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "rbff1": {
+    "download": "https://archive.org/download/fightcaderoms/rbff1.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "redearth": {
+    "download": "https://archive.org/download/fightcaderoms/redearth.zip"
+  },
+  "redeartn": {
+    "download": "https://archive.org/download/fightcaderoms/redeartn.zip",
+    "require": [
+      "redearth"
+    ]
+  },
+  "ridhero": {
+    "download": "https://archive.org/download/fightcaderoms/ridhero.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "ringdest": {
+    "download": "https://archive.org/download/fightcaderoms/ringdest.zip"
+  },
+  "samsho2": {
+    "download": "https://archive.org/download/fightcaderoms/samsho2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "samsho3": {
+    "download": "https://archive.org/download/fightcaderoms/samsho3.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "samsho4": {
+    "download": "https://archive.org/download/fightcaderoms/samsho4.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "samsho5": {
+    "download": "https://archive.org/download/fightcaderoms/samsho5.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "samsh5sp": {
+    "download": "https://archive.org/download/fightcaderoms/samsh5sp.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "samsho": {
+    "download": "https://archive.org/download/fightcaderoms/samsho.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "matrim": {
+    "download": "https://archive.org/download/fightcaderoms/matrim.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "sfa": {
+    "download": "https://archive.org/download/fightcaderoms/sfa.zip"
+  },
+  "sfa2": {
+    "download": "https://archive.org/download/fightcaderoms/sfa2.zip"
+  },
+  "sfa3": {
+    "download": "https://archive.org/download/fightcaderoms/sfa3.zip"
+  },
+  "sf2": {
+    "download": "https://archive.org/download/fightcaderoms/sf2.zip"
+  },
+  "sf2koryu": {
+    "download": "https://archive.org/download/fightcaderoms/sf2koryu.zip",
+    "require": [
+      "sf2ce"
+    ]
+  },
+  "sf2ce": {
+    "download": "https://archive.org/download/fightcaderoms/sf2ce.zip"
+  },
+  "sf2hf": {
+    "download": "https://archive.org/download/fightcaderoms/sf2hf.zip",
+    "require": [
+      "sf2ce"
+    ]
+  },
+  "sf2t": {
+    "download": "https://archive.org/download/fightcaderoms/sf2t.zip",
+    "require": [
+      "sf2ce"
+    ]
+  },
+  "sfiii2n": {
+    "download": "https://archive.org/download/fightcaderoms/sfiii2n.zip",
+    "require": [
+      "sfiii2"
+    ]
+  },
+  "sfiii3n": {
+    "download": "https://archive.org/download/fightcaderoms/sfiii3n.zip",
+    "require": [
+      "sfiii3"
+    ]
+  },
+  "sfiii3an": {
+    "download": "https://archive.org/download/fightcaderoms/sfiii3an.zip",
+    "require": [
+      "sfiii3"
+    ]
+  },
+  "sfiiin": {
+    "download": "https://archive.org/download/fightcaderoms/sfiiin.zip",
+    "require": [
+      "sfiii"
+    ]
+  },
+  "sfz2aa": {
+    "download": "https://archive.org/download/fightcaderoms/sfz2aa.zip",
+    "require": [
+      "sfa2"
+    ]
+  },
+  "sgemf": {
+    "download": "https://archive.org/download/fightcaderoms/sgemf.zip"
+  },
+  "spf2t": {
+    "download": "https://archive.org/download/fightcaderoms/spf2t.zip"
+  },
+  "ssf2": {
+    "download": "https://archive.org/download/fightcaderoms/ssf2.zip"
+  },
+  "ssf2xj": {
+    "download": "https://archive.org/download/fightcaderoms/ssf2xj.zip",
+    "require": [
+      "ssf2"
+    ]
+  },
+  "kof94": {
+    "download": "https://archive.org/download/fightcaderoms/kof94.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kof95": {
+    "download": "https://archive.org/download/fightcaderoms/kof95.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kof96": {
+    "download": "https://archive.org/download/fightcaderoms/kof96.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kof97": {
+    "download": "https://archive.org/download/fightcaderoms/kof97.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kof98": {
+    "download": "https://archive.org/download/fightcaderoms/kof98.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kof99": {
+    "download": "https://archive.org/download/fightcaderoms/kof99.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kf2k5uni": {
+    "download": "https://archive.org/download/fightcaderoms/kf2k5uni.zip",
+    "require": [
+      "kof2002"
+    ]
+  },
+  "kof2000": {
+    "download": "https://archive.org/download/fightcaderoms/kof2000.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kof2001": {
+    "download": "https://archive.org/download/fightcaderoms/kof2001.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kof2002": {
+    "download": "https://archive.org/download/fightcaderoms/kof2002.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kof2003": {
+    "download": "https://archive.org/download/fightcaderoms/kof2003.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "kof2k4se": {
+    "download": "https://archive.org/download/fightcaderoms/kof2k4se.zip",
+    "require": [
+      "kof2002"
+    ]
+  },
+  "lastblad": {
+    "download": "https://archive.org/download/fightcaderoms/lastblad.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "lastbld2": {
+    "download": "https://archive.org/download/fightcaderoms/lastbld2.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "wjammers": {
+    "download": "https://archive.org/download/fightcaderoms/wjammers.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "neogeo": {
+    "download": "https://archive.org/download/fightcaderoms/neogeo.zip"
+  }
+}

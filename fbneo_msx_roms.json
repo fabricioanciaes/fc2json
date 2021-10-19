@@ -1,0 +1,6929 @@
+{
+  "007tld": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/007tld.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "10yard": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/10yard.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "10yarda": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/10yarda.zip",
+    "require": [
+      "10yard"
+    ]
+  },
+  "180": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/180.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "1942": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/1942.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "1942a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/1942a.zip",
+    "require": [
+      "1942"
+    ]
+  },
+  "1942k": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/1942k.zip",
+    "require": [
+      "1942"
+    ]
+  },
+  "m36": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/m36.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "anaza": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/anaza.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ae": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ae.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "a1spirit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/a1spirit.zip",
+    "require": [
+      "f1spirit"
+    ]
+  },
+  "aaargh": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/aaargh.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "abusimbel": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/abusimbel.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "actman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/actman.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "actmana": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/actmana.zip",
+    "require": [
+      "actman"
+    ]
+  },
+  "addictbl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/addictbl.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "adel": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/adel.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "afteroids": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/afteroids.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "albatros": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/albatros.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "albatrosa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/albatrosa.zip",
+    "require": [
+      "albatros"
+    ]
+  },
+  "alehop": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/alehop.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "aroid": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/aroid.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "aroida": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/aroida.zip",
+    "require": [
+      "aroid"
+    ]
+  },
+  "alibaba": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/alibaba.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "alibabab": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/alibabab.zip",
+    "require": [
+      "alibaba"
+    ]
+  },
+  "alibabaa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/alibabaa.zip",
+    "require": [
+      "alibaba"
+    ]
+  },
+  "alien8": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/alien8.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "alien8h": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/alien8h.zip",
+    "require": [
+      "alien8"
+    ]
+  },
+  "aliens": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/aliens.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "aliensb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/aliensb.zip",
+    "require": [
+      "aliens"
+    ]
+  },
+  "aliensa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/aliensa.zip",
+    "require": [
+      "aliens"
+    ]
+  },
+  "alphablaster": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/alphablaster.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "alpineski": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/alpineski.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "alterego": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/alterego.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "alteredbeast": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/alteredbeast.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "amtrucka": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/amtrucka.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "amomundo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/amomundo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "amotopuf": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/amotopuf.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "amurisus": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/amurisus.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "angelo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/angelo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "angeloa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/angeloa.zip",
+    "require": [
+      "angelo"
+    ]
+  },
+  "antarct": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/antarct.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "antarcta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/antarcta.zip",
+    "require": [
+      "antarct"
+    ]
+  },
+  "antarctj": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/antarctj.zip",
+    "require": [
+      "antarct"
+    ]
+  },
+  "antarctk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/antarctk.zip",
+    "require": [
+      "antarct"
+    ]
+  },
+  "anty": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/anty.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "antya": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/antya.zip",
+    "require": [
+      "anty"
+    ]
+  },
+  "aquasos": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/aquasos.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "aquatack": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/aquatack.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "aramo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/aramo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "arkanoid": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/arkanoid.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "arkanoida": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/arkanoida.zip",
+    "require": [
+      "arkanoid"
+    ]
+  },
+  "arkanoidj": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/arkanoidj.zip",
+    "require": [
+      "arkanoid"
+    ]
+  },
+  "arkanoidja": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/arkanoidja.zip",
+    "require": [
+      "arkanoid"
+    ]
+  },
+  "arkanoidk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/arkanoidk.zip",
+    "require": [
+      "arkanoid"
+    ]
+  },
+  "armymove": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/armymove.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "astrobls": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/astrobls.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "amc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/amc.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "astroplm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/astroplm.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "athlball": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/athlball.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "athland": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/athland.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "athlanda": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/athlanda.zip",
+    "require": [
+      "athland"
+    ]
+  },
+  "athlandp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/athlandp.zip",
+    "require": [
+      "athland"
+    ]
+  },
+  "atsarias": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/atsarias.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mosquiton": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mosquiton.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "awmonty": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/awmonty.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bcquest": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bcquest.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bcquesta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bcquesta.zip",
+    "require": [
+      "bcquest"
+    ]
+  },
+  "grogrev": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/grogrev.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "grogreva": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/grogreva.zip",
+    "require": [
+      "grogrev"
+    ]
+  },
+  "dooly": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dooly.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "backgamj": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/backgamj.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "backgamja": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/backgamja.zip",
+    "require": [
+      "backgamj"
+    ]
+  },
+  "backtof": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/backtof.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "backtofa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/backtofa.zip",
+    "require": [
+      "backtof"
+    ]
+  },
+  "balance": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/balance.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "balance2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/balance2.zip",
+    "require": [
+      "balance"
+    ]
+  },
+  "balance1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/balance1.zip",
+    "require": [
+      "balance"
+    ]
+  },
+  "ballblzr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ballblzr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "balloonpunch": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/balloonpunch.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "banana": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/banana.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bankp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bankp.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bankpa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bankpa.zip",
+    "require": [
+      "bankp"
+    ]
+  },
+  "bankpk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bankpk.zip",
+    "require": [
+      "bankp"
+    ]
+  },
+  "barb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/barb.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "barb2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/barb2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "barnstrm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/barnstrm.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "batman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/batman.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "batman10": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/batman10.zip",
+    "require": [
+      "batman"
+    ]
+  },
+  "batmanmv": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/batmanmv.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "btanukia": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/btanukia.zip",
+    "require": [
+      "btanuki"
+    ]
+  },
+  "btanukib": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/btanukib.zip",
+    "require": [
+      "btanuki"
+    ]
+  },
+  "btanuki": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/btanuki.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "battlex": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/battlex.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "clapton2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/clapton2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "clapton2a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/clapton2a.zip",
+    "require": [
+      "clapton2"
+    ]
+  },
+  "beachead": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/beachead.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "beamridr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/beamridr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "becky": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/becky.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "beckyb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/beckyb.zip",
+    "require": [
+      "becky"
+    ]
+  },
+  "beckya": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/beckya.zip",
+    "require": [
+      "becky"
+    ]
+  },
+  "beeflowr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/beeflowr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "beeflowrb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/beeflowrb.zip",
+    "require": [
+      "beeflowr"
+    ]
+  },
+  "beeflowra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/beeflowra.zip",
+    "require": [
+      "beeflowr"
+    ]
+  },
+  "bestwarr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bestwarr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "betiled": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/betiled.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "binarylnd": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/binarylnd.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bitlogic": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bitlogic.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "blackbeard": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/blackbeard.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "blaggerenh": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/blaggerenh.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "blagger": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/blagger.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "blockhol": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/blockhol.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "blockrun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/blockrun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bloody": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bloody.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "blowup": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/blowup.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bmxsim": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bmxsim.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "boggy84": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boggy84.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "boggy84b": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boggy84b.zip",
+    "require": [
+      "boggy84"
+    ]
+  },
+  "boggy84a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boggy84a.zip",
+    "require": [
+      "boggy84"
+    ]
+  },
+  "boing2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boing2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bokosuka": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bokosuka.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bokosukaa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bokosukaa.zip",
+    "require": [
+      "bokosuka"
+    ]
+  },
+  "bold": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bold.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bombking": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bombking.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bombman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bombman.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bombmank1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bombmank1.zip",
+    "require": [
+      "bombman"
+    ]
+  },
+  "bombmank2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bombmank2.zip",
+    "require": [
+      "bombman"
+    ]
+  },
+  "bombmnsp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bombmnsp.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "boogie": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boogie.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "boogie2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boogie2.zip",
+    "require": [
+      "boogie"
+    ]
+  },
+  "boogie1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boogie1.zip",
+    "require": [
+      "boogie"
+    ]
+  },
+  "boomrang": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boomrang.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "boomranga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boomranga.zip",
+    "require": [
+      "boomrang"
+    ]
+  },
+  "booty": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/booty.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bop": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bop.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "borfes": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/borfes.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dota": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dota.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dotaa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dotaa.zip",
+    "require": [
+      "dota"
+    ]
+  },
+  "bdash": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bdash.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bdash2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bdash2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bounce": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bounce.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bounder": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bounder.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "breakinj": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/breakinj.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "breakout": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/breakout.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "breakoutt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/breakoutt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "breaker": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/breaker.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "britishbob": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/britishbob.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bronx": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bronx.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "brosadv": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/brosadv.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "brosadva": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/brosadva.zip",
+    "require": [
+      "brosadv"
+    ]
+  },
+  "brucelee": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/brucelee.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bubbler": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bubbler.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "buckrog": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/buckrog.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bullmigt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bullmigt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bumpy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bumpy.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "btime": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/btime.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "inspecteurz": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/inspecteurz.zip",
+    "require": [
+      "bullmigt"
+    ]
+  },
+  "butampanb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/butampanb.zip",
+    "require": [
+      "butampan"
+    ]
+  },
+  "butampana": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/butampana.zip",
+    "require": [
+      "butampan"
+    ]
+  },
+  "butampan": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/butampan.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "buzzoff": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/buzzoff.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cso": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cso.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "csok": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/csok.zip",
+    "require": [
+      "cso"
+    ]
+  },
+  "cabbagep": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cabbagep.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cabbagepa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cabbagepa.zip",
+    "require": [
+      "cabbagep"
+    ]
+  },
+  "cabbagepk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cabbagepk.zip",
+    "require": [
+      "cabbagep"
+    ]
+  },
+  "camelotw": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/camelotw.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "candoon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/candoon.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "candoona": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/candoona.zip",
+    "require": [
+      "candoon"
+    ]
+  },
+  "cannonbl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cannonbl.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cannonbla": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cannonbla.zip",
+    "require": [
+      "cannonbl"
+    ]
+  },
+  "cannonfgt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cannonfgt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cannont": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cannont.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "caos": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/caos.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ctrueno": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ctrueno.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "captchef": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/captchef.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "carfight": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/carfight.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "carjamb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/carjamb.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "carjamba": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/carjamba.zip",
+    "require": [
+      "carjamb"
+    ]
+  },
+  "carrace": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/carrace.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "carraceb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/carraceb.zip",
+    "require": [
+      "carrace"
+    ]
+  },
+  "carracea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/carracea.zip",
+    "require": [
+      "carrace"
+    ]
+  },
+  "csainz": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/csainz.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wrldopen": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wrldopen.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wrldopenk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wrldopenk.zip",
+    "require": [
+      "wrldopen"
+    ]
+  },
+  "castlex": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/castlex.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "castlexa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/castlexa.zip",
+    "require": [
+      "castlex"
+    ]
+  },
+  "caverns": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/caverns.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "chackn": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chackn.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "chackna": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chackna.zip",
+    "require": [
+      "chackn"
+    ]
+  },
+  "champbox": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/champbox.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "champice": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/champice.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "champken": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/champken.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "champkena": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/champkena.zip",
+    "require": [
+      "champken"
+    ]
+  },
+  "champpwr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/champpwr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "champpwrb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/champpwrb.zip",
+    "require": [
+      "champpwr"
+    ]
+  },
+  "champpwra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/champpwra.zip",
+    "require": [
+      "champpwr"
+    ]
+  },
+  "champscr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/champscr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cloderun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cloderun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tantan": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tantan.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "chess": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chess.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "chickfighter": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chickfighter.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "chicken": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chicken.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "chiller": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chiller.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "choplift": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/choplift.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "chopliftb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chopliftb.zip",
+    "require": [
+      "choplift"
+    ]
+  },
+  "choplifta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/choplifta.zip",
+    "require": [
+      "choplift"
+    ]
+  },
+  "chopper1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chopper1.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "choroq": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/choroq.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "choroqa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/choroqa.zip",
+    "require": [
+      "choroq"
+    ]
+  },
+  "choroqk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/choroqk.zip",
+    "require": [
+      "choroq"
+    ]
+  },
+  "zaider": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zaider.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zaidera": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zaidera.zip",
+    "require": [
+      "zaider"
+    ]
+  },
+  "macross": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/macross.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "macrossa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/macrossa.zip",
+    "require": [
+      "macross"
+    ]
+  },
+  "chubbygristle": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chubbygristle.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "chuckie": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chuckie.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "chuheib1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chuheib1.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "circusc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/circusc.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "citycon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/citycon.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "citycona": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/citycona.zip",
+    "require": [
+      "citycon"
+    ]
+  },
+  "coastrac": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/coastrac.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "coastracb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/coastracb.zip",
+    "require": [
+      "coastrac"
+    ]
+  },
+  "coastraca": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/coastraca.zip",
+    "require": [
+      "coastrac"
+    ]
+  },
+  "colony": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/colony.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "colball": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/colball.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "colballb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/colballb.zip",
+    "require": [
+      "colball"
+    ]
+  },
+  "colballa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/colballa.zip",
+    "require": [
+      "colball"
+    ]
+  },
+  "colt36": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/colt36.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "picot": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/picot.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cometail": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cometail.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "comicbak": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/comicbak.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "comicbakb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/comicbakb.zip",
+    "require": [
+      "comicbak"
+    ]
+  },
+  "comicbaka": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/comicbaka.zip",
+    "require": [
+      "comicbak"
+    ]
+  },
+  "cbilliar": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cbilliar.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cnyumon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cnyumon.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cpachi": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cpachi.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "condori": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/condori.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "condorib": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/condorib.zip",
+    "require": [
+      "condori"
+    ]
+  },
+  "condoria": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/condoria.zip",
+    "require": [
+      "condori"
+    ]
+  },
+  "confused": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/confused.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "congobongo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/congobongo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "corsarios": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/corsarios.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cosanost": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cosanost.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "csheriff": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/csheriff.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cosmo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cosmo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cosmoa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cosmoa.zip",
+    "require": [
+      "cosmo"
+    ]
+  },
+  "cosmoexp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cosmoexp.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cosmoexpa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cosmoexpa.zip",
+    "require": [
+      "cosmoexp"
+    ]
+  },
+  "cow": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cow.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "craze": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/craze.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "crazy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/crazy.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "crazybul": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/crazybul.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "crazycar": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/crazycar.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "crazytrn": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/crazytrn.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "crazytrna": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/crazytrna.zip",
+    "require": [
+      "crazytrn"
+    ]
+  },
+  "crossblm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/crossblm.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "crusader": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/crusader.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "crusaderb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/crusaderb.zip",
+    "require": [
+      "crusader"
+    ]
+  },
+  "crusadera": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/crusadera.zip",
+    "require": [
+      "crusader"
+    ]
+  },
+  "crusaderk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/crusaderk.zip",
+    "require": [
+      "crusader"
+    ]
+  },
+  "cyberbig": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cyberbig.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cyberun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cyberun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "cyborgz": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/cyborgz.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dday": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dday.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ddayb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ddayb.zip",
+    "require": [
+      "dday"
+    ]
+  },
+  "ddayc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ddayc.zip",
+    "require": [
+      "dday"
+    ]
+  },
+  "ddaya": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ddaya.zip",
+    "require": [
+      "dday"
+    ]
+  },
+  "ddayk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ddayk.zip",
+    "require": [
+      "dday"
+    ]
+  },
+  "devilhvn": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/devilhvn.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "daidasso": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/daidasso.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dskeiba": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dskeiba.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "daiva4": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/daiva4.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dangertower": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dangertower.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dangerx4": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dangerx4.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dangerx4b": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dangerx4b.zip",
+    "require": [
+      "dangerx4"
+    ]
+  },
+  "dangerx4a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dangerx4a.zip",
+    "require": [
+      "dangerx4"
+    ]
+  },
+  "dawnpatr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dawnpatr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "deathwish3": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/deathwish3.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "decathln": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/decathln.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "deepdng": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/deepdng.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "deepdun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/deepdun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "deepdng2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/deepdng2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "demoncrystl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/demoncrystl.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "demonia": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/demonia.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "desolatr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/desolatr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "destroyr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/destroyr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "digdug": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/digdug.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "digduga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/digduga.zip",
+    "require": [
+      "digdug"
+    ]
+  },
+  "megamit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/megamit.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "megamita": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/megamita.zip",
+    "require": [
+      "megamit"
+    ]
+  },
+  "dinosour": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dinosour.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dipdip": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dipdip.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "discwarr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/discwarr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dogfight": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dogfight.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dokidoki": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dokidoki.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dokidokia": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dokidokia.zip",
+    "require": [
+      "dokidoki"
+    ]
+  },
+  "doordoor": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/doordoor.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dorodon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dorodon.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ddragon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ddragon.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "drgnatck": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/drgnatck.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "drgnatcka": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/drgnatcka.zip",
+    "require": [
+      "drgnatck"
+    ]
+  },
+  "dninja": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dninja.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dquest": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dquest.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dquest2a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dquest2a.zip",
+    "require": [
+      "dquest"
+    ]
+  },
+  "dquest2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dquest2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dslayer": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dslayer.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dslayer4": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dslayer4.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "drainer": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/drainer.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "drillertnk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/drillertnk.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "drome": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/drome.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dngnhntr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dngnhntr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dunkshot": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dunkshot.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dunkshota": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dunkshota.zip",
+    "require": [
+      "dunkshot"
+    ]
+  },
+  "dynabowl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dynabowl.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dynadan": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dynadan.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "exainnov": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exainnov.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "exainnov1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exainnov1.zip",
+    "require": [
+      "exainnov"
+    ]
+  },
+  "eaglefgt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/eaglefgt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "eaglefgta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/eaglefgta.zip",
+    "require": [
+      "eaglefgt"
+    ]
+  },
+  "eagle5": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/eagle5.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "eatblue": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/eatblue.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "eatit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/eatit.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "eggerlnd": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/eggerlnd.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sideral": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sideral.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mundoper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mundoper.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "elevator": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/elevator.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "exchangr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exchangr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "exchangra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exchangra.zip",
+    "require": [
+      "exchangr"
+    ]
+  },
+  "exerion": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exerion.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "exerionb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exerionb.zip",
+    "require": [
+      "exerion"
+    ]
+  },
+  "exeriona": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exeriona.zip",
+    "require": [
+      "exerion"
+    ]
+  },
+  "exerionk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exerionk.zip",
+    "require": [
+      "exerion"
+    ]
+  },
+  "exerion2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exerion2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "exerion2a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exerion2a.zip",
+    "require": [
+      "exerion2"
+    ]
+  },
+  "exoidez": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exoidez.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "exoidezb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exoidezb.zip",
+    "require": [
+      "exoidez"
+    ]
+  },
+  "exoideza": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exoideza.zip",
+    "require": [
+      "exoidez"
+    ]
+  },
+  "exoidez5": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exoidez5.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "exoidez5k": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/exoidez5k.zip",
+    "require": [
+      "exoidez5"
+    ]
+  },
+  "extermin": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/extermin.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "f1spirit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/f1spirit.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "f1spirita": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/f1spirita.zip",
+    "require": [
+      "f1spirit"
+    ]
+  },
+  "f1spiritk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/f1spiritk.zip",
+    "require": [
+      "f1spirit"
+    ]
+  },
+  "fatetris": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fatetris.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fatetrisb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fatetrisb.zip",
+    "require": [
+      "fatetris"
+    ]
+  },
+  "fatetrisa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fatetrisa.zip",
+    "require": [
+      "fatetris"
+    ]
+  },
+  "factory": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/factory.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fairy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fairy.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fantzone": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fantzone.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fantzonek": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fantzonek.zip",
+    "require": [
+      "fantzone"
+    ]
+  },
+  "fathom": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fathom.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "feud": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/feud.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fjustice": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fjustice.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fjusticeb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fjusticeb.zip",
+    "require": [
+      "fjustice"
+    ]
+  },
+  "fjusticea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fjusticea.zip",
+    "require": [
+      "fjustice"
+    ]
+  },
+  "fzone": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fzone.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fzonek": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fzonek.zip",
+    "require": [
+      "fzone"
+    ]
+  },
+  "findkeep": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/findkeep.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fireresc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fireresc.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fireresca": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fireresca.zip",
+    "require": [
+      "fireresc"
+    ]
+  },
+  "firehawk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/firehawk.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "flappy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flappy.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "flappya": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flappya.zip",
+    "require": [
+      "flappy"
+    ]
+  },
+  "flappy85": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flappy85.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "flashgor": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flashgor.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fsplash": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fsplash.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fpoint": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fpoint.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fpointa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fpointa.zip",
+    "require": [
+      "fpoint"
+    ]
+  },
+  "flicky": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flicky.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "flideck": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flideck.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "flidecka": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flidecka.zip",
+    "require": [
+      "flideck"
+    ]
+  },
+  "fsim": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fsim.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "flipper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flipper.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "flippera": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flippera.zip",
+    "require": [
+      "flipper"
+    ]
+  },
+  "ffruit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ffruit.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "formatz": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/formatz.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "formatza": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/formatza.zip",
+    "require": [
+      "formatz"
+    ]
+  },
+  "frogger": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/frogger.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "froggera": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/froggera.zip",
+    "require": [
+      "frogger"
+    ]
+  },
+  "frontlin": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/frontlin.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "frontlinb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/frontlinb.zip",
+    "require": [
+      "frontlin"
+    ]
+  },
+  "frontlina": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/frontlina.zip",
+    "require": [
+      "frontlin"
+    ]
+  },
+  "fruitpanic": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fruitpanic.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fruitsrc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fruitsrc.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "fruitsrca": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/fruitsrca.zip",
+    "require": [
+      "fruitsrc"
+    ]
+  },
+  "funmouse": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/funmouse.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "galaga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/galaga.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "galaxia": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/galaxia.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "galaxian": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/galaxian.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "galaxianb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/galaxianb.zip",
+    "require": [
+      "galaxian"
+    ]
+  },
+  "galaxiana": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/galaxiana.zip",
+    "require": [
+      "galaxian"
+    ]
+  },
+  "galforce": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/galforce.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "galforcea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/galforcea.zip",
+    "require": [
+      "galforce"
+    ]
+  },
+  "gambler": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gambler.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gameover": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gameover.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gameovr2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gameovr2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gangman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gangman.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gangmanj": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gangmanj.zip",
+    "require": [
+      "gangman"
+    ]
+  },
+  "gauntlet": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gauntlet.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "genesis": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/genesis.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ghost": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ghost.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ghostbst": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ghostbst.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ghostbs2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ghostbs2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "glass": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/glass.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "glider": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/glider.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "glidera": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/glidera.zip",
+    "require": [
+      "glider"
+    ]
+  },
+  "godzilla": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/godzilla.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "godzillaa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/godzillaa.zip",
+    "require": [
+      "godzilla"
+    ]
+  },
+  "godzikun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/godzikun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "godzikuna": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/godzikuna.zip",
+    "require": [
+      "godzikun"
+    ]
+  },
+  "gokiburi": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gokiburi.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "golfgame": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/golfgame.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "golvell": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/golvell.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gommy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gommy.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gomokuna": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gomokuna.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gomokunaa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gomokunaa.zip",
+    "require": [
+      "gomokuna"
+    ]
+  },
+  "gonzzalezz": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gonzzalezz.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "goody": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/goody.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ggeftsdp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ggeftsdp.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gpworld": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gpworld.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gberet": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gberet.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gbereta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gbereta.zip",
+    "require": [
+      "gberet"
+    ]
+  },
+  "gberetk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gberetk.zip",
+    "require": [
+      "gberet"
+    ]
+  },
+  "gridtrap": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gridtrap.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gridwars": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gridwars.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "griel": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/griel.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "grielex": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/grielex.zip",
+    "require": [
+      "griel"
+    ]
+  },
+  "guardic": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/guardic.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "guardica": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/guardica.zip",
+    "require": [
+      "guardic"
+    ]
+  },
+  "gulkave": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gulkave.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gulkavea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gulkavea.zip",
+    "require": [
+      "gulkave"
+    ]
+  },
+  "gulkavek": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gulkavek.zip",
+    "require": [
+      "gulkave"
+    ]
+  },
+  "gunfrght": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gunfrght.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gunfrghta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gunfrghta.zip",
+    "require": [
+      "gunfrght"
+    ]
+  },
+  "gunsmoke": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gunsmoke.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "guttblst": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/guttblst.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gyroadv": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gyroadv.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gyrodine": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gyrodine.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gyrodinek": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gyrodinek.zip",
+    "require": [
+      "gyrodine"
+    ]
+  },
+  "gyruss": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gyruss.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hero": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hero.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "habilit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/habilit.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hammboy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hammboy.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hangon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hangon.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hangonb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hangonb.zip",
+    "require": [
+      "hangon"
+    ]
+  },
+  "hangona": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hangona.zip",
+    "require": [
+      "hangon"
+    ]
+  },
+  "happyfret": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/happyfret.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "harapeko": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/harapeko.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hardboil": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hardboil.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "showjumph": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/showjumph.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "youkaiya": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/youkaiya.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hhouse": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hhouse.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "headheels": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/headheels.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "heatseek": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/heatseek.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "helitank": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/helitank.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hercules": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hercules.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "heroesarena": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/heroesarena.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "highway": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/highway.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "highwayk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/highwayk.zip",
+    "require": [
+      "highway"
+    ]
+  },
+  "highwayen": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/highwayen.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hitsuji": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hitsuji.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "holein1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/holein1.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "holein1b": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/holein1b.zip",
+    "require": [
+      "holein1"
+    ]
+  },
+  "holein1c": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/holein1c.zip",
+    "require": [
+      "holein1"
+    ]
+  },
+  "holein1a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/holein1a.zip",
+    "require": [
+      "holein1"
+    ]
+  },
+  "holein1p": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/holein1p.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "holein1pa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/holein1pa.zip",
+    "require": [
+      "holein1p"
+    ]
+  },
+  "hopper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hopper.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hostages": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hostages.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hotshoe": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hotshoe.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hnchback": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hnchback.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hundra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hundra.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hfox": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hfox.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hustle": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hustle.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hustlea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hustlea.zip",
+    "require": [
+      "hustle"
+    ]
+  },
+  "hydlide": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hydlide.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hydlide3": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hydlide3.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hydlide2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hydlide2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hydlide2a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hydlide2a.zip",
+    "require": [
+      "hydlide2"
+    ]
+  },
+  "hype": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hype.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hyperol1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hyperol1.zip",
+    "require": [
+      "trackfld"
+    ]
+  },
+  "hyperol1k": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hyperol1k.zip",
+    "require": [
+      "trackfld"
+    ]
+  },
+  "hyperol2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hyperol2.zip",
+    "require": [
+      "trackfl2"
+    ]
+  },
+  "hyprally": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hyprally.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hyprallyb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hyprallyb.zip",
+    "require": [
+      "hyprally"
+    ]
+  },
+  "hyprallyc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hyprallyc.zip",
+    "require": [
+      "hyprally"
+    ]
+  },
+  "hyprallya": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hyprallya.zip",
+    "require": [
+      "hyprally"
+    ]
+  },
+  "hyperspt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hyperspt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hyperspta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hyperspta.zip",
+    "require": [
+      "hyperspt"
+    ]
+  },
+  "hypersp2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hypersp2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hypersp2k": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hypersp2k.zip",
+    "require": [
+      "hypersp2"
+    ]
+  },
+  "hypersp3": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hypersp3.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hypersp3b": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hypersp3b.zip",
+    "require": [
+      "hypersp3"
+    ]
+  },
+  "hypersp3a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hypersp3a.zip",
+    "require": [
+      "hypersp3"
+    ]
+  },
+  "hyperviper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hyperviper.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "iceworld": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/iceworld.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "icebreak": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/icebreak.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "iganinpo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/iganinpo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "iganinp2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/iganinp2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "inca": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/inca.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "indianb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/indianb.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "indy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/indy.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "infernalminer": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/infernalminer.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ik": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ik.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "invrevenge": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/invrevenge.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "invasion": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/invasion.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "invazm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/invazm.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "issun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/issun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "issuna": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/issuna.zip",
+    "require": [
+      "issun"
+    ]
+  },
+  "issunh": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/issunh.zip",
+    "require": [
+      "issun"
+    ]
+  },
+  "jetpac": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jetpac.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jpwinkle": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jpwinkle.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jpwinklek": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jpwinklek.zip",
+    "require": [
+      "jpwinkle"
+    ]
+  },
+  "nipper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nipper.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "nipper2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nipper2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jackcity": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jackcity.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jagur": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jagur.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jagura": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jagura.zip",
+    "require": [
+      "jagur"
+    ]
+  },
+  "jaws": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jaws.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jetfight": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jetfight.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jetsetw": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jetsetw.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jetsetwa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jetsetwa.zip",
+    "require": [
+      "jetsetw"
+    ]
+  },
+  "jinj2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jinj2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "joeblade": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/joeblade.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jump": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jump.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jumpcstr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jumpcstr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jumpland": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jumpland.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jumping": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jumping.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jumpjack": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jumpjack.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jrabbit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jrabbit.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "jungwarr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/jungwarr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "junofrst": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/junofrst.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "legkage": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/legkage.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "karamaru": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/karamaru.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "stonewis": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/stonewis.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "keykaper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/keykaper.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "khazzad": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/khazzad.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kickit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kickit.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kickita": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kickita.zip",
+    "require": [
+      "kickit"
+    ]
+  },
+  "killmice": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/killmice.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kingball": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingball.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kingballa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingballa.zip",
+    "require": [
+      "kingball"
+    ]
+  },
+  "kingleon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingleon.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kingkngt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingkngt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kingkngtb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingkngtb.zip",
+    "require": [
+      "kingkngt"
+    ]
+  },
+  "kingkngta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingkngta.zip",
+    "require": [
+      "kingkngt"
+    ]
+  },
+  "kingval": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingval.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kingvalb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingvalb.zip",
+    "require": [
+      "kingval"
+    ]
+  },
+  "kingvalc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingvalc.zip",
+    "require": [
+      "kingval"
+    ]
+  },
+  "kingvald": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingvald.zip",
+    "require": [
+      "kingval"
+    ]
+  },
+  "kingvala": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingvala.zip",
+    "require": [
+      "kingval"
+    ]
+  },
+  "kingval2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kingval2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kinnikum": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kinnikum.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kinnikuma": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kinnikuma.zip",
+    "require": [
+      "kinnikum"
+    ]
+  },
+  "kinnikumk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kinnikumk.zip",
+    "require": [
+      "kinnikum"
+    ]
+  },
+  "klax": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/klax.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "knightlr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/knightlr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "knightmr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/knightmr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "knightmrb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/knightmrb.zip",
+    "require": [
+      "knightmr"
+    ]
+  },
+  "knightmra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/knightmra.zip",
+    "require": [
+      "knightmr"
+    ]
+  },
+  "knightmrk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/knightmrk.zip",
+    "require": [
+      "knightmr"
+    ]
+  },
+  "knightm2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/knightm2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "knightm2k": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/knightm2k.zip",
+    "require": [
+      "knightm2"
+    ]
+  },
+  "knightm3": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/knightm3.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "knithers": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/knithers.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "knucklej": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/knucklej.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kobashi": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kobashi.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "koedoli": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/koedoli.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "konbball": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konbball.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "konbballa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konbballa.zip",
+    "require": [
+      "konbball"
+    ]
+  },
+  "konbill": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konbill.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "konboxin": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konboxin.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "konboxinb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konboxinb.zip",
+    "require": [
+      "konboxin"
+    ]
+  },
+  "konboxina": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konboxina.zip",
+    "require": [
+      "konboxin"
+    ]
+  },
+  "konfootb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konfootb.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "konfootbb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konfootbb.zip",
+    "require": [
+      "konfootb"
+    ]
+  },
+  "konfootba": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konfootba.zip",
+    "require": [
+      "konfootb"
+    ]
+  },
+  "kongolf": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kongolf.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kongolfb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kongolfb.zip",
+    "require": [
+      "kongolf"
+    ]
+  },
+  "kongolfa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kongolfa.zip",
+    "require": [
+      "kongolf"
+    ]
+  },
+  "pingpong": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pingpong.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pingpongb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pingpongb.zip",
+    "require": [
+      "pingpong"
+    ]
+  },
+  "pingpongc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pingpongc.zip",
+    "require": [
+      "pingpong"
+    ]
+  },
+  "pingponga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pingponga.zip",
+    "require": [
+      "pingpong"
+    ]
+  },
+  "pingpongk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pingpongk.zip",
+    "require": [
+      "pingpong"
+    ]
+  },
+  "konsoccr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konsoccr.zip",
+    "require": [
+      "konfootb"
+    ]
+  },
+  "konsoccrb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konsoccrb.zip",
+    "require": [
+      "konfootb"
+    ]
+  },
+  "konsoccrc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konsoccrc.zip",
+    "require": [
+      "konfootb"
+    ]
+  },
+  "konsoccra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/konsoccra.zip",
+    "require": [
+      "konfootb"
+    ]
+  },
+  "kontenn": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kontenn.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kontenna": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kontenna.zip",
+    "require": [
+      "kontenn"
+    ]
+  },
+  "kontennk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kontennk.zip",
+    "require": [
+      "kontenn"
+    ]
+  },
+  "koneko": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/koneko.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "krakout": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/krakout.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kungfum": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kungfum.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kungfumb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kungfumb.zip",
+    "require": [
+      "kungfum"
+    ]
+  },
+  "kungfuma": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kungfuma.zip",
+    "require": [
+      "kungfum"
+    ]
+  },
+  "seikacho": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/seikacho.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "seikachoa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/seikachoa.zip",
+    "require": [
+      "seikacho"
+    ]
+  },
+  "seikachok": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/seikachok.zip",
+    "require": [
+      "seikacho"
+    ]
+  },
+  "kungfut": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kungfut.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "kungfuta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kungfuta.zip",
+    "require": [
+      "kungfut"
+    ]
+  },
+  "kungfutk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/kungfutk.zip",
+    "require": [
+      "kungfut"
+    ]
+  },
+  "abadcrim": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/abadcrim.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "lacorona": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/lacorona.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "laptick2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/laptick2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "lastmission": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/lastmission.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "lazyjones": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/lazyjones.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "legendk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/legendk.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "legendka": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/legendka.zip",
+    "require": [
+      "legendk"
+    ]
+  },
+  "lic2kill": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/lic2kill.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "lifefastln": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/lifefastln.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "livingstone": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/livingstone.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "livingstone2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/livingstone2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ldrun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ldrun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ldruna": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ldruna.zip",
+    "require": [
+      "ldrun"
+    ]
+  },
+  "ldrun2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ldrun2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "lordover": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/lordover.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "lorna": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/lorna.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "lotlot": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/lotlot.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "lotusf3": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/lotusf3.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "lunarbal": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/lunarbal.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mdroid": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mdroid.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mtanks": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mtanks.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mgunjoe": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mgunjoe.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mkidwiz": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mkidwiz.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mkidwizb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mkidwizb.zip",
+    "require": [
+      "mkidwiz"
+    ]
+  },
+  "mkidwiza": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mkidwiza.zip",
+    "require": [
+      "mkidwiz"
+    ]
+  },
+  "magical": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/magical.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "magtree": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/magtree.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "magtreea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/magtreea.zip",
+    "require": [
+      "magtree"
+    ]
+  },
+  "empcity": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/empcity.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "empcitya": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/empcitya.zip",
+    "require": [
+      "empcity"
+    ]
+  },
+  "mjdojo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mjdojo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "malaika12": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/malaika12.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "malaikapq13": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/malaikapq13.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "manes": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/manes.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "manesb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/manesb.zip",
+    "require": [
+      "manes"
+    ]
+  },
+  "manesa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/manesa.zip",
+    "require": [
+      "manes"
+    ]
+  },
+  "manicminer": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/manicminer.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mappy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mappy.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mappyb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mappyb.zip",
+    "require": [
+      "mappy"
+    ]
+  },
+  "mappya": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mappya.zip",
+    "require": [
+      "mappy"
+    ]
+  },
+  "marchen": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/marchen.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "marinbat": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/marinbat.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mars2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mars2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "martianoids": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/martianoids.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gabalina": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gabalina.zip",
+    "require": [
+      "gabalin"
+    ]
+  },
+  "gabalin": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gabalin.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mask2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mask2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mask3": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mask3.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mastlamp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mastlamp.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "maxima": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/maxima.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mayhem": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mayhem.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mecha8": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mecha8.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "megalsos": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/megalsos.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "megalsosb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/megalsosb.zip",
+    "require": [
+      "megalsos"
+    ]
+  },
+  "megalsosa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/megalsosa.zip",
+    "require": [
+      "megalsos"
+    ]
+  },
+  "meganova": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/meganova.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "meikyusha": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/meikyusha.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "menace": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/menace.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "midbros": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/midbros.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "midbrosa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/midbrosa.zip",
+    "require": [
+      "midbros"
+    ]
+  },
+  "midbuild": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/midbuild.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "midway": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/midway.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mikie": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mikie.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "milkrace": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/milkrace.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mirai": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mirai.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mitsumgt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mitsumgt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "moaihiho": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/moaihiho.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "moaihihok": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/moaihihok.zip",
+    "require": [
+      "moaihiho"
+    ]
+  },
+  "suthir": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/suthir.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gundam": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gundam.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gundama": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gundama.zip",
+    "require": [
+      "gundam"
+    ]
+  },
+  "gundamk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gundamk.zip",
+    "require": [
+      "gundam"
+    ]
+  },
+  "mokarima": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mokarima.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "molemol": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/molemol.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "molemol2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/molemol2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "monkeyac": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/monkeyac.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "monkeyacb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/monkeyacb.zip",
+    "require": [
+      "monkeyac"
+    ]
+  },
+  "monkeyacc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/monkeyacc.zip",
+    "require": [
+      "monkeyac"
+    ]
+  },
+  "monkeyaca": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/monkeyaca.zip",
+    "require": [
+      "monkeyac"
+    ]
+  },
+  "monsterhunter": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/monsterhunter.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mnstfair": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mnstfair.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "montanajohn": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/montanajohn.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mpatrol": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mpatrol.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mpatrolk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mpatrolk.zip",
+    "require": [
+      "mpatrol"
+    ]
+  },
+  "moonridr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/moonridr.zip",
+    "require": [
+      "starbugg"
+    ]
+  },
+  "moonswep": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/moonswep.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mopirang": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mopirang.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mopirangb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mopirangb.zip",
+    "require": [
+      "mopirang"
+    ]
+  },
+  "mopirangc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mopirangc.zip",
+    "require": [
+      "mopirang"
+    ]
+  },
+  "mopirangd": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mopirangd.zip",
+    "require": [
+      "mopirang"
+    ]
+  },
+  "mopiranga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mopiranga.zip",
+    "require": [
+      "mopirang"
+    ]
+  },
+  "mopirangk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mopirangk.zip",
+    "require": [
+      "mopirang"
+    ]
+  },
+  "moritaot": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/moritaot.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mortadelo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mortadelo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mortadelo2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mortadelo2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mouser": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mouser.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mrchin": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mrchin.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mrchink": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mrchink.zip",
+    "require": [
+      "mrchin"
+    ]
+  },
+  "mrcrack": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mrcrack.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mrdo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mrdo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mrdok": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mrdok.zip",
+    "require": [
+      "mrdo"
+    ]
+  },
+  "mrdovsun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mrdovsun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mrdowild": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mrdowild.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mrdowildh": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mrdowildh.zip",
+    "require": [
+      "mrdowild"
+    ]
+  },
+  "mrmole": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mrmole.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mrwong": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mrwong.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "msxbball": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/msxbball.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "msxbballa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/msxbballa.zip",
+    "require": [
+      "msxbball"
+    ]
+  },
+  "msxbbal2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/msxbbal2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "msxrugby": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/msxrugby.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "msxsoccr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/msxsoccr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "msxsoccra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/msxsoccra.zip",
+    "require": [
+      "msxsoccr"
+    ]
+  },
+  "msxsoccrk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/msxsoccrk.zip",
+    "require": [
+      "msxsoccr"
+    ]
+  },
+  "sokoban": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sokoban.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sokobanb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sokobanb.zip",
+    "require": [
+      "sokoban"
+    ]
+  },
+  "sokobana": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sokobana.zip",
+    "require": [
+      "sokoban"
+    ]
+  },
+  "suptenn": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/suptenn.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "unleashed": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/unleashed.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "valis": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/valis.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "valisk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/valisk.zip",
+    "require": [
+      "valis"
+    ]
+  },
+  "mumonty": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mumonty.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "mythos": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/mythos.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "namake": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/namake.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "nausicaa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nausicaa.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "navymove": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/navymove.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "nayade": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nayade.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gradius": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gradius.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gradiusa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gradiusa.zip",
+    "require": [
+      "gradius"
+    ]
+  },
+  "gradius2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gradius2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gradius2a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gradius2a.zip",
+    "require": [
+      "gradius2"
+    ]
+  },
+  "gradius2d": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gradius2d.zip",
+    "require": [
+      "gradius2"
+    ]
+  },
+  "gradius2p": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gradius2p.zip",
+    "require": [
+      "gradius2"
+    ]
+  },
+  "nemesis3": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nemesis3.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "nemesis3b": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nemesis3b.zip",
+    "require": [
+      "nemesis3"
+    ]
+  },
+  "nemesis3a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nemesis3a.zip",
+    "require": [
+      "nemesis3"
+    ]
+  },
+  "nkoshien": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nkoshien.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "nightcity": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nightcity.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "nightknight": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nightknight.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "nightshd": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nightshd.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ninja2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ninja2.zip",
+    "require": [
+      "iganinp2"
+    ]
+  },
+  "ninjajaj": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ninjajaj.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ninjajajk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ninjajajk.zip",
+    "require": [
+      "ninjajaj"
+    ]
+  },
+  "ninjapri": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ninjapri.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ninjapria": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ninjapria.zip",
+    "require": [
+      "ninjapri"
+    ]
+  },
+  "ninjasav": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ninjasav.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ninjakun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ninjakun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ninjakmb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ninjakmb.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ninjakag": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ninjakag.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ninjakaga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ninjakaga.zip",
+    "require": [
+      "ninjakag"
+    ]
+  },
+  "nutsmilk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/nutsmilk.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "omacfarm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/omacfarm.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "obliter": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/obliter.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "oilswell": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/oilswell.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "oilswella": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/oilswella.zip",
+    "require": [
+      "oilswell"
+    ]
+  },
+  "opwolf": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/opwolf.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "othello": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/othello.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "outroyd": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/outroyd.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "oyotango": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/oyotango.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pacman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pacman.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pacmanb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pacmanb.zip",
+    "require": [
+      "pacman"
+    ]
+  },
+  "pacmana": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pacmana.zip",
+    "require": [
+      "pacman"
+    ]
+  },
+  "pacmania": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pacmania.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pachicom": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pachicom.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pachicomk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pachicomk.zip",
+    "require": [
+      "pachicom"
+    ]
+  },
+  "pachiufo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pachiufo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "paipanic": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/paipanic.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pairs": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pairs.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pairsa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pairsa.zip",
+    "require": [
+      "pairs"
+    ]
+  },
+  "panther": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/panther.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pjoe": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pjoe.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "parodiuse": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/parodiuse.zip",
+    "require": [
+      "parodius"
+    ]
+  },
+  "parodius": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/parodius.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "parodiusa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/parodiusa.zip",
+    "require": [
+      "parodius"
+    ]
+  },
+  "pastfind": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pastfind.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "payload": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/payload.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "peetan": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/peetan.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pegasus": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pegasus.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pengadv": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pengadv.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "penguincafe": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/penguincafe.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pengmind": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pengmind.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "penguinw": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/penguinw.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "penguinwk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/penguinwk.zip",
+    "require": [
+      "penguinw"
+    ]
+  },
+  "pentagram": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pentagram.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "perezthemouse": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/perezthemouse.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "perspective": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/perspective.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pharaoh": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pharaoh.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "picopico": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/picopico.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pillbox": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pillbox.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pillboxa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pillboxa.zip",
+    "require": [
+      "pillbox"
+    ]
+  },
+  "pinblast": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pinblast.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pineappl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pineappl.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pineappla": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pineappla.zip",
+    "require": [
+      "pineappl"
+    ]
+  },
+  "pinkychs": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pinkychs.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pipi": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pipi.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pippols": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pippols.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pippolsb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pippolsb.zip",
+    "require": [
+      "pippols"
+    ]
+  },
+  "pippolsc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pippolsc.zip",
+    "require": [
+      "pippols"
+    ]
+  },
+  "pippolsa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pippolsa.zip",
+    "require": [
+      "pippols"
+    ]
+  },
+  "pitfall2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pitfall2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pitfall2a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pitfall2a.zip",
+    "require": [
+      "pitfall2"
+    ]
+  },
+  "pitfall": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pitfall.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pitfallb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pitfallb.zip",
+    "require": [
+      "pitfall"
+    ]
+  },
+  "pitfalla": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pitfalla.zip",
+    "require": [
+      "pitfall"
+    ]
+  },
+  "playball": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/playball.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "podero": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/podero.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "polstar": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/polstar.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pooyan": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pooyan.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "poppaq": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/poppaq.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "poppaqk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/poppaqk.zip",
+    "require": [
+      "poppaq"
+    ]
+  },
+  "prettykngdm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/prettykngdm.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "princessquest": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/princessquest.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "profbb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/profbb.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "psyched": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/psyched.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "psychpig": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/psychpig.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "punchy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/punchy.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "puznic": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/puznic.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "puzpanic": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/puzpanic.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pyramidw": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pyramidw.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "qbert": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/qbert.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "qberta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/qberta.zip",
+    "require": [
+      "qbert"
+    ]
+  },
+  "quebert": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/quebert.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "queenglf": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/queenglf.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "queenglfa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/queenglfa.zip",
+    "require": [
+      "queenglf"
+    ]
+  },
+  "queenglfb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/queenglfb.zip",
+    "require": [
+      "queenglf"
+    ]
+  },
+  "rtype": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rtype.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rtypea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rtypea.zip",
+    "require": [
+      "rtype"
+    ]
+  },
+  "ram": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ram.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "raidbung": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/raidbung.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rallyx": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rallyx.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rallyxb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rallyxb.zip",
+    "require": [
+      "rallyx"
+    ]
+  },
+  "rallyxa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rallyxa.zip",
+    "require": [
+      "rallyx"
+    ]
+  },
+  "rallyxk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rallyxk.zip",
+    "require": [
+      "rallyx"
+    ]
+  },
+  "rambo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rambo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rambob": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rambob.zip",
+    "require": [
+      "rambo"
+    ]
+  },
+  "ramboc": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ramboc.zip",
+    "require": [
+      "rambo"
+    ]
+  },
+  "ramboa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ramboa.zip",
+    "require": [
+      "rambo"
+    ]
+  },
+  "rambo3": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rambo3.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "raththa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/raththa.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "realtenn": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/realtenn.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "redzone": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/redzone.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "redzonea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/redzonea.zip",
+    "require": [
+      "redzone"
+    ]
+  },
+  "relics": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/relics.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "renegad3": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/renegad3.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rescatl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rescatl.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "risedung": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/risedung.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "risedunga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/risedunga.zip",
+    "require": [
+      "risedung"
+    ]
+  },
+  "riveraid": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/riveraid.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "riyadh": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/riyadh.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "roadfght": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/roadfght.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "roadfghta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/roadfghta.zip",
+    "require": [
+      "roadfght"
+    ]
+  },
+  "seicorobocop": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/seicorobocop.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "robocop": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/robocop.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "robofrog": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/robofrog.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "robofroga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/robofroga.zip",
+    "require": [
+      "robofrog"
+    ]
+  },
+  "robotwar": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/robotwar.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "roboy": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/roboy.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rocknroller": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rocknroller.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rockroll": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rockroll.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rockbolt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rockbolt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rogerrub": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rogerrub.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rogerruba": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rogerruba.zip",
+    "require": [
+      "rogerrub"
+    ]
+  },
+  "rollerbl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rollerbl.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rollerbla": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rollerbla.zip",
+    "require": [
+      "rollerbl"
+    ]
+  },
+  "romancia": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/romancia.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "rotors": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/rotors.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "runner": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/runner.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "smzoom": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/smzoom.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "salamand": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/salamand.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "salamandk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/salamandk.zip",
+    "require": [
+      "salamand"
+    ]
+  },
+  "sasa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sasa.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sasaa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sasaa.zip",
+    "require": [
+      "sasa"
+    ]
+  },
+  "satan": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/satan.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "saurus": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/saurus.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "scarlet7": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/scarlet7.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "scentipede": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/scentipede.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "scifi": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/scifi.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "scion": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/scion.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "scramegg": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/scramegg.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "seahuntr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/seahuntr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "seaking": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/seaking.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "searchformum": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/searchformum.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "seleniak": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/seleniak.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "senjokam": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/senjokam.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "senjyo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/senjyo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "senjyoa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/senjyoa.zip",
+    "require": [
+      "senjyo"
+    ]
+  },
+  "sewersam": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sewersam.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sharkh": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sharkh.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "shmup11": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/shmup11.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "shnax": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/shnax.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "shouganai11": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/shouganai11.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "shogun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/shogun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "shoutmat": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/shoutmat.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sshadow": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sshadow.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sinbad": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sinbad.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sinkking": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sinkking.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "skateair": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skateair.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "skicomm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skicomm.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "skicommk1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skicommk1.zip",
+    "require": [
+      "skicomm"
+    ]
+  },
+  "skicommk2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skicommk2.zip",
+    "require": [
+      "skicomm"
+    ]
+  },
+  "skooter": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skooter.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "skootera": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skootera.zip",
+    "require": [
+      "skooter"
+    ]
+  },
+  "skulexil": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skulexil.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "skydiver": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skydiver.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "skyjag": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skyjag.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "skyjagk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skyjagk.zip",
+    "require": [
+      "skyjag"
+    ]
+  },
+  "skygaldo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/skygaldo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "smackwac": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/smackwac.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "snakeit": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/snakeit.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sofia": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sofia.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sorcery": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sorcery.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sokobank": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sokobank.zip",
+    "require": [
+      "sokoban"
+    ]
+  },
+  "spacecmp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spacecmp.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spacecmpa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spacecmpa.zip",
+    "require": [
+      "spacecmp"
+    ]
+  },
+  "spaceinv": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spaceinv.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spacmaze": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spacmaze.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spacmazeb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spacmazeb.zip",
+    "require": [
+      "spacmaze"
+    ]
+  },
+  "spacmazea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spacmazea.zip",
+    "require": [
+      "spacmaze"
+    ]
+  },
+  "spacemouse": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spacemouse.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "srescue": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/srescue.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spacetrb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spacetrb.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spacewlk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spacewlk.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sparkie": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sparkie.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sbracer": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sbracer.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spelunkr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spelunkr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spelunkra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spelunkra.zip",
+    "require": [
+      "spelunkr"
+    ]
+  },
+  "splash": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/splash.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spooksl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spooksl.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spyvssp2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spyvssp2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "squardan": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/squardan.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "squishem": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/squishem.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "squishema": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/squishema.zip",
+    "require": [
+      "squishem"
+    ]
+  },
+  "staravng": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/staravng.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "starblaz": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starblaz.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "starblazb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starblazb.zip",
+    "require": [
+      "starblaz"
+    ]
+  },
+  "starblaza": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starblaza.zip",
+    "require": [
+      "starblaz"
+    ]
+  },
+  "bosco": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bosco.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "boscob": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boscob.zip",
+    "require": [
+      "bosco"
+    ]
+  },
+  "boscoa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/boscoa.zip",
+    "require": [
+      "bosco"
+    ]
+  },
+  "starfrce": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starfrce.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "starfrcea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starfrcea.zip",
+    "require": [
+      "starfrce"
+    ]
+  },
+  "starsold": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starsold.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "starsolda": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starsolda.zip",
+    "require": [
+      "starsold"
+    ]
+  },
+  "starbugg": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starbugg.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "starquak": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starquak.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "starship": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starship.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "starshipa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/starshipa.zip",
+    "require": [
+      "starship"
+    ]
+  },
+  "stepup": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/stepup.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "stepupa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/stepupa.zip",
+    "require": [
+      "stepup"
+    ]
+  },
+  "stepupk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/stepupk.zip",
+    "require": [
+      "stepup"
+    ]
+  },
+  "stepper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/stepper.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bousousos": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bousousos.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "bousousosa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/bousousosa.zip",
+    "require": [
+      "bousousos"
+    ]
+  },
+  "stranglp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/stranglp.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "stratos2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/stratos2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "straycat": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/straycat.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "strtmast": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/strtmast.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "subacuatic": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/subacuatic.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "suparobo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/suparobo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sbillard": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sbillard.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sbioman4": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sbioman4.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sboy3": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sboy3.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sboy3a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sboy3a.zip",
+    "require": [
+      "sboy3"
+    ]
+  },
+  "sboy1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sboy1.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sboy2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sboy2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sboy2a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sboy2a.zip",
+    "require": [
+      "sboy2"
+    ]
+  },
+  "scobra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/scobra.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "scobraa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/scobraa.zip",
+    "require": [
+      "scobra"
+    ]
+  },
+  "supercol": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/supercol.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "superxf": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/superxf.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "supdrink": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/supdrink.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "superglf": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/superglf.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ilevan": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ilevan.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "slaydock": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/slaydock.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "slaydockk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/slaydockk.zip",
+    "require": [
+      "slaydock"
+    ]
+  },
+  "suppachi": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/suppachi.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spenguin": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spenguin.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "supsnake": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/supsnake.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "supsnakeb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/supsnakeb.zip",
+    "require": [
+      "supsnake"
+    ]
+  },
+  "supsnakea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/supsnakea.zip",
+    "require": [
+      "supsnake"
+    ]
+  },
+  "supsoccr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/supsoccr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "suwanggi": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/suwanggi.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "suptrip": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/suptrip.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sweetacr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sweetacr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "sweetacra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/sweetacra.zip",
+    "require": [
+      "sweetacr"
+    ]
+  },
+  "swing": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/swing.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "swinga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/swinga.zip",
+    "require": [
+      "swing"
+    ]
+  },
+  "tvirus": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tvirus.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "takameija": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/takameija.zip",
+    "require": [
+      "takameij"
+    ]
+  },
+  "takameijk1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/takameijk1.zip",
+    "require": [
+      "takameij"
+    ]
+  },
+  "takameijk2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/takameijk2.zip",
+    "require": [
+      "takameij"
+    ]
+  },
+  "takeru": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/takeru.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tankbatt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tankbatt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tatica": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tatica.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tawarakn": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tawarakn.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tawaraknb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tawaraknb.zip",
+    "require": [
+      "tawarakn"
+    ]
+  },
+  "tawarakna": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tawarakna.zip",
+    "require": [
+      "tawarakn"
+    ]
+  },
+  "tearnile": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tearnile.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "telebunn": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/telebunn.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "telebunna": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/telebunna.zip",
+    "require": [
+      "telebunn"
+    ]
+  },
+  "temptations": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/temptations.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tensaird": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tensaird.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tension": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tension.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "teodoro": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/teodoro.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "terminus": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/terminus.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "terramex": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/terramex.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tetrahor": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tetrahor.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tetrahora": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tetrahora.zip",
+    "require": [
+      "tetrahor"
+    ]
+  },
+  "tetris": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tetris.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tetrisa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tetrisa.zip",
+    "require": [
+      "tetris"
+    ]
+  },
+  "tetris2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tetris2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tetsuman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tetsuman.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tetsumana": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tetsumana.zip",
+    "require": [
+      "tetsuman"
+    ]
+  },
+  "apeman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/apeman.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "blckonyx": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/blckonyx.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "blckony2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/blckony2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "castle": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/castle.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "castlek": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/castlek.zip",
+    "require": [
+      "castle"
+    ]
+  },
+  "thecure": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/thecure.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dambustr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dambustr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "dambustra": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dambustra.zip",
+    "require": [
+      "dambustr"
+    ]
+  },
+  "dcrystal": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/dcrystal.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "flstory": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flstory.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "flstorya": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/flstorya.zip",
+    "require": [
+      "flstory"
+    ]
+  },
+  "theghost": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/theghost.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "goonies": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/goonies.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "gooniesb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gooniesb.zip",
+    "require": [
+      "goonies"
+    ]
+  },
+  "gooniesa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/gooniesa.zip",
+    "require": [
+      "goonies"
+    ]
+  },
+  "heist": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/heist.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "iceking": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/iceking.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "policest": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/policest.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "policesta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/policesta.zip",
+    "require": [
+      "policest"
+    ]
+  },
+  "pricemag": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pricemag.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "protectr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/protectr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "spider": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/spider.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "3dragon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/3dragon.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "druaga": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/druaga.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wreck": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wreck.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "theseus": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/theseus.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "theseusa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/theseusa.zip",
+    "require": [
+      "theseus"
+    ]
+  },
+  "theseusk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/theseusk.zip",
+    "require": [
+      "theseus"
+    ]
+  },
+  "thexder": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/thexder.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "thexderb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/thexderb.zip",
+    "require": [
+      "thexder"
+    ]
+  },
+  "thexdera": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/thexdera.zip",
+    "require": [
+      "thexder"
+    ]
+  },
+  "thndrbal": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/thndrbal.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "thndrbala": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/thndrbala.zip",
+    "require": [
+      "thndrbal"
+    ]
+  },
+  "tbirds1a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tbirds1a.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tbirdst1b": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tbirdst1b.zip",
+    "require": [
+      "tbirds1a"
+    ]
+  },
+  "tbirdst2a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tbirdst2a.zip",
+    "require": [
+      "tbirds1a"
+    ]
+  },
+  "tbirdst2b": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tbirdst2b.zip",
+    "require": [
+      "tbirds1a"
+    ]
+  },
+  "thndbolt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/thndbolt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "thndboltb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/thndboltb.zip",
+    "require": [
+      "thndbolt"
+    ]
+  },
+  "thndbolta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/thndbolta.zip",
+    "require": [
+      "thndbolt"
+    ]
+  },
+  "titipang": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/titipang.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "timebomb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/timebomb.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "timeplt": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/timeplt.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "timeplta": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/timeplta.zip",
+    "require": [
+      "timeplt"
+    ]
+  },
+  "timetrax": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/timetrax.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "titanic": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/titanic.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "togk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/togk.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "toobin": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/toobin.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "toprollr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/toprollr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "topzip": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/topzip.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "trackfld": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/trackfld.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "trackfl2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/trackfl2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "traffic": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/traffic.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "traffica": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/traffica.zip",
+    "require": [
+      "traffic"
+    ]
+  },
+  "trailblz": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/trailblz.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "transball": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/transball.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "trantor": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/trantor.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "trialski": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/trialski.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "triton": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/triton.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tuma7": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tuma7.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "turbogirl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/turbogirl.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "turboat": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/turboat.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "turmoil": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/turmoil.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "turmoilk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/turmoilk.zip",
+    "require": [
+      "turmoil"
+    ]
+  },
+  "twinbee": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/twinbee.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "twinbeeb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/twinbeeb.zip",
+    "require": [
+      "twinbee"
+    ]
+  },
+  "twinbeec": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/twinbeec.zip",
+    "require": [
+      "twinbee"
+    ]
+  },
+  "twinbeea": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/twinbeea.zip",
+    "require": [
+      "twinbee"
+    ]
+  },
+  "twinhamm": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/twinhamm.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "txupi": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/txupi.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "tzr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/tzr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "ultraman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/ultraman.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "undergnd": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/undergnd.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "univunk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/univunk.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "uridium": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/uridium.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "valkyr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/valkyr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "vaxol": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/vaxol.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "vesikauhu": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/vesikauhu.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "vestron": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/vestron.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hustler": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hustler.zip",
+    "require": [
+      "konbill"
+    ]
+  },
+  "hustlera": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hustlera.zip",
+    "require": [
+      "konbill"
+    ]
+  },
+  "vigilant": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/vigilant.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "voidrun": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/voidrun.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "volguard": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/volguard.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "vortraid": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/vortraid.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wampcola": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wampcola.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "warpwarp": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/warpwarp.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "warroid": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/warroid.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "warroida": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/warroida.zip",
+    "require": [
+      "warroid"
+    ]
+  },
+  "waterdrv": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/waterdrv.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wecleman": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wecleman.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wbells": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wbells.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wbellsa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wbellsa.zip",
+    "require": [
+      "wbells"
+    ]
+  },
+  "whodares": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/whodares.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "whopper": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/whopper.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wingman2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wingman2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wingwarr": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wingwarr.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "winthawk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/winthawk.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wizlair": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wizlair.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "takameij": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/takameij.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wondkid": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wondkid.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wonsiin": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wonsiin.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "wrangler": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/wrangler.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "xanadu": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/xanadu.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "xenon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/xenon.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "xyzolog": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/xyzolog.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "xyzologa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/xyzologa.zip",
+    "require": [
+      "xyzolog"
+    ]
+  },
+  "yakyukyo": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/yakyukyo.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hades": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hades.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "hadesa": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/hadesa.zip",
+    "require": [
+      "hades"
+    ]
+  },
+  "yellowsb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/yellowsb.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "yiear": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/yiear.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "yieara": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/yieara.zip",
+    "require": [
+      "yiear"
+    ]
+  },
+  "yieark": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/yieark.zip",
+    "require": [
+      "yiear"
+    ]
+  },
+  "yiear2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/yiear2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "yiear2b": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/yiear2b.zip",
+    "require": [
+      "yiear2"
+    ]
+  },
+  "yiear2a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/yiear2a.zip",
+    "require": [
+      "yiear2"
+    ]
+  },
+  "chima": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/chima.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "pengadvk2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pengadvk2.zip",
+    "require": [
+      "pengadv"
+    ]
+  },
+  "pengadvk1": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/pengadvk1.zip",
+    "require": [
+      "pengadv"
+    ]
+  },
+  "zambeze": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zambeze.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zanac": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zanac.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zanaca": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zanaca.zip",
+    "require": [
+      "zanac"
+    ]
+  },
+  "zanac2": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zanac2.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zanac2a": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zanac2a.zip",
+    "require": [
+      "zanac2"
+    ]
+  },
+  "zaxxones": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zaxxones.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zaxxon": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zaxxon.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zaxxona": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zaxxona.zip",
+    "require": [
+      "zaxxon"
+    ]
+  },
+  "baduk": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/baduk.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zenji": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zenji.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zexasltd": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zexasltd.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zexasltdb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zexasltdb.zip",
+    "require": [
+      "zexasltd"
+    ]
+  },
+  "zexasltda": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zexasltda.zip",
+    "require": [
+      "zexasltd"
+    ]
+  },
+  "zombieinc12": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zombieinc12.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zombienear11": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zombienear11.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zona0": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zona0.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zoom909": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zoom909.zip",
+    "require": [
+      "msx"
+    ]
+  },
+  "zoom909k": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/zoom909k.zip",
+    "require": [
+      "zoom909"
+    ]
+  },
+  "msx": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/msx/msx.zip"
+  }
+}
