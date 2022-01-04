@@ -1,4 +1,18 @@
 {
+    "flycast_mvsc2_ratio_v3": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/MarvelVsCapcom2_ratio.bin",
+        "require": [
+            "flycast_naomi_bios",
+            "save_mvsc2_ratio",
+            "flycast_mvsc2_ratio_v3_lst"
+        ]
+    },
+    "flycast_mvsc2_ratio_v3_lst": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/Marvel_vs_Capcom_2_Ratio(v3).lst",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
     "flycast_18wheelr": {
         "download": "https://newchallenger.net/fc2/roms/flycast/18wheelr.zip",
         "require": [
@@ -106,15 +120,16 @@
     "flycast_cspike": {
         "download": "https://newchallenger.net/fc2/roms/flycast/cspike.zip",
         "require": [
-            "flycast_naomi_bios"
+            "flycast_naomi_bios",
+            "save_cspike"
         ]
     },
     "flycast_cvs2": {
         "download": "https://newchallenger.net/fc2/roms/flycast/cvs2.zip",
         "require": [
             "flycast_naomi_bios",
-            "flycast_cvs2_chd",
-            "save_cvs2"
+            "save_cvs2",
+            "flycast_cvs2_chd"
         ]
     },
     "flycast_cvsgd": {
@@ -206,7 +221,8 @@
     "flycast_ggx": {
         "download": "https://newchallenger.net/fc2/roms/flycast/ggx.zip",
         "require": [
-            "flycast_naomi_bios"
+            "flycast_naomi_bios",
+            "save_ggx"
         ]
     },
     "flycast_ggxx": {
@@ -220,6 +236,7 @@
         "download": "https://newchallenger.net/fc2/roms/flycast/ggxxac.zip",
         "require": [
             "flycast_naomi_bios",
+            "save_ggxxac",
             "flycast_ggxxac_chd"
         ]
     },
@@ -227,6 +244,7 @@
         "download": "https://newchallenger.net/fc2/roms/flycast/ggxxrl.zip",
         "require": [
             "flycast_naomi_bios",
+            "save_ggxxrl",
             "flycast_ggxxrl_chd"
         ]
     },
@@ -382,6 +400,7 @@
         "download": "https://newchallenger.net/fc2/roms/flycast/meltyb.zip",
         "require": [
             "flycast_naomi_bios",
+            "save_meltyb",
             "flycast_meltyb_chd"
         ]
     },
@@ -466,7 +485,8 @@
     "flycast_pstone2": {
         "download": "https://newchallenger.net/fc2/roms/flycast/pstone2.zip",
         "require": [
-            "flycast_naomi_bios"
+            "flycast_naomi_bios",
+            "save_pstone2"
         ]
     },
     "flycast_psyvar2": {
@@ -479,13 +499,15 @@
     "flycast_puyoda": {
         "download": "https://newchallenger.net/fc2/roms/flycast/puyoda.zip",
         "require": [
-            "flycast_naomi_bios"
+            "flycast_naomi_bios",
+            "save_puyoda"
         ]
     },
     "flycast_puyofev": {
         "download": "https://newchallenger.net/fc2/roms/flycast/puyofev.zip",
         "require": [
             "flycast_naomi_bios",
+            "save_puyofev",
             "flycast_puyofev_chd"
         ]
     },
@@ -536,6 +558,7 @@
         "download": "https://newchallenger.net/fc2/roms/flycast/senkosp.zip",
         "require": [
             "flycast_naomi_bios",
+            "save_senkosp",
             "flycast_senkosp_chd"
         ]
     },
@@ -543,8 +566,8 @@
         "download": "https://newchallenger.net/fc2/roms/flycast/sfz3ugd.zip",
         "require": [
             "flycast_naomi_bios",
-            "flycast_sfz3ugd_chd",
-            "save_sfz3ugd"
+            "save_sfz3ugd",
+            "flycast_sfz3ugd_chd"
         ]
     },
     "flycast_sgtetris": {
@@ -752,6 +775,7 @@
         "download": "https://newchallenger.net/fc2/roms/flycast/vtennis2.zip",
         "require": [
             "flycast_naomi_bios",
+            "save_vtennis2",
             "flycast_vtennis2_chd"
         ]
     },
@@ -817,6 +841,106 @@
             "flycast_naomi_bios"
         ]
     },
+    "flycast_dragntr3": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/dragntr3.zip",
+        "require": [
+            "flycast_naomi_bios",
+            "dragntr3_chd"
+        ]
+    },
+    "flycast_quizqgd": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/quizqgd.zip",
+        "require": [
+            "flycast_naomi_bios",
+            "quizqgd_chd"
+        ]
+    },
+    "flycast_shaktam": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/shaktam.zip",
+        "require": [
+            "flycast_naomi_bios",
+            "shaktam_chd"
+        ]
+    },
+    "flycast_shaktmsp": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/shaktmsp.zip",
+        "require": [
+            "flycast_naomi_bios",
+            "shaktamsp_chd"
+        ]
+    },
+    "flycast_manicpnc": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/manicpnc.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_mushi2k4": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/mushi2k4.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_mushi2k5": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/mushi2k5.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_mushik4e": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/mushik4e.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_mushike": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/mushike.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_samba": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/samba.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_shors2k1": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/shors2k1.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_shors2k2": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/shors2k2.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_shorse": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/shorse.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_shorsep": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/shorsep.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_tduno": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/tduno.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
+    "flycast_vtennis": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/vtennis.zip",
+        "require": [
+            "flycast_naomi_bios"
+        ]
+    },
     "flycast_azumanga_chd": {
         "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/azumanga_chd.zip",
         "extract_to": [
@@ -868,6 +992,15 @@
             {
                 "src":"confmiss/gdl-0001.chd",
                 "dst":"confmiss/gdl-0001.chd"
+            }
+        ]
+    },
+    "flycast_cvsgd_chd": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/cvsgd_chd.zip",
+        "extract_to": [
+            {
+                "src":"cvsgd/gdl-0004.chd",
+                "dst":"cvsgd/gdl-0004.chd"
             }
         ]
     },
@@ -1057,8 +1190,8 @@
         "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/monkeyba_chd.zip",
         "extract_to": [
             {
-                "src":"monkeyba/gdl-0008.chd",
-                "dst":"monkeyba/gdl-0008.chd"
+                "src":"monkeyba/gds-0008.chd",
+                "dst":"monkeyba/gds-0008.chd"
             }
         ]
     },
@@ -1075,12 +1208,12 @@
         "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/puyofev_chd.zip",
         "extract_to": [
             {
-                "src":"puyofev/gdl-0031.chd",
-                "dst":"puyofev/gdl-0031.chd"
+                "src":"puyofev/gds-0031.chd",
+                "dst":"puyofev/gds-0031.chd"
             },
             {
-                "src":"puyofev/gdl-0034.chd",
-                "dst":"puyofev/gdl-0034.chd"
+                "src":"puyofev/gds-0034.chd",
+                "dst":"puyofev/gds-0034.chd"
             }
         ]
     },
@@ -1276,6 +1409,42 @@
             }
         ]
     },
+    "dragntr3_chd": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/dragntr3_chd.zip",
+        "extract_to": [
+            {
+                "src":"dragntr3/gds-0041a.chd",
+                "dst":"dragntr3/gds-0041a.chd"
+            }
+        ]
+    },
+    "quizqgd_chd": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/quizqgd_chd.zip",
+        "extract_to": [
+            {
+                "src":"quizqgd/gdl-0017.chd",
+                "dst":"quizqgd/gdl-0017.chd"
+            }
+        ]
+    },
+    "shaktam_chd": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/shaktam_chd.zip",
+        "extract_to": [
+            {
+                "src":"shaktam/gds-0002b.chd",
+                "dst":"shaktam/gds-0002b.chd"
+            }
+        ]
+    },
+    "shaktmsp_chd": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/shaktmsp_chd.zip",
+        "extract_to": [
+            {
+                "src":"shaktamsp/gds-0013.chd",
+                "dst":"shaktamsp/gds-0013.chd"
+            }
+        ]
+    },
     "flycast_demofist": {
         "download": "https://newchallenger.net/fc2/roms/flycast/demofist.zip",
         "require": ["flycast_atomiswave_bios"]
@@ -1297,11 +1466,11 @@
     },
     "flycast_ggx15": {
         "download": "https://newchallenger.net/fc2/roms/flycast/ggx15.zip",
-        "require": ["flycast_atomiswave_bios"]
+        "require": ["flycast_atomiswave_bios", "save_ggx15"]
     },
     "flycast_kofnw": {
         "download": "https://newchallenger.net/fc2/roms/flycast/kofnw.zip",
-        "require": ["flycast_atomiswave_bios"]
+        "require": ["flycast_atomiswave_bios", "save_kofnw"]
     },
     "flycast_kofxi": {
         "download": "https://newchallenger.net/fc2/roms/flycast/kofxi.zip",
@@ -1320,11 +1489,11 @@
     },
     "flycast_ngbc": {
         "download": "https://newchallenger.net/fc2/roms/flycast/ngbc.zip",
-        "require": ["flycast_atomiswave_bios"]
+        "require": ["flycast_atomiswave_bios", "save_ngbc"]
     },
     "flycast_rumblef": {
         "download": "https://newchallenger.net/fc2/roms/flycast/rumblef.zip",
-        "require": ["flycast_atomiswave_bios"]
+        "require": ["flycast_atomiswave_bios", "save_rumblef"]
     },
     "flycast_rumblef2": {
         "download": "https://newchallenger.net/fc2/roms/flycast/rumblef2.zip",
@@ -1348,6 +1517,58 @@
             "save_kenju"
         ]
     },
+    "flycast_anmlbskt": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/anmlbskt.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_basschal": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/basschal.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_blokpong": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/blokpong.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_claychal": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/claychal.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_dirtypig": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/dirtypig.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_rangrmsn": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/rangrmsn.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_salmankt": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/salmankt.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_sprtshot": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/sprtshot.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_sushibar": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/sushibar.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_vfurlong": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/vfurlong.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_waidrive": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/waidrive.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_ftspeed": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/ftspeed.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
+    "flycast_maxspeed": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/maxspeed.zip",
+        "required": ["flycast_atomiswave_bios"]
+    },
     "flycast_dc_cvs2": {
         "download": "https://newchallenger.net/fc2/roms/flycast/dc/Capcom%20vs.%20SNK%202%20-%20Millionaire%20Fighting%202001%20(Japan).chd"
     },
@@ -1355,39 +1576,48 @@
         "download": "https://newchallenger.net/fc2/roms/flycast/dc/Dead%20or%20Alive%202%20(USA).chd"
     },
     "flycast_dc_doa2_le": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Dead%20or%20Alive%202%20(Japan)%20(Shokai%20Genteiban).chd"
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Dead%20or%20Alive%202%20(Japan)%20(Shokai%20Genteiban).chd",
+        "required": ["save_dc_doa2_le"]
     },
     "flycast_dc_fvipers2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Fighting%20Vipers%202%20(Japan)%20(En%2CJa).chd"
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Fighting%20Vipers%202%20(Japan)%20(En%2CJa).chd",
+        "required": ["save_dc_fvipers2"]
     },
     "flycast_dc_mvsc2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Marvel%20vs.%20Capcom%202%20(USA).chd"
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Marvel%20vs.%20Capcom%202%20(USA).chd",
+        "required": ["save_dc_mvsc2"]
     },
     "flycast_dc_mkg": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Mortal%20Kombat%20Gold%20(USA)%20(Rev%201).chd"
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Mortal%20Kombat%20Gold%20(USA)%20(Rev%201).chd",
+        "required": ["save_dc_mkg"]
     },
     "flycast_dc_pstone2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Power%20Stone%202%20(USA).chd"
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Power%20Stone%202%20(USA).chd",
+        "required": ["save_dc_pstone2"]
     },
     "flycast_dc_plasmasword": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Plasma%20Sword%20-%20Nightmare%20of%20Bilstein%20(USA).chd"
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Plasma%20Sword%20-%20Nightmare%20of%20Bilstein%20(USA).chd",
+        "required": ["save_dc_plasmasword"]
     },
     "flycast_dc_soulclbr": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Soulcalibur%20(USA).chd"
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Soulcalibur%20(USA).chd",
+        "required": ["save_dc_soulclbr"]
     },
     "flycast_dc_techromancer": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Tech%20Romancer%20(USA).chd"
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Tech%20Romancer%20(USA).chd",
+        "required": ["save_dc_techromancer"]
     },
     "flycast_dc_vf3tb": {
         "download": "https://newchallenger.net/fc2/roms/flycast/dc/Virtua%20Fighter%203tb%20(USA).chd",
         "require": ["save_dc_vf3tb"]
     },
     "flycast_dc_vampirechronicle": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Vampire%20Chronicle%20for%20Matching%20Service%20(Japan).chd"
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Vampire%20Chronicle%20for%20Matching%20Service%20(Japan).chd",
+        "required": ["save_dc_vampirechronicle"]
     },
     "flycast_dc_kenju": {
         "download": "https://newchallenger.net/fc2/roms/flycast/dc/dc_kenju.zip",
-        "require": ["flycast_dc_bios"],
+        "require": ["flycast_dc_bios", "save_dc_kenju"],
         "extract_to": [
             {
                 "src": "KenJu/KenJu.gdi",
@@ -1413,67 +1643,36 @@
     },
     "flycast_dc_pf2012": {
         "download": "https://newchallenger.net/fc2/roms/flycast/dc/Psychic%20Force%202012%20(USA).chd",
-        "require": ["flycast_dc_bios"]
+        "require": ["flycast_dc_bios", "save_dc_pf2012"]
     },
-    "save_kenju": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/KenJu.state.net",
-        "copy_to": "../data/KenJu.state.net"
+    "flycast_dc_ready2rumbleboxing": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Ready%202%20Rumble%20Boxing%20(USA).chd",
+        "required": ["save_dc_ready2rumbleboxing"]
     },
-    "save_dc_vf3tb": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/Virtua Fighter 3tb (USA).state.net",
-        "copy_to": "../data/).state.net"
+    "flycast_dc_sonicadventure2": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Sonic%20Adventure%202%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs).chd",
+        "required": [""]
     },
-    "save_ausfache": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/ausfache.state.net",
-        "copy_to": "../data/ausfache.state.net"
+    "flycast_dc_spf2x": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Super%20Puzzle%20Fighter%20II%20X%20for%20Matching%20Service%20(Japan).chd"
     },
-    "save_capsnk": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/capsnk.state.net",
-        "copy_to": "../data/capsnk.state.net"
+    "flycast_dc_thps2": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Tony%20Hawk's%20Pro%20Skater%202%20(USA).chd",
+        "required": ["save_dc_thps2"]
     },
-    "save_cvs2": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/cvs2.state.net",
-        "copy_to": "../data/cvs2.state.net"
+    "flycast_dc_totd_usa": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Typing%20of%20the%20Dead%2C%20The%20(USA).chd"
     },
-    "save_doa2m": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/doa2m.state.net",
-        "copy_to": "../data/doa2m.state.net"
+    "flycast_dc_vonot": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Cyber%20Troopers%20-%20Virtual-On%20-%20Oratorio%20Tangram%20(USA).chd",
+        "required": ["save_dc_vonot"]
     },
-    "save_fotns": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/fotns.state.net",
-        "copy_to": "../data/fotns.state.net"
+    "flycast_dc_ready2rumbleboxing_r2": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Ready%202%20Rumble%20Boxing%20-%20Round%202%20(USA)%20(En%2CFr%2CDe).chd",
+        "required": ["save_dc_ready2rumbleboxing_r2"]
     },
-    "save_kofxi": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/kofxi.state.net",
-        "copy_to": "../data/kofxi.state.net"
-    },
-    "save_mvsc2": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/mvsc2.state.net",
-        "copy_to": "../data/mvsc2.state.net"
-    },
-    "save_pjustic": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/pjustic.state.net",
-        "copy_to": "../data/pjustic.state.net"
-    },
-    "save_pstone": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/pstone.state.net",
-        "copy_to": "../data/pstone.state.net"
-    },
-    "save_rumblef2": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/rumblef2.state.net",
-        "copy_to": "../data/rumblef2.state.net"
-    },
-    "save_samsptk": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/samsptk.state.net",
-        "copy_to": "../data/samsptk.state.net"
-    },
-    "save_sfz3ugd": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/sfz3ugd.state.net",
-        "copy_to": "../data/sfz3ugd.state.net"
-    },
-    "save_toyfight": {
-        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/toyfight.state.net",
-        "copy_to": "../data/toyfight.state.net"
+    "flycast_dc_vigilante8_2o": {
+        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Vigilante%208%20-%202nd%20Offense%20(USA).chd"
     },
     "flycast_naomi_bios": {
         "download": "https://newchallenger.net/fc2/roms/flycast/bios/naomi.zip",
@@ -1489,5 +1688,193 @@
             {"src":"dc_boot.bin", "dst":"../Data/dc_boot.bin"},
             {"src":"dc_flash.bin", "dst":"../Data/dc_flash.bin"}
         ]
+    },
+    "save_dc_cvs2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Capcom%20vs.%20SNK%202%20-%20Millionaire%20Fighting%202001%20(Japan).state.net",
+        "copy_to": "../data/Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan).state.net"
+    },
+    "save_dc_vonot": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Cyber%20Troopers%20-%20Virtual-On%20-%20Oratorio%20Tangram%20(USA).state.net",
+        "copy_to": "../data/Cyber Troopers - Virtual-On - Oratorio Tangram (USA).state.net"
+    },
+    "save_dc_doa2_le": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Dead%20or%20Alive%202%20(Japan)%20(Shokai%20Genteiban).state.net",
+        "copy_to": "../data/Dead or Alive 2 (Japan) (Shokai Genteiban).state.net"
+    },
+    "save_dc_fvipers2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Fighting%20Vipers%202%20(Japan)%20(En,Ja).state.net",
+        "copy_to": "../data/Fighting Vipers 2 (Japan) (En,Ja).state.net"
+    },
+    "save_dc_kenju": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/KenJu.state.net",
+        "copy_to": "../data/KenJu.state.net"
+    },
+    "save_dc_mvsc2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Marvel%20vs.%20Capcom%202%20(USA).state.net",
+        "copy_to": "../data/Marvel vs. Capcom 2 (USA).state.net"
+    },
+    "save_mvsc2_ratio": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Marvel_vs_Capcom_2_Ratio(v3).state.net",
+        "copy_to": "../data/Marvel_vs_Capcom_2_Ratio(v3).state.net"
+    },
+    "save_dc_mkg": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Mortal%20Kombat%20Gold%20(USA)%20(Rev%201).state.net",
+        "copy_to": "../data/Mortal Kombat Gold (USA) (Rev 1).state.net"
+    },
+    "save_dc_plasmasword": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Plasma%20Sword%20-%20Nightmare%20of%20Bilstein%20(USA).state.net",
+        "copy_to": "../data/Plasma Sword - Nightmare of Bilstein (USA).state.net"
+    },
+    "save_dc_pstone2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Power%20Stone%202%20(USA).state.net",
+        "copy_to": "../data/Power Stone 2 (USA).state.net"
+    },
+    "save_dc_pf2012": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Psychic%20Force%202012%20(USA).state.net",
+        "copy_to": "../data/Psychic Force 2012 (USA).state.net"
+    },
+    "save_dc_ready2rumbleboxing": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Ready%202%20Rumble%20Boxing%20(USA).state.net",
+        "copy_to": "../data/Ready 2 Rumble Boxing (USA).state.net"
+    },
+    "save_dc_ready2rumbleboxing_r2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Ready%202%20Rumble%20Boxing%20-%20Round%202%20(USA)%20(En,Fr,De).state.net",
+        "copy_to": "../data/Ready 2 Rumble Boxing - Round 2 (USA) (En,Fr,De).state.net"
+    },
+    "save_dc_sonicadventure2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Sonic%20Adventure%202%20(USA)%20(En,Ja,Fr,De,Es).state.net",
+        "copy_to": "../data/Sonic Adventure 2 (USA) (En,Ja,Fr,De,Es).state.net"
+    },
+    "save_dc_soulclbr": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Soulcalibur%20(USA).state.net",
+        "copy_to": "../data/Soulcalibur (USA).state.net"
+    },
+    "save_dc_techromancer": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Tech%20Romancer%20(USA).state.net",
+        "copy_to": "../data/Tech Romancer (USA).state.net"
+    },
+    "save_dc_thps2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Tony%20Hawk's%20Pro%20Skater%202%20(USA).state.net",
+        "copy_to": "../data/Tony Hawk's Pro Skater 2 (USA).state.net"
+    },
+    "save_dc_vampirechronicle": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Vampire%20Chronicle%20for%20Matching%20Service%20(Japan).state.net",
+        "copy_to": "../data/Vampire Chronicle for Matching Service (Japan).state.net"
+    },
+    "save_dc_vf3tb": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Virtua%20Fighter%203tb%20(USA).state.net",
+        "copy_to": "../data/Virtua Fighter 3tb (USA).state.net"
+    },
+    "save_ausfache": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/ausfache.state.net",
+        "copy_to": "../data/ausfache.state.net"
+    },
+    "save_kenju": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/aw-kenju_proto-AW00.state.net",
+        "copy_to": "../data/aw-kenju_proto-AW00.state.net"
+    },
+    "save_capsnk": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/capsnk.state.net",
+        "copy_to": "../data/capsnk.state.net"
+    },
+    "save_cspike": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/cspike.state.net",
+        "copy_to": "../data/cspike.state.net"
+    },
+    "save_cvs2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/cvs2.state.net",
+        "copy_to": "../data/cvs2.state.net"
+    },
+    "save_doa2m": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/doa2m.state.net",
+        "copy_to": "../data/doa2m.state.net"
+    },
+    "save_fotns": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/fotns.state.net",
+        "copy_to": "../data/fotns.state.net"
+    },
+    "save_ggx": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/ggx.state.net",
+        "copy_to": "../data/ggx.state.net"
+    },
+    "save_ggx15": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/ggx15.state.net",
+        "copy_to": "../data/ggx15.state.net"
+    },
+    "save_ggxxac": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/ggxxac.state.net",
+        "copy_to": "../data/ggxxac.state.net"
+    },
+    "save_ggxxrl": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/ggxxrl.state.net",
+        "copy_to": "../data/ggxxrl.state.net"
+    },
+    "save_kofnw": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/kofnw.state.net",
+        "copy_to": "../data/kofnw.state.net"
+    },
+    "save_kofxi": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/kofxi.state.net",
+        "copy_to": "../data/kofxi.state.net"
+    },
+    "save_meltyb": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/meltyb.state.net",
+        "copy_to": "../data/meltyb.state.net"
+    },
+    "save_mvsc2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/mvsc2.state.net",
+        "copy_to": "../data/mvsc2.state.net"
+    },
+    "save_ngbc": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/ngbc.state.net",
+        "copy_to": "../data/ngbc.state.net"
+    },
+    "save_pjustic": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/pjustic.state.net",
+        "copy_to": "../data/pjustic.state.net"
+    },
+    "save_pstone": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/pstone.state.net",
+        "copy_to": "../data/pstone.state.net"
+    },
+    "save_pstone2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/pstone2.state.net",
+        "copy_to": "../data/pstone2.state.net"
+    },
+    "save_puyoda": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/puyoda.state.net",
+        "copy_to": "../data/puyoda.state.net"
+    },
+    "save_puyofev": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/puyofev.state.net",
+        "copy_to": "../data/puyofev.state.net"
+    },
+    "save_rumblef": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/rumblef.state.net",
+        "copy_to": "../data/rumblef.state.net"
+    },
+    "save_rumblef2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/rumblef2.state.net",
+        "copy_to": "../data/rumblef2.state.net"
+    },
+    "save_samsptk": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/samsptk.state.net",
+        "copy_to": "../data/samsptk.state.net"
+    },
+    "save_senkosp": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/senkosp.state.net",
+        "copy_to": "../data/senkosp.state.net"
+    },
+    "save_sfz3ugd": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/sfz3ugd.state.net",
+        "copy_to": "../data/sfz3ugd.state.net"
+    },
+    "save_toyfight": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/toyfight.state.net",
+        "copy_to": "../data/toyfight.state.net"
+    },
+    "save_vtennis2": {
+        "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/vtennis2.state.net",
+        "copy_to": "../data/vtennis2.state.net"
     }
 }

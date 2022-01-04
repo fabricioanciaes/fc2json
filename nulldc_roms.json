@@ -1,0 +1,88 @@
+{
+  "nulldc_mvc2": {
+    "download": "https://archive.org/download/NaomiRomsReuploadByGhostware/Marvel_vs_Capcom_2_Unlocked.zip",
+    "extract_to": [
+      {"src": "Marvel_vs_Capcom_2_Unlocked.lst", "dst": "roms/Marvel vs Capcom 2 - Unlocked/Marvel_vs_Capcom_2_Unlocked.lst"},
+      {"src": "MarvelVsCapcom2_unlocked.bin", "dst": "roms/Marvel vs Capcom 2 - Unlocked/MarvelVsCapcom2_unlocked.bin"}
+    ],
+    "require": ["naomi"]
+  },
+  "nulldc_cvs": {
+    "download": "https://archive.org/download/NaomiRomsReuploadByGhostware/Capcom_VS_SNK_Millenium_Fight_2000.zip",
+    "extract_to": [
+      {"src": "Capcom_VS_SNK_Millenium_Fight_2000.lst", "dst": "roms/Capcom vs SNK Millennium Fight 2000 Pro/Capcom_vs_SNK_Millenium_Fight_2000_Pro.lst"},
+      {"src": "Capcom_vs_SNK_Millenium_Fight_2000.bin", "dst": "roms/Capcom vs SNK Millennium Fight 2000 Pro/Capcom_vs_SNK_Millenium_Fight_2000.bin"}
+    ],
+    "require": ["naomi"]
+  },
+  "nulldc_cvs2": {
+    "download": "https://archive.org/download/NaomiRomsReuploadByGhostware/Capcom_vs_SNK_2_Mark_of_the_Millennium_2001.zip",
+    "extract_to": [
+      {"src": "Capcom_vs_SNK_2_Mark_of_the_Millennium_2001.lst", "dst": "roms/Capcom vs SNK 2 Millionaire Fighting 2001/SNKGD_SL.lst"},
+      {"src": "SNKGD_SL.BIN", "dst": "roms/Capcom vs SNK 2 Millionaire Fighting 2001/SNKGD_SL.BIN"}
+    ],
+    "require": ["naomi"]
+  },
+  "nulldc_ggxxr": {
+    "download": "https://archive.org/download/NaomiRomsReuploadByGhostware/Guilty_Gear_XX_Reload.zip",
+    "extract_to": [
+      {"src": "Guilty_Gear_XX_Reload.lst", "dst": "roms/Guilty Gear XX Reload/GuiltyGearXXReload.lst"},
+      {"src": "GuiltyGearXXReload.bin", "dst": "roms/Guilty Gear XX Reload/GuiltyGearXXReload.bin"}
+    ],
+    "require": ["naomi"]
+  },
+  "nulldc_rumblefish": {
+    "download": "https://archive.org/download/AtomiswaveReuploadByGhostware/Rumble_Fish.zip",
+    "extract_to": [
+      {"src": "Rumble_Fish.lst", "dst": "roms/The Rumble Fish/rumblefish.lst"},
+      {"src": "gdrom-rumblefish.bin", "dst": "roms/The Rumble Fish/gdrom-rumblefish.bin"}
+    ],
+    "require": ["naomi"]
+  },
+  "nulldc_ngbc": {
+    "download": "https://archive.org/download/AtomiswaveReuploadByGhostware/Neo_Geo_Battle_Colliseum.zip",
+    "extract_to": [
+      {"src": "Neo_Geo_Battle_Colliseum.lst", "dst": "roms/NeoGeo Battle Coliseum - Unlocked/NeoGeoBattleColliseum.lst"},
+      {"src": "NeoGeoBattleColliseum.bin", "dst": "roms/NeoGeo Battle Coliseum - Unlocked/NeoGeoBattleColliseum.bin"}
+    ],
+    "require": ["naomi"]
+  },
+  "nulldc_kofxi": {
+    "download": "https://archive.org/download/AtomiswaveReuploadByGhostware/King_of_Fighters_XI.zip",
+    "extract_to": [
+      {"src": "King_of_Fighters_XI.lst", "dst": "roms/The King of Fighters XI - Unlocked/KOFXI_v5_AllFighters.lst"},
+      {"src": "gdrom_KOFXI_v5_AllFighters.bin", "dst": "roms/The King of Fighters XI - Unlocked/gdrom_KOFXI_v5_AllFighters.bin"}
+    ],
+    "require": ["naomi"]
+  },
+  "nulldc_fotns": {
+    "download": "https://archive.org/download/AtomiswaveReuploadByGhostware/Fist_of_the_North_Star.zip",
+    "extract_to": [
+      {"src": "Fist_of_the_North_Star.lst", "dst": "roms/Fist of the North Star/fotns.lst"},
+      {"src": "FOTNS_Naomi2_Fixed.bin", "dst": "roms/Fist of the North Star/FOTNS_Naomi2_Fixed.bin"}
+    ],
+    "require": ["naomi"]
+  },
+  "nulldc_ggxxs": {
+    "download": "https://archive.org/download/NaomiRomsReuploadByGhostware/Guilty_Gear_XX_Slash.zip",
+    "extract_to": [
+      {"src": "Guilty_Gear_XX_Slash.lst", "dst": "roms/Guilty Gear XX Slash/GuiltyGearXXSlash_v6.lst"},
+      {"src": "GuiltyGearXXSlash_v6.bin", "dst": "roms/Guilty Gear XX Slash/GuiltyGearXXSlash_v6.bin"}
+    ],
+    "require": ["naomi"]
+  },
+  "nulldc_ggxxac": {
+    "download": "https://archive.org/download/NaomiRomsReuploadByGhostware/Guilty_Gear_XX_Accent_Core.zip",
+    "extract_to": [
+      {"src": "Guilty_Gear_XX_Accent_Core.lst", "dst": "roms/Guilty Gear XX Accent Core/guiltygearxxaccentcore.lst"},
+      {"src": "GuiltyGearXXAccentCore_v6.bin", "dst": "roms/Guilty Gear XX Accent Core/GuiltyGearXXAccentCore_v6.bin"}
+    ],
+    "require": ["naomi"]
+  },
+  "naomi": {
+    "download": "https://archive.org/download/system_20190220/system.zip/system/DC/naomi.zip",
+    "extract_to": [
+      {"src": "epr-21576d.ic27", "dst": "data/naomi_bios.bin"}
+    ]
+  }
+}

@@ -31427,6 +31427,143 @@
       "zzyzzyxx"
     ]
   },
+  "ssf2tnl": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/ssf2tnl.zip"
+  },
+  "xmcotabh": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/xmcotabh.zip"
+  },
+  "nbamht": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/nbamht.zip"
+  },
+  "vsavae": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/vsavae.zip"
+  },
+  "mshbh": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mshbh.zip"
+  },
+  "wwfmania": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/wwfmania.zip"
+  },
+  "nbahangt": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/nbahangt.zip"
+  },
+  "openice": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/openice.zip"
+  },
+  "hsf2pp": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/hsf2pp.zip"
+  },
+  "wwfmanac": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/wwfmanac.zip"
+  },
+  "msvsfbh": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/msvsfbh.zip"
+  },
+  "mvscbh": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mvscbh.zip"
+  },
+  "vampjbh": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/vampjbh.zip"
+  },
+  "sfa3sp2": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/sfa3sp2.zip"
+  },
+  "jojobanrb": {
+    "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/jojobanrb.zip",
+    "require":["jojoba"]
+  },
+  "kof97t": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/kof97t.zip",
+      "require":["kof97", "neogeo"]
+  },
+  "mslug2ct": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslug2ct.zip",
+      "require":["neogeo", "mslug2"]
+  },
+  "mslug5x": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslug5x.zip",
+      "require":["neogeo", "mslug5"]
+  },
+  "mslugxeb": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslugxeb.zip",
+      "require":["neogeo", "mslugx"]
+  },
+  "brkrevext": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/brkrevext.zip",
+      "require":["neogeo"]
+  },
+  "mslug2fm": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslug2fm.zip",
+      "require":["neogeo", "mslug2"]
+  },
+  "mslugxsrf": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslugxsrf.zip",
+      "require":["neogeo", "mslugx"]
+  },
+  "kof97ae": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/kof97ae.zip",
+      "require":["neogeo", "kof97"]
+  },
+  "marmatcp": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/marmatcp.zip",
+      "require":["pgm"]
+  },
+  "ddsoma4ppdec": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/ddsoma4ppdec.zip",
+      "require":["ddsom"]
+  },
+  "striv": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/striv.zip"
+  },
+  "spf2xpri": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/spf2xpri.zip",
+      "require":["spf2t"]
+  },
+  "mslug4lw": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslug4lw.zip",
+      "require":["neogeo"]
+  },
+  "jojobanrc": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/jojobanrc.zip",
+      "require":["jojoba"]
+  },
+  "jojobanch": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/jojobanch.zip",
+      "require":["jojoba"]
+  },
+  "mslug2r": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslug2r.zip",
+      "require":["neogeo", "mslug2"]
+  },
+  "mslug3c": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslug3c.zip",
+      "require":["neogeo", "mslug3"]
+  },
+  "mslug3eb": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslug3eb.zip",
+      "require":["neogeo", "mslug3"]
+  },
+  "mslug4c": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslug4c.zip",
+      "require":["neogeo", "mslug4"]
+  },
+  "mslug5mg": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslug5mg.zip",
+      "require":["neogeo", "mslug5"]
+  },
+  "mslug5c": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslug5c.zip",
+      "require":["neogeo", "mslug5"]
+  },
+  "mslugxc2": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslugxc2.zip",
+      "require":["neogeo", "mslugx"]
+  },
+  "mslugxlb": {
+      "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/mslugxlb.zip",
+      "require":["neogeo", "mslugx"]
+  },
   "cchip": {
     "download": "https://newchallenger.net/fc2/roms/fbneo/arcade/cchip.zip"
   },
