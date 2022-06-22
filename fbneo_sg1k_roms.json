@@ -1,932 +1,932 @@
 {
   "jb007a": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/jb007a.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/jb007a.zip",
     "require": [
       "jb007"
     ]
   },
   "jb007": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/jb007.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/jb007.zip"
   },
   "jb007t": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/jb007t.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/jb007t.zip",
     "require": [
       "jb007"
     ]
   },
   "bankp": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/bankp.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/bankp.zip"
   },
   "bombjackk2": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/bombjackk2.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/bombjackk2.zip",
     "require": [
       "bombjack"
     ]
   },
   "bilidada": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/bilidada.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/bilidada.zip",
     "require": [
       "bankp"
     ]
   },
   "bombjack": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/bombjack.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/bombjack.zip"
   },
   "bombjackk1": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/bombjackk1.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/bombjackk1.zip",
     "require": [
       "bombjack"
     ]
   },
   "bombjackt1": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/bombjackt1.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/bombjackt1.zip",
     "require": [
       "bombjack"
     ]
   },
   "bombmnsp": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/bombmnsp.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/bombmnsp.zip"
   },
   "bordrlin": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/bordrlin.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/bordrlin.zip"
   },
   "cso": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/cso.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/cso.zip"
   },
   "cabkids": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/cabkids.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/cabkids.zip"
   },
   "chackn": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/chackn.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/chackn.zip"
   },
   "chaldrby": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/chaldrby.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/chaldrby.zip"
   },
   "chaldrbya": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/chaldrbya.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/chaldrbya.zip",
     "require": [
       "chaldrby"
     ]
   },
   "chaldrbyb": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/chaldrbyb.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/chaldrbyb.zip",
     "require": [
       "chaldrby"
     ]
   },
   "champbas": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champbas.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/champbas.zip"
   },
   "champbasa": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champbasa.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/champbasa.zip",
     "require": [
       "champbas"
     ]
   },
   "champbast": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champbast.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/champbast.zip",
     "require": [
       "champbas"
     ]
   },
   "champbil": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champbil.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/champbil.zip"
   },
   "champbox": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champbox.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/champbox.zip"
   },
   "champbox1": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champbox1.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/champbox1.zip",
     "require": [
       "champbox"
     ]
   },
   "champboxt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champboxt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/champboxt.zip",
     "require": [
       "champbox"
     ]
   },
   "champglf": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champglf.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/champglf.zip"
   },
   "champglf1": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champglf1.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/champglf1.zip",
     "require": [
       "champglf"
     ]
   },
   "champglfk": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champglfk.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/champglfk.zip",
     "require": [
       "champglf"
     ]
   },
   "champice": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champice.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/champice.zip"
   },
   "champicek": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champicek.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/champicek.zip",
     "require": [
       "champice"
     ]
   },
   "champken": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champken.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/champken.zip"
   },
   "champpwr": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champpwr.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/champpwr.zip"
   },
   "champscr": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champscr.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/champscr.zip"
   },
   "champscrt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champscrt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/champscrt.zip",
     "require": [
       "champscr"
     ]
   },
   "champtns": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champtns.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/champtns.zip"
   },
   "cloderun": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/cloderun.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/cloderun.zip"
   },
   "supertnkt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/supertnkt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/supertnkt.zip",
     "require": [
       "supertnk"
     ]
   },
   "bombjackt2": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/bombjackt2.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/bombjackt2.zip",
     "require": [
       "bombjack"
     ]
   },
   "choplift": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/choplift.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/choplift.zip"
   },
   "chopliftp": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/chopliftp.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/chopliftp.zip",
     "require": [
       "choplift"
     ]
   },
   "chopliftk": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/chopliftk.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/chopliftk.zip",
     "require": [
       "choplift"
     ]
   },
   "chopliftt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/chopliftt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/chopliftt.zip",
     "require": [
       "choplift"
     ]
   },
   "circusck": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/circusck.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/circusck.zip",
     "require": [
       "circusc"
     ]
   },
   "congoa": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/congoa.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/congoa.zip",
     "require": [
       "congo"
     ]
   },
   "congo": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/congo.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/congo.zip"
   },
   "congob": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/congob.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/congob.zip",
     "require": [
       "congo"
     ]
   },
   "congot": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/congot.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/congot.zip",
     "require": [
       "congo"
     ]
   },
   "dayu": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/dayu.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/dayu.zip",
     "require": [
       "chackn"
     ]
   },
   "elevatort": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/elevatort.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/elevatort.zip",
     "require": [
       "elevator"
     ]
   },
   "dokidoki": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/dokidoki.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/dokidoki.zip"
   },
   "dragwang1": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/dragwang1.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/dragwang1.zip",
     "require": [
       "dragwang"
     ]
   },
   "dragwang": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/dragwang.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/dragwang.zip"
   },
   "drol": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/drol.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/drol.zip"
   },
   "drolk": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/drolk.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/drolk.zip",
     "require": [
       "drol"
     ]
   },
   "drolt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/drolt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/drolt.zip",
     "require": [
       "drol"
     ]
   },
   "elevator": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/elevator.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/elevator.zip"
   },
   "exerion": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/exerion.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/exerion.zip"
   },
   "exerionk": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/exerionk.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/exerionk.zip",
     "require": [
       "exerion"
     ]
   },
   "exeriont": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/exeriont.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/exeriont.zip",
     "require": [
       "exerion"
     ]
   },
   "faguiqib": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/faguiqib.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/faguiqib.zip",
     "require": [
       "pitfall2"
     ]
   },
   "faguiqiba": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/faguiqiba.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/faguiqiba.zip",
     "require": [
       "pitfall2"
     ]
   },
   "feilang": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/feilang.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/feilang.zip",
     "require": [
       "choplift"
     ]
   },
   "feilanga": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/feilanga.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/feilanga.zip",
     "require": [
       "choplift"
     ]
   },
   "flickya": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/flickya.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/flickya.zip",
     "require": [
       "flicky"
     ]
   },
   "flicky": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/flicky.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/flicky.zip"
   },
   "flickyt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/flickyt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/flickyt.zip",
     "require": [
       "flicky"
     ]
   },
   "segaflipt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/segaflipt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/segaflipt.zip",
     "require": [
       "segaflip"
     ]
   },
   "galaga": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/galaga.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/galaga.zip",
     "require": [
       "segagala"
     ]
   },
   "girlgard": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/girlgard.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/girlgard.zip"
   },
   "girlgardt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/girlgardt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/girlgardt.zip",
     "require": [
       "girlgard"
     ]
   },
   "golgo13": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/golgo13.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/golgo13.zip"
   },
   "gpworlda": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/gpworlda.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/gpworlda.zip",
     "require": [
       "gpworld"
     ]
   },
   "gpworld": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/gpworld.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/gpworld.zip"
   },
   "gpworldt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/gpworldt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/gpworldt.zip",
     "require": [
       "gpworld"
     ]
   },
   "gulkave": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/gulkave.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/gulkave.zip"
   },
   "gulkavek": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/gulkavek.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/gulkavek.zip",
     "require": [
       "gulkave"
     ]
   },
   "guzzler": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/guzzler.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/guzzler.zip"
   },
   "guzzlert": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/guzzlert.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/guzzlert.zip",
     "require": [
       "guzzler"
     ]
   },
   "hero": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/hero.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/hero.zip"
   },
   "hangon2": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/hangon2.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/hangon2.zip"
   },
   "hangon2t1": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/hangon2t1.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/hangon2t1.zip",
     "require": [
       "hangon2"
     ]
   },
   "heibaiqi": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/heibaiqi.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/heibaiqi.zip",
     "require": [
       "othello"
     ]
   },
   "homemj1": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/homemj1.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/homemj1.zip",
     "require": [
       "mahjong"
     ]
   },
   "homemj": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/homemj.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/homemj.zip",
     "require": [
       "mahjong"
     ]
   },
   "huohuli": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/huohuli.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/huohuli.zip",
     "require": [
       "zoom909"
     ]
   },
   "huojiche": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/huojiche.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/huojiche.zip",
     "require": [
       "roadfght"
     ]
   },
   "hustle": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/hustle.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/hustle.zip"
   },
   "hyperspt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/hyperspt.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/hyperspt.zip"
   },
   "hypersptk": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/hypersptk.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/hypersptk.zip",
     "require": [
       "hyperspt"
     ]
   },
   "hypersptt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/hypersptt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/hypersptt.zip",
     "require": [
       "hyperspt"
     ]
   },
   "hypersp2": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/hypersp2.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/hypersp2.zip"
   },
   "iq": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/iq.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/iq.zip",
     "require": [
       "sokoban"
     ]
   },
   "champkent": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champkent.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/champkent.zip",
     "require": [
       "champken"
     ]
   },
   "jingwumn": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/jingwumn.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/jingwumn.zip",
     "require": [
       "dragwang"
     ]
   },
   "jingwumna": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/jingwumna.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/jingwumna.zip",
     "require": [
       "dragwang"
     ]
   },
   "jinzita": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/jinzita.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/jinzita.zip"
   },
   "moyuchua": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/moyuchua.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/moyuchua.zip"
   },
   "ldrun": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/ldrun.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/ldrun.zip"
   },
   "ldrunk": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/ldrunk.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/ldrunk.zip",
     "require": [
       "ldrun"
     ]
   },
   "ldrunt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/ldrunt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/ldrunt.zip",
     "require": [
       "ldrun"
     ]
   },
   "mkidwiz": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/mkidwiz.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/mkidwiz.zip"
   },
   "magtree": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/magtree.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/magtree.zip"
   },
   "mahjong": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/mahjong.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/mahjong.zip"
   },
   "mahjonga": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/mahjonga.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/mahjonga.zip",
     "require": [
       "mahjong"
     ]
   },
   "mahjongt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/mahjongt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/mahjongt.zip",
     "require": [
       "mahjong"
     ]
   },
   "circusc": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/circusc.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/circusc.zip"
   },
   "motianda": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/motianda.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/motianda.zip",
     "require": [
       "rocknbol"
     ]
   },
   "monacogpb": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/monacogpb.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/monacogpb.zip",
     "require": [
       "monacogp"
     ]
   },
   "monacogpa": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/monacogpa.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/monacogpa.zip",
     "require": [
       "monacogp"
     ]
   },
   "monacogp": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/monacogp.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/monacogp.zip"
   },
   "monacogpt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/monacogpt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/monacogpt.zip",
     "require": [
       "monacogp"
     ]
   },
   "hangon2t2": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/hangon2t2.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/hangon2t2.zip",
     "require": [
       "hangon2"
     ]
   },
   "castlet": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/castlet.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/castlet.zip",
     "require": [
       "castle"
     ]
   },
   "musicj": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/musicj.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/musicj.zip"
   },
   "nsub": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/nsub.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/nsub.zip"
   },
   "nsuba": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/nsuba.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/nsuba.zip",
     "require": [
       "nsub"
     ]
   },
   "nsubb": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/nsubb.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/nsubb.zip",
     "require": [
       "nsub"
     ]
   },
   "nsubt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/nsubt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/nsubt.zip",
     "require": [
       "nsub"
     ]
   },
   "ninjapri": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/ninjapri.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/ninjapri.zip"
   },
   "matchpg": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/matchpg.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/matchpg.zip"
   },
   "matchpga": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/matchpga.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/matchpga.zip",
     "require": [
       "matchpg"
     ]
   },
   "matchpgt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/matchpgt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/matchpgt.zip",
     "require": [
       "matchpg"
     ]
   },
   "orguss": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/orguss.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/orguss.zip"
   },
   "othello": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/othello.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/othello.zip"
   },
   "pacar": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/pacar.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/pacar.zip"
   },
   "pacara": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/pacara.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/pacara.zip",
     "require": [
       "pacar"
     ]
   },
   "pacart": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/pacart.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/pacart.zip",
     "require": [
       "pacar"
     ]
   },
   "pachinko": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/pachinko.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/pachinko.zip"
   },
   "pachink2": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/pachink2.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/pachink2.zip"
   },
   "pachink2t": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/pachink2t.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/pachink2t.zip",
     "require": [
       "pachink2"
     ]
   },
   "pingpong": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/pingpong.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/pingpong.zip"
   },
   "pitfall2a": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/pitfall2a.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/pitfall2a.zip",
     "require": [
       "pitfall2"
     ]
   },
   "pitfall2": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/pitfall2.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/pitfall2.zip"
   },
   "popflame": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/popflame.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/popflame.zip"
   },
   "popflamet": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/popflamet.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/popflamet.zip",
     "require": [
       "popflame"
     ]
   },
   "qbert": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/qbert.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/qbert.zip"
   },
   "qie": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/qie.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/qie.zip",
     "require": [
       "dokidoki"
     ]
   },
   "herot": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/herot.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/herot.zip",
     "require": [
       "hero"
     ]
   },
   "champicet": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/champicet.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/champicet.zip",
     "require": [
       "champice"
     ]
   },
   "rallyx": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/rallyx.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/rallyx.zip"
   },
   "ninjaprit": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/ninjaprit.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/ninjaprit.zip",
     "require": [
       "ninjapri"
     ]
   },
   "roadfght": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/roadfght.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/roadfght.zip"
   },
   "rocknbol": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/rocknbol.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/rocknbol.zip"
   },
   "safarihu": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/safarihu.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/safarihu.zip"
   },
   "safarihut": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/safarihut.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/safarihut.zip",
     "require": [
       "safarihu"
     ]
   },
   "safarirc": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/safarirc.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/safarirc.zip"
   },
   "safarircj": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/safarircj.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/safarircj.zip",
     "require": [
       "safarirc"
     ]
   },
   "safarirct": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/safarirct.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/safarirct.zip",
     "require": [
       "safarirc"
     ]
   },
   "3ninmj": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/3ninmj.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/3ninmj.zip",
     "require": [
       "mahjong"
     ]
   },
   "3ninmjt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/3ninmjt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/3ninmjt.zip",
     "require": [
       "mahjong"
     ]
   },
   "segaflip": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/segaflip.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/segaflip.zip"
   },
   "segaflipa": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/segaflipa.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/segaflipa.zip",
     "require": [
       "segaflip"
     ]
   },
   "music": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/music.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/music.zip"
   },
   "segagala": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/segagala.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/segagala.zip"
   },
   "segagala1": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/segagala1.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/segagala1.zip",
     "require": [
       "segagala"
     ]
   },
   "serizawa": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/serizawa.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/serizawa.zip"
   },
   "m2cp": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/m2cp.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/m2cp.zip"
   },
   "shinnyus": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/shinnyus.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/shinnyus.zip"
   },
   "shinnyust": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/shinnyust.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/shinnyust.zip",
     "require": [
       "shinnyus"
     ]
   },
   "sindbadm": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/sindbadm.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/sindbadm.zip"
   },
   "sindbadmt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/sindbadmt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/sindbadmt.zip",
     "require": [
       "sindbadm"
     ]
   },
   "sokoban": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/sokoban.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/sokoban.zip"
   },
   "sokobank": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/sokobank.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/sokobank.zip",
     "require": [
       "sokoban"
     ]
   },
   "sokobant": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/sokobant.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/sokobant.zip",
     "require": [
       "sokoban"
     ]
   },
   "spacearmb": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/spacearmb.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/spacearmb.zip",
     "require": [
       "spacearm"
     ]
   },
   "spacearm": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/spacearm.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/spacearm.zip"
   },
   "spacearma": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/spacearma.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/spacearma.zip",
     "require": [
       "spacearm"
     ]
   },
   "spaceinv": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/spaceinv.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/spaceinv.zip"
   },
   "spaceinvt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/spaceinvt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/spaceinvt.zip",
     "require": [
       "spaceinv"
     ]
   },
   "spacemnt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/spacemnt.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/spacemnt.zip"
   },
   "spacesla": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/spacesla.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/spacesla.zip"
   },
   "starfrce": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/starfrce.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/starfrce.zip"
   },
   "starfrcet": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/starfrcet.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/starfrcet.zip",
     "require": [
       "starfrce"
     ]
   },
   "starfrceta": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/starfrceta.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/starfrceta.zip",
     "require": [
       "starfrce"
     ]
   },
   "starjack1": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/starjack1.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/starjack1.zip",
     "require": [
       "starjack"
     ]
   },
   "starjack": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/starjack.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/starjack.zip"
   },
   "starjack2": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/starjack2.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/starjack2.zip",
     "require": [
       "starjack"
     ]
   },
   "starjackt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/starjackt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/starjackt.zip",
     "require": [
       "starjack"
     ]
   },
   "supertnk": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/supertnk.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/supertnk.zip"
   },
   "supertnkk": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/supertnkk.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/supertnkk.zip",
     "require": [
       "supertnk"
     ]
   },
   "superuwol": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/superuwol.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/superuwol.zip"
   },
   "wboyt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/wboyt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/wboyt.zip",
     "require": [
       "wboy"
     ]
   },
   "terebioe": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/terebioe.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/terebioe.zip"
   },
   "blckonyx": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/blckonyx.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/blckonyx.zip"
   },
   "castle": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/castle.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/castle.zip"
   },
   "sxpao": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/sxpao.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/sxpao.zip"
   },
   "csot": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/csot.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/csot.zip",
     "require": [
       "cso"
     ]
   },
   "wboya": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/wboya.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/wboya.zip",
     "require": [
       "wboy"
     ]
   },
   "wboy": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/wboy.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/wboy.zip"
   },
   "cloderunt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/cloderunt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/cloderunt.zip",
     "require": [
       "cloderun"
     ]
   },
   "yamato": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/yamato.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/yamato.zip"
   },
   "yamatoa": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/yamatoa.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/yamatoa.zip",
     "require": [
       "yamato"
     ]
   },
   "yamatot": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/yamatot.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/yamatot.zip",
     "require": [
       "yamato"
     ]
   },
   "yiear": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/yiear.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/yiear.zip"
   },
   "dacike": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/dacike.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/dacike.zip"
   },
   "homemjt": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/homemjt.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/homemjt.zip",
     "require": [
       "mahjong"
     ]
   },
   "zaxxon": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/zaxxon.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/zaxxon.zip"
   },
   "zaxxont": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/zaxxont.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/zaxxont.zip",
     "require": [
       "zaxxon"
     ]
   },
   "zippyrac": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/zippyrac.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/zippyrac.zip"
   },
   "zippyract": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/zippyract.zip",
+    "download": "https://fightcade.download/fbneo/sg1000/zippyract.zip",
     "require": [
       "zippyrac"
     ]
   },
   "zoom909": {
-    "download": "https://newchallenger.net/fc2/roms/fbneo/sg1000/zoom909.zip"
+    "download": "https://fightcade.download/fbneo/sg1000/zoom909.zip"
   }
 }

@@ -1,6 +1,6 @@
 {
     "flycast_mvsc2_ratio_v3": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/MarvelVsCapcom2_ratio.bin",
+        "download": "https://fightcade.download/flycast/MarvelVsCapcom2_ratio.bin",
         "require": [
             "flycast_naomi_bios",
             "save_mvsc2_ratio",
@@ -8,124 +8,124 @@
         ]
     },
     "flycast_mvsc2_ratio_v3_lst": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/Marvel_vs_Capcom_2_Ratio(v3).lst",
+        "download": "https://fightcade.download/flycast/Marvel_vs_Capcom_2_Ratio(v3).lst",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_18wheelr": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/18wheelr.zip",
+        "download": "https://fightcade.download/flycast/18wheelr.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_alienfnt": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/alienfnt.zip",
+        "download": "https://fightcade.download/flycast/alienfnt.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_alpilot": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/alpilot.zip",
+        "download": "https://fightcade.download/flycast/alpilot.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_asndynmt": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/asndynmt.zip",
+        "download": "https://fightcade.download/flycast/asndynmt.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_ausfache": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ausfache.zip",
+        "download": "https://fightcade.download/flycast/ausfache.zip",
         "require": [
             "flycast_naomi_bios",
             "save_ausfache"
         ]
     },
     "flycast_azumanga": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/azumanga.zip",
+        "download": "https://fightcade.download/flycast/azumanga.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_azumanga_chd"
         ]
     },
     "flycast_bdrdown": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/bdrdown.zip",
+        "download": "https://fightcade.download/flycast/bdrdown.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_bdrdown_chd"
         ]
     },
     "flycast_capsnk": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/capsnk.zip",
+        "download": "https://fightcade.download/flycast/capsnk.zip",
         "require": [
             "flycast_naomi_bios",
             "save_capsnk"
         ]
     },
     "flycast_cfield": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/cfield.zip",
+        "download": "https://fightcade.download/flycast/cfield.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_cfield_chd"
         ]
     },
     "flycast_chocomk": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chocomk.zip",
+        "download": "https://fightcade.download/flycast/chocomk.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_chocomk_chd"
         ]
     },
     "flycast_cleoftp": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/cleoftp.zip",
+        "download": "https://fightcade.download/flycast/cleoftp.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_cleoftp_chd"
         ]
     },
     "flycast_confmiss": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/confmiss.zip",
+        "download": "https://fightcade.download/flycast/confmiss.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_confmiss_chd"
         ]
     },
     "flycast_crackndj": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/crackndj.zip",
+        "download": "https://fightcade.download/flycast/crackndj.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_crakndj2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/crakndj2.zip",
+        "download": "https://fightcade.download/flycast/crakndj2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_crzytaxi": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/crzytaxi.zip",
+        "download": "https://fightcade.download/flycast/crzytaxi.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_csmash": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/csmash.zip",
+        "download": "https://fightcade.download/flycast/csmash.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_cspike": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/cspike.zip",
+        "download": "https://fightcade.download/flycast/cspike.zip",
         "require": [
             "flycast_naomi_bios",
             "save_cspike"
         ]
     },
     "flycast_cvs2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/cvs2.zip",
+        "download": "https://fightcade.download/flycast/cvs2.zip",
         "require": [
             "flycast_naomi_bios",
             "save_cvs2",
@@ -133,107 +133,107 @@
         ]
     },
     "flycast_cvsgd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/cvsgd.zip",
+        "download": "https://fightcade.download/flycast/cvsgd.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_deathcox": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/deathcox.zip",
+        "download": "https://fightcade.download/flycast/deathcox.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_derbyo2k": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/derbyo2k.zip",
+        "download": "https://fightcade.download/flycast/derbyo2k.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_derbyoc": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/derbyoc.zip",
+        "download": "https://fightcade.download/flycast/derbyoc.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_derbyoc2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/derbyoc2.zip",
+        "download": "https://fightcade.download/flycast/derbyoc2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_derbyocw": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/derbyocw.zip",
+        "download": "https://fightcade.download/flycast/derbyocw.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_doa2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/doa2.zip",
+        "download": "https://fightcade.download/flycast/doa2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_doa2m": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/doa2m.zip",
+        "download": "https://fightcade.download/flycast/doa2m.zip",
         "require": [
             "flycast_naomi_bios",
             "save_doa2m"
         ]
     },
     "flycast_dybb99": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dybb99.zip",
+        "download": "https://fightcade.download/flycast/dybb99.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_dybbnao": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dybbnao.zip",
+        "download": "https://fightcade.download/flycast/dybbnao.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_dygolf": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dygolf.zip",
+        "download": "https://fightcade.download/flycast/dygolf.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_dygolf_chd"
         ]
     },
     "flycast_f355": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/f355.zip",
+        "download": "https://fightcade.download/flycast/f355.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_f355twn2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/f355twn2.zip",
+        "download": "https://fightcade.download/flycast/f355twn2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_ggram2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ggram2.zip",
+        "download": "https://fightcade.download/flycast/ggram2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_ggx": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ggx.zip",
+        "download": "https://fightcade.download/flycast/ggx.zip",
         "require": [
             "flycast_naomi_bios",
             "save_ggx"
         ]
     },
     "flycast_ggxx": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ggxx.zip",
+        "download": "https://fightcade.download/flycast/ggxx.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_ggxx_chd"
         ]
     },
     "flycast_ggxxac": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ggxxac.zip",
+        "download": "https://fightcade.download/flycast/ggxxac.zip",
         "require": [
             "flycast_naomi_bios",
             "save_ggxxac",
@@ -241,7 +241,7 @@
         ]
     },
     "flycast_ggxxrl": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ggxxrl.zip",
+        "download": "https://fightcade.download/flycast/ggxxrl.zip",
         "require": [
             "flycast_naomi_bios",
             "save_ggxxrl",
@@ -249,155 +249,155 @@
         ]
     },
     "flycast_ggxxsla": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ggxxsla.zip",
+        "download": "https://fightcade.download/flycast/ggxxsla.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_ggxxsla_chd"
         ]
     },
     "flycast_gram2000": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/gram2000.zip",
+        "download": "https://fightcade.download/flycast/gram2000.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_gundmgd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/gundmgd.zip",
+        "download": "https://fightcade.download/flycast/gundmgd.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_gundmgd_chd"
         ]
     },
     "flycast_gundmxgd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/gundmxgd.zip",
+        "download": "https://fightcade.download/flycast/gundmxgd.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_gundmxgd_chd"
         ]
     },
     "flycast_gunsur2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/gunsur2.zip",
+        "download": "https://fightcade.download/flycast/gunsur2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_gwing2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/gwing2.zip",
+        "download": "https://fightcade.download/flycast/gwing2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_hmgeo": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/hmgeo.zip",
+        "download": "https://fightcade.download/flycast/hmgeo.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_hotd2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/hotd2.zip",
+        "download": "https://fightcade.download/flycast/hotd2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_ikaruga": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ikaruga.zip",
+        "download": "https://fightcade.download/flycast/ikaruga.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_ikaruga_chd"
         ]
     },
     "flycast_illvelo": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/illvelo.zip",
+        "download": "https://fightcade.download/flycast/illvelo.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_inunoos": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/inunoos.zip",
+        "download": "https://fightcade.download/flycast/inunoos.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_jambo": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/jambo.zip",
+        "download": "https://fightcade.download/flycast/jambo.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_jingystm": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/jingystm.zip",
+        "download": "https://fightcade.download/flycast/jingystm.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_jingystm_chd"
         ]
     },
     "flycast_karous": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/karous.zip",
+        "download": "https://fightcade.download/flycast/karous.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_karous_chd"
         ]
     },
     "flycast_keyboard": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/keyboard.zip",
+        "download": "https://fightcade.download/flycast/keyboard.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_keyboard_chd"
         ]
     },
     "flycast_kick4csh": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/kick4csh.zip",
+        "download": "https://fightcade.download/flycast/kick4csh.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_kurucham": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/kurucham.zip",
+        "download": "https://fightcade.download/flycast/kurucham.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_kurucham_chd"
         ]
     },
     "flycast_lupinsho": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/lupinsho.zip",
+        "download": "https://fightcade.download/flycast/lupinsho.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_lupinsho_chd"
         ]
     },
     "flycast_luptype": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/luptype.zip",
+        "download": "https://fightcade.download/flycast/luptype.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_luptype_chd"
         ]
     },
     "flycast_mamonoro": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mamonoro.zip",
+        "download": "https://fightcade.download/flycast/mamonoro.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_marstv": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/marstv.zip",
+        "download": "https://fightcade.download/flycast/marstv.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_mazan": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mazan.zip",
+        "download": "https://fightcade.download/flycast/mazan.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_mbaa": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mbaa.zip",
+        "download": "https://fightcade.download/flycast/mbaa.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_meltyb": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/meltyb.zip",
+        "download": "https://fightcade.download/flycast/meltyb.zip",
         "require": [
             "flycast_naomi_bios",
             "save_meltyb",
@@ -405,106 +405,106 @@
         ]
     },
     "flycast_meltybld": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/meltybld.zip",
+        "download": "https://fightcade.download/flycast/meltybld.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_meltybld_chd"
         ]
     },
     "flycast_moeru": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/moeru.zip",
+        "download": "https://fightcade.download/flycast/moeru.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_mok": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mok.zip",
+        "download": "https://fightcade.download/flycast/mok.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_mok_chd"
         ]
     },
     "flycast_monkeyba": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/monkeyba.zip",
+        "download": "https://fightcade.download/flycast/monkeyba.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_monkeyba_chd"
         ]
     },
     "flycast_mushik2e": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mushik2e.zip",
+        "download": "https://fightcade.download/flycast/mushik2e.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_mvsc2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mvsc2.zip",
+        "download": "https://fightcade.download/flycast/mvsc2.zip",
         "require": [
             "flycast_naomi_bios",
             "save_mvsc2"
         ]
     },
     "flycast_ninjaslt": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ninjaslt.zip",
+        "download": "https://fightcade.download/flycast/ninjaslt.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_oinori": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/oinori.zip",
+        "download": "https://fightcade.download/flycast/oinori.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_otrigger": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/otrigger.zip",
+        "download": "https://fightcade.download/flycast/otrigger.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_pjustic": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/pjustic.zip",
+        "download": "https://fightcade.download/flycast/pjustic.zip",
         "require": [
             "flycast_naomi_bios",
             "save_pjustic"
         ]
     },
     "flycast_pokasuka": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/pokasuka.zip",
+        "download": "https://fightcade.download/flycast/pokasuka.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_pstone": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/pstone.zip",
+        "download": "https://fightcade.download/flycast/pstone.zip",
         "require": [
             "flycast_naomi_bios",
             "save_pstone"
         ]
     },
     "flycast_pstone2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/pstone2.zip",
+        "download": "https://fightcade.download/flycast/pstone2.zip",
         "require": [
             "flycast_naomi_bios",
             "save_pstone2"
         ]
     },
     "flycast_psyvar2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/psyvar2.zip",
+        "download": "https://fightcade.download/flycast/psyvar2.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_psyvar2_chd"
         ]
     },
     "flycast_puyoda": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/puyoda.zip",
+        "download": "https://fightcade.download/flycast/puyoda.zip",
         "require": [
             "flycast_naomi_bios",
             "save_puyoda"
         ]
     },
     "flycast_puyofev": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/puyofev.zip",
+        "download": "https://fightcade.download/flycast/puyofev.zip",
         "require": [
             "flycast_naomi_bios",
             "save_puyofev",
@@ -512,50 +512,50 @@
         ]
     },
     "flycast_qmegamis": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/qmegamis.zip",
+        "download": "https://fightcade.download/flycast/qmegamis.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_radirgy": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/radirgy.zip",
+        "download": "https://fightcade.download/flycast/radirgy.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_radirgy_chd"
         ]
     },
     "flycast_radirgyn": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/radirgyn.zip",
+        "download": "https://fightcade.download/flycast/radirgyn.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_rhytngk": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/rhytngk.zip",
+        "download": "https://fightcade.download/flycast/rhytngk.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_ringout": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ringout.zip",
+        "download": "https://fightcade.download/flycast/ringout.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_samba2k": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/samba2k.zip",
+        "download": "https://fightcade.download/flycast/samba2k.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_senko": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/senko.zip",
+        "download": "https://fightcade.download/flycast/senko.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_senkosp": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/senkosp.zip",
+        "download": "https://fightcade.download/flycast/senkosp.zip",
         "require": [
             "flycast_naomi_bios",
             "save_senkosp",
@@ -563,7 +563,7 @@
         ]
     },
     "flycast_sfz3ugd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/sfz3ugd.zip",
+        "download": "https://fightcade.download/flycast/sfz3ugd.zip",
         "require": [
             "flycast_naomi_bios",
             "save_sfz3ugd",
@@ -571,208 +571,208 @@
         ]
     },
     "flycast_sgtetris": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/sgtetris.zip",
+        "download": "https://fightcade.download/flycast/sgtetris.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_shaktamb": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/shaktamb.zip",
+        "download": "https://fightcade.download/flycast/shaktamb.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_shaktamb_chd"
         ]
     },
     "flycast_shangril": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/shangril.zip",
+        "download": "https://fightcade.download/flycast/shangril.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_shikgam2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/shikgam2.zip",
+        "download": "https://fightcade.download/flycast/shikgam2.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_shikgam2_chd"
         ]
     },
     "flycast_shootopl": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/shootopl.zip",
+        "download": "https://fightcade.download/flycast/shootopl.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_sl2007": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/sl2007.zip",
+        "download": "https://fightcade.download/flycast/sl2007.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_slashout": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/slashout.zip",
+        "download": "https://fightcade.download/flycast/slashout.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_slashout_chd"
         ]
     },
     "flycast_smarinef": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/smarinef.zip",
+        "download": "https://fightcade.download/flycast/smarinef.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_smlg99": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/smlg99.zip",
+        "download": "https://fightcade.download/flycast/smlg99.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_spawn": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/spawn.zip",
+        "download": "https://fightcade.download/flycast/spawn.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_spkrbtl": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/spkrbtl.zip",
+        "download": "https://fightcade.download/flycast/spkrbtl.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_spkrbtl_chd"
         ]
     },
     "flycast_sprtjam": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/sprtjam.zip",
+        "download": "https://fightcade.download/flycast/sprtjam.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_sprtjam_chd"
         ]
     },
     "flycast_ss2005": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ss2005.zip",
+        "download": "https://fightcade.download/flycast/ss2005.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_ss2005_chd"
         ]
     },
     "flycast_sstrkfgt": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/sstrkfgt.zip",
+        "download": "https://fightcade.download/flycast/sstrkfgt.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_starseek": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/starseek.zip",
+        "download": "https://fightcade.download/flycast/starseek.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_starseek_chd"
         ]
     },
     "flycast_suchie3": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/suchie3.zip",
+        "download": "https://fightcade.download/flycast/suchie3.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_takoron": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/takoron.zip",
+        "download": "https://fightcade.download/flycast/takoron.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_takoron_chd"
         ]
     },
     "flycast_tduno2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/tduno2.zip",
+        "download": "https://fightcade.download/flycast/tduno2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_tetkiwam": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/tetkiwam.zip",
+        "download": "https://fightcade.download/flycast/tetkiwam.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_tetkiwam_chd"
         ]
     },
     "flycast_tokyobus": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/tokyobus.zip",
+        "download": "https://fightcade.download/flycast/tokyobus.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_totd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/totd.zip",
+        "download": "https://fightcade.download/flycast/totd.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_toukon4": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/toukon4.zip",
+        "download": "https://fightcade.download/flycast/toukon4.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_toyfight": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/toyfight.zip",
+        "download": "https://fightcade.download/flycast/toyfight.zip",
         "require": [
             "flycast_naomi_bios",
             "save_toyfight"
         ]
     },
     "flycast_trgheart": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/trgheart.zip",
+        "download": "https://fightcade.download/flycast/trgheart.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_trgheart_chd"
         ]
     },
     "flycast_trizeal": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/trizeal.zip",
+        "download": "https://fightcade.download/flycast/trizeal.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_trizeal_chd"
         ]
     },
     "flycast_undefeat": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/undefeat.zip",
+        "download": "https://fightcade.download/flycast/undefeat.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_undefeat_chd"
         ]
     },
     "flycast_usagiym": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/usagiym.zip",
+        "download": "https://fightcade.download/flycast/usagiym.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_usagiym_chd"
         ]
     },
     "flycast_vathlete": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/vathlete.zip",
+        "download": "https://fightcade.download/flycast/vathlete.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_vathlete_chd"
         ]
     },
     "flycast_virnba": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/virnba.zip",
+        "download": "https://fightcade.download/flycast/virnba.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_vonot": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/vonot.zip",
+        "download": "https://fightcade.download/flycast/vonot.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_vs2_2k": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/vs2_2k.zip",
+        "download": "https://fightcade.download/flycast/vs2_2k.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_vtennis2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/vtennis2.zip",
+        "download": "https://fightcade.download/flycast/vtennis2.zip",
         "require": [
             "flycast_naomi_bios",
             "save_vtennis2",
@@ -780,169 +780,169 @@
         ]
     },
     "flycast_vtennisg": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/vtennisg.zip",
+        "download": "https://fightcade.download/flycast/vtennisg.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_vtennisg_chd"
         ]
     },
     "flycast_wldkicks": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/wldkicks.zip",
+        "download": "https://fightcade.download/flycast/wldkicks.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_wrungp": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/wrungp.zip",
+        "download": "https://fightcade.download/flycast/wrungp.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_wsbbgd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/wsbbgd.zip",
+        "download": "https://fightcade.download/flycast/wsbbgd.zip",
         "require": [
             "flycast_naomi_bios",
             "flycast_wsbbgd_chd"
         ]
     },
     "flycast_wwfroyal": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/wwfroyal.zip",
+        "download": "https://fightcade.download/flycast/wwfroyal.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_xtrmhnt2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/xtrmhnt2.zip",
+        "download": "https://fightcade.download/flycast/xtrmhnt2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_xtrmhunt": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/xtrmhunt.zip",
+        "download": "https://fightcade.download/flycast/xtrmhunt.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_zerogu2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/zerogu2.zip",
+        "download": "https://fightcade.download/flycast/zerogu2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_zombrvn": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/zombrvn.zip",
+        "download": "https://fightcade.download/flycast/zombrvn.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_zunou": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/zunou.zip",
+        "download": "https://fightcade.download/flycast/zunou.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_dragntr3": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dragntr3.zip",
+        "download": "https://fightcade.download/flycast/dragntr3.zip",
         "require": [
             "flycast_naomi_bios",
             "dragntr3_chd"
         ]
     },
     "flycast_quizqgd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/quizqgd.zip",
+        "download": "https://fightcade.download/flycast/quizqgd.zip",
         "require": [
             "flycast_naomi_bios",
             "quizqgd_chd"
         ]
     },
     "flycast_shaktam": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/shaktam.zip",
+        "download": "https://fightcade.download/flycast/shaktam.zip",
         "require": [
             "flycast_naomi_bios",
             "shaktam_chd"
         ]
     },
     "flycast_shaktmsp": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/shaktmsp.zip",
+        "download": "https://fightcade.download/flycast/shaktmsp.zip",
         "require": [
             "flycast_naomi_bios",
             "shaktamsp_chd"
         ]
     },
     "flycast_manicpnc": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/manicpnc.zip",
+        "download": "https://fightcade.download/flycast/manicpnc.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_mushi2k4": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mushi2k4.zip",
+        "download": "https://fightcade.download/flycast/mushi2k4.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_mushi2k5": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mushi2k5.zip",
+        "download": "https://fightcade.download/flycast/mushi2k5.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_mushik4e": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mushik4e.zip",
+        "download": "https://fightcade.download/flycast/mushik4e.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_mushike": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mushike.zip",
+        "download": "https://fightcade.download/flycast/mushike.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_samba": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/samba.zip",
+        "download": "https://fightcade.download/flycast/samba.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_shors2k1": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/shors2k1.zip",
+        "download": "https://fightcade.download/flycast/shors2k1.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_shors2k2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/shors2k2.zip",
+        "download": "https://fightcade.download/flycast/shors2k2.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_shorse": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/shorse.zip",
+        "download": "https://fightcade.download/flycast/shorse.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_shorsep": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/shorsep.zip",
+        "download": "https://fightcade.download/flycast/shorsep.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_tduno": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/tduno.zip",
+        "download": "https://fightcade.download/flycast/tduno.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_vtennis": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/vtennis.zip",
+        "download": "https://fightcade.download/flycast/vtennis.zip",
         "require": [
             "flycast_naomi_bios"
         ]
     },
     "flycast_azumanga_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/azumanga_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/azumanga_chd.zip",
         "extract_to": [
             {
                 "src":"azumanga/gdl-0018.chd",
@@ -951,7 +951,7 @@
         ]
     },
     "flycast_bdrdown_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/bdrdown_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/bdrdown_chd.zip",
         "extract_to": [
             {
                 "src":"bdrdown/gdl-0023a.chd",
@@ -960,7 +960,7 @@
         ]
     },
     "flycast_cfield_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/cfield_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/cfield_chd.zip",
         "extract_to": [
             {
                 "src":"cfield/gdl-0025.chd",
@@ -969,7 +969,7 @@
         ]
     },
     "flycast_chocomk_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/chocomk_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/chocomk_chd.zip",
         "extract_to": [
             {
                 "src":"chocomk/gdl-0014a.chd",
@@ -978,7 +978,7 @@
         ]
     },
     "flycast_cleoftp_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/cleoftp_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/cleoftp_chd.zip",
         "extract_to": [
             {
                 "src":"cleoftp/gdl-0012.chd",
@@ -987,7 +987,7 @@
         ]
     },
     "flycast_confmiss_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/confmiss_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/confmiss_chd.zip",
         "extract_to": [
             {
                 "src":"confmiss/gdl-0001.chd",
@@ -996,7 +996,7 @@
         ]
     },
     "flycast_cvsgd_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/cvsgd_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/cvsgd_chd.zip",
         "extract_to": [
             {
                 "src":"cvsgd/gdl-0004.chd",
@@ -1005,7 +1005,7 @@
         ]
     },
     "flycast_cvs2_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/cvs2_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/cvs2_chd.zip",
         "extract_to": [
             {
                 "src":"cvs2/gdl-0007a.chd",
@@ -1018,7 +1018,7 @@
         ]
     },
     "flycast_dygolf_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/dygolf_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/dygolf_chd.zip",
         "extract_to": [
             {
                 "src":"dygolf/gdl-0009a.chd",
@@ -1027,7 +1027,7 @@
         ]
     },
     "flycast_ggxx_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/ggxx_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/ggxx_chd.zip",
         "extract_to": [
             {
                 "src":"ggxx/gdl-0011.chd",
@@ -1036,7 +1036,7 @@
         ]
     },
     "flycast_ggxxac_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/ggxxac_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/ggxxac_chd.zip",
         "extract_to": [
             {
                 "src":"ggxxac/gdl-0041.chd",
@@ -1045,7 +1045,7 @@
         ]
     },
     "flycast_ggxxrl_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/ggxxrl_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/ggxxrl_chd.zip",
         "extract_to": [
             {
                 "src":"ggxxrl/gdl-0019.chd",
@@ -1058,7 +1058,7 @@
         ]
     },
     "flycast_ggxxsla_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/ggxxsla_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/ggxxsla_chd.zip",
         "extract_to": [
             {
                 "src":"ggxxsla/gdl-0033a.chd",
@@ -1067,7 +1067,7 @@
         ]
     },
     "flycast_gundmgd_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/gundmgd_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/gundmgd_chd.zip",
         "extract_to": [
             {
                 "src":"gundmgd/gdl-0001.chd",
@@ -1076,7 +1076,7 @@
         ]
     },
     "flycast_gundmxgd_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/gundmxgd_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/gundmxgd_chd.zip",
         "extract_to": [
             {
                 "src":"gundmxgd/gdl-0006.chd",
@@ -1085,7 +1085,7 @@
         ]
     },
     "flycast_ikaruga_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/ikaruga_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/ikaruga_chd.zip",
         "extract_to": [
             {
                 "src":"ikaruga/gdl-0010.chd",
@@ -1094,7 +1094,7 @@
         ]
     },
     "flycast_jingystm_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/jingystm_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/jingystm_chd.zip",
         "extract_to": [
             {
                 "src":"jingystm/gdl-0037.chd",
@@ -1103,7 +1103,7 @@
         ]
     },
     "flycast_karous_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/karous_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/karous_chd.zip",
         "extract_to": [
             {
                 "src":"karous/gdl-0040.chd",
@@ -1112,7 +1112,7 @@
         ]
     },
     "flycast_keyboard_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/keyboard_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/keyboard_chd.zip",
         "extract_to": [
             {
                 "src":"keyboard/gdl-0017.chd",
@@ -1121,7 +1121,7 @@
         ]
     },
     "flycast_kurucham_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/kurucham_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/kurucham_chd.zip",
         "extract_to": [
             {
                 "src":"kurucham/gdl-0034.chd",
@@ -1130,7 +1130,7 @@
         ]
     },
     "flycast_lupinsho_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/lupinsho_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/lupinsho_chd.zip",
         "extract_to": [
             {
                 "src":"lupinsho/gdl-0018.chd",
@@ -1143,7 +1143,7 @@
         ]
     },
     "flycast_luptype_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/luptype_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/luptype_chd.zip",
         "extract_to": [
             {
                 "src":"luptype/gdl-0021a.chd",
@@ -1152,7 +1152,7 @@
         ]
     },
     "flycast_meltyb_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/meltyb_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/meltyb_chd.zip",
         "extract_to": [
             {
                 "src":"meltyb/gdl-0039.chd",
@@ -1165,7 +1165,7 @@
         ]
     },
     "flycast_meltybld_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/meltybld_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/meltybld_chd.zip",
         "extract_to": [
             {
                 "src":"meltybld/gdl-0028.chd",
@@ -1178,7 +1178,7 @@
         ]
     },
     "flycast_mok_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/mok_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/mok_chd.zip",
         "extract_to": [
             {
                 "src":"mok/gdl-0022.chd",
@@ -1187,7 +1187,7 @@
         ]
     },
     "flycast_monkeyba_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/monkeyba_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/monkeyba_chd.zip",
         "extract_to": [
             {
                 "src":"monkeyba/gds-0008.chd",
@@ -1196,7 +1196,7 @@
         ]
     },
     "flycast_psyvar2_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/psyvar2_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/psyvar2_chd.zip",
         "extract_to": [
             {
                 "src":"psyvar2/gdl-0024.chd",
@@ -1205,7 +1205,7 @@
         ]
     },
     "flycast_puyofev_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/puyofev_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/puyofev_chd.zip",
         "extract_to": [
             {
                 "src":"puyofev/gds-0031.chd",
@@ -1218,7 +1218,7 @@
         ]
     },
     "flycast_radirgy_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/radirgy_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/radirgy_chd.zip",
         "extract_to": [
             {
                 "src":"radirgy/gdl-0032.chd",
@@ -1231,7 +1231,7 @@
         ]
     },
     "flycast_senkosp_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/senkosp_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/senkosp_chd.zip",
         "extract_to": [
             {
                 "src":"senkosp/gdl-0038.chd",
@@ -1240,7 +1240,7 @@
         ]
     },
     "flycast_sfz3ugd_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/sfz3ugd_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/sfz3ugd_chd.zip",
         "extract_to": [
             {
                 "src":"sfz3ugd/gdl-0002.chd",
@@ -1249,7 +1249,7 @@
         ]
     },
     "flycast_shaktamb_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/shaktamb_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/shaktamb_chd.zip",
         "extract_to": [
             {
                 "src":"shaktamb/gdl-0016.chd",
@@ -1258,7 +1258,7 @@
         ]
     },
     "flycast_shikgam2_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/shikgam2_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/shikgam2_chd.zip",
         "extract_to": [
             {
                 "src":"shikgam2/gdl-0021.chd",
@@ -1267,7 +1267,7 @@
         ]
     },
     "flycast_slashout_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/slashout_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/slashout_chd.zip",
         "extract_to": [
             {
                 "src":"slashout/gdl-0004.chd",
@@ -1276,7 +1276,7 @@
         ]
     },
     "flycast_spkrbtl_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/spkrbtl_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/spkrbtl_chd.zip",
         "extract_to": [
             {
                 "src":"spkrbtl/gdl-0005.chd",
@@ -1285,7 +1285,7 @@
         ]
     },
     "flycast_sprtjam_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/sprtjam_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/sprtjam_chd.zip",
         "extract_to": [
             {
                 "src":"sprtjam/gdl-0003.chd",
@@ -1294,7 +1294,7 @@
         ]
     },
     "flycast_ss2005_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/ss2005_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/ss2005_chd.zip",
         "extract_to": [
             {
                 "src":"ss2005/gdl-0031.chd",
@@ -1307,7 +1307,7 @@
         ]
     },
     "flycast_starseek_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/starseek_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/starseek_chd.zip",
         "extract_to": [
             {
                 "src":"starseek/gdl-0005.chd",
@@ -1316,7 +1316,7 @@
         ]
     },
     "flycast_takoron_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/takoron_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/takoron_chd.zip",
         "extract_to": [
             {
                 "src":"takoron/gdl-0042.chd",
@@ -1325,7 +1325,7 @@
         ]
     },
     "flycast_tetkiwam_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/tetkiwam_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/tetkiwam_chd.zip",
         "extract_to": [
             {
                 "src":"tetkiwam/gdl-0020.chd",
@@ -1334,7 +1334,7 @@
         ]
     },
     "flycast_trgheart_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/trgheart_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/trgheart_chd.zip",
         "extract_to": [
             {
                 "src":"trgheart/gdl-0036.chd",
@@ -1347,7 +1347,7 @@
         ]
     },
     "flycast_trizeal_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/trizeal_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/trizeal_chd.zip",
         "extract_to": [
             {
                 "src":"trizeal/gdl-0026.chd",
@@ -1356,7 +1356,7 @@
         ]
     },
     "flycast_undefeat_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/undefeat_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/undefeat_chd.zip",
         "extract_to": [
             {
                 "src":"undefeat/gdl-0035.chd",
@@ -1365,7 +1365,7 @@
         ]
     },
     "flycast_usagiym_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/usagiym_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/usagiym_chd.zip",
         "extract_to": [
             {
                 "src":"usagiym/gdl-0022.chd",
@@ -1374,7 +1374,7 @@
         ]
     },
     "flycast_vathlete_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/vathlete_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/vathlete_chd.zip",
         "extract_to": [
             {
                 "src":"vathlete/gdl-0019.chd",
@@ -1383,7 +1383,7 @@
         ]
     },
     "flycast_vtennis2_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/vtennis2_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/vtennis2_chd.zip",
         "extract_to": [
             {
                 "src":"vtennis2/gdl-0015.chd",
@@ -1392,7 +1392,7 @@
         ]
     },
     "flycast_vtennisg_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/vtennisg_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/vtennisg_chd.zip",
         "extract_to": [
             {
                 "src":"vtennisg/gdl-0011.chd",
@@ -1401,7 +1401,7 @@
         ]
     },
     "flycast_wsbbgd_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/wsbbgd_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/wsbbgd_chd.zip",
         "extract_to": [
             {
                 "src":"wsbbgd/gdl-0010.chd",
@@ -1410,7 +1410,7 @@
         ]
     },
     "dragntr3_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/dragntr3_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/dragntr3_chd.zip",
         "extract_to": [
             {
                 "src":"dragntr3/gds-0041a.chd",
@@ -1419,7 +1419,7 @@
         ]
     },
     "quizqgd_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/quizqgd_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/quizqgd_chd.zip",
         "extract_to": [
             {
                 "src":"quizqgd/gdl-0017.chd",
@@ -1428,7 +1428,7 @@
         ]
     },
     "shaktam_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/shaktam_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/shaktam_chd.zip",
         "extract_to": [
             {
                 "src":"shaktam/gds-0002b.chd",
@@ -1437,7 +1437,7 @@
         ]
     },
     "shaktmsp_chd": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/chd_files/shaktmsp_chd.zip",
+        "download": "https://fightcade.download/flycast/chd_files/shaktmsp_chd.zip",
         "extract_to": [
             {
                 "src":"shaktamsp/gds-0013.chd",
@@ -1446,71 +1446,71 @@
         ]
     },
     "flycast_demofist": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/demofist.zip",
+        "download": "https://fightcade.download/flycast/demofist.zip",
         "require": ["flycast_atomiswave_bios"]
     },
     "flycast_dolphin": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dolphin.zip",
+        "download": "https://fightcade.download/flycast/dolphin.zip",
         "require": ["flycast_atomiswave_bios"]
     },
     "flycast_fotns": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/fotns.zip",
+        "download": "https://fightcade.download/flycast/fotns.zip",
         "require": [
             "flycast_atomiswave_bios",
             "save_fotns"
         ]
     },
     "flycast_ggisuka": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ggisuka.zip",
+        "download": "https://fightcade.download/flycast/ggisuka.zip",
         "require": ["flycast_atomiswave_bios"]
     },
     "flycast_ggx15": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ggx15.zip",
+        "download": "https://fightcade.download/flycast/ggx15.zip",
         "require": ["flycast_atomiswave_bios", "save_ggx15"]
     },
     "flycast_kofnw": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/kofnw.zip",
+        "download": "https://fightcade.download/flycast/kofnw.zip",
         "require": ["flycast_atomiswave_bios", "save_kofnw"]
     },
     "flycast_kofxi": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/kofxi.zip",
+        "download": "https://fightcade.download/flycast/kofxi.zip",
         "require": [
             "flycast_atomiswave_bios",
             "save_kofxi"
         ]
     },
     "flycast_kov7sprt": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/kov7sprt.zip",
+        "download": "https://fightcade.download/flycast/kov7sprt.zip",
         "require": ["flycast_atomiswave_bios"]
     },
     "flycast_mslug6": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/mslug6.zip",
+        "download": "https://fightcade.download/flycast/mslug6.zip",
         "require": ["flycast_atomiswave_bios"]
     },
     "flycast_ngbc": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ngbc.zip",
+        "download": "https://fightcade.download/flycast/ngbc.zip",
         "require": ["flycast_atomiswave_bios", "save_ngbc"]
     },
     "flycast_rumblef": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/rumblef.zip",
+        "download": "https://fightcade.download/flycast/rumblef.zip",
         "require": ["flycast_atomiswave_bios", "save_rumblef"]
     },
     "flycast_rumblef2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/rumblef2.zip",
+        "download": "https://fightcade.download/flycast/rumblef2.zip",
         "require": [
             "flycast_atomiswave_bios",
             "save_rumblef2"
         ]
     },
     "flycast_samsptk": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/samsptk.zip",
+        "download": "https://fightcade.download/flycast/samsptk.zip",
         "require": [
             "flycast_atomiswave_bios",
             "save_samsptk"
         ]
     },
     "flycast_kenju": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/aw-kenju_proto-AW00.bin",
+        "download": "https://fightcade.download/flycast/aw-kenju_proto-AW00.bin",
         "require": [
             "flycast_naomi_bios",
             "flycast_atomiswave_bios",
@@ -1518,105 +1518,105 @@
         ]
     },
     "flycast_anmlbskt": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/anmlbskt.zip",
+        "download": "https://fightcade.download/flycast/anmlbskt.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_basschal": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/basschal.zip",
+        "download": "https://fightcade.download/flycast/basschal.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_blokpong": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/blokpong.zip",
+        "download": "https://fightcade.download/flycast/blokpong.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_claychal": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/claychal.zip",
+        "download": "https://fightcade.download/flycast/claychal.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_dirtypig": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dirtypig.zip",
+        "download": "https://fightcade.download/flycast/dirtypig.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_rangrmsn": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/rangrmsn.zip",
+        "download": "https://fightcade.download/flycast/rangrmsn.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_salmankt": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/salmankt.zip",
+        "download": "https://fightcade.download/flycast/salmankt.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_sprtshot": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/sprtshot.zip",
+        "download": "https://fightcade.download/flycast/sprtshot.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_sushibar": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/sushibar.zip",
+        "download": "https://fightcade.download/flycast/sushibar.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_vfurlong": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/vfurlong.zip",
+        "download": "https://fightcade.download/flycast/vfurlong.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_waidrive": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/waidrive.zip",
+        "download": "https://fightcade.download/flycast/waidrive.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_ftspeed": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/ftspeed.zip",
+        "download": "https://fightcade.download/flycast/ftspeed.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_maxspeed": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/maxspeed.zip",
+        "download": "https://fightcade.download/flycast/maxspeed.zip",
         "required": ["flycast_atomiswave_bios"]
     },
     "flycast_dc_cvs2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Capcom%20vs.%20SNK%202%20-%20Millionaire%20Fighting%202001%20(Japan).chd"
+        "download": "https://fightcade.download/flycast/dc/Capcom%20vs.%20SNK%202%20-%20Millionaire%20Fighting%202001%20(Japan).chd"
     },
     "flycast_dc_doa2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Dead%20or%20Alive%202%20(USA).chd"
+        "download": "https://fightcade.download/flycast/dc/Dead%20or%20Alive%202%20(USA).chd"
     },
     "flycast_dc_doa2_le": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Dead%20or%20Alive%202%20(Japan)%20(Shokai%20Genteiban).chd",
+        "download": "https://fightcade.download/flycast/dc/Dead%20or%20Alive%202%20(Japan)%20(Shokai%20Genteiban).chd",
         "required": ["save_dc_doa2_le"]
     },
     "flycast_dc_fvipers2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Fighting%20Vipers%202%20(Japan)%20(En%2CJa).chd",
+        "download": "https://fightcade.download/flycast/dc/Fighting%20Vipers%202%20(Japan)%20(En%2CJa).chd",
         "required": ["save_dc_fvipers2"]
     },
     "flycast_dc_mvsc2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Marvel%20vs.%20Capcom%202%20(USA).chd",
+        "download": "https://fightcade.download/flycast/dc/Marvel%20vs.%20Capcom%202%20(USA).chd",
         "required": ["save_dc_mvsc2"]
     },
     "flycast_dc_mkg": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Mortal%20Kombat%20Gold%20(USA)%20(Rev%201).chd",
+        "download": "https://fightcade.download/flycast/dc/Mortal%20Kombat%20Gold%20(USA)%20(Rev%201).chd",
         "required": ["save_dc_mkg"]
     },
     "flycast_dc_pstone2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Power%20Stone%202%20(USA).chd",
+        "download": "https://fightcade.download/flycast/dc/Power%20Stone%202%20(USA).chd",
         "required": ["save_dc_pstone2"]
     },
     "flycast_dc_plasmasword": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Plasma%20Sword%20-%20Nightmare%20of%20Bilstein%20(USA).chd",
+        "download": "https://fightcade.download/flycast/dc/Plasma%20Sword%20-%20Nightmare%20of%20Bilstein%20(USA).chd",
         "required": ["save_dc_plasmasword"]
     },
     "flycast_dc_soulclbr": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Soulcalibur%20(USA).chd",
+        "download": "https://fightcade.download/flycast/dc/Soulcalibur%20(USA).chd",
         "required": ["save_dc_soulclbr"]
     },
     "flycast_dc_techromancer": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Tech%20Romancer%20(USA).chd",
+        "download": "https://fightcade.download/flycast/dc/Tech%20Romancer%20(USA).chd",
         "required": ["save_dc_techromancer"]
     },
     "flycast_dc_vf3tb": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Virtua%20Fighter%203tb%20(USA).chd",
+        "download": "https://fightcade.download/flycast/dc/Virtua%20Fighter%203tb%20(USA).chd",
         "require": ["save_dc_vf3tb"]
     },
     "flycast_dc_vampirechronicle": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Vampire%20Chronicle%20for%20Matching%20Service%20(Japan).chd",
+        "download": "https://fightcade.download/flycast/dc/Vampire%20Chronicle%20for%20Matching%20Service%20(Japan).chd",
         "required": ["save_dc_vampirechronicle"]
     },
     "flycast_dc_kenju": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/dc_kenju.zip",
+        "download": "https://fightcade.download/flycast/dc/dc_kenju.zip",
         "require": ["flycast_dc_bios", "save_dc_kenju"],
         "extract_to": [
             {
@@ -1642,48 +1642,48 @@
         ]
     },
     "flycast_dc_pf2012": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Psychic%20Force%202012%20(USA).chd",
+        "download": "https://fightcade.download/flycast/dc/Psychic%20Force%202012%20(USA).chd",
         "require": ["flycast_dc_bios", "save_dc_pf2012"]
     },
     "flycast_dc_ready2rumbleboxing": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Ready%202%20Rumble%20Boxing%20(USA).chd",
+        "download": "https://fightcade.download/flycast/dc/Ready%202%20Rumble%20Boxing%20(USA).chd",
         "required": ["save_dc_ready2rumbleboxing"]
     },
     "flycast_dc_sonicadventure2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Sonic%20Adventure%202%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs).chd",
+        "download": "https://fightcade.download/flycast/dc/Sonic%20Adventure%202%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs).chd",
         "required": [""]
     },
     "flycast_dc_spf2x": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Super%20Puzzle%20Fighter%20II%20X%20for%20Matching%20Service%20(Japan).chd"
+        "download": "https://fightcade.download/flycast/dc/Super%20Puzzle%20Fighter%20II%20X%20for%20Matching%20Service%20(Japan).chd"
     },
     "flycast_dc_thps2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Tony%20Hawk's%20Pro%20Skater%202%20(USA).chd",
+        "download": "https://fightcade.download/flycast/dc/Tony%20Hawk's%20Pro%20Skater%202%20(USA).chd",
         "required": ["save_dc_thps2"]
     },
     "flycast_dc_totd_usa": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Typing%20of%20the%20Dead%2C%20The%20(USA).chd"
+        "download": "https://fightcade.download/flycast/dc/Typing%20of%20the%20Dead%2C%20The%20(USA).chd"
     },
     "flycast_dc_vonot": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Cyber%20Troopers%20-%20Virtual-On%20-%20Oratorio%20Tangram%20(USA).chd",
+        "download": "https://fightcade.download/flycast/dc/Cyber%20Troopers%20-%20Virtual-On%20-%20Oratorio%20Tangram%20(USA).chd",
         "required": ["save_dc_vonot"]
     },
     "flycast_dc_ready2rumbleboxing_r2": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Ready%202%20Rumble%20Boxing%20-%20Round%202%20(USA)%20(En%2CFr%2CDe).chd",
+        "download": "https://fightcade.download/flycast/dc/Ready%202%20Rumble%20Boxing%20-%20Round%202%20(USA)%20(En%2CFr%2CDe).chd",
         "required": ["save_dc_ready2rumbleboxing_r2"]
     },
     "flycast_dc_vigilante8_2o": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/dc/Vigilante%208%20-%202nd%20Offense%20(USA).chd"
+        "download": "https://fightcade.download/flycast/dc/Vigilante%208%20-%202nd%20Offense%20(USA).chd"
     },
     "flycast_naomi_bios": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/bios/naomi.zip",
+        "download": "https://fightcade.download/flycast/bios/naomi.zip",
         "copy_to": "../data/naomi.zip"
     },
     "flycast_atomiswave_bios": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/bios/awbios.zip",
+        "download": "https://fightcade.download/flycast/bios/awbios.zip",
         "copy_to": "../data/awbios.zip"
     },
     "flycast_dc_bios": {
-        "download": "https://newchallenger.net/fc2/roms/flycast/bios/dc_bios.zip",
+        "download": "https://fightcade.download/flycast/bios/dc_bios.zip",
         "extract_to": [
             {"src":"dc_boot.bin", "dst":"../Data/dc_boot.bin"},
             {"src":"dc_flash.bin", "dst":"../Data/dc_flash.bin"}
