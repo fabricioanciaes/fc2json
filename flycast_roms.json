@@ -941,6 +941,46 @@
             "flycast_naomi_bios"
         ]
     },
+    "flycast_beachspi": {
+        "download": "https://fightcade.download/flycast/beachspi.zip",
+        "require": [
+            "flycast_naomi2_bios",
+            "flycast_beachspi_chd",
+            "save_beachspi"
+        ]
+    },
+    "flycast_vf4": {
+        "download": "https://fightcade.download/flycast/vf4.zip",
+        "require": [
+            "flycast_naomi2_bios",
+            "flycast_vf4_chd",
+            "save_vf4"
+        ]
+    },
+    "flycast_vf4evo": {
+        "download": "https://fightcade.download/flycast/vf4evo.zip",
+        "require": [
+            "flycast_naomi2_bios",
+            "flycast_vf4evo_chd",
+            "save_vf4evo"
+        ]
+    },
+    "flycast_vf4tuned": {
+        "download": "https://fightcade.download/flycast/vf4tuned.zip",
+        "require": [
+            "flycast_naomi2_bios",
+            "flycast_vf4tuned_chd",
+            "save_vf4tuned"
+        ]
+    },
+    "flycast_vstrik3": {
+        "download": "https://fightcade.download/flycast/vstrik3.zip",
+        "require": [
+            "flycast_naomi2_bios",
+            "flycast_vstrik3_chd",
+            "save_vstrik3"
+        ]
+    },
     "flycast_azumanga_chd": {
         "download": "https://fightcade.download/flycast/chd_files/azumanga_chd.zip",
         "extract_to": [
@@ -1445,6 +1485,51 @@
             }
         ]
     },
+    "flycast_beachspi_chd": {
+        "download": "https://fightcade.download/flycast/chd_files/beachspi_chd.zip",
+        "extract_to": [
+            {
+                "src": "beachspi/gds-0014.chd",
+                "dst": "beachspi/gds-0014.chd"
+            }
+        ]
+    },
+    "flycast_vf4_chd": {
+        "download": "https://fightcade.download/flycast/chd_files/vf4_chd.zip",
+        "extract_to": [
+            {
+                "src": "vf4/gds-0012c.chd",
+                "dst": "vf4/gds-0012c.chd"
+            }
+        ]
+    },
+    "flycast_vf4evo_chd": {
+        "download": "https://fightcade.download/flycast/chd_files/vf4evo_chd.zip",
+        "extract_to": [
+            {
+                "src": "vf4evo/gds-0024c.chd",
+                "dst": "vf4evo/gds-0024c.chd"
+            }
+        ]
+    },
+    "flycast_vf4tuned_chd": {
+        "download": "https://fightcade.download/flycast/chd_files/vf4tuned_chd.zip",
+        "extract_to": [
+            {
+                "src": "vf4tuned/gds-0036f.chd",
+                "dst": "vf4tuned/gds-0036f.chd"
+            }
+        ]
+    },
+    "flycast_vstrik3_chd": {
+        "download": "https://fightcade.download/flycast/chd_files/vstrik3_chd.zip",
+        "extract_to": [
+            {
+                "src": "vstrik3/gds-0006.chd",
+                "dst": "vstrik3/gds-0006.chd"
+            }
+        ]
+    },
     "flycast_demofist": {
         "download": "https://fightcade.download/flycast/demofist.zip",
         "require": ["flycast_atomiswave_bios"]
@@ -1876,5 +1961,29 @@
     "save_vtennis2": {
         "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/vtennis2.state.net",
         "copy_to": "../data/vtennis2.state.net"
+    },
+    "save_beachspi": {
+        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/beachspi.state.net",
+        "copy_to": "../data/beachspi.state.net"
+    },
+    "save_vf4": {
+        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/vf4.state.net",
+        "copy_to": "../data/vf4.state.net"
+    },
+    "save_vf4evo": {
+        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/vf4evo.state.net",
+        "copy_to": "../data/vf4evo.state.net"
+    },
+    "save_vf4tuned": {
+        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/vf4tuned.state.net",
+        "copy_to": "../data/vf4tuned.state.net"
+    },
+    "save_vstrik3": {
+        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/vstrik3.state.net",
+        "copy_to": "../data/vstrik3.state.net"
+    },
+    "flycast_naomi2_bios": {
+        "download": "https://fightcade.download/flycast/bios/naomi2.zip",
+        "copy_to": "../data/naomi2.zip"
     }
 }

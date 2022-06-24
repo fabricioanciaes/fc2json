@@ -5318,6 +5318,12 @@
   "cybots": {
     "download": "https://fightcade.download/fbneo/arcade/cybots.zip"
   },
+  "cybotsam": {
+    "download": "https://fightcade.download/fbneo/arcade/cybotsam.zip",
+    "require": [
+      "cybots"
+    ]
+  },
   "cybotsud": {
     "download": "https://fightcade.download/fbneo/arcade/cybotsud.zip",
     "require": [
@@ -6116,6 +6122,12 @@
   "dinorex": {
     "download": "https://fightcade.download/fbneo/arcade/dinorex.zip"
   },
+  "dinore": {
+    "download": "https://fightcade.download/fbneo/arcade/dinore.zip",
+    "require": [
+      "dinore"
+    ]
+  },
   "dinohunt": {
     "download": "https://fightcade.download/fbneo/arcade/dinohunt.zip",
     "require": [
@@ -6588,6 +6600,12 @@
     "download": "https://fightcade.download/fbneo/arcade/doubledr.zip",
     "require": [
       "neogeo"
+    ]
+  },
+  "doubledrsp": {
+    "download": "https://fightcade.download/fbneo/arcade/doubledrsp.zip",
+    "require": [
+      "doubledr"
     ]
   },
   "ddragonu": {
@@ -13184,6 +13202,12 @@
       "kof98"
     ]
   },
+  "kof98ratio": {
+    "download": "https://fightcade.download/fbneo/arcade/kof98ratio.zip",
+    "require": [
+      "kof98"
+    ]
+  },
   "kof98mix": {
     "download": "https://fightcade.download/fbneo/arcade/kof98mix.zip",
     "require": [
@@ -15188,6 +15212,42 @@
       "neogeo"
     ]
   },
+  "mslug2unity": {
+    "download": "https://fightcade.download/fbneo/arcade/mslug2unity.zip",
+    "require": [
+      "mslug2"
+    ]
+  },
+  "mslug3unity": {
+    "download": "https://fightcade.download/fbneo/arcade/mslug3unity.zip",
+    "require": [
+      "mslug3"
+    ]
+  },
+  "mslug4unity": {
+    "download": "https://fightcade.download/fbneo/arcade/mslug4unity.zip",
+    "require": [
+      "mslug4"
+    ]
+  },
+  "mslug5unity": {
+    "download": "https://fightcade.download/fbneo/arcade/mslug5unity.zip",
+    "require": [
+      "mslug5"
+    ]
+  },
+  "mslugunity": {
+    "download": "https://fightcade.download/fbneo/arcade/mslugunity.zip",
+    "require": [
+      "mslug"
+    ]
+  },
+  "mslugxunity": {
+    "download": "https://fightcade.download/fbneo/arcade/mslugxunity.zip",
+    "require": [
+      "mslugx"
+    ]
+  },
   "mslug2t": {
     "download": "https://fightcade.download/fbneo/arcade/mslug2t.zip",
     "require": [
@@ -15199,6 +15259,15 @@
     "require": [
       "mslug3"
     ]
+  },
+  "mslug3rb": {
+    "download": "https://fightcade.download/fbneo/arcade/mslug3rb.zip",
+    "require": [
+      "mslug3lw"
+    ]
+  },
+  "mslug3lw": {
+    "download": "https://fightcade.download/fbneo/arcade/mslug3lw.zip"
   },
   "mslug3h": {
     "download": "https://fightcade.download/fbneo/arcade/mslug3h.zip",
@@ -15236,8 +15305,20 @@
       "mslug4"
     ]
   },
+  "mslug4ar": {
+    "download": "https://fightcade.download/fbneo/arcade/mslug4ar.zip",
+    "require": [
+      "mslug4a"
+    ]
+  },
   "mslug4": {
     "download": "https://fightcade.download/fbneo/arcade/mslug4.zip",
+    "require": [
+      "neogeo"
+    ]
+  },
+  "mslug4a": {
+    "download": "https://fightcade.download/fbneo/arcade/mslug4a.zip",
     "require": [
       "neogeo"
     ]
@@ -15283,6 +15364,18 @@
   },
   "mslug5w": {
     "download": "https://fightcade.download/fbneo/arcade/mslug5w.zip",
+    "require": [
+      "mslug5"
+    ]
+  },
+  "mslug5sgf": {
+    "download": "https://fightcade.download/fbneo/arcade/mslug5sgf.zip",
+    "require": [
+      "mslug5"
+    ]
+  },
+  "mslug5wd": {
+    "download": "https://fightcade.download/fbneo/arcade/mslug5wd.zip",
     "require": [
       "mslug5"
     ]
@@ -24311,6 +24404,10 @@
   "sfiii2": {
     "download": "https://fightcade.download/fbneo/arcade/sfiii2.zip"
   },
+  "sfiii2bh": {
+    "download": "https://fightcade.download/fbneo/arcade/sfiii2bh.zip",
+    "require": ["sfiii2", "sfiii"]
+  },
   "sfiii4n": {
     "download": "https://fightcade.download/fbneo/arcade/sfiii4n.zip",
     "require": [
@@ -24325,6 +24422,12 @@
   },
   "sfiii3": {
     "download": "https://fightcade.download/fbneo/arcade/sfiii3.zip"
+  },
+  "sfiii3bh": {
+    "download": "https://fightcade.download/fbneo/arcade/sfiii3bh.zip",
+    "require": [
+      "sfiii3"
+    ]
   },
   "sfiii3jr1": {
     "download": "https://fightcade.download/fbneo/arcade/sfiii3jr1.zip",
@@ -24581,8 +24684,14 @@
       "sfa3"
     ]
   },
+  "sfz3mix": {
+    "download": "https://fightcade.download/fbneo/arcade/sfz3mix.zip",
+    "require": [
+      "sfa3"
+    ]
+  },
   "sfa3aism": {
-    "download": "http://newchallenger.net/fc2/roms/arcade/sfa3aism.zip",
+    "download": "http://fightcade.download/fbneo/arcade/sfa3aism.zip",
     "require": [
       "sfa3"
     ]
@@ -25687,6 +25796,12 @@
   },
   "ssf2xjr1": {
     "download": "https://fightcade.download/fbneo/arcade/ssf2xjr1.zip",
+    "require": [
+      "ssf2t"
+    ]
+  },
+  "ssf2xjr1trn": {
+    "download": "https://fightcade.download/fbneo/arcade/ssf2xjr1trn.zip",
     "require": [
       "ssf2t"
     ]
@@ -27231,6 +27346,12 @@
     "download": "https://fightcade.download/fbneo/arcade/kof2001.zip",
     "require": [
       "neogeo"
+    ]
+  },
+  "kof2k1rp": {
+    "download": "https://fightcade.download/fbneo/arcade/kof2k1rp.zip",
+    "require": [
+      "kof2001"
     ]
   },
   "kf2k1pls": {
@@ -29081,8 +29202,8 @@
       "umk3"
     ]
   },
-  "umk3pb1": {
-    "download": "https://fightcade.download/fbneo/arcade/umk3pb1.zip",
+  "umk3uk": {
+    "download": "https://fightcade.download/fbneo/arcade/umk3uk.zip",
     "require": [
       "umk3"
     ]
@@ -31431,16 +31552,25 @@
     "download": "https://fightcade.download/fbneo/arcade/ssf2tnl.zip"
   },
   "xmcotabh": {
-      "download": "https://fightcade.download/fbneo/arcade/xmcotabh.zip"
+      "download": "https://fightcade.download/fbneo/arcade/xmcotabh.zip",
+      "require": [
+        "xmcota"
+      ]
   },
   "nbamht": {
       "download": "https://fightcade.download/fbneo/arcade/nbamht.zip"
   },
   "vsavae": {
-      "download": "https://fightcade.download/fbneo/arcade/vsavae.zip"
+      "download": "https://fightcade.download/fbneo/arcade/vsavae.zip",
+      "require": [
+        "vsav"
+      ]
   },
   "mshbh": {
-      "download": "https://fightcade.download/fbneo/arcade/mshbh.zip"
+      "download": "https://fightcade.download/fbneo/arcade/mshbh.zip",
+      "require": [
+        "msh"
+      ]
   },
   "wwfmania": {
       "download": "https://fightcade.download/fbneo/arcade/wwfmania.zip"
@@ -31452,22 +31582,40 @@
       "download": "https://fightcade.download/fbneo/arcade/openice.zip"
   },
   "hsf2pp": {
-      "download": "https://fightcade.download/fbneo/arcade/hsf2pp.zip"
+      "download": "https://fightcade.download/fbneo/arcade/hsf2pp.zip",
+      "require": [
+        "hsf2"
+      ]
   },
   "wwfmanac": {
-      "download": "https://fightcade.download/fbneo/arcade/wwfmanac.zip"
+      "download": "https://fightcade.download/fbneo/arcade/wwfmanac.zip",
+      "require": [
+        "wwfmania"
+      ]
   },
   "msvsfbh": {
-      "download": "https://fightcade.download/fbneo/arcade/msvsfbh.zip"
+      "download": "https://fightcade.download/fbneo/arcade/msvsfbh.zip",
+      "require": [
+        "mshvsf"
+      ]
   },
   "mvscbh": {
-      "download": "https://fightcade.download/fbneo/arcade/mvscbh.zip"
+      "download": "https://fightcade.download/fbneo/arcade/mvscbh.zip",
+      "require": [
+        "mvsc"
+      ]
   },
   "vampjbh": {
-      "download": "https://fightcade.download/fbneo/arcade/vampjbh.zip"
+      "download": "https://fightcade.download/fbneo/arcade/vampjbh.zip",
+      "require": [
+        "dstlk"
+      ]
   },
   "sfa3sp2": {
-      "download": "https://fightcade.download/fbneo/arcade/sfa3sp2.zip"
+      "download": "https://fightcade.download/fbneo/arcade/sfa3sp2.zip",
+      "require": [
+        "sfa3"
+      ]
   },
   "jojobanrb": {
     "download": "https://fightcade.download/fbneo/arcade/jojobanrb.zip",
@@ -31491,7 +31639,7 @@
   },
   "brkrevext": {
       "download": "https://fightcade.download/fbneo/arcade/brkrevext.zip",
-      "require":["neogeo"]
+      "require":["neogeo", "breakrev"]
   },
   "mslug2fm": {
       "download": "https://fightcade.download/fbneo/arcade/mslug2fm.zip",
@@ -31507,14 +31655,11 @@
   },
   "marmatcp": {
       "download": "https://fightcade.download/fbneo/arcade/marmatcp.zip",
-      "require":["pgm"]
+      "require":["pgm", "martmast"]
   },
   "ddsoma4ppdec": {
       "download": "https://fightcade.download/fbneo/arcade/ddsoma4ppdec.zip",
       "require":["ddsom"]
-  },
-  "striv": {
-      "download": "https://fightcade.download/fbneo/arcade/striv.zip"
   },
   "spf2xpri": {
       "download": "https://fightcade.download/fbneo/arcade/spf2xpri.zip",
