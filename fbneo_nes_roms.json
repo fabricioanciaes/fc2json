@@ -1,4589 +1,4616 @@
 {
-  "nes_3dbatworru": {
-    "download": "https://fightcade.download/fbneo/nes/3dbatworru.zip"
-  },
-  "nes_8bitrhylan": {
-    "download": "https://fightcade.download/fbneo/nes/8bitrhylan.zip"
-  },
-  "nes_8eyes": {
-    "download": "https://fightcade.download/fbneo/nes/8eyes.zip"
-  },
-  "nes_10yardfight": {
+  "10yardfight": {
     "download": "https://fightcade.download/fbneo/nes/10yardfight.zip"
   },
-  "nes_720degrees": {
-    "download": "https://fightcade.download/fbneo/nes/720degrees.zip"
-  },
-  "nes_1942": {
+  "1942": {
     "download": "https://fightcade.download/fbneo/nes/1942.zip"
   },
-  "nes_1943": {
+  "1943": {
     "download": "https://fightcade.download/fbneo/nes/1943.zip"
   },
-  "nes_2010": {
+  "2010": {
     "download": "https://fightcade.download/fbneo/nes/2010.zip"
   },
-  "nes_abadox": {
+  "3dbatworru": {
+    "download": "https://fightcade.download/fbneo/nes/3dbatworru.zip"
+  },
+  "720degrees": {
+    "download": "https://fightcade.download/fbneo/nes/720degrees.zip"
+  },
+  "8bitrhylan": {
+    "download": "https://fightcade.download/fbneo/nes/8bitrhylan.zip"
+  },
+  "8eyes": {
+    "download": "https://fightcade.download/fbneo/nes/8eyes.zip"
+  },
+  "abadox": {
     "download": "https://fightcade.download/fbneo/nes/abadox.zip"
   },
-  "nes_actio53vol1stbu": {
+  "actio53vol1stbu": {
     "download": "https://fightcade.download/fbneo/nes/actio53vol1stbu.zip"
   },
-  "nes_actio53vol2doac": {
+  "actio53vol2doac": {
     "download": "https://fightcade.download/fbneo/nes/actio53vol2doac.zip"
   },
-  "nes_actio53vol3retw": {
+  "actio53vol3retw": {
     "download": "https://fightcade.download/fbneo/nes/actio53vol3retw.zip"
   },
-  "nes_actioinnewyor": {
+  "actioinnewyor": {
     "download": "https://fightcade.download/fbneo/nes/actioinnewyor.zip"
   },
-  "nes_action52": {
+  "action52": {
     "download": "https://fightcade.download/fbneo/nes/action52.zip"
   },
-  "nes_addamfam": {
+  "addamfam": {
     "download": "https://fightcade.download/fbneo/nes/addamfam.zip"
   },
-  "nes_addamfampugsschu": {
+  "addamfampugsschu": {
     "download": "https://fightcade.download/fbneo/nes/addamfampugsschu.zip"
   },
-  "nes_advenbaybil": {
+  "advenbaybil": {
     "download": "https://fightcade.download/fbneo/nes/advenbaybil.zip"
   },
-  "nes_advendinrik": {
+  "advendinrik": {
     "download": "https://fightcade.download/fbneo/nes/advendinrik.zip"
   },
-  "nes_advengilsisl": {
+  "advengilsisl": {
     "download": "https://fightcade.download/fbneo/nes/advengilsisl.zip"
   },
-  "nes_adveninmagkin": {
+  "adveninmagkin": {
     "download": "https://fightcade.download/fbneo/nes/adveninmagkin.zip"
   },
-  "nes_advenisl3": {
+  "advenisl3": {
     "download": "https://fightcade.download/fbneo/nes/advenisl3.zip"
   },
-  "nes_advenislii": {
+  "advenislii": {
     "download": "https://fightcade.download/fbneo/nes/advenislii.zip"
   },
-  "nes_advenisliiu": {
+  "advenisliiu": {
     "download": "https://fightcade.download/fbneo/nes/advenisliiu.zip"
   },
-  "nes_advenisliv": {
+  "advenisliv": {
     "download": "https://fightcade.download/fbneo/nes/advenisliv.zip"
   },
-  "nes_advenislivj": {
+  "advenislivj": {
     "download": "https://fightcade.download/fbneo/nes/advenislivj.zip"
   },
-  "nes_advenlol": {
+  "advenlol": {
     "download": "https://fightcade.download/fbneo/nes/advenlol.zip"
   },
-  "nes_advenlol2": {
+  "advenlol2": {
     "download": "https://fightcade.download/fbneo/nes/advenlol2.zip"
   },
-  "nes_advenlol3": {
+  "advenlol3": {
     "download": "https://fightcade.download/fbneo/nes/advenlol3.zip"
   },
-  "nes_advenradgra": {
+  "advenradgra": {
     "download": "https://fightcade.download/fbneo/nes/advenradgra.zip"
   },
-  "nes_advenrocandbulandfr": {
+  "advenrocandbulandfr": {
     "download": "https://fightcade.download/fbneo/nes/advenrocandbulandfr.zip"
   },
-  "nes_adventomsaw": {
+  "adventomsaw": {
     "download": "https://fightcade.download/fbneo/nes/adventomsaw.zip"
   },
-  "nes_adventureisland": {
+  "adventureisland": {
     "download": "https://fightcade.download/fbneo/nes/adventureisland.zip"
   },
-  "nes_afterburner": {
+  "afterburner": {
     "download": "https://fightcade.download/fbneo/nes/afterburner.zip"
   },
-  "nes_afterburnerii": {
+  "afterburnerii": {
     "download": "https://fightcade.download/fbneo/nes/afterburnerii.zip"
   },
-  "nes_airfortress": {
+  "airfortress": {
     "download": "https://fightcade.download/fbneo/nes/airfortress.zip"
   },
-  "nes_airwolf": {
+  "airwolf": {
     "download": "https://fightcade.download/fbneo/nes/airwolf.zip"
   },
-  "nes_airwolfj": {
+  "airwolfj": {
     "download": "https://fightcade.download/fbneo/nes/airwolfj.zip"
   },
-  "nes_airwolft": {
+  "airwolft": {
     "download": "https://fightcade.download/fbneo/nes/airwolft.zip"
   },
-  "nes_akira": {
+  "akira": {
     "download": "https://fightcade.download/fbneo/nes/akira.zip"
   },
-  "nes_akiraj": {
+  "akiraj": {
     "download": "https://fightcade.download/fbneo/nes/akiraj.zip"
   },
-  "nes_akumaden": {
+  "akumaden": {
     "download": "https://fightcade.download/fbneo/nes/akumaden.zip"
   },
-  "nes_akumadenc": {
+  "akumadenc": {
     "download": "https://fightcade.download/fbneo/nes/akumadenc.zip"
   },
-  "nes_akumadenj": {
+  "akumadenj": {
     "download": "https://fightcade.download/fbneo/nes/akumadenj.zip"
   },
-  "nes_akumajoudracula": {
+  "akumajoudracula": {
     "download": "https://fightcade.download/fbneo/nes/akumajoudracula.zip"
   },
-  "nes_akumajoudraculac": {
+  "akumajoudraculac": {
     "download": "https://fightcade.download/fbneo/nes/akumajoudraculac.zip"
   },
-  "nes_akumaspe": {
+  "akumaspe": {
     "download": "https://fightcade.download/fbneo/nes/akumaspe.zip"
   },
-  "nes_aladdin": {
+  "aladdin": {
     "download": "https://fightcade.download/fbneo/nes/aladdin.zip"
   },
-  "nes_aladdin4": {
+  "aladdin4": {
     "download": "https://fightcade.download/fbneo/nes/aladdin4.zip"
   },
-  "nes_alfommagla": {
+  "alfommagla": {
     "download": "https://fightcade.download/fbneo/nes/alfommagla.zip"
   },
-  "nes_alfonsarcadv": {
+  "alfonsarcadv": {
     "download": "https://fightcade.download/fbneo/nes/alfonsarcadv.zip"
   },
-  "nes_alfredchicken": {
+  "alfredchicken": {
     "download": "https://fightcade.download/fbneo/nes/alfredchicken.zip"
   },
-  "nes_alien3": {
+  "alien3": {
     "download": "https://fightcade.download/fbneo/nes/alien3.zip"
   },
-  "nes_aliensyndrome": {
+  "aliensyndrome": {
     "download": "https://fightcade.download/fbneo/nes/aliensyndrome.zip"
   },
-  "nes_almosthero": {
+  "almosthero": {
     "download": "https://fightcade.download/fbneo/nes/almosthero.zip"
   },
-  "nes_alphamission": {
+  "alphamission": {
     "download": "https://fightcade.download/fbneo/nes/alphamission.zip"
   },
-  "nes_alterego": {
+  "alterego": {
     "download": "https://fightcade.download/fbneo/nes/alterego.zip"
   },
-  "nes_alunsjrturra": {
+  "alunsjrturra": {
     "download": "https://fightcade.download/fbneo/nes/alunsjrturra.zip"
   },
-  "nes_amagon": {
+  "amagon": {
     "download": "https://fightcade.download/fbneo/nes/amagon.zip"
   },
-  "nes_amazorundie": {
+  "amazorundie": {
     "download": "https://fightcade.download/fbneo/nes/amazorundie.zip"
   },
-  "nes_amazorundiej": {
+  "amazorundiej": {
     "download": "https://fightcade.download/fbneo/nes/amazorundiej.zip"
   },
-  "nes_americandream": {
+  "americandream": {
     "download": "https://fightcade.download/fbneo/nes/americandream.zip"
   },
-  "nes_americandreamj": {
+  "americandreamj": {
     "download": "https://fightcade.download/fbneo/nes/americandreamj.zip"
   },
-  "nes_amerigla": {
+  "amerigla": {
     "download": "https://fightcade.download/fbneo/nes/amerigla.zip"
   },
-  "nes_antaradv": {
+  "antaradv": {
     "download": "https://fightcade.download/fbneo/nes/antaradv.zip"
   },
-  "nes_anticipation": {
+  "anticipation": {
     "download": "https://fightcade.download/fbneo/nes/anticipation.zip"
   },
-  "nes_archon": {
+  "archon": {
     "download": "https://fightcade.download/fbneo/nes/archon.zip"
   },
-  "nes_archriv": {
+  "archriv": {
     "download": "https://fightcade.download/fbneo/nes/archriv.zip"
   },
-  "nes_argosnosenshic": {
+  "argosnosenshic": {
     "download": "https://fightcade.download/fbneo/nes/argosnosenshic.zip"
   },
-  "nes_argus": {
+  "argus": {
     "download": "https://fightcade.download/fbneo/nes/argus.zip"
   },
-  "nes_arkanoid": {
+  "arkanoid": {
     "download": "https://fightcade.download/fbneo/nes/arkanoid.zip"
   },
-  "nes_arkanoidii": {
+  "arkanoidii": {
     "download": "https://fightcade.download/fbneo/nes/arkanoidii.zip"
   },
-  "nes_arkistasring": {
+  "arkistasring": {
     "download": "https://fightcade.download/fbneo/nes/arkistasring.zip"
   },
-  "nes_armadillo": {
+  "armadillo": {
     "download": "https://fightcade.download/fbneo/nes/armadillo.zip"
   },
-  "nes_armadilloj": {
+  "armadilloj": {
     "download": "https://fightcade.download/fbneo/nes/armadilloj.zip"
   },
-  "nes_armeddrafanvil": {
+  "armeddrafanvil": {
     "download": "https://fightcade.download/fbneo/nes/armeddrafanvil.zip"
   },
-  "nes_armeddrafanvilj": {
+  "armeddrafanvilj": {
     "download": "https://fightcade.download/fbneo/nes/armeddrafanvilj.zip"
   },
-  "nes_asmikkunland": {
+  "asmikkunland": {
     "download": "https://fightcade.download/fbneo/nes/asmikkunland.zip"
   },
-  "nes_aspectstarn": {
+  "aspectstarn": {
     "download": "https://fightcade.download/fbneo/nes/aspectstarn.zip"
   },
-  "nes_assimilate": {
+  "assimilate": {
     "download": "https://fightcade.download/fbneo/nes/assimilate.zip"
   },
-  "nes_asterix": {
+  "asterix": {
     "download": "https://fightcade.download/fbneo/nes/asterix.zip"
   },
-  "nes_astrofan": {
+  "astrofan": {
     "download": "https://fightcade.download/fbneo/nes/astrofan.zip"
   },
-  "nes_astrofanj": {
+  "astrofanj": {
     "download": "https://fightcade.download/fbneo/nes/astrofanj.zip"
   },
-  "nes_astrorobosasa": {
+  "astrorobosasa": {
     "download": "https://fightcade.download/fbneo/nes/astrorobosasa.zip"
   },
-  "nes_astyanax": {
+  "astyanax": {
     "download": "https://fightcade.download/fbneo/nes/astyanax.zip"
   },
-  "nes_athena": {
+  "athena": {
     "download": "https://fightcade.download/fbneo/nes/athena.zip"
   },
-  "nes_atlantisnonazo": {
+  "atlantisnonazo": {
     "download": "https://fightcade.download/fbneo/nes/atlantisnonazo.zip"
   },
-  "nes_atlantisnonazoj": {
+  "atlantisnonazoj": {
     "download": "https://fightcade.download/fbneo/nes/atlantisnonazoj.zip"
   },
-  "nes_attacanigak": {
+  "attacanigak": {
     "download": "https://fightcade.download/fbneo/nes/attacanigak.zip"
   },
-  "nes_attacanigakj": {
+  "attacanigakj": {
     "download": "https://fightcade.download/fbneo/nes/attacanigakj.zip"
   },
-  "nes_attackiltom": {
+  "attackiltom": {
     "download": "https://fightcade.download/fbneo/nes/attackiltom.zip"
   },
-  "nes_avmahjongclubc": {
+  "avmahjongclubc": {
     "download": "https://fightcade.download/fbneo/nes/avmahjongclubc.zip"
   },
-  "nes_babelnotou": {
+  "babelnotou": {
     "download": "https://fightcade.download/fbneo/nes/babelnotou.zip"
   },
-  "nes_babyboomer": {
+  "babyboomer": {
     "download": "https://fightcade.download/fbneo/nes/babyboomer.zip"
   },
-  "nes_backfut": {
+  "backfut": {
     "download": "https://fightcade.download/fbneo/nes/backfut.zip"
   },
-  "nes_backfutpariiiii": {
+  "backfutpariiiii": {
     "download": "https://fightcade.download/fbneo/nes/backfutpariiiii.zip"
   },
-  "nes_badapple": {
+  "badapple": {
     "download": "https://fightcade.download/fbneo/nes/badapple.zip"
   },
-  "nes_baddudes": {
+  "baddudes": {
     "download": "https://fightcade.download/fbneo/nes/baddudes.zip"
   },
-  "nes_badnewbas": {
+  "badnewbas": {
     "download": "https://fightcade.download/fbneo/nes/badnewbas.zip"
   },
-  "nes_badstrbra": {
+  "badstrbra": {
     "download": "https://fightcade.download/fbneo/nes/badstrbra.zip"
   },
-  "nes_ballblazer": {
+  "ballblazer": {
     "download": "https://fightcade.download/fbneo/nes/ballblazer.zip"
   },
-  "nes_balloonfight": {
+  "balloonfight": {
     "download": "https://fightcade.download/fbneo/nes/balloonfight.zip"
   },
-  "nes_balloonmonster": {
+  "balloonmonster": {
     "download": "https://fightcade.download/fbneo/nes/balloonmonster.zip"
   },
-  "nes_ballsto": {
+  "ballsto": {
     "download": "https://fightcade.download/fbneo/nes/ballsto.zip"
   },
-  "nes_baltron": {
+  "baltron": {
     "download": "https://fightcade.download/fbneo/nes/baltron.zip"
   },
-  "nes_banana": {
+  "banana": {
     "download": "https://fightcade.download/fbneo/nes/banana.zip"
   },
-  "nes_bananaprince": {
+  "bananaprince": {
     "download": "https://fightcade.download/fbneo/nes/bananaprince.zip"
   },
-  "nes_bananaprinceg": {
+  "bananaprinceg": {
     "download": "https://fightcade.download/fbneo/nes/bananaprinceg.zip"
   },
-  "nes_bananaprincej": {
+  "bananaprincej": {
     "download": "https://fightcade.download/fbneo/nes/bananaprincej.zip"
   },
-  "nes_bandikinancchi": {
+  "bandikinancchi": {
     "download": "https://fightcade.download/fbneo/nes/bandikinancchi.zip"
   },
-  "nes_barkebilstrish": {
+  "barkebilstrish": {
     "download": "https://fightcade.download/fbneo/nes/barkebilstrish.zip"
   },
-  "nes_baseballstars": {
+  "baseballstars": {
     "download": "https://fightcade.download/fbneo/nes/baseballstars.zip"
   },
-  "nes_basebsim1000": {
+  "basebsim1000": {
     "download": "https://fightcade.download/fbneo/nes/basebsim1000.zip"
   },
-  "nes_basebstaii": {
+  "basebstaii": {
     "download": "https://fightcade.download/fbneo/nes/basebstaii.zip"
   },
-  "nes_basesloaded": {
+  "basesloaded": {
     "download": "https://fightcade.download/fbneo/nes/basesloaded.zip"
   },
-  "nes_basesloaii": {
+  "basesloaii": {
     "download": "https://fightcade.download/fbneo/nes/basesloaii.zip"
   },
-  "nes_basewars": {
+  "basewars": {
     "download": "https://fightcade.download/fbneo/nes/basewars.zip"
   },
-  "nes_bashibaz": {
+  "bashibaz": {
     "download": "https://fightcade.download/fbneo/nes/bashibaz.zip"
   },
-  "nes_bassedefadv": {
+  "bassedefadv": {
     "download": "https://fightcade.download/fbneo/nes/bassedefadv.zip"
   },
-  "nes_batmanreturns": {
+  "batmanreturns": {
     "download": "https://fightcade.download/fbneo/nes/batmanreturns.zip"
   },
-  "nes_batmaretjok": {
+  "batmaretjok": {
     "download": "https://fightcade.download/fbneo/nes/batmaretjok.zip"
   },
-  "nes_batmavidgam": {
+  "batmavidgam": {
     "download": "https://fightcade.download/fbneo/nes/batmavidgam.zip"
   },
-  "nes_batmavidgamc": {
+  "batmavidgamc": {
     "download": "https://fightcade.download/fbneo/nes/batmavidgamc.zip"
   },
-  "nes_batmavidgamj": {
+  "batmavidgamj": {
     "download": "https://fightcade.download/fbneo/nes/batmavidgamj.zip"
   },
-  "nes_batsuterii": {
+  "batsuterii": {
     "download": "https://fightcade.download/fbneo/nes/batsuterii.zip"
   },
-  "nes_battldoudra": {
+  "battldoudra": {
     "download": "https://fightcade.download/fbneo/nes/battldoudra.zip"
   },
-  "nes_battlebaseball": {
+  "battlebaseball": {
     "download": "https://fightcade.download/fbneo/nes/battlebaseball.zip"
   },
-  "nes_battlechess": {
+  "battlechess": {
     "download": "https://fightcade.download/fbneo/nes/battlechess.zip"
   },
-  "nes_battlecity": {
+  "battlecity": {
     "download": "https://fightcade.download/fbneo/nes/battlecity.zip"
   },
-  "nes_battleformula": {
+  "battleformula": {
     "download": "https://fightcade.download/fbneo/nes/battleformula.zip"
   },
-  "nes_battleship": {
+  "battleship": {
     "download": "https://fightcade.download/fbneo/nes/battleship.zip"
   },
-  "nes_battletank": {
+  "battletank": {
     "download": "https://fightcade.download/fbneo/nes/battletank.zip"
   },
-  "nes_battletoads": {
+  "battletoads": {
     "download": "https://fightcade.download/fbneo/nes/battletoads.zip"
   },
-  "nes_battlkid": {
+  "battlkid": {
     "download": "https://fightcade.download/fbneo/nes/battlkid.zip"
   },
-  "nes_battlkid2": {
+  "battlkid2": {
     "download": "https://fightcade.download/fbneo/nes/battlkid2.zip"
   },
-  "nes_battloly": {
+  "battloly": {
     "download": "https://fightcade.download/fbneo/nes/battloly.zip"
   },
-  "nes_bbbabes": {
+  "bbbabes": {
     "download": "https://fightcade.download/fbneo/nes/bbbabes.zip"
   },
-  "nes_beautandbea": {
+  "beautandbea": {
     "download": "https://fightcade.download/fbneo/nes/beautandbea.zip"
   },
-  "nes_bee52": {
+  "bee52": {
     "download": "https://fightcade.download/fbneo/nes/bee52.zip"
   },
-  "nes_beerslinger": {
+  "beerslinger": {
     "download": "https://fightcade.download/fbneo/nes/beerslinger.zip"
   },
-  "nes_beetlejuice": {
+  "beetlejuice": {
     "download": "https://fightcade.download/fbneo/nes/beetlejuice.zip"
   },
-  "nes_bibleadventures": {
+  "bibleadventures": {
     "download": "https://fightcade.download/fbneo/nes/bibleadventures.zip"
   },
-  "nes_biblebuffet": {
+  "biblebuffet": {
     "download": "https://fightcade.download/fbneo/nes/biblebuffet.zip"
   },
-  "nes_bigfoot": {
+  "bigfoot": {
     "download": "https://fightcade.download/fbneo/nes/bigfoot.zip"
   },
-  "nes_bignoscav": {
+  "bignoscav": {
     "download": "https://fightcade.download/fbneo/nes/bignoscav.zip"
   },
-  "nes_bignosfreout": {
+  "bignosfreout": {
     "download": "https://fightcade.download/fbneo/nes/bignosfreout.zip"
   },
-  "nes_billtedsexcvigaad": {
+  "billtedsexcvigaad": {
     "download": "https://fightcade.download/fbneo/nes/billtedsexcvigaad.zip"
   },
-  "nes_binaryland": {
+  "binaryland": {
     "download": "https://fightcade.download/fbneo/nes/binaryland.zip"
   },
-  "nes_bioforceape": {
+  "bioforceape": {
     "download": "https://fightcade.download/fbneo/nes/bioforceape.zip"
   },
-  "nes_biomirbokupa": {
+  "biomirbokupa": {
     "download": "https://fightcade.download/fbneo/nes/biomirbokupa.zip"
   },
-  "nes_bioniccommando": {
+  "bioniccommando": {
     "download": "https://fightcade.download/fbneo/nes/bioniccommando.zip"
   },
-  "nes_bionicom": {
+  "bionicom": {
     "download": "https://fightcade.download/fbneo/nes/bionicom.zip"
   },
-  "nes_biosendan": {
+  "biosendan": {
     "download": "https://fightcade.download/fbneo/nes/biosendan.zip"
   },
-  "nes_birdweek": {
+  "birdweek": {
     "download": "https://fightcade.download/fbneo/nes/birdweek.zip"
   },
-  "nes_blackbas2": {
+  "blackbas2": {
     "download": "https://fightcade.download/fbneo/nes/blackbas2.zip"
   },
-  "nes_blackbas2j": {
+  "blackbas2j": {
     "download": "https://fightcade.download/fbneo/nes/blackbas2j.zip"
   },
-  "nes_blackbassthe": {
+  "blackbassthe": {
     "download": "https://fightcade.download/fbneo/nes/blackbassthe.zip"
   },
-  "nes_blackboxcha": {
+  "blackboxcha": {
     "download": "https://fightcade.download/fbneo/nes/blackboxcha.zip"
   },
-  "nes_bladebuster": {
+  "bladebuster": {
     "download": "https://fightcade.download/fbneo/nes/bladebuster.zip"
   },
-  "nes_bladesofsteel": {
+  "bladesofsteel": {
     "download": "https://fightcade.download/fbneo/nes/bladesofsteel.zip"
   },
-  "nes_blastermaster": {
+  "blastermaster": {
     "download": "https://fightcade.download/fbneo/nes/blastermaster.zip"
   },
-  "nes_blobman": {
+  "blobman": {
     "download": "https://fightcade.download/fbneo/nes/blobman.zip"
   },
-  "nes_blockage": {
+  "blockage": {
     "download": "https://fightcade.download/fbneo/nes/blockage.zip"
   },
-  "nes_blodilan": {
+  "blodilan": {
     "download": "https://fightcade.download/fbneo/nes/blodilan.zip"
   },
-  "nes_bloodfall": {
+  "bloodfall": {
     "download": "https://fightcade.download/fbneo/nes/bloodfall.zip"
   },
-  "nes_blowemout": {
+  "blowemout": {
     "download": "https://fightcade.download/fbneo/nes/blowemout.zip"
   },
-  "nes_bluemarlinthe": {
+  "bluemarlinthe": {
     "download": "https://fightcade.download/fbneo/nes/bluemarlinthe.zip"
   },
-  "nes_bluesbro": {
+  "bluesbro": {
     "download": "https://fightcade.download/fbneo/nes/bluesbro.zip"
   },
-  "nes_blueshadow": {
+  "blueshadow": {
     "download": "https://fightcade.download/fbneo/nes/blueshadow.zip"
   },
-  "nes_bobl": {
+  "bobl": {
     "download": "https://fightcade.download/fbneo/nes/bobl.zip"
   },
-  "nes_bokosukawars": {
+  "bokosukawars": {
     "download": "https://fightcade.download/fbneo/nes/bokosukawars.zip"
   },
-  "nes_bomberman": {
+  "bomberman": {
     "download": "https://fightcade.download/fbneo/nes/bomberman.zip"
   },
-  "nes_bombermanii": {
+  "bombermanii": {
     "download": "https://fightcade.download/fbneo/nes/bombermanii.zip"
   },
-  "nes_bombsweeper": {
+  "bombsweeper": {
     "download": "https://fightcade.download/fbneo/nes/bombsweeper.zip"
   },
-  "nes_bonksadventure": {
+  "bonksadventure": {
     "download": "https://fightcade.download/fbneo/nes/bonksadventure.zip"
   },
-  "nes_boobykids": {
+  "boobykids": {
     "download": "https://fightcade.download/fbneo/nes/boobykids.zip"
   },
-  "nes_boogerman": {
+  "boogerman": {
     "download": "https://fightcade.download/fbneo/nes/boogerman.zip"
   },
-  "nes_boulderdash": {
+  "boulderdash": {
     "download": "https://fightcade.download/fbneo/nes/boulderdash.zip"
   },
-  "nes_bowsette2": {
+  "bowsette2": {
     "download": "https://fightcade.download/fbneo/nes/bowsette2.zip"
   },
-  "nes_bramstosdra": {
+  "bramstosdra": {
     "download": "https://fightcade.download/fbneo/nes/bramstosdra.zip"
   },
-  "nes_breakthru": {
+  "breakthru": {
     "download": "https://fightcade.download/fbneo/nes/breakthru.zip"
   },
-  "nes_bubblbobpar2": {
+  "bubblbobpar2": {
     "download": "https://fightcade.download/fbneo/nes/bubblbobpar2.zip"
   },
-  "nes_bubblebobble": {
+  "bubblebobble": {
     "download": "https://fightcade.download/fbneo/nes/bubblebobble.zip"
   },
-  "nes_buckyohare": {
+  "buckyohare": {
     "download": "https://fightcade.download/fbneo/nes/buckyohare.zip"
   },
-  "nes_buggypopper": {
+  "buggypopper": {
     "download": "https://fightcade.download/fbneo/nes/buggypopper.zip"
   },
-  "nes_bugsbunbirblo": {
+  "bugsbunbirblo": {
     "download": "https://fightcade.download/fbneo/nes/bugsbunbirblo.zip"
   },
-  "nes_bugsbuncracas": {
+  "bugsbuncracas": {
     "download": "https://fightcade.download/fbneo/nes/bugsbuncracas.zip"
   },
-  "nes_bumpnjump": {
+  "bumpnjump": {
     "download": "https://fightcade.download/fbneo/nes/bumpnjump.zip"
   },
-  "nes_buraifighter": {
+  "buraifighter": {
     "download": "https://fightcade.download/fbneo/nes/buraifighter.zip"
   },
-  "nes_buraifighterj": {
+  "buraifighterj": {
     "download": "https://fightcade.download/fbneo/nes/buraifighterj.zip"
   },
-  "nes_burgertime": {
+  "burgertime": {
     "download": "https://fightcade.download/fbneo/nes/burgertime.zip"
   },
-  "nes_buzzwaldog": {
+  "buzzwaldog": {
     "download": "https://fightcade.download/fbneo/nes/buzzwaldog.zip"
   },
-  "nes_bwings": {
+  "bwings": {
     "download": "https://fightcade.download/fbneo/nes/bwings.zip"
   },
-  "nes_cabal": {
+  "cabal": {
     "download": "https://fightcade.download/fbneo/nes/cabal.zip"
   },
-  "nes_cadaverion": {
+  "cadaverion": {
     "download": "https://fightcade.download/fbneo/nes/cadaverion.zip"
   },
-  "nes_californiagames": {
+  "californiagames": {
     "download": "https://fightcade.download/fbneo/nes/californiagames.zip"
   },
-  "nes_caltron6in1": {
+  "caltron6in1": {
     "download": "https://fightcade.download/fbneo/nes/caltron6in1.zip"
   },
-  "nes_caltron9in1": {
+  "caltron9in1": {
     "download": "https://fightcade.download/fbneo/nes/caltron9in1.zip"
   },
-  "nes_capcosgolmedch92": {
+  "capcosgolmedch92": {
     "download": "https://fightcade.download/fbneo/nes/capcosgolmedch92.zip"
   },
-  "nes_captaameandave": {
+  "captaameandave": {
     "download": "https://fightcade.download/fbneo/nes/captaameandave.zip"
   },
-  "nes_captacom": {
+  "captacom": {
     "download": "https://fightcade.download/fbneo/nes/captacom.zip"
   },
-  "nes_captained": {
+  "captained": {
     "download": "https://fightcade.download/fbneo/nes/captained.zip"
   },
-  "nes_captainsaver": {
+  "captainsaver": {
     "download": "https://fightcade.download/fbneo/nes/captainsaver.zip"
   },
-  "nes_captainsilver": {
+  "captainsilver": {
     "download": "https://fightcade.download/fbneo/nes/captainsilver.zip"
   },
-  "nes_captainskyhawk": {
+  "captainskyhawk": {
     "download": "https://fightcade.download/fbneo/nes/captainskyhawk.zip"
   },
-  "nes_captaintsubasa": {
+  "captaintsubasa": {
     "download": "https://fightcade.download/fbneo/nes/captaintsubasa.zip"
   },
-  "nes_captaplaandpla": {
+  "captaplaandpla": {
     "download": "https://fightcade.download/fbneo/nes/captaplaandpla.zip"
   },
-  "nes_captatsuvolii": {
+  "captatsuvolii": {
     "download": "https://fightcade.download/fbneo/nes/captatsuvolii.zip"
   },
-  "nes_captatsuvoliij": {
+  "captatsuvoliij": {
     "download": "https://fightcade.download/fbneo/nes/captatsuvoliij.zip"
   },
-  "nes_casinokid": {
+  "casinokid": {
     "download": "https://fightcade.download/fbneo/nes/casinokid.zip"
   },
-  "nes_casinokid2": {
+  "casinokid2": {
     "download": "https://fightcade.download/fbneo/nes/casinokid2.zip"
   },
-  "nes_castelian": {
+  "castelian": {
     "download": "https://fightcade.download/fbneo/nes/castelian.zip"
   },
-  "nes_castleexcellent": {
+  "castleexcellent": {
     "download": "https://fightcade.download/fbneo/nes/castleexcellent.zip"
   },
-  "nes_castleofdeceit": {
+  "castleofdeceit": {
     "download": "https://fightcade.download/fbneo/nes/castleofdeceit.zip"
   },
-  "nes_castleofdragon": {
+  "castleofdragon": {
     "download": "https://fightcade.download/fbneo/nes/castleofdragon.zip"
   },
-  "nes_castlevania": {
+  "castlevania": {
     "download": "https://fightcade.download/fbneo/nes/castlevania.zip"
   },
-  "nes_castlii": {
+  "castlii": {
     "download": "https://fightcade.download/fbneo/nes/castlii.zip"
   },
-  "nes_castliih": {
+  "castliih": {
     "download": "https://fightcade.download/fbneo/nes/castliih.zip"
   },
-  "nes_castliii": {
+  "castliii": {
     "download": "https://fightcade.download/fbneo/nes/castliii.zip"
   },
-  "nes_catnintey": {
+  "catnintey": {
     "download": "https://fightcade.download/fbneo/nes/catnintey.zip"
   },
-  "nes_catninteyj": {
+  "catninteyj": {
     "download": "https://fightcade.download/fbneo/nes/catninteyj.zip"
   },
-  "nes_cave": {
+  "cave": {
     "download": "https://fightcade.download/fbneo/nes/cave.zip"
   },
-  "nes_chacknpop": {
+  "chacknpop": {
     "download": "https://fightcade.download/fbneo/nes/chacknpop.zip"
   },
-  "nes_challdra": {
+  "challdra": {
     "download": "https://fightcade.download/fbneo/nes/challdra.zip"
   },
-  "nes_challenger": {
+  "challenger": {
     "download": "https://fightcade.download/fbneo/nes/challenger.zip"
   },
-  "nes_champbow": {
+  "champbow": {
     "download": "https://fightcade.download/fbneo/nes/champbow.zip"
   },
-  "nes_champlodrun": {
+  "champlodrun": {
     "download": "https://fightcade.download/fbneo/nes/champlodrun.zip"
   },
-  "nes_chaosworld": {
+  "chaosworld": {
     "download": "https://fightcade.download/fbneo/nes/chaosworld.zip"
   },
-  "nes_chaosworldj": {
+  "chaosworldj": {
     "download": "https://fightcade.download/fbneo/nes/chaosworldj.zip"
   },
-  "nes_chase": {
+  "chase": {
     "download": "https://fightcade.download/fbneo/nes/chase.zip"
   },
-  "nes_cheman": {
+  "cheman": {
     "download": "https://fightcade.download/fbneo/nes/cheman.zip"
   },
-  "nes_cherilpc": {
+  "cherilpc": {
     "download": "https://fightcade.download/fbneo/nes/cherilpc.zip"
   },
-  "nes_chestfie": {
+  "chestfie": {
     "download": "https://fightcade.download/fbneo/nes/chestfie.zip"
   },
-  "nes_chikichimacmoura": {
+  "chikichimacmoura": {
     "download": "https://fightcade.download/fbneo/nes/chikichimacmoura.zip"
   },
-  "nes_chiller": {
+  "chiller": {
     "download": "https://fightcade.download/fbneo/nes/chiller.zip"
   },
-  "nes_chinarabbab": {
+  "chinarabbab": {
     "download": "https://fightcade.download/fbneo/nes/chinarabbab.zip"
   },
-  "nes_chipndalresra": {
+  "chipndalresra": {
     "download": "https://fightcade.download/fbneo/nes/chipndalresra.zip"
   },
-  "nes_chipndalresra2": {
+  "chipndalresra2": {
     "download": "https://fightcade.download/fbneo/nes/chipndalresra2.zip"
   },
-  "nes_chitesenvaz": {
+  "chitesenvaz": {
     "download": "https://fightcade.download/fbneo/nes/chitesenvaz.zip"
   },
-  "nes_chiyonoooi": {
+  "chiyonoooi": {
     "download": "https://fightcade.download/fbneo/nes/chiyonoooi.zip"
   },
-  "nes_choplifter": {
+  "choplifter": {
     "download": "https://fightcade.download/fbneo/nes/choplifter.zip"
   },
-  "nes_choujsenjet": {
+  "choujsenjet": {
     "download": "https://fightcade.download/fbneo/nes/choujsenjet.zip"
   },
-  "nes_choujsenjetj": {
+  "choujsenjetj": {
     "download": "https://fightcade.download/fbneo/nes/choujsenjetj.zip"
   },
-  "nes_choujsenwar": {
+  "choujsenwar": {
     "download": "https://fightcade.download/fbneo/nes/choujsenwar.zip"
   },
-  "nes_choujyou": {
+  "choujyou": {
     "download": "https://fightcade.download/fbneo/nes/choujyou.zip"
   },
-  "nes_chubbycherub": {
+  "chubbycherub": {
     "download": "https://fightcade.download/fbneo/nes/chubbycherub.zip"
   },
-  "nes_chuukataisen": {
+  "chuukataisen": {
     "download": "https://fightcade.download/fbneo/nes/chuukataisen.zip"
   },
-  "nes_circuscaper": {
+  "circuscaper": {
     "download": "https://fightcade.download/fbneo/nes/circuscaper.zip"
   },
-  "nes_circuscharlie": {
+  "circuscharlie": {
     "download": "https://fightcade.download/fbneo/nes/circuscharlie.zip"
   },
-  "nes_cityconnection": {
+  "cityconnection": {
     "download": "https://fightcade.download/fbneo/nes/cityconnection.zip"
   },
-  "nes_citytrouble": {
+  "citytrouble": {
     "download": "https://fightcade.download/fbneo/nes/citytrouble.zip"
   },
-  "nes_clashatdem": {
+  "clashatdem": {
     "download": "https://fightcade.download/fbneo/nes/clashatdem.zip"
   },
-  "nes_cliffhanger": {
+  "cliffhanger": {
     "download": "https://fightcade.download/fbneo/nes/cliffhanger.zip"
   },
-  "nes_clucluland": {
+  "clucluland": {
     "download": "https://fightcade.download/fbneo/nes/clucluland.zip"
   },
-  "nes_cmc80sdemo": {
+  "cmc80sdemo": {
     "download": "https://fightcade.download/fbneo/nes/cmc80sdemo.zip"
   },
-  "nes_cobracommand": {
+  "cobracommand": {
     "download": "https://fightcade.download/fbneo/nes/cobracommand.zip"
   },
-  "nes_cobramission": {
+  "cobramission": {
     "download": "https://fightcade.download/fbneo/nes/cobramission.zip"
   },
-  "nes_cobratriangle": {
+  "cobratriangle": {
     "download": "https://fightcade.download/fbneo/nes/cobratriangle.zip"
   },
-  "nes_cocoron": {
+  "cocoron": {
     "download": "https://fightcade.download/fbneo/nes/cocoron.zip"
   },
-  "nes_cocoronj": {
+  "cocoronj": {
     "download": "https://fightcade.download/fbneo/nes/cocoronj.zip"
   },
-  "nes_codenam": {
+  "codenam": {
     "download": "https://fightcade.download/fbneo/nes/codenam.zip"
   },
-  "nes_coloradinosaur": {
+  "coloradinosaur": {
     "download": "https://fightcade.download/fbneo/nes/coloradinosaur.zip"
   },
-  "nes_commando": {
+  "commando": {
     "download": "https://fightcade.download/fbneo/nes/commando.zip"
   },
-  "nes_conan": {
+  "conan": {
     "download": "https://fightcade.download/fbneo/nes/conan.zip"
   },
-  "nes_conflict": {
+  "conflict": {
     "download": "https://fightcade.download/fbneo/nes/conflict.zip"
   },
-  "nes_conqucrypal": {
+  "conqucrypal": {
     "download": "https://fightcade.download/fbneo/nes/conqucrypal.zip"
   },
-  "nes_contra": {
+  "contra": {
     "download": "https://fightcade.download/fbneo/nes/contra.zip"
   },
-  "nes_contra168in1": {
+  "contra168in1": {
     "download": "https://fightcade.download/fbneo/nes/contra168in1.zip"
   },
-  "nes_contrac": {
+  "contrac": {
     "download": "https://fightcade.download/fbneo/nes/contrac.zip"
   },
-  "nes_contraforce": {
+  "contraforce": {
     "download": "https://fightcade.download/fbneo/nes/contraforce.zip"
   },
-  "nes_contraforcec": {
+  "contraforcec": {
     "download": "https://fightcade.download/fbneo/nes/contraforcec.zip"
   },
-  "nes_contraj": {
+  "contraj": {
     "download": "https://fightcade.download/fbneo/nes/contraj.zip"
   },
-  "nes_contraspirits": {
+  "contraspirits": {
     "download": "https://fightcade.download/fbneo/nes/contraspirits.zip"
   },
-  "nes_contrat": {
+  "contrat": {
     "download": "https://fightcade.download/fbneo/nes/contrat.zip"
   },
-  "nes_contrredfalwar": {
+  "contrredfalwar": {
     "download": "https://fightcade.download/fbneo/nes/contrredfalwar.zip"
   },
-  "nes_contrrevredfal": {
+  "contrrevredfal": {
     "download": "https://fightcade.download/fbneo/nes/contrrevredfal.zip"
   },
-  "nes_coolworld": {
+  "coolworld": {
     "download": "https://fightcade.download/fbneo/nes/coolworld.zip"
   },
-  "nes_correbenny": {
+  "correbenny": {
     "download": "https://fightcade.download/fbneo/nes/correbenny.zip"
   },
-  "nes_cosmicepsilon": {
+  "cosmicepsilon": {
     "download": "https://fightcade.download/fbneo/nes/cosmicepsilon.zip"
   },
-  "nes_cosmogenesis": {
+  "cosmogenesis": {
     "download": "https://fightcade.download/fbneo/nes/cosmogenesis.zip"
   },
-  "nes_cosmopolgal": {
+  "cosmopolgal": {
     "download": "https://fightcade.download/fbneo/nes/cosmopolgal.zip"
   },
-  "nes_cosmopolgalj": {
+  "cosmopolgalj": {
     "download": "https://fightcade.download/fbneo/nes/cosmopolgalj.zip"
   },
-  "nes_cowboykid": {
+  "cowboykid": {
     "download": "https://fightcade.download/fbneo/nes/cowboykid.zip"
   },
-  "nes_cowligam2ndadv": {
+  "cowligam2ndadv": {
     "download": "https://fightcade.download/fbneo/nes/cowligam2ndadv.zip"
   },
-  "nes_cowligamadv": {
+  "cowligamadv": {
     "download": "https://fightcade.download/fbneo/nes/cowligamadv.zip"
   },
-  "nes_crashnboy": {
+  "crashnboy": {
     "download": "https://fightcade.download/fbneo/nes/crashnboy.zip"
   },
-  "nes_crayoshicha": {
+  "crayoshicha": {
     "download": "https://fightcade.download/fbneo/nes/crayoshicha.zip"
   },
-  "nes_crazyclimber": {
+  "crazyclimber": {
     "download": "https://fightcade.download/fbneo/nes/crazyclimber.zip"
   },
-  "nes_creepybrawlers": {
+  "creepybrawlers": {
     "download": "https://fightcade.download/fbneo/nes/creepybrawlers.zip"
   },
-  "nes_crimebusters": {
+  "crimebusters": {
     "download": "https://fightcade.download/fbneo/nes/crimebusters.zip"
   },
-  "nes_crisisforce": {
+  "crisisforce": {
     "download": "https://fightcade.download/fbneo/nes/crisisforce.zip"
   },
-  "nes_crisisforcej": {
+  "crisisforcej": {
     "download": "https://fightcade.download/fbneo/nes/crisisforcej.zip"
   },
-  "nes_crossfire": {
+  "crossfire": {
     "download": "https://fightcade.download/fbneo/nes/crossfire.zip"
   },
-  "nes_crypto": {
+  "crypto": {
     "download": "https://fightcade.download/fbneo/nes/crypto.zip"
   },
-  "nes_crystalis": {
+  "crystalis": {
     "download": "https://fightcade.download/fbneo/nes/crystalis.zip"
   },
-  "nes_cyber": {
+  "cyber": {
     "download": "https://fightcade.download/fbneo/nes/cyber.zip"
   },
-  "nes_cyberstaser": {
+  "cyberstaser": {
     "download": "https://fightcade.download/fbneo/nes/cyberstaser.zip"
   },
-  "nes_cyclerac": {
+  "cyclerac": {
     "download": "https://fightcade.download/fbneo/nes/cyclerac.zip"
   },
-  "nes_dai2jisuprota": {
+  "dai2jisuprota": {
     "download": "https://fightcade.download/fbneo/nes/dai2jisuprota.zip"
   },
-  "nes_dai2jisuprotaj": {
+  "dai2jisuprotaj": {
     "download": "https://fightcade.download/fbneo/nes/dai2jisuprotaj.zip"
   },
-  "nes_daikunogensan": {
+  "daikunogensan": {
     "download": "https://fightcade.download/fbneo/nes/daikunogensan.zip"
   },
-  "nes_daikunogensan2": {
+  "daikunogensan2": {
     "download": "https://fightcade.download/fbneo/nes/daikunogensan2.zip"
   },
-  "nes_daikunogensan2c": {
+  "daikunogensan2c": {
     "download": "https://fightcade.download/fbneo/nes/daikunogensan2c.zip"
   },
-  "nes_daikunogensanc": {
+  "daikunogensanc": {
     "download": "https://fightcade.download/fbneo/nes/daikunogensanc.zip"
   },
-  "nes_dannysulsindhe": {
+  "dannysulsindhe": {
     "download": "https://fightcade.download/fbneo/nes/dannysulsindhe.zip"
   },
-  "nes_daoshuai": {
+  "daoshuai": {
     "download": "https://fightcade.download/fbneo/nes/daoshuai.zip"
   },
-  "nes_darkman": {
+  "darkman": {
     "download": "https://fightcade.download/fbneo/nes/darkman.zip"
   },
-  "nes_darkwingduck": {
+  "darkwingduck": {
     "download": "https://fightcade.download/fbneo/nes/darkwingduck.zip"
   },
-  "nes_darkwingduckc": {
+  "darkwingduckc": {
     "download": "https://fightcade.download/fbneo/nes/darkwingduckc.zip"
   },
-  "nes_dashgalinalias": {
+  "dashgalinalias": {
     "download": "https://fightcade.download/fbneo/nes/dashgalinalias.zip"
   },
-  "nes_dashyarou": {
+  "dashyarou": {
     "download": "https://fightcade.download/fbneo/nes/dashyarou.zip"
   },
-  "nes_datsugoku": {
+  "datsugoku": {
     "download": "https://fightcade.download/fbneo/nes/datsugoku.zip"
   },
-  "nes_davidcrasaboyandhis": {
+  "davidcrasaboyandhis": {
     "download": "https://fightcade.download/fbneo/nes/davidcrasaboyandhis.zip"
   },
-  "nes_daydredav": {
+  "daydredav": {
     "download": "https://fightcade.download/fbneo/nes/daydredav.zip"
   },
-  "nes_daysofthunder": {
+  "daysofthunder": {
     "download": "https://fightcade.download/fbneo/nes/daysofthunder.zip"
   },
-  "nes_deadfox": {
+  "deadfox": {
     "download": "https://fightcade.download/fbneo/nes/deadfox.zip"
   },
-  "nes_deadfoxc": {
+  "deadfoxc": {
     "download": "https://fightcade.download/fbneo/nes/deadfoxc.zip"
   },
-  "nes_deadlytowers": {
+  "deadlytowers": {
     "download": "https://fightcade.download/fbneo/nes/deadlytowers.zip"
   },
-  "nes_deathbots": {
+  "deathbots": {
     "download": "https://fightcade.download/fbneo/nes/deathbots.zip"
   },
-  "nes_deathrace": {
+  "deathrace": {
     "download": "https://fightcade.download/fbneo/nes/deathrace.zip"
   },
-  "nes_deblock": {
+  "deblock": {
     "download": "https://fightcade.download/fbneo/nes/deblock.zip"
   },
-  "nes_defencro": {
+  "defencro": {
     "download": "https://fightcade.download/fbneo/nes/defencro.zip"
   },
-  "nes_defenderii": {
+  "defenderii": {
     "download": "https://fightcade.download/fbneo/nes/defenderii.zip"
   },
-  "nes_defendyncit": {
+  "defendyncit": {
     "download": "https://fightcade.download/fbneo/nes/defendyncit.zip"
   },
-  "nes_dejavu": {
+  "dejavu": {
     "download": "https://fightcade.download/fbneo/nes/dejavu.zip"
   },
-  "nes_demondistrict": {
+  "demondistrict": {
     "download": "https://fightcade.download/fbneo/nes/demondistrict.zip"
   },
-  "nes_demonsword": {
+  "demonsword": {
     "download": "https://fightcade.download/fbneo/nes/demonsword.zip"
   },
-  "nes_dengeki": {
+  "dengeki": {
     "download": "https://fightcade.download/fbneo/nes/dengeki.zip"
   },
-  "nes_destiear": {
+  "destiear": {
     "download": "https://fightcade.download/fbneo/nes/destiear.zip"
   },
-  "nes_destructorel": {
+  "destructorel": {
     "download": "https://fightcade.download/fbneo/nes/destructorel.zip"
   },
-  "nes_devilman": {
+  "devilman": {
     "download": "https://fightcade.download/fbneo/nes/devilman.zip"
   },
-  "nes_devilmanj": {
+  "devilmanj": {
     "download": "https://fightcade.download/fbneo/nes/devilmanj.zip"
   },
-  "nes_devilworld": {
+  "devilworld": {
     "download": "https://fightcade.download/fbneo/nes/devilworld.zip"
   },
-  "nes_diabloii": {
+  "diabloii": {
     "download": "https://fightcade.download/fbneo/nes/diabloii.zip"
   },
-  "nes_diehard": {
+  "diehard": {
     "download": "https://fightcade.download/fbneo/nes/diehard.zip"
   },
-  "nes_digdug": {
+  "digdug": {
     "download": "https://fightcade.download/fbneo/nes/digdug.zip"
   },
-  "nes_digdugii": {
+  "digdugii": {
     "download": "https://fightcade.download/fbneo/nes/digdugii.zip"
   },
-  "nes_digdugiitroinpa": {
+  "digdugiitroinpa": {
     "download": "https://fightcade.download/fbneo/nes/digdugiitroinpa.zip"
   },
-  "nes_digger": {
+  "digger": {
     "download": "https://fightcade.download/fbneo/nes/digger.zip"
   },
-  "nes_digitdevmonmegte": {
+  "digitdevmonmegte": {
     "download": "https://fightcade.download/fbneo/nes/digitdevmonmegte.zip"
   },
-  "nes_digitdevmonmegteii": {
+  "digitdevmonmegteii": {
     "download": "https://fightcade.download/fbneo/nes/digitdevmonmegteii.zip"
   },
-  "nes_digitdevmonmegteiij": {
+  "digitdevmonmegteiij": {
     "download": "https://fightcade.download/fbneo/nes/digitdevmonmegteiij.zip"
   },
-  "nes_digitdevmonmegtej": {
+  "digitdevmonmegtej": {
     "download": "https://fightcade.download/fbneo/nes/digitdevmonmegtej.zip"
   },
-  "nes_dirtyhar": {
+  "dirtyhar": {
     "download": "https://fightcade.download/fbneo/nes/dirtyhar.zip"
   },
-  "nes_diveman": {
+  "diveman": {
     "download": "https://fightcade.download/fbneo/nes/diveman.zip"
   },
-  "nes_dizzyadv": {
+  "dizzyadv": {
     "download": "https://fightcade.download/fbneo/nes/dizzyadv.zip"
   },
-  "nes_dokidokyuu": {
+  "dokidokyuu": {
     "download": "https://fightcade.download/fbneo/nes/dokidokyuu.zip"
   },
-  "nes_dokidokyuuj": {
+  "dokidokyuuj": {
     "download": "https://fightcade.download/fbneo/nes/dokidokyuuj.zip"
   },
-  "nes_donaldduck": {
+  "donaldduck": {
     "download": "https://fightcade.download/fbneo/nes/donaldduck.zip"
   },
-  "nes_donaldland": {
+  "donaldland": {
     "download": "https://fightcade.download/fbneo/nes/donaldland.zip"
   },
-  "nes_dondokodon": {
+  "dondokodon": {
     "download": "https://fightcade.download/fbneo/nes/dondokodon.zip"
   },
-  "nes_dondokodon2": {
+  "dondokodon2": {
     "download": "https://fightcade.download/fbneo/nes/dondokodon2.zip"
   },
-  "nes_dondokodon2j": {
+  "dondokodon2j": {
     "download": "https://fightcade.download/fbneo/nes/dondokodon2j.zip"
   },
-  "nes_donkekoncou4": {
+  "donkekoncou4": {
     "download": "https://fightcade.download/fbneo/nes/donkekoncou4.zip"
   },
-  "nes_donkeykong": {
+  "donkeykong": {
     "download": "https://fightcade.download/fbneo/nes/donkeykong.zip"
   },
-  "nes_donkeykong3": {
+  "donkeykong3": {
     "download": "https://fightcade.download/fbneo/nes/donkeykong3.zip"
   },
-  "nes_donkeykongjr": {
+  "donkeykongjr": {
     "download": "https://fightcade.download/fbneo/nes/donkeykongjr.zip"
   },
-  "nes_doolybravoland": {
+  "doolybravoland": {
     "download": "https://fightcade.download/fbneo/nes/doolybravoland.zip"
   },
-  "nes_doordoor": {
+  "doordoor": {
     "download": "https://fightcade.download/fbneo/nes/doordoor.zip"
   },
-  "nes_dorae": {
+  "dorae": {
     "download": "https://fightcade.download/fbneo/nes/dorae.zip"
   },
-  "nes_doraej": {
+  "doraej": {
     "download": "https://fightcade.download/fbneo/nes/doraej.zip"
   },
-  "nes_doraemon": {
+  "doraemon": {
     "download": "https://fightcade.download/fbneo/nes/doraemon.zip"
   },
-  "nes_doubldraii": {
+  "doubldraii": {
     "download": "https://fightcade.download/fbneo/nes/doubldraii.zip"
   },
-  "nes_doubldraiii": {
+  "doubldraiii": {
     "download": "https://fightcade.download/fbneo/nes/doubldraiii.zip"
   },
-  "nes_doubledare": {
+  "doubledare": {
     "download": "https://fightcade.download/fbneo/nes/doubledare.zip"
   },
-  "nes_doubledragon": {
+  "doubledragon": {
     "download": "https://fightcade.download/fbneo/nes/doubledragon.zip"
   },
-  "nes_doubledribble": {
+  "doubledribble": {
     "download": "https://fightcade.download/fbneo/nes/doubledribble.zip"
   },
-  "nes_doublestrike": {
+  "doublestrike": {
     "download": "https://fightcade.download/fbneo/nes/doublestrike.zip"
   },
-  "nes_doughboy": {
+  "doughboy": {
     "download": "https://fightcade.download/fbneo/nes/doughboy.zip"
   },
-  "nes_downtnekkousorda": {
+  "downtnekkousorda": {
     "download": "https://fightcade.download/fbneo/nes/downtnekkousorda.zip"
   },
-  "nes_downtnekmon": {
+  "downtnekmon": {
     "download": "https://fightcade.download/fbneo/nes/downtnekmon.zip"
   },
-  "nes_downtspekunkunnojid": {
+  "downtspekunkunnojid": {
     "download": "https://fightcade.download/fbneo/nes/downtspekunkunnojid.zip"
   },
-  "nes_dracsnightout": {
+  "dracsnightout": {
     "download": "https://fightcade.download/fbneo/nes/dracsnightout.zip"
   },
-  "nes_dragobal3gokden": {
+  "dragobal3gokden": {
     "download": "https://fightcade.download/fbneo/nes/dragobal3gokden.zip"
   },
-  "nes_dragobaldaimaofu": {
+  "dragobaldaimaofu": {
     "download": "https://fightcade.download/fbneo/nes/dragobaldaimaofu.zip"
   },
-  "nes_dragobaldaimaofuj": {
+  "dragobaldaimaofuj": {
     "download": "https://fightcade.download/fbneo/nes/dragobaldaimaofuj.zip"
   },
-  "nes_dragobalshelonnona": {
+  "dragobalshelonnona": {
     "download": "https://fightcade.download/fbneo/nes/dragobalshelonnona.zip"
   },
-  "nes_dragobalshelonnonaj": {
+  "dragobalshelonnonaj": {
     "download": "https://fightcade.download/fbneo/nes/dragobalshelonnonaj.zip"
   },
-  "nes_dragobalzgaisajinze": {
+  "dragobalzgaisajinze": {
     "download": "https://fightcade.download/fbneo/nes/dragobalzgaisajinze.zip"
   },
-  "nes_dragobalzgaisajinzeje": {
+  "dragobalzgaisajinzeje": {
     "download": "https://fightcade.download/fbneo/nes/dragobalzgaisajinzeje.zip"
   },
-  "nes_dragobalziigefr": {
+  "dragobalziigefr": {
     "download": "https://fightcade.download/fbneo/nes/dragobalziigefr.zip"
   },
-  "nes_dragobalziigefrj": {
+  "dragobalziigefrj": {
     "download": "https://fightcade.download/fbneo/nes/dragobalziigefrj.zip"
   },
-  "nes_dragobalziiirejini": {
+  "dragobalziiirejini": {
     "download": "https://fightcade.download/fbneo/nes/dragobalziiirejini.zip"
   },
-  "nes_dragobalziiirejinij": {
+  "dragobalziiirejinij": {
     "download": "https://fightcade.download/fbneo/nes/dragobalziiirejinij.zip"
   },
-  "nes_dragobalzkyosajin": {
+  "dragobalzkyosajin": {
     "download": "https://fightcade.download/fbneo/nes/dragobalzkyosajin.zip"
   },
-  "nes_dragobalzkyosajinj": {
+  "dragobalzkyosajinj": {
     "download": "https://fightcade.download/fbneo/nes/dragobalzkyosajinj.zip"
   },
-  "nes_dragobalzsupbu2": {
+  "dragobalzsupbu2": {
     "download": "https://fightcade.download/fbneo/nes/dragobalzsupbu2.zip"
   },
-  "nes_dragobalzsupbu2j": {
+  "dragobalzsupbu2j": {
     "download": "https://fightcade.download/fbneo/nes/dragobalzsupbu2j.zip"
   },
-  "nes_dragobusii": {
+  "dragobusii": {
     "download": "https://fightcade.download/fbneo/nes/dragobusii.zip"
   },
-  "nes_dragobusiij": {
+  "dragobusiij": {
     "download": "https://fightcade.download/fbneo/nes/dragobusiij.zip"
   },
-  "nes_dragonballz5": {
+  "dragonballz5": {
     "download": "https://fightcade.download/fbneo/nes/dragonballz5.zip"
   },
-  "nes_dragonbuster": {
+  "dragonbuster": {
     "download": "https://fightcade.download/fbneo/nes/dragonbuster.zip"
   },
-  "nes_dragonfighter": {
+  "dragonfighter": {
     "download": "https://fightcade.download/fbneo/nes/dragonfighter.zip"
   },
-  "nes_dragonknife": {
+  "dragonknife": {
     "download": "https://fightcade.download/fbneo/nes/dragonknife.zip"
   },
-  "nes_dragonknifec": {
+  "dragonknifec": {
     "download": "https://fightcade.download/fbneo/nes/dragonknifec.zip"
   },
-  "nes_dragonpower": {
+  "dragonpower": {
     "download": "https://fightcade.download/fbneo/nes/dragonpower.zip"
   },
-  "nes_dragonrunning": {
+  "dragonrunning": {
     "download": "https://fightcade.download/fbneo/nes/dragonrunning.zip"
   },
-  "nes_dragonslair": {
+  "dragonslair": {
     "download": "https://fightcade.download/fbneo/nes/dragonslair.zip"
   },
-  "nes_dragonwarrior": {
+  "dragonwarrior": {
     "download": "https://fightcade.download/fbneo/nes/dragonwarrior.zip"
   },
-  "nes_dragoscr": {
+  "dragoscr": {
     "download": "https://fightcade.download/fbneo/nes/dragoscr.zip"
   },
-  "nes_dragosla4": {
+  "dragosla4": {
     "download": "https://fightcade.download/fbneo/nes/dragosla4.zip"
   },
-  "nes_dragospiaraden": {
+  "dragospiaraden": {
     "download": "https://fightcade.download/fbneo/nes/dragospiaraden.zip"
   },
-  "nes_dragospinewleg": {
+  "dragospinewleg": {
     "download": "https://fightcade.download/fbneo/nes/dragospinewleg.zip"
   },
-  "nes_dragowarii": {
+  "dragowarii": {
     "download": "https://fightcade.download/fbneo/nes/dragowarii.zip"
   },
-  "nes_dragowariii": {
+  "dragowariii": {
     "download": "https://fightcade.download/fbneo/nes/dragowariii.zip"
   },
-  "nes_dragowariv": {
+  "dragowariv": {
     "download": "https://fightcade.download/fbneo/nes/dragowariv.zip"
   },
-  "nes_draiocht": {
+  "draiocht": {
     "download": "https://fightcade.download/fbneo/nes/draiocht.zip"
   },
-  "nes_drchaos": {
+  "drchaos": {
     "download": "https://fightcade.download/fbneo/nes/drchaos.zip"
   },
-  "nes_dreamworldpogie": {
+  "dreamworldpogie": {
     "download": "https://fightcade.download/fbneo/nes/dreamworldpogie.zip"
   },
-  "nes_driar": {
+  "driar": {
     "download": "https://fightcade.download/fbneo/nes/driar.zip"
   },
-  "nes_dringle": {
+  "dringle": {
     "download": "https://fightcade.download/fbneo/nes/dringle.zip"
   },
-  "nes_drjekandmrhy": {
+  "drjekandmrhy": {
     "download": "https://fightcade.download/fbneo/nes/drjekandmrhy.zip"
   },
-  "nes_drmario": {
+  "drmario": {
     "download": "https://fightcade.download/fbneo/nes/drmario.zip"
   },
-  "nes_dropzone": {
+  "dropzone": {
     "download": "https://fightcade.download/fbneo/nes/dropzone.zip"
   },
-  "nes_druaganotou": {
+  "druaganotou": {
     "download": "https://fightcade.download/fbneo/nes/druaganotou.zip"
   },
-  "nes_duckhunt": {
+  "duckhunt": {
     "download": "https://fightcade.download/fbneo/nes/duckhunt.zip"
   },
-  "nes_ducktales": {
+  "ducktales": {
     "download": "https://fightcade.download/fbneo/nes/ducktales.zip"
   },
-  "nes_ducktales2": {
+  "ducktales2": {
     "download": "https://fightcade.download/fbneo/nes/ducktales2.zip"
   },
-  "nes_ducktales2c": {
+  "ducktales2c": {
     "download": "https://fightcade.download/fbneo/nes/ducktales2c.zip"
   },
-  "nes_dudeswitatt": {
+  "ducktales2tp": {
+    "download": "https://fightcade.download/fbneo/nes/ducktales2tp.zip"
+  },
+  "dudeswitatt": {
     "download": "https://fightcade.download/fbneo/nes/dudeswitatt.zip"
   },
-  "nes_dushlan": {
+  "dushlan": {
     "download": "https://fightcade.download/fbneo/nes/dushlan.zip"
   },
-  "nes_dustydiasallstso": {
+  "dustydiasallstso": {
     "download": "https://fightcade.download/fbneo/nes/dustydiasallstso.zip"
   },
-  "nes_dynamitebatman": {
+  "dynamitebatman": {
     "download": "https://fightcade.download/fbneo/nes/dynamitebatman.zip"
   },
-  "nes_dynamitebowl": {
+  "dynamitebowl": {
     "download": "https://fightcade.download/fbneo/nes/dynamitebowl.zip"
   },
-  "nes_dynow": {
+  "dynow": {
     "download": "https://fightcade.download/fbneo/nes/dynow.zip"
   },
-  "nes_earthbound": {
+  "earthbound": {
     "download": "https://fightcade.download/fbneo/nes/earthbound.zip"
   },
-  "nes_eeeaaaooo": {
+  "eeeaaaooo": {
     "download": "https://fightcade.download/fbneo/nes/eeeaaaooo.zip"
   },
-  "nes_egypt": {
+  "egypt": {
     "download": "https://fightcade.download/fbneo/nes/egypt.zip"
   },
-  "nes_elevatoraction": {
+  "elevatoraction": {
     "download": "https://fightcade.download/fbneo/nes/elevatoraction.zip"
   },
-  "nes_elimiboadue": {
+  "elimiboadue": {
     "download": "https://fightcade.download/fbneo/nes/elimiboadue.zip"
   },
-  "nes_elnarknozaihou": {
+  "elnarknozaihou": {
     "download": "https://fightcade.download/fbneo/nes/elnarknozaihou.zip"
   },
-  "nes_empircit": {
+  "empircit": {
     "download": "https://fightcade.download/fbneo/nes/empircit.zip"
   },
-  "nes_escapfroatl": {
+  "escapfroatl": {
     "download": "https://fightcade.download/fbneo/nes/escapfroatl.zip"
   },
-  "nes_eskimbobdeledi": {
+  "eskimbobdeledi": {
     "download": "https://fightcade.download/fbneo/nes/eskimbobdeledi.zip"
   },
-  "nes_esperboukentai": {
+  "esperboukentai": {
     "download": "https://fightcade.download/fbneo/nes/esperboukentai.zip"
   },
-  "nes_esperdre2": {
+  "esperdre2": {
     "download": "https://fightcade.download/fbneo/nes/esperdre2.zip"
   },
-  "nes_esperdre2j": {
+  "esperdre2j": {
     "download": "https://fightcade.download/fbneo/nes/esperdre2j.zip"
   },
-  "nes_espitundherpim": {
+  "espitundherpim": {
     "download": "https://fightcade.download/fbneo/nes/espitundherpim.zip"
   },
-  "nes_et": {
+  "et": {
     "download": "https://fightcade.download/fbneo/nes/et.zip"
   },
-  "nes_excitebike": {
+  "excitebike": {
     "download": "https://fightcade.download/fbneo/nes/excitebike.zip"
   },
-  "nes_excitingboxing": {
+  "excitingboxing": {
     "download": "https://fightcade.download/fbneo/nes/excitingboxing.zip"
   },
-  "nes_excitral": {
+  "excitral": {
     "download": "https://fightcade.download/fbneo/nes/excitral.zip"
   },
-  "nes_exerion": {
+  "exerion": {
     "download": "https://fightcade.download/fbneo/nes/exerion.zip"
   },
-  "nes_exodus": {
+  "exodus": {
     "download": "https://fightcade.download/fbneo/nes/exodus.zip"
   },
-  "nes_expedition": {
+  "expedition": {
     "download": "https://fightcade.download/fbneo/nes/expedition.zip"
   },
-  "nes_explodingfist": {
+  "explodingfist": {
     "download": "https://fightcade.download/fbneo/nes/explodingfist.zip"
   },
-  "nes_f1circus": {
-    "download": "https://fightcade.download/fbneo/nes/f1circus.zip"
-  },
-  "nes_f1circusj": {
-    "download": "https://fightcade.download/fbneo/nes/f1circusj.zip"
-  },
-  "nes_f1race": {
-    "download": "https://fightcade.download/fbneo/nes/f1race.zip"
-  },
-  "nes_f1sensation": {
-    "download": "https://fightcade.download/fbneo/nes/f1sensation.zip"
-  },
-  "nes_f15citywar": {
-    "download": "https://fightcade.download/fbneo/nes/f15citywar.zip"
-  },
-  "nes_f15streag": {
-    "download": "https://fightcade.download/fbneo/nes/f15streag.zip"
-  },
-  "nes_f117stefig": {
+  "f117stefig": {
     "download": "https://fightcade.download/fbneo/nes/f117stefig.zip"
   },
-  "nes_fallingtiles": {
+  "f15citywar": {
+    "download": "https://fightcade.download/fbneo/nes/f15citywar.zip"
+  },
+  "f15streag": {
+    "download": "https://fightcade.download/fbneo/nes/f15streag.zip"
+  },
+  "f1circus": {
+    "download": "https://fightcade.download/fbneo/nes/f1circus.zip"
+  },
+  "f1circusj": {
+    "download": "https://fightcade.download/fbneo/nes/f1circusj.zip"
+  },
+  "f1race": {
+    "download": "https://fightcade.download/fbneo/nes/f1race.zip"
+  },
+  "f1sensation": {
+    "download": "https://fightcade.download/fbneo/nes/f1sensation.zip"
+  },
+  "fallingtiles": {
     "download": "https://fightcade.download/fbneo/nes/fallingtiles.zip"
   },
-  "nes_famicjum": {
+  "famicjum": {
     "download": "https://fightcade.download/fbneo/nes/famicjum.zip"
   },
-  "nes_famicjumii": {
+  "famicjumii": {
     "download": "https://fightcade.download/fbneo/nes/famicjumii.zip"
   },
-  "nes_famicomwars": {
+  "famicomwars": {
     "download": "https://fightcade.download/fbneo/nes/famicomwars.zip"
   },
-  "nes_famicomwarsj": {
+  "famicomwarsj": {
     "download": "https://fightcade.download/fbneo/nes/famicomwarsj.zip"
   },
-  "nes_familcir91": {
+  "familcir91": {
     "download": "https://fightcade.download/fbneo/nes/familcir91.zip"
   },
-  "nes_familyboxing": {
+  "familyboxing": {
     "download": "https://fightcade.download/fbneo/nes/familyboxing.zip"
   },
-  "nes_familycircuit": {
+  "familycircuit": {
     "download": "https://fightcade.download/fbneo/nes/familycircuit.zip"
   },
-  "nes_familycircuitj": {
+  "familycircuitj": {
     "download": "https://fightcade.download/fbneo/nes/familycircuitj.zip"
   },
-  "nes_familypicross": {
+  "familypicross": {
     "download": "https://fightcade.download/fbneo/nes/familypicross.zip"
   },
-  "nes_familypinball": {
+  "familypinball": {
     "download": "https://fightcade.download/fbneo/nes/familypinball.zip"
   },
-  "nes_famista89": {
+  "famista89": {
     "download": "https://fightcade.download/fbneo/nes/famista89.zip"
   },
-  "nes_famista90": {
+  "famista90": {
     "download": "https://fightcade.download/fbneo/nes/famista90.zip"
   },
-  "nes_famista91": {
+  "famista91": {
     "download": "https://fightcade.download/fbneo/nes/famista91.zip"
   },
-  "nes_famista92": {
+  "famista92": {
     "download": "https://fightcade.download/fbneo/nes/famista92.zip"
   },
-  "nes_famista93": {
+  "famista93": {
     "download": "https://fightcade.download/fbneo/nes/famista93.zip"
   },
-  "nes_famista94": {
+  "famista93e": {
+    "download": "https://fightcade.download/fbneo/nes/famista93e.zip"
+  },
+  "famista94": {
     "download": "https://fightcade.download/fbneo/nes/famista94.zip"
   },
-  "nes_fantaadvdiz": {
+  "fantaadvdiz": {
     "download": "https://fightcade.download/fbneo/nes/fantaadvdiz.zip"
   },
-  "nes_fantasyzone": {
+  "fantasyzone": {
     "download": "https://fightcade.download/fbneo/nes/fantasyzone.zip"
   },
-  "nes_fantazonii": {
+  "fantazonii": {
     "download": "https://fightcade.download/fbneo/nes/fantazonii.zip"
   },
-  "nes_faria": {
+  "faria": {
     "download": "https://fightcade.download/fbneo/nes/faria.zip"
   },
-  "nes_faxanadu": {
+  "faxanadu": {
     "download": "https://fightcade.download/fbneo/nes/faxanadu.zip"
   },
-  "nes_faxanaduj": {
+  "faxanaduj": {
     "download": "https://fightcade.download/fbneo/nes/faxanaduj.zip"
   },
-  "nes_faxanadut": {
+  "faxanadut": {
     "download": "https://fightcade.download/fbneo/nes/faxanadut.zip"
   },
-  "nes_felixthecat": {
+  "felixthecat": {
     "download": "https://fightcade.download/fbneo/nes/felixthecat.zip"
   },
-  "nes_ferragrapricha": {
+  "ferragrapricha": {
     "download": "https://fightcade.download/fbneo/nes/ferragrapricha.zip"
   },
-  "nes_festersquest": {
+  "festersquest": {
     "download": "https://fightcade.download/fbneo/nes/festersquest.zip"
   },
-  "nes_fieldcombat": {
+  "fieldcombat": {
     "download": "https://fightcade.download/fbneo/nes/fieldcombat.zip"
   },
-  "nes_fightheriii": {
+  "fightheriii": {
     "download": "https://fightcade.download/fbneo/nes/fightheriii.zip"
   },
-  "nes_fightinggolf": {
+  "fightinggolf": {
     "download": "https://fightcade.download/fbneo/nes/fightinggolf.zip"
   },
-  "nes_fightinghero": {
+  "fightinghero": {
     "download": "https://fightcade.download/fbneo/nes/fightinghero.zip"
   },
-  "nes_fightingroad": {
+  "fightingroad": {
     "download": "https://fightcade.download/fbneo/nes/fightingroad.zip"
   },
-  "nes_finalcombat": {
+  "finalcombat": {
     "download": "https://fightcade.download/fbneo/nes/finalcombat.zip"
   },
-  "nes_finalfan12": {
+  "finalfan12": {
     "download": "https://fightcade.download/fbneo/nes/finalfan12.zip"
   },
-  "nes_finalfan12j": {
+  "finalfan12j": {
     "download": "https://fightcade.download/fbneo/nes/finalfan12j.zip"
   },
-  "nes_finalfaniii": {
+  "finalfaniii": {
     "download": "https://fightcade.download/fbneo/nes/finalfaniii.zip"
   },
-  "nes_finalfantasy": {
+  "finalfantasy": {
     "download": "https://fightcade.download/fbneo/nes/finalfantasy.zip"
   },
-  "nes_finalfantasyii": {
+  "finalfantasyii": {
     "download": "https://fightcade.download/fbneo/nes/finalfantasyii.zip"
   },
-  "nes_finalfanvii": {
+  "finalfanvii": {
     "download": "https://fightcade.download/fbneo/nes/finalfanvii.zip"
   },
-  "nes_finalfanviiadvch": {
+  "finalfanviiadvch": {
     "download": "https://fightcade.download/fbneo/nes/finalfanviiadvch.zip"
   },
-  "nes_finalfight3": {
+  "finalfight3": {
     "download": "https://fightcade.download/fbneo/nes/finalfight3.zip"
   },
-  "nes_finallap": {
+  "finallap": {
     "download": "https://fightcade.download/fbneo/nes/finallap.zip"
   },
-  "nes_firedragon": {
+  "firedragon": {
     "download": "https://fightcade.download/fbneo/nes/firedragon.zip"
   },
-  "nes_fireemb": {
+  "fireemb": {
     "download": "https://fightcade.download/fbneo/nes/fireemb.zip"
   },
-  "nes_fireembgai": {
+  "fireembgai": {
     "download": "https://fightcade.download/fbneo/nes/fireembgai.zip"
   },
-  "nes_fireembgaij": {
+  "fireembgaij": {
     "download": "https://fightcade.download/fbneo/nes/fireembgaij.zip"
   },
-  "nes_fireembj": {
+  "fireembj": {
     "download": "https://fightcade.download/fbneo/nes/fireembj.zip"
   },
-  "nes_firehawk": {
+  "firehawk": {
     "download": "https://fightcade.download/fbneo/nes/firehawk.zip"
   },
-  "nes_firehouserescue": {
+  "firehouserescue": {
     "download": "https://fightcade.download/fbneo/nes/firehouserescue.zip"
   },
-  "nes_firenice": {
+  "firenice": {
     "download": "https://fightcade.download/fbneo/nes/firenice.zip"
   },
-  "nes_fishstory": {
+  "fishstory": {
     "download": "https://fightcade.download/fbneo/nes/fishstory.zip"
   },
-  "nes_fistnorsta": {
+  "fistnorsta": {
     "download": "https://fightcade.download/fbneo/nes/fistnorsta.zip"
   },
-  "nes_fivedays": {
+  "fivedays": {
     "download": "https://fightcade.download/fbneo/nes/fivedays.zip"
   },
-  "nes_flappy": {
+  "flappy": {
     "download": "https://fightcade.download/fbneo/nes/flappy.zip"
   },
-  "nes_flappybird": {
+  "flappybird": {
     "download": "https://fightcade.download/fbneo/nes/flappybird.zip"
   },
-  "nes_fleademo": {
+  "fleademo": {
     "download": "https://fightcade.download/fbneo/nes/fleademo.zip"
   },
-  "nes_flighint": {
+  "flighint": {
     "download": "https://fightcade.download/fbneo/nes/flighint.zip"
   },
-  "nes_flintresdinhop": {
+  "flintresdinhop": {
     "download": "https://fightcade.download/fbneo/nes/flintresdinhop.zip"
   },
-  "nes_flintresdinhopj": {
+  "flintresdinhopj": {
     "download": "https://fightcade.download/fbneo/nes/flintresdinhopj.zip"
   },
-  "nes_flintsuratdinpe": {
+  "flintsuratdinpe": {
     "download": "https://fightcade.download/fbneo/nes/flintsuratdinpe.zip"
   },
-  "nes_flipull": {
+  "flipull": {
     "download": "https://fightcade.download/fbneo/nes/flipull.zip"
   },
-  "nes_flyindra": {
+  "flyindra": {
     "download": "https://fightcade.download/fbneo/nes/flyindra.zip"
   },
-  "nes_flyinghero": {
+  "flyinghero": {
     "download": "https://fightcade.download/fbneo/nes/flyinghero.zip"
   },
-  "nes_flyingwarriors": {
+  "flyingwarriors": {
     "download": "https://fightcade.download/fbneo/nes/flyingwarriors.zip"
   },
-  "nes_formationz": {
+  "formationz": {
     "download": "https://fightcade.download/fbneo/nes/formationz.zip"
   },
-  "nes_formuone": {
+  "formuone": {
     "download": "https://fightcade.download/fbneo/nes/formuone.zip"
   },
-  "nes_frank": {
+  "frank": {
     "download": "https://fightcade.download/fbneo/nes/frank.zip"
   },
-  "nes_freedomforce": {
+  "freedomforce": {
     "download": "https://fightcade.download/fbneo/nes/freedomforce.zip"
   },
-  "nes_freefall": {
+  "freefall": {
     "download": "https://fightcade.download/fbneo/nes/freefall.zip"
   },
-  "nes_fridaythe13th": {
+  "fridaythe13th": {
     "download": "https://fightcade.download/fbneo/nes/fridaythe13th.zip"
   },
-  "nes_frombelow": {
+  "frombelow": {
     "download": "https://fightcade.download/fbneo/nes/frombelow.zip"
   },
-  "nes_frontline": {
+  "frontline": {
     "download": "https://fightcade.download/fbneo/nes/frontline.zip"
   },
-  "nes_fudoumyououden": {
+  "fudoumyououden": {
     "download": "https://fightcade.download/fbneo/nes/fudoumyououden.zip"
   },
-  "nes_funhouse": {
+  "funhouse": {
     "download": "https://fightcade.download/fbneo/nes/funhouse.zip"
   },
-  "nes_fuzzicalfighter": {
+  "fuzzicalfighter": {
     "download": "https://fightcade.download/fbneo/nes/fuzzicalfighter.zip"
   },
-  "nes_fuzzicalfighterj": {
+  "fuzzicalfighterj": {
     "download": "https://fightcade.download/fbneo/nes/fuzzicalfighterj.zip"
   },
-  "nes_gaiapolis": {
+  "gaiapolis": {
     "download": "https://fightcade.download/fbneo/nes/gaiapolis.zip"
   },
-  "nes_galaccru": {
+  "galaccru": {
     "download": "https://fightcade.download/fbneo/nes/galaccru.zip"
   },
-  "nes_galaga": {
+  "galaga": {
     "download": "https://fightcade.download/fbneo/nes/galaga.zip"
   },
-  "nes_galaxian": {
+  "galaxian": {
     "download": "https://fightcade.download/fbneo/nes/galaxian.zip"
   },
-  "nes_galaxy5000": {
+  "galaxy5000": {
     "download": "https://fightcade.download/fbneo/nes/galaxy5000.zip"
   },
-  "nes_gameparty": {
+  "gameparty": {
     "download": "https://fightcade.download/fbneo/nes/gameparty.zip"
   },
-  "nes_ganbagoe": {
+  "ganbagoe": {
     "download": "https://fightcade.download/fbneo/nes/ganbagoe.zip"
   },
-  "nes_ganbagoegai": {
+  "ganbagoegai": {
     "download": "https://fightcade.download/fbneo/nes/ganbagoegai.zip"
   },
-  "nes_ganbagoegai2": {
+  "ganbagoegai2": {
     "download": "https://fightcade.download/fbneo/nes/ganbagoegai2.zip"
   },
-  "nes_ganbagoegai2j": {
+  "ganbagoegai2j": {
     "download": "https://fightcade.download/fbneo/nes/ganbagoegai2j.zip"
   },
-  "nes_ganbagoegaij": {
+  "ganbagoegaij": {
     "download": "https://fightcade.download/fbneo/nes/ganbagoegaij.zip"
   },
-  "nes_ganbagoej": {
+  "ganbagoej": {
     "download": "https://fightcade.download/fbneo/nes/ganbagoej.zip"
   },
-  "nes_ganbapenrac": {
+  "ganbapenrac": {
     "download": "https://fightcade.download/fbneo/nes/ganbapenrac.zip"
   },
-  "nes_ganbaregoemon2": {
+  "ganbaregoemon2": {
     "download": "https://fightcade.download/fbneo/nes/ganbaregoemon2.zip"
   },
-  "nes_gaplus": {
+  "gaplus": {
     "download": "https://fightcade.download/fbneo/nes/gaplus.zip"
   },
-  "nes_gardenwar": {
+  "gardenwar": {
     "download": "https://fightcade.download/fbneo/nes/gardenwar.zip"
   },
-  "nes_garfi": {
+  "garfi": {
     "download": "https://fightcade.download/fbneo/nes/garfi.zip"
   },
-  "nes_gargosqueii": {
+  "gargosqueii": {
     "download": "https://fightcade.download/fbneo/nes/gargosqueii.zip"
   },
-  "nes_gauntlet": {
+  "gauntlet": {
     "download": "https://fightcade.download/fbneo/nes/gauntlet.zip"
   },
-  "nes_gauntletii": {
+  "gauntletii": {
     "download": "https://fightcade.download/fbneo/nes/gauntletii.zip"
   },
-  "nes_gegegnokit": {
+  "gegegnokit": {
     "download": "https://fightcade.download/fbneo/nes/gegegnokit.zip"
   },
-  "nes_geimos": {
+  "geimos": {
     "download": "https://fightcade.download/fbneo/nes/geimos.zip"
   },
-  "nes_gekikninden": {
+  "gekikninden": {
     "download": "https://fightcade.download/fbneo/nes/gekikninden.zip"
   },
-  "nes_gekityonbat": {
+  "gekityonbat": {
     "download": "https://fightcade.download/fbneo/nes/gekityonbat.zip"
   },
-  "nes_gemfire": {
+  "gemfire": {
     "download": "https://fightcade.download/fbneo/nes/gemfire.zip"
   },
-  "nes_genghiskhan": {
+  "genghiskhan": {
     "download": "https://fightcade.download/fbneo/nes/genghiskhan.zip"
   },
-  "nes_georgforskobo": {
+  "georgforskobo": {
     "download": "https://fightcade.download/fbneo/nes/georgforskobo.zip"
   },
-  "nes_getemgary": {
+  "getemgary": {
     "download": "https://fightcade.download/fbneo/nes/getemgary.zip"
   },
-  "nes_getsufuumaden": {
+  "getsufuumaden": {
     "download": "https://fightcade.download/fbneo/nes/getsufuumaden.zip"
   },
-  "nes_ghostbusters": {
+  "ghostbusters": {
     "download": "https://fightcade.download/fbneo/nes/ghostbusters.zip"
   },
-  "nes_ghostbustersii": {
+  "ghostbustersii": {
     "download": "https://fightcade.download/fbneo/nes/ghostbustersii.zip"
   },
-  "nes_ghostlion": {
+  "ghostlion": {
     "download": "https://fightcade.download/fbneo/nes/ghostlion.zip"
   },
-  "nes_ghostsngoblins": {
+  "ghostsngoblins": {
     "download": "https://fightcade.download/fbneo/nes/ghostsngoblins.zip"
   },
-  "nes_ghoulschool": {
+  "ghoulschool": {
     "download": "https://fightcade.download/fbneo/nes/ghoulschool.zip"
   },
-  "nes_gijoeareamhe": {
+  "gijoeareamhe": {
     "download": "https://fightcade.download/fbneo/nes/gijoeareamhe.zip"
   },
-  "nes_gijoeatlfa": {
+  "gijoeatlfa": {
     "download": "https://fightcade.download/fbneo/nes/gijoeatlfa.zip"
   },
-  "nes_gimmick": {
+  "gimmick": {
     "download": "https://fightcade.download/fbneo/nes/gimmick.zip"
   },
-  "nes_glukthuwar": {
+  "glukthuwar": {
     "download": "https://fightcade.download/fbneo/nes/glukthuwar.zip"
   },
-  "nes_goal": {
+  "goal": {
     "download": "https://fightcade.download/fbneo/nes/goal.zip"
   },
-  "nes_goaltwo": {
+  "goaltwo": {
     "download": "https://fightcade.download/fbneo/nes/goaltwo.zip"
   },
-  "nes_gobenny": {
+  "gobenny": {
     "download": "https://fightcade.download/fbneo/nes/gobenny.zip"
   },
-  "nes_godsla": {
+  "godsla": {
     "download": "https://fightcade.download/fbneo/nes/godsla.zip"
   },
-  "nes_godzi": {
+  "godzi": {
     "download": "https://fightcade.download/fbneo/nes/godzi.zip"
   },
-  "nes_godzi2": {
+  "godzi2": {
     "download": "https://fightcade.download/fbneo/nes/godzi2.zip"
   },
-  "nes_golf": {
+  "golf": {
     "download": "https://fightcade.download/fbneo/nes/golf.zip"
   },
-  "nes_golgo13": {
+  "golgo13": {
     "download": "https://fightcade.download/fbneo/nes/golgo13.zip"
   },
-  "nes_goonies": {
+  "goonies": {
     "download": "https://fightcade.download/fbneo/nes/goonies.zip"
   },
-  "nes_gooniesiithe": {
+  "gooniesiithe": {
     "download": "https://fightcade.download/fbneo/nes/gooniesiithe.zip"
   },
-  "nes_gorbynopipdai": {
+  "gorbynopipdai": {
     "download": "https://fightcade.download/fbneo/nes/gorbynopipdai.zip"
   },
-  "nes_gotcha": {
+  "gotcha": {
     "download": "https://fightcade.download/fbneo/nes/gotcha.zip"
   },
-  "nes_gradius": {
+  "gradius": {
     "download": "https://fightcade.download/fbneo/nes/gradius.zip"
   },
-  "nes_gradiusii": {
+  "gradiusii": {
     "download": "https://fightcade.download/fbneo/nes/gradiusii.zip"
   },
-  "nes_gradiusj": {
+  "gradiusj": {
     "download": "https://fightcade.download/fbneo/nes/gradiusj.zip"
   },
-  "nes_granavesubla": {
+  "granavesubla": {
     "download": "https://fightcade.download/fbneo/nes/granavesubla.zip"
   },
-  "nes_grandmaster": {
+  "grandmaster": {
     "download": "https://fightcade.download/fbneo/nes/grandmaster.zip"
   },
-  "nes_grandmasterj": {
+  "grandmasterj": {
     "download": "https://fightcade.download/fbneo/nes/grandmasterj.zip"
   },
-  "nes_greatbatcyb": {
+  "greatbatcyb": {
     "download": "https://fightcade.download/fbneo/nes/greatbatcyb.zip"
   },
-  "nes_greatbox": {
+  "greatbox": {
     "download": "https://fightcade.download/fbneo/nes/greatbox.zip"
   },
-  "nes_greattank": {
+  "greattank": {
     "download": "https://fightcade.download/fbneo/nes/greattank.zip"
   },
-  "nes_greatwalsea": {
+  "greatwalsea": {
     "download": "https://fightcade.download/fbneo/nes/greatwalsea.zip"
   },
-  "nes_greml2": {
+  "greml2": {
     "download": "https://fightcade.download/fbneo/nes/greml2.zip"
   },
-  "nes_gruni2": {
+  "gruni2": {
     "download": "https://fightcade.download/fbneo/nes/gruni2.zip"
   },
-  "nes_gruni3": {
+  "gruni3": {
     "download": "https://fightcade.download/fbneo/nes/gruni3.zip"
   },
-  "nes_guardicgaiden": {
+  "guardicgaiden": {
     "download": "https://fightcade.download/fbneo/nes/guardicgaiden.zip"
   },
-  "nes_guardicgaidenc": {
+  "guardicgaidenc": {
     "download": "https://fightcade.download/fbneo/nes/guardicgaidenc.zip"
   },
-  "nes_guardleg": {
+  "guardleg": {
     "download": "https://fightcade.download/fbneo/nes/guardleg.zip"
   },
-  "nes_guerrillawar": {
+  "guerrillawar": {
     "download": "https://fightcade.download/fbneo/nes/guerrillawar.zip"
   },
-  "nes_guevara": {
+  "guevara": {
     "download": "https://fightcade.download/fbneo/nes/guevara.zip"
   },
-  "nes_gumshoe": {
+  "gumshoe": {
     "download": "https://fightcade.download/fbneo/nes/gumshoe.zip"
   },
-  "nes_gundec": {
+  "gundec": {
     "download": "https://fightcade.download/fbneo/nes/gundec.zip"
   },
-  "nes_gundecc": {
+  "gundecc": {
     "download": "https://fightcade.download/fbneo/nes/gundecc.zip"
   },
-  "nes_gunhed": {
+  "gunhed": {
     "download": "https://fightcade.download/fbneo/nes/gunhed.zip"
   },
-  "nes_gunnac": {
+  "gunnac": {
     "download": "https://fightcade.download/fbneo/nes/gunnac.zip"
   },
-  "nes_gunnacc": {
+  "gunnacc": {
     "download": "https://fightcade.download/fbneo/nes/gunnacc.zip"
   },
-  "nes_gunnacj": {
+  "gunnacj": {
     "download": "https://fightcade.download/fbneo/nes/gunnacj.zip"
   },
-  "nes_gunnact": {
+  "gunnact": {
     "download": "https://fightcade.download/fbneo/nes/gunnact.zip"
   },
-  "nes_gunsight": {
+  "gunsight": {
     "download": "https://fightcade.download/fbneo/nes/gunsight.zip"
   },
-  "nes_gunsmoke": {
+  "gunsmoke": {
     "download": "https://fightcade.download/fbneo/nes/gunsmoke.zip"
   },
-  "nes_gunsmokec": {
+  "gunsmokec": {
     "download": "https://fightcade.download/fbneo/nes/gunsmokec.zip"
   },
-  "nes_gyrodine": {
+  "gyrodine": {
     "download": "https://fightcade.download/fbneo/nes/gyrodine.zip"
   },
-  "nes_gyromite": {
+  "gyromite": {
     "download": "https://fightcade.download/fbneo/nes/gyromite.zip"
   },
-  "nes_gyruss": {
+  "gyruss": {
     "download": "https://fightcade.download/fbneo/nes/gyruss.zip"
   },
-  "nes_halloween85": {
+  "hackmatch": {
+    "download": "https://fightcade.download/fbneo/nes/hackmatch.zip"
+  },
+  "halloween85": {
     "download": "https://fightcade.download/fbneo/nes/halloween85.zip"
   },
-  "nes_halloween86": {
+  "halloween86": {
     "download": "https://fightcade.download/fbneo/nes/halloween86.zip"
   },
-  "nes_halloween86a": {
+  "halloween86a": {
     "download": "https://fightcade.download/fbneo/nes/halloween86a.zip"
   },
-  "nes_happycamper": {
+  "happycamper": {
     "download": "https://fightcade.download/fbneo/nes/happycamper.zip"
   },
-  "nes_haradiuszero": {
+  "haradiuszero": {
     "download": "https://fightcade.download/fbneo/nes/haradiuszero.zip"
   },
-  "nes_harleglo": {
+  "harleglo": {
     "download": "https://fightcade.download/fbneo/nes/harleglo.zip"
   },
-  "nes_hatris": {
+  "hatris": {
     "download": "https://fightcade.download/fbneo/nes/hatris.zip"
   },
-  "nes_heavybarrel": {
+  "heavybarrel": {
     "download": "https://fightcade.download/fbneo/nes/heavybarrel.zip"
   },
-  "nes_heavyshreddin": {
+  "heavyshreddin": {
     "download": "https://fightcade.download/fbneo/nes/heavyshreddin.zip"
   },
-  "nes_hebereke": {
+  "hebereke": {
     "download": "https://fightcade.download/fbneo/nes/hebereke.zip"
   },
-  "nes_heberekec": {
+  "heberekec": {
     "download": "https://fightcade.download/fbneo/nes/heberekec.zip"
   },
-  "nes_hector87": {
+  "hector87": {
     "download": "https://fightcade.download/fbneo/nes/hector87.zip"
   },
-  "nes_heisetenbak": {
+  "heisetenbak": {
     "download": "https://fightcade.download/fbneo/nes/heisetenbak.zip"
   },
-  "nes_heisetenbakj": {
+  "heisetenbakj": {
     "download": "https://fightcade.download/fbneo/nes/heisetenbakj.zip"
   },
-  "nes_hellfighter": {
+  "hellfighter": {
     "download": "https://fightcade.download/fbneo/nes/hellfighter.zip"
   },
-  "nes_hellokitnooha": {
+  "hellokitnooha": {
     "download": "https://fightcade.download/fbneo/nes/hellokitnooha.zip"
   },
-  "nes_hellokitwor": {
+  "hellokitwor": {
     "download": "https://fightcade.download/fbneo/nes/hellokitwor.zip"
   },
-  "nes_higem": {
+  "higem": {
     "download": "https://fightcade.download/fbneo/nes/higem.zip"
   },
-  "nes_highspeed": {
+  "highspeed": {
     "download": "https://fightcade.download/fbneo/nes/highspeed.zip"
   },
-  "nes_highwaystar": {
+  "highwaystar": {
     "download": "https://fightcade.download/fbneo/nes/highwaystar.zip"
   },
-  "nes_hikarnosenphoulgaon": {
+  "hikarnosenphoulgaon": {
     "download": "https://fightcade.download/fbneo/nes/hikarnosenphoulgaon.zip"
   },
-  "nes_hikarnosenphoulgaonjlea": {
+  "hikarnosenphoulgaonjlea": {
     "download": "https://fightcade.download/fbneo/nes/hikarnosenphoulgaonjlea.zip"
   },
-  "nes_hinothouhen": {
+  "hinothouhen": {
     "download": "https://fightcade.download/fbneo/nes/hinothouhen.zip"
   },
-  "nes_hinothouhenj": {
+  "hinothouhenj": {
     "download": "https://fightcade.download/fbneo/nes/hinothouhenj.zip"
   },
-  "nes_hitlenofuk": {
+  "hitlenofuk": {
     "download": "https://fightcade.download/fbneo/nes/hitlenofuk.zip"
   },
-  "nes_hitlenofukc": {
+  "hitlenofukc": {
     "download": "https://fightcade.download/fbneo/nes/hitlenofukc.zip"
   },
-  "nes_hogansalley": {
+  "hogansalley": {
     "download": "https://fightcade.download/fbneo/nes/hogansalley.zip"
   },
-  "nes_hokutonoken": {
+  "hokutonoken": {
     "download": "https://fightcade.download/fbneo/nes/hokutonoken.zip"
   },
-  "nes_hokutonoken2": {
+  "hokutonoken2": {
     "download": "https://fightcade.download/fbneo/nes/hokutonoken2.zip"
   },
-  "nes_holydiver": {
+  "holydiver": {
     "download": "https://fightcade.download/fbneo/nes/holydiver.zip"
   },
-  "nes_holydiverj": {
+  "holydiverj": {
     "download": "https://fightcade.download/fbneo/nes/holydiverj.zip"
   },
-  "nes_homealo2": {
+  "homealo2": {
     "download": "https://fightcade.download/fbneo/nes/homealo2.zip"
   },
-  "nes_homealone": {
+  "homealone": {
     "download": "https://fightcade.download/fbneo/nes/homealone.zip"
   },
-  "nes_hook": {
+  "hook": {
     "download": "https://fightcade.download/fbneo/nes/hook.zip"
   },
-  "nes_hottanochitan": {
+  "hottanochitan": {
     "download": "https://fightcade.download/fbneo/nes/hottanochitan.zip"
   },
-  "nes_huangdi": {
+  "huangdi": {
     "download": "https://fightcade.download/fbneo/nes/huangdi.zip"
   },
-  "nes_hudsonhawk": {
+  "hudsonhawk": {
     "download": "https://fightcade.download/fbneo/nes/hudsonhawk.zip"
   },
-  "nes_hugeinsect": {
+  "hugeinsect": {
     "download": "https://fightcade.download/fbneo/nes/hugeinsect.zip"
   },
-  "nes_huntredoct": {
+  "huntredoct": {
     "download": "https://fightcade.download/fbneo/nes/huntredoct.zip"
   },
-  "nes_iceclimber": {
+  "iceclimber": {
     "download": "https://fightcade.download/fbneo/nes/iceclimber.zip"
   },
-  "nes_icehockey": {
+  "icehockey": {
     "download": "https://fightcade.download/fbneo/nes/icehockey.zip"
   },
-  "nes_ikariwarii": {
+  "ikariwarii": {
     "download": "https://fightcade.download/fbneo/nes/ikariwarii.zip"
   },
-  "nes_ikariwariii": {
+  "ikariwariii": {
     "download": "https://fightcade.download/fbneo/nes/ikariwariii.zip"
   },
-  "nes_ikariwarriors": {
+  "ikariwarriors": {
     "download": "https://fightcade.download/fbneo/nes/ikariwarriors.zip"
   },
-  "nes_ikeikenekhocbu": {
+  "ikeikenekhocbu": {
     "download": "https://fightcade.download/fbneo/nes/ikeikenekhocbu.zip"
   },
-  "nes_ikki": {
+  "ikki": {
     "download": "https://fightcade.download/fbneo/nes/ikki.zip"
   },
-  "nes_imagefight": {
+  "imagefight": {
     "download": "https://fightcade.download/fbneo/nes/imagefight.zip"
   },
-  "nes_immortalthe": {
+  "immortalthe": {
     "download": "https://fightcade.download/fbneo/nes/immortalthe.zip"
   },
-  "nes_imposmisii": {
+  "imposmisii": {
     "download": "https://fightcade.download/fbneo/nes/imposmisii.zip"
   },
-  "nes_increcradum": {
+  "increcradum": {
     "download": "https://fightcade.download/fbneo/nes/increcradum.zip"
   },
-  "nes_indiajonandlascr": {
+  "indiajonandlascr": {
     "download": "https://fightcade.download/fbneo/nes/indiajonandlascr.zip"
   },
-  "nes_indiajonandlascrt": {
+  "indiajonandlascrt": {
     "download": "https://fightcade.download/fbneo/nes/indiajonandlascrt.zip"
   },
-  "nes_indiajonandtemdo": {
+  "indiajonandtemdo": {
     "download": "https://fightcade.download/fbneo/nes/indiajonandtemdo.zip"
   },
-  "nes_indivisible": {
+  "indivisible": {
     "download": "https://fightcade.download/fbneo/nes/indivisible.zip"
   },
-  "nes_infiltrator": {
+  "infiltrator": {
     "download": "https://fightcade.download/fbneo/nes/infiltrator.zip"
   },
-  "nes_insectorx": {
+  "insectorx": {
     "download": "https://fightcade.download/fbneo/nes/insectorx.zip"
   },
-  "nes_intercri": {
+  "intercri": {
     "download": "https://fightcade.download/fbneo/nes/intercri.zip"
   },
-  "nes_irons": {
+  "irons": {
     "download": "https://fightcade.download/fbneo/nes/irons.zip"
   },
-  "nes_irontan": {
+  "irontan": {
     "download": "https://fightcade.download/fbneo/nes/irontan.zip"
   },
-  "nes_isolatedwarrior": {
+  "isolatedwarrior": {
     "download": "https://fightcade.download/fbneo/nes/isolatedwarrior.zip"
   },
-  "nes_ivanirostessuoffro": {
+  "ivanirostessuoffro": {
     "download": "https://fightcade.download/fbneo/nes/ivanirostessuoffro.zip"
   },
-  "nes_jackal": {
+  "jackal": {
     "download": "https://fightcade.download/fbneo/nes/jackal.zip"
   },
-  "nes_jackalc": {
+  "jackalc": {
     "download": "https://fightcade.download/fbneo/nes/jackalc.zip"
   },
-  "nes_jackiechan": {
+  "jackiechan": {
     "download": "https://fightcade.download/fbneo/nes/jackiechan.zip"
   },
-  "nes_jackiechanj": {
+  "jackiechanj": {
     "download": "https://fightcade.download/fbneo/nes/jackiechanj.zip"
   },
-  "nes_jacknicgre18homachg": {
+  "jacknicgre18homachg": {
     "download": "https://fightcade.download/fbneo/nes/jacknicgre18homachg.zip"
   },
-  "nes_jajamgek": {
+  "jajamgek": {
     "download": "https://fightcade.download/fbneo/nes/jajamgek.zip"
   },
-  "nes_jajamgekj": {
+  "jajamgekj": {
     "download": "https://fightcade.download/fbneo/nes/jajamgekj.zip"
   },
-  "nes_jajamnincho": {
+  "jajamnincho": {
     "download": "https://fightcade.download/fbneo/nes/jajamnincho.zip"
   },
-  "nes_jajamninchoj": {
+  "jajamninchoj": {
     "download": "https://fightcade.download/fbneo/nes/jajamninchoj.zip"
   },
-  "nes_jajamnodai": {
+  "jajamnodai": {
     "download": "https://fightcade.download/fbneo/nes/jajamnodai.zip"
   },
-  "nes_jamesbondjr": {
+  "jamesbondjr": {
     "download": "https://fightcade.download/fbneo/nes/jamesbondjr.zip"
   },
-  "nes_jamg": {
+  "jamg": {
     "download": "https://fightcade.download/fbneo/nes/jamg.zip"
   },
-  "nes_jaws": {
+  "jaws": {
     "download": "https://fightcade.download/fbneo/nes/jaws.zip"
   },
-  "nes_jaysilent": {
+  "jaysilent": {
     "download": "https://fightcade.download/fbneo/nes/jaysilent.zip"
   },
-  "nes_jesus": {
+  "jesus": {
     "download": "https://fightcade.download/fbneo/nes/jesus.zip"
   },
-  "nes_jesusj": {
+  "jesusj": {
     "download": "https://fightcade.download/fbneo/nes/jesusj.zip"
   },
-  "nes_jetpaco": {
+  "jetpaco": {
     "download": "https://fightcade.download/fbneo/nes/jetpaco.zip"
   },
-  "nes_jetsons": {
+  "jetsons": {
     "download": "https://fightcade.download/fbneo/nes/jetsons.zip"
   },
-  "nes_jetsonsj": {
+  "jetsonsj": {
     "download": "https://fightcade.download/fbneo/nes/jetsonsj.zip"
   },
-  "nes_jigokgokmar": {
+  "jigokgokmar": {
     "download": "https://fightcade.download/fbneo/nes/jigokgokmar.zip"
   },
-  "nes_jigokgokmarc": {
+  "jigokgokmarc": {
     "download": "https://fightcade.download/fbneo/nes/jigokgokmarc.zip"
   },
-  "nes_jikuuyuu": {
+  "jikuuyuu": {
     "download": "https://fightcade.download/fbneo/nes/jikuuyuu.zip"
   },
-  "nes_jimmyconten": {
+  "jimmyconten": {
     "download": "https://fightcade.download/fbneo/nes/jimmyconten.zip"
   },
-  "nes_jj": {
+  "jj": {
     "download": "https://fightcade.download/fbneo/nes/jj.zip"
   },
-  "nes_jleafigsoc": {
+  "jleafigsoc": {
     "download": "https://fightcade.download/fbneo/nes/jleafigsoc.zip"
   },
-  "nes_jleawingoa": {
+  "jleawingoa": {
     "download": "https://fightcade.download/fbneo/nes/jleawingoa.zip"
   },
-  "nes_joemac": {
+  "joemac": {
     "download": "https://fightcade.download/fbneo/nes/joemac.zip"
   },
-  "nes_johnelwsqua": {
+  "johnelwsqua": {
     "download": "https://fightcade.download/fbneo/nes/johnelwsqua.zip"
   },
-  "nes_jongbou": {
+  "jongbou": {
     "download": "https://fightcade.download/fbneo/nes/jongbou.zip"
   },
-  "nes_jordavsbir": {
+  "jordavsbir": {
     "download": "https://fightcade.download/fbneo/nes/jordavsbir.zip"
   },
-  "nes_joshubatjer": {
+  "joshubatjer": {
     "download": "https://fightcade.download/fbneo/nes/joshubatjer.zip"
   },
-  "nes_journeyal": {
+  "journeyal": {
     "download": "https://fightcade.download/fbneo/nes/journeyal.zip"
   },
-  "nes_journsil": {
+  "journsil": {
     "download": "https://fightcade.download/fbneo/nes/journsil.zip"
   },
-  "nes_joust": {
+  "joust": {
     "download": "https://fightcade.download/fbneo/nes/joust.zip"
   },
-  "nes_jovialrace": {
+  "jovialrace": {
     "download": "https://fightcade.download/fbneo/nes/jovialrace.zip"
   },
-  "nes_joymechfight": {
+  "joymechfight": {
     "download": "https://fightcade.download/fbneo/nes/joymechfight.zip"
   },
-  "nes_joymechfightj": {
+  "joymechfightj": {
     "download": "https://fightcade.download/fbneo/nes/joymechfightj.zip"
   },
-  "nes_jujudensetsu": {
+  "jujudensetsu": {
     "download": "https://fightcade.download/fbneo/nes/jujudensetsu.zip"
   },
-  "nes_jumboozanoholinonep": {
+  "jumboozanoholinonep": {
     "download": "https://fightcade.download/fbneo/nes/jumboozanoholinonep.zip"
   },
-  "nes_jumpikid": {
+  "jumpikid": {
     "download": "https://fightcade.download/fbneo/nes/jumpikid.zip"
   },
-  "nes_junglebookthe": {
+  "junglebookthe": {
     "download": "https://fightcade.download/fbneo/nes/junglebookthe.zip"
   },
-  "nes_junglebooktheb": {
+  "junglebooktheb": {
     "download": "https://fightcade.download/fbneo/nes/junglebooktheb.zip"
   },
-  "nes_jurassicboy": {
+  "jurassicboy": {
     "download": "https://fightcade.download/fbneo/nes/jurassicboy.zip"
   },
-  "nes_jurassicpark": {
+  "jurassicpark": {
     "download": "https://fightcade.download/fbneo/nes/jurassicpark.zip"
   },
-  "nes_justbreed": {
+  "justbreed": {
     "download": "https://fightcade.download/fbneo/nes/justbreed.zip"
   },
-  "nes_justbreedj": {
+  "justbreedj": {
     "download": "https://fightcade.download/fbneo/nes/justbreedj.zip"
   },
-  "nes_justiceduel": {
+  "justiceduel": {
     "download": "https://fightcade.download/fbneo/nes/justiceduel.zip"
   },
-  "nes_juuouki": {
+  "juuouki": {
     "download": "https://fightcade.download/fbneo/nes/juuouki.zip"
   },
-  "nes_juuoukij": {
+  "juuoukij": {
     "download": "https://fightcade.download/fbneo/nes/juuoukij.zip"
   },
-  "nes_juurysoumetsto": {
+  "juurysoumetsto": {
     "download": "https://fightcade.download/fbneo/nes/juurysoumetsto.zip"
   },
-  "nes_juveiquest": {
+  "juveiquest": {
     "download": "https://fightcade.download/fbneo/nes/juveiquest.zip"
   },
-  "nes_juveiquestj": {
+  "juveiquestj": {
     "download": "https://fightcade.download/fbneo/nes/juveiquestj.zip"
   },
-  "nes_jy45in1": {
+  "jy45in1": {
     "download": "https://fightcade.download/fbneo/nes/jy45in1.zip"
   },
-  "nes_kabuki": {
+  "kabuki": {
     "download": "https://fightcade.download/fbneo/nes/kabuki.zip"
   },
-  "nes_kage": {
+  "kage": {
     "download": "https://fightcade.download/fbneo/nes/kage.zip"
   },
-  "nes_kagec": {
+  "kagec": {
     "download": "https://fightcade.download/fbneo/nes/kagec.zip"
   },
-  "nes_kagenodensetsu": {
+  "kagenodensetsu": {
     "download": "https://fightcade.download/fbneo/nes/kagenodensetsu.zip"
   },
-  "nes_kageroudensetsu": {
+  "kageroudensetsu": {
     "download": "https://fightcade.download/fbneo/nes/kageroudensetsu.zip"
   },
-  "nes_kaikeyanmar": {
+  "kaikeyanmar": {
     "download": "https://fightcade.download/fbneo/nes/kaikeyanmar.zip"
   },
-  "nes_kaikeyanmar2": {
+  "kaikeyanmar2": {
     "download": "https://fightcade.download/fbneo/nes/kaikeyanmar2.zip"
   },
-  "nes_kaikeyanmar2j": {
+  "kaikeyanmar2j": {
     "download": "https://fightcade.download/fbneo/nes/kaikeyanmar2j.zip"
   },
-  "nes_kaikeyanmar3": {
+  "kaikeyanmar3": {
     "download": "https://fightcade.download/fbneo/nes/kaikeyanmar3.zip"
   },
-  "nes_kakefkunnojumte": {
+  "kakefkunnojumte": {
     "download": "https://fightcade.download/fbneo/nes/kakefkunnojumte.zip"
   },
-  "nes_kamennoninaka": {
+  "kamennoninaka": {
     "download": "https://fightcade.download/fbneo/nes/kamennoninaka.zip"
   },
-  "nes_kamennoninhan": {
+  "kamennoninhan": {
     "download": "https://fightcade.download/fbneo/nes/kamennoninhan.zip"
   },
-  "nes_kamenoong": {
+  "kamenoong": {
     "download": "https://fightcade.download/fbneo/nes/kamenoong.zip"
   },
-  "nes_kamenriderclub": {
+  "kamenriderclub": {
     "download": "https://fightcade.download/fbneo/nes/kamenriderclub.zip"
   },
-  "nes_kanshnagkannotogots": {
+  "kanshnagkannotogots": {
     "download": "https://fightcade.download/fbneo/nes/kanshnagkannotogots.zip"
   },
-  "nes_karakkendenmuslo": {
+  "karakkendenmuslo": {
     "download": "https://fightcade.download/fbneo/nes/karakkendenmuslo.zip"
   },
-  "nes_karatechamp": {
+  "karatechamp": {
     "download": "https://fightcade.download/fbneo/nes/karatechamp.zip"
   },
-  "nes_karateka": {
+  "karateka": {
     "download": "https://fightcade.download/fbneo/nes/karateka.zip"
   },
-  "nes_karatekidthe": {
+  "karatekidthe": {
     "download": "https://fightcade.download/fbneo/nes/karatekidthe.zip"
   },
-  "nes_karnov": {
+  "karnov": {
     "download": "https://fightcade.download/fbneo/nes/karnov.zip"
   },
-  "nes_kerokerkernoda": {
+  "kartfighter": {
+    "download": "https://fightcade.download/fbneo/nes/kartfighter.zip"
+  },
+  "kerokerkernoda": {
     "download": "https://fightcade.download/fbneo/nes/kerokerkernoda.zip"
   },
-  "nes_kerokerkernoda2": {
+  "kerokerkernoda2": {
     "download": "https://fightcade.download/fbneo/nes/kerokerkernoda2.zip"
   },
-  "nes_kerokerkernoda2j": {
+  "kerokerkernoda2j": {
     "download": "https://fightcade.download/fbneo/nes/kerokerkernoda2j.zip"
   },
-  "nes_kerokerkernodaj": {
+  "kerokerkernodaj": {
     "download": "https://fightcade.download/fbneo/nes/kerokerkernodaj.zip"
   },
-  "nes_keropkernosplbo": {
+  "keropkernosplbo": {
     "download": "https://fightcade.download/fbneo/nes/keropkernosplbo.zip"
   },
-  "nes_kicklecubicle": {
+  "kicklecubicle": {
     "download": "https://fightcade.download/fbneo/nes/kicklecubicle.zip"
   },
-  "nes_kickmaster": {
+  "kickmaster": {
     "download": "https://fightcade.download/fbneo/nes/kickmaster.zip"
   },
-  "nes_kickoff": {
+  "kickoff": {
     "download": "https://fightcade.download/fbneo/nes/kickoff.zip"
   },
-  "nes_kiddracula": {
+  "kiddracula": {
     "download": "https://fightcade.download/fbneo/nes/kiddracula.zip"
   },
-  "nes_kiddysuninfan": {
+  "kiddysuninfan": {
     "download": "https://fightcade.download/fbneo/nes/kiddysuninfan.zip"
   },
-  "nes_kidicarus": {
+  "kidicarus": {
     "download": "https://fightcade.download/fbneo/nes/kidicarus.zip"
   },
-  "nes_kidkloinnigmawo": {
+  "kidkloinnigmawo": {
     "download": "https://fightcade.download/fbneo/nes/kidkloinnigmawo.zip"
   },
-  "nes_kidkooandquesewohe": {
+  "kidkooandquesewohe": {
     "download": "https://fightcade.download/fbneo/nes/kidkooandquesewohe.zip"
   },
-  "nes_kidnik": {
+  "kidnik": {
     "download": "https://fightcade.download/fbneo/nes/kidnik.zip"
   },
-  "nes_kidousenzgun": {
+  "kidousenzgun": {
     "download": "https://fightcade.download/fbneo/nes/kidousenzgun.zip"
   },
-  "nes_kidousenzgunj": {
+  "kidousenzgunj": {
     "download": "https://fightcade.download/fbneo/nes/kidousenzgunj.zip"
   },
-  "nes_kingkin": {
+  "kingkin": {
     "download": "https://fightcade.download/fbneo/nes/kingkin.zip"
   },
-  "nes_kingkon2": {
+  "kingkon2": {
     "download": "https://fightcade.download/fbneo/nes/kingkon2.zip"
   },
-  "nes_kingkon2j": {
+  "kingkon2j": {
     "download": "https://fightcade.download/fbneo/nes/kingkon2j.zip"
   },
-  "nes_kingofkings": {
+  "kingofkings": {
     "download": "https://fightcade.download/fbneo/nes/kingofkings.zip"
   },
-  "nes_kingsknight": {
+  "kingsknight": {
     "download": "https://fightcade.download/fbneo/nes/kingsknight.zip"
   },
-  "nes_kingsquestv": {
+  "kingsquestv": {
     "download": "https://fightcade.download/fbneo/nes/kingsquestv.zip"
   },
-  "nes_kinni": {
+  "kinni": {
     "download": "https://fightcade.download/fbneo/nes/kinni.zip"
   },
-  "nes_kirakirstanigac": {
+  "kirakirstanigac": {
     "download": "https://fightcade.download/fbneo/nes/kirakirstanigac.zip"
   },
-  "nes_kirakirstanigdx": {
+  "kirakirstanigdx": {
     "download": "https://fightcade.download/fbneo/nes/kirakirstanigdx.zip"
   },
-  "nes_kirakirstaniggo": {
+  "kirakirstaniggo": {
     "download": "https://fightcade.download/fbneo/nes/kirakirstaniggo.zip"
   },
-  "nes_kirbysadv": {
+  "kirbysadv": {
     "download": "https://fightcade.download/fbneo/nes/kirbysadv.zip"
   },
-  "nes_kiterdai": {
+  "kiterdai": {
     "download": "https://fightcade.download/fbneo/nes/kiterdai.zip"
   },
-  "nes_kittyscatch": {
+  "kittyscatch": {
     "download": "https://fightcade.download/fbneo/nes/kittyscatch.zip"
   },
-  "nes_kiwikra": {
+  "kiwikra": {
     "download": "https://fightcade.download/fbneo/nes/kiwikra.zip"
   },
-  "nes_klashball": {
+  "klashball": {
     "download": "https://fightcade.download/fbneo/nes/klashball.zip"
   },
-  "nes_klax": {
+  "klax": {
     "download": "https://fightcade.download/fbneo/nes/klax.zip"
   },
-  "nes_knightrider": {
+  "knightrider": {
     "download": "https://fightcade.download/fbneo/nes/knightrider.zip"
   },
-  "nes_kokoadventure": {
+  "kokoadventure": {
     "download": "https://fightcade.download/fbneo/nes/kokoadventure.zip"
   },
-  "nes_konamhypsoc": {
+  "konamhypsoc": {
     "download": "https://fightcade.download/fbneo/nes/konamhypsoc.zip"
   },
-  "nes_konamspoinseo": {
+  "konamspoinseo": {
     "download": "https://fightcade.download/fbneo/nes/konamspoinseo.zip"
   },
-  "nes_kosatak": {
+  "kosatak": {
     "download": "https://fightcade.download/fbneo/nes/kosatak.zip"
   },
-  "nes_krazykreatures": {
+  "krazykreatures": {
     "download": "https://fightcade.download/fbneo/nes/krazykreatures.zip"
   },
-  "nes_krioncon": {
+  "krioncon": {
     "download": "https://fightcade.download/fbneo/nes/krioncon.zip"
   },
-  "nes_krustsfunhou": {
+  "krustsfunhou": {
     "download": "https://fightcade.download/fbneo/nes/krustsfunhou.zip"
   },
-  "nes_kungfu": {
+  "kungfu": {
     "download": "https://fightcade.download/fbneo/nes/kungfu.zip"
   },
-  "nes_kungfuheroes": {
+  "kungfuheroes": {
     "download": "https://fightcade.download/fbneo/nes/kungfuheroes.zip"
   },
-  "nes_kuniokunnoneksole": {
+  "kuniokunnoneksole": {
     "download": "https://fightcade.download/fbneo/nes/kuniokunnoneksole.zip"
   },
-  "nes_kyoursenjuu": {
+  "kyoursenjuu": {
     "download": "https://fightcade.download/fbneo/nes/kyoursenjuu.zip"
   },
-  "nes_kyoursenjuuj": {
+  "kyoursenjuuj": {
     "download": "https://fightcade.download/fbneo/nes/kyoursenjuuj.zip"
   },
-  "nes_kyuukyokutiger": {
+  "kyuukyokutiger": {
     "download": "https://fightcade.download/fbneo/nes/kyuukyokutiger.zip"
   },
-  "nes_lagrangepoint": {
+  "lagrangepoint": {
     "download": "https://fightcade.download/fbneo/nes/lagrangepoint.zip"
   },
-  "nes_lagrangepointj": {
+  "lagrangepointj": {
     "download": "https://fightcade.download/fbneo/nes/lagrangepointj.zip"
   },
-  "nes_lalathemagical": {
+  "lalathemagical": {
     "download": "https://fightcade.download/fbneo/nes/lalathemagical.zip"
   },
-  "nes_larry": {
+  "larry": {
     "download": "https://fightcade.download/fbneo/nes/larry.zip"
   },
-  "nes_larrya": {
+  "larrya": {
     "download": "https://fightcade.download/fbneo/nes/larrya.zip"
   },
-  "nes_laserinvasion": {
+  "laserinvasion": {
     "download": "https://fightcade.download/fbneo/nes/laserinvasion.zip"
   },
-  "nes_lastactionhero": {
+  "lastactionhero": {
     "download": "https://fightcade.download/fbneo/nes/lastactionhero.zip"
   },
-  "nes_lastarmageddon": {
+  "lastarmageddon": {
     "download": "https://fightcade.download/fbneo/nes/lastarmageddon.zip"
   },
-  "nes_lastninjathe": {
+  "lastninjathe": {
     "download": "https://fightcade.download/fbneo/nes/lastninjathe.zip"
   },
-  "nes_laststa": {
+  "laststa": {
     "download": "https://fightcade.download/fbneo/nes/laststa.zip"
   },
-  "nes_lawnmower": {
+  "lawnmower": {
     "download": "https://fightcade.download/fbneo/nes/lawnmower.zip"
   },
-  "nes_layla": {
+  "layla": {
     "download": "https://fightcade.download/fbneo/nes/layla.zip"
   },
-  "nes_leetresfiggo": {
+  "leetresfiggo": {
     "download": "https://fightcade.download/fbneo/nes/leetresfiggo.zip"
   },
-  "nes_legacwiz": {
+  "legacwiz": {
     "download": "https://fightcade.download/fbneo/nes/legacwiz.zip"
   },
-  "nes_legenbal": {
+  "legenbal": {
     "download": "https://fightcade.download/fbneo/nes/legenbal.zip"
   },
-  "nes_legenbalj": {
+  "legenbalj": {
     "download": "https://fightcade.download/fbneo/nes/legenbalj.zip"
   },
-  "nes_legendarywings": {
+  "legendarywings": {
     "download": "https://fightcade.download/fbneo/nes/legendarywings.zip"
   },
-  "nes_legendsofowlia": {
+  "legendsofowlia": {
     "download": "https://fightcade.download/fbneo/nes/legendsofowlia.zip"
   },
-  "nes_legenkag": {
+  "legenkag": {
     "download": "https://fightcade.download/fbneo/nes/legenkag.zip"
   },
-  "nes_legenzel": {
+  "legenzel": {
     "download": "https://fightcade.download/fbneo/nes/legenzel.zip"
   },
-  "nes_legenzeldx": {
+  "legenzeldx": {
     "download": "https://fightcade.download/fbneo/nes/legenzeldx.zip"
   },
-  "nes_leidiahuabikaqiuchs": {
+  "leidiahuabikaqiuchs": {
     "download": "https://fightcade.download/fbneo/nes/leidiahuabikaqiuchs.zip"
   },
-  "nes_lemmings": {
+  "lemmings": {
     "download": "https://fightcade.download/fbneo/nes/lemmings.zip"
   },
-  "nes_lethalweapon": {
+  "lethalweapon": {
     "download": "https://fightcade.download/fbneo/nes/lethalweapon.zip"
   },
-  "nes_lifeforce": {
+  "lifeforce": {
     "download": "https://fightcade.download/fbneo/nes/lifeforce.zip"
   },
-  "nes_linusspascoscr": {
+  "linusspascoscr": {
     "download": "https://fightcade.download/fbneo/nes/linusspascoscr.zip"
   },
-  "nes_littlemedusa": {
+  "littlemedusa": {
     "download": "https://fightcade.download/fbneo/nes/littlemedusa.zip"
   },
-  "nes_littlesamson": {
+  "littlesamson": {
     "download": "https://fightcade.download/fbneo/nes/littlesamson.zip"
   },
-  "nes_littlesamsonh": {
+  "littlesamsonh": {
     "download": "https://fightcade.download/fbneo/nes/littlesamsonh.zip"
   },
-  "nes_littlmer": {
+  "littlmer": {
     "download": "https://fightcade.download/fbneo/nes/littlmer.zip"
   },
-  "nes_littlmerj": {
+  "littlmerj": {
     "download": "https://fightcade.download/fbneo/nes/littlmerj.zip"
   },
-  "nes_littlnem": {
+  "littlnem": {
     "download": "https://fightcade.download/fbneo/nes/littlnem.zip"
   },
-  "nes_littlninbro": {
+  "littlninbro": {
     "download": "https://fightcade.download/fbneo/nes/littlninbro.zip"
   },
-  "nes_lizard": {
+  "lizard": {
     "download": "https://fightcade.download/fbneo/nes/lizard.zip"
   },
-  "nes_loderunner": {
+  "loderunner": {
     "download": "https://fightcade.download/fbneo/nes/loderunner.zip"
   },
-  "nes_logjammers": {
+  "logjammers": {
     "download": "https://fightcade.download/fbneo/nes/logjammers.zip"
   },
-  "nes_lonerangerthe": {
+  "lonerangerthe": {
     "download": "https://fightcade.download/fbneo/nes/lonerangerthe.zip"
   },
-  "nes_loopz": {
+  "loopz": {
     "download": "https://fightcade.download/fbneo/nes/loopz.zip"
   },
-  "nes_lotlot": {
+  "lotlot": {
     "download": "https://fightcade.download/fbneo/nes/lotlot.zip"
   },
-  "nes_lowgman": {
+  "lowgman": {
     "download": "https://fightcade.download/fbneo/nes/lowgman.zip"
   },
-  "nes_lunarlimit": {
+  "lunarlimit": {
     "download": "https://fightcade.download/fbneo/nes/lunarlimit.zip"
   },
-  "nes_lunarpool": {
+  "lunarpool": {
     "download": "https://fightcade.download/fbneo/nes/lunarpool.zip"
   },
-  "nes_lupinsan": {
+  "lupinsan": {
     "download": "https://fightcade.download/fbneo/nes/lupinsan.zip"
   },
-  "nes_lupinsanj": {
+  "lupinsanj": {
     "download": "https://fightcade.download/fbneo/nes/lupinsanj.zip"
   },
-  "nes_machinecave": {
+  "machinecave": {
     "download": "https://fightcade.download/fbneo/nes/machinecave.zip"
   },
-  "nes_machrider": {
+  "machrider": {
     "download": "https://fightcade.download/fbneo/nes/machrider.zip"
   },
-  "nes_madcity": {
+  "madcity": {
     "download": "https://fightcade.download/fbneo/nes/madcity.zip"
   },
-  "nes_madcityc": {
+  "madcityc": {
     "download": "https://fightcade.download/fbneo/nes/madcityc.zip"
   },
-  "nes_madmax": {
+  "madmax": {
     "download": "https://fightcade.download/fbneo/nes/madmax.zip"
   },
-  "nes_madwiz": {
+  "madwiz": {
     "download": "https://fightcade.download/fbneo/nes/madwiz.zip"
   },
-  "nes_mafatcon": {
+  "mafatcon": {
     "download": "https://fightcade.download/fbneo/nes/mafatcon.zip"
   },
-  "nes_magicblock": {
+  "magicblock": {
     "download": "https://fightcade.download/fbneo/nes/magicblock.zip"
   },
-  "nes_magiccar100": {
+  "magiccar100": {
     "download": "https://fightcade.download/fbneo/nes/magiccar100.zip"
   },
-  "nes_magicdarts": {
+  "magicdarts": {
     "download": "https://fightcade.download/fbneo/nes/magicdarts.zip"
   },
-  "nes_magicdragon": {
+  "magicdragon": {
     "download": "https://fightcade.download/fbneo/nes/magicdragon.zip"
   },
-  "nes_magician": {
+  "magician": {
     "download": "https://fightcade.download/fbneo/nes/magician.zip"
   },
-  "nes_magicjewelry": {
+  "magicjewelry": {
     "download": "https://fightcade.download/fbneo/nes/magicjewelry.zip"
   },
-  "nes_magicjewelry2": {
+  "magicjewelry2": {
     "download": "https://fightcade.download/fbneo/nes/magicjewelry2.zip"
   },
-  "nes_magicjohn": {
+  "magicjohn": {
     "download": "https://fightcade.download/fbneo/nes/magicjohn.zip"
   },
-  "nes_magicjohsfasbr": {
+  "magicjohsfasbr": {
     "download": "https://fightcade.download/fbneo/nes/magicjohsfasbr.zip"
   },
-  "nes_magickidgoogoo": {
+  "magickidgoogoo": {
     "download": "https://fightcade.download/fbneo/nes/magickidgoogoo.zip"
   },
-  "nes_magickidsdor": {
+  "magickidsdor": {
     "download": "https://fightcade.download/fbneo/nes/magickidsdor.zip"
   },
-  "nes_magicsch": {
+  "magicsch": {
     "download": "https://fightcade.download/fbneo/nes/magicsch.zip"
   },
-  "nes_magictarkun": {
+  "magictarkun": {
     "download": "https://fightcade.download/fbneo/nes/magictarkun.zip"
   },
-  "nes_magictarkun2": {
+  "magictarkun2": {
     "download": "https://fightcade.download/fbneo/nes/magictarkun2.zip"
   },
-  "nes_magmax": {
+  "magmax": {
     "download": "https://fightcade.download/fbneo/nes/magmax.zip"
   },
-  "nes_maharaja": {
+  "maharaja": {
     "download": "https://fightcade.download/fbneo/nes/maharaja.zip"
   },
-  "nes_maharajaj": {
+  "maharajaj": {
     "download": "https://fightcade.download/fbneo/nes/maharajaj.zip"
   },
-  "nes_majorleabas": {
+  "majorleabas": {
     "download": "https://fightcade.download/fbneo/nes/majorleabas.zip"
   },
-  "nes_majorleague": {
+  "majorleague": {
     "download": "https://fightcade.download/fbneo/nes/majorleague.zip"
   },
-  "nes_majoudenii": {
+  "majoudenii": {
     "download": "https://fightcade.download/fbneo/nes/majoudenii.zip"
   },
-  "nes_majoudeniic": {
+  "majoudeniic": {
     "download": "https://fightcade.download/fbneo/nes/majoudeniic.zip"
   },
-  "nes_makaimura": {
+  "makaimura": {
     "download": "https://fightcade.download/fbneo/nes/makaimura.zip"
   },
-  "nes_makaimuraarcade": {
+  "makaimuraarcade": {
     "download": "https://fightcade.download/fbneo/nes/makaimuraarcade.zip"
   },
-  "nes_maniacmansion": {
+  "maniacmansion": {
     "download": "https://fightcade.download/fbneo/nes/maniacmansion.zip"
   },
-  "nes_mappy": {
+  "mappy": {
     "download": "https://fightcade.download/fbneo/nes/mappy.zip"
   },
-  "nes_mappykids": {
+  "mappykids": {
     "download": "https://fightcade.download/fbneo/nes/mappykids.zip"
   },
-  "nes_mappykidsc": {
+  "mappykidsc": {
     "download": "https://fightcade.download/fbneo/nes/mappykidsc.zip"
   },
-  "nes_mappyland": {
+  "mappyland": {
     "download": "https://fightcade.download/fbneo/nes/mappyland.zip"
   },
-  "nes_marblemadness": {
+  "marblemadness": {
     "download": "https://fightcade.download/fbneo/nes/marblemadness.zip"
   },
-  "nes_mariobros": {
+  "mariobros": {
     "download": "https://fightcade.download/fbneo/nes/mariobros.zip"
   },
-  "nes_mashieiydenwatga": {
+  "mashieiydenwatga": {
     "download": "https://fightcade.download/fbneo/nes/mashieiydenwatga.zip"
   },
-  "nes_mashieiydenwatgaj": {
+  "mashieiydenwatgaj": {
     "download": "https://fightcade.download/fbneo/nes/mashieiydenwatgaj.zip"
   },
-  "nes_mastechuanddruhu": {
+  "mastechuanddruhu": {
     "download": "https://fightcade.download/fbneo/nes/mastechuanddruhu.zip"
   },
-  "nes_mastershooter": {
+  "mastershooter": {
     "download": "https://fightcade.download/fbneo/nes/mastershooter.zip"
   },
-  "nes_matendouji": {
+  "matendouji": {
     "download": "https://fightcade.download/fbneo/nes/matendouji.zip"
   },
-  "nes_maxwar": {
+  "maxwar": {
     "download": "https://fightcade.download/fbneo/nes/maxwar.zip"
   },
-  "nes_mckids": {
+  "mckids": {
     "download": "https://fightcade.download/fbneo/nes/mckids.zip"
   },
-  "nes_meating": {
+  "meating": {
     "download": "https://fightcade.download/fbneo/nes/meating.zip"
   },
-  "nes_mechaatt": {
+  "mechaatt": {
     "download": "https://fightcade.download/fbneo/nes/mechaatt.zip"
   },
-  "nes_megaman": {
+  "megaman": {
     "download": "https://fightcade.download/fbneo/nes/megaman.zip"
   },
-  "nes_megaman2": {
+  "megaman2": {
     "download": "https://fightcade.download/fbneo/nes/megaman2.zip"
   },
-  "nes_megaman3": {
+  "megaman3": {
     "download": "https://fightcade.download/fbneo/nes/megaman3.zip"
   },
-  "nes_megaman3imp": {
+  "megaman3imp": {
     "download": "https://fightcade.download/fbneo/nes/megaman3imp.zip"
   },
-  "nes_megaman3rev": {
+  "megaman3rev": {
     "download": "https://fightcade.download/fbneo/nes/megaman3rev.zip"
   },
-  "nes_megaman4": {
+  "megaman4": {
     "download": "https://fightcade.download/fbneo/nes/megaman4.zip"
   },
-  "nes_megaman5": {
+  "megaman5": {
     "download": "https://fightcade.download/fbneo/nes/megaman5.zip"
   },
-  "nes_megaman6": {
+  "megaman6": {
     "download": "https://fightcade.download/fbneo/nes/megaman6.zip"
   },
-  "nes_megamancx": {
+  "megamancx": {
     "download": "https://fightcade.download/fbneo/nes/megamancx.zip"
   },
-  "nes_meikyuujima": {
+  "meikyuujima": {
     "download": "https://fightcade.download/fbneo/nes/meikyuujima.zip"
   },
-  "nes_menacebeach": {
+  "menacebeach": {
     "download": "https://fightcade.download/fbneo/nes/menacebeach.zip"
   },
-  "nes_mendelpalace": {
+  "mendelpalace": {
     "download": "https://fightcade.download/fbneo/nes/mendelpalace.zip"
   },
-  "nes_metalfighter": {
+  "metalfighter": {
     "download": "https://fightcade.download/fbneo/nes/metalfighter.zip"
   },
-  "nes_metalforce": {
+  "metalforce": {
     "download": "https://fightcade.download/fbneo/nes/metalforce.zip"
   },
-  "nes_metalgear": {
+  "metalgear": {
     "download": "https://fightcade.download/fbneo/nes/metalgear.zip"
   },
-  "nes_metalmax": {
+  "metalmax": {
     "download": "https://fightcade.download/fbneo/nes/metalmax.zip"
   },
-  "nes_metalmaxj": {
+  "metalmaxj": {
     "download": "https://fightcade.download/fbneo/nes/metalmaxj.zip"
   },
-  "nes_metalmec": {
+  "metalmec": {
     "download": "https://fightcade.download/fbneo/nes/metalmec.zip"
   },
-  "nes_metalslaglo": {
+  "metalslaglo": {
     "download": "https://fightcade.download/fbneo/nes/metalslaglo.zip"
   },
-  "nes_metalslagloj": {
+  "metalslagloj": {
     "download": "https://fightcade.download/fbneo/nes/metalslagloj.zip"
   },
-  "nes_metalstorm": {
+  "metalstorm": {
     "download": "https://fightcade.download/fbneo/nes/metalstorm.zip"
   },
-  "nes_metrocross": {
+  "metrocross": {
     "download": "https://fightcade.download/fbneo/nes/metrocross.zip"
   },
-  "nes_metroid": {
+  "metroid": {
     "download": "https://fightcade.download/fbneo/nes/metroid.zip"
   },
-  "nes_metroorienh": {
+  "metroorienh": {
     "download": "https://fightcade.download/fbneo/nes/metroorienh.zip"
   },
-  "nes_metrorogdaw": {
+  "metrorogdaw": {
     "download": "https://fightcade.download/fbneo/nes/metrorogdaw.zip"
   },
-  "nes_micemission": {
+  "micemission": {
     "download": "https://fightcade.download/fbneo/nes/micemission.zip"
   },
-  "nes_michaandsworgrpr": {
+  "michaandsworgrpr": {
     "download": "https://fightcade.download/fbneo/nes/michaandsworgrpr.zip"
   },
-  "nes_mickemou": {
+  "mickemou": {
     "download": "https://fightcade.download/fbneo/nes/mickemou.zip"
   },
-  "nes_mickemouiii": {
+  "mickemouiii": {
     "download": "https://fightcade.download/fbneo/nes/mickemouiii.zip"
   },
-  "nes_mickemouiiij": {
+  "mickemouiiij": {
     "download": "https://fightcade.download/fbneo/nes/mickemouiiij.zip"
   },
-  "nes_mickeymania7": {
+  "mickeymania7": {
     "download": "https://fightcade.download/fbneo/nes/mickeymania7.zip"
   },
-  "nes_micromachines": {
+  "micromachines": {
     "download": "https://fightcade.download/fbneo/nes/micromachines.zip"
   },
-  "nes_micromages": {
+  "micromages": {
     "download": "https://fightcade.download/fbneo/nes/micromages.zip"
   },
-  "nes_miedow": {
+  "miedow": {
     "download": "https://fightcade.download/fbneo/nes/miedow.zip"
   },
-  "nes_mig29": {
+  "mig29": {
     "download": "https://fightcade.download/fbneo/nes/mig29.zip"
   },
-  "nes_mightfinfig": {
+  "mightfinfig": {
     "download": "https://fightcade.download/fbneo/nes/mightfinfig.zip"
   },
-  "nes_mightybombjack": {
+  "mightybombjack": {
     "download": "https://fightcade.download/fbneo/nes/mightybombjack.zip"
   },
-  "nes_miketysspunout": {
+  "miketysspunout": {
     "download": "https://fightcade.download/fbneo/nes/miketysspunout.zip"
   },
-  "nes_milli": {
+  "milli": {
     "download": "https://fightcade.download/fbneo/nes/milli.zip"
   },
-  "nes_millipede": {
+  "millipede": {
     "download": "https://fightcade.download/fbneo/nes/millipede.zip"
   },
-  "nes_miniputt": {
+  "miniputt": {
     "download": "https://fightcade.download/fbneo/nes/miniputt.zip"
   },
-  "nes_miracrops": {
+  "miracrops": {
     "download": "https://fightcade.download/fbneo/nes/miracrops.zip"
   },
-  "nes_miraisen": {
+  "miraisen": {
     "download": "https://fightcade.download/fbneo/nes/miraisen.zip"
   },
-  "nes_miraisenj": {
+  "miraisenj": {
     "download": "https://fightcade.download/fbneo/nes/miraisenj.zip"
   },
-  "nes_missiimp": {
+  "missiimp": {
     "download": "https://fightcade.download/fbneo/nes/missiimp.zip"
   },
-  "nes_missioncobra": {
+  "missioncobra": {
     "download": "https://fightcade.download/fbneo/nes/missioncobra.zip"
   },
-  "nes_mitokou": {
+  "mitokou": {
     "download": "https://fightcade.download/fbneo/nes/mitokou.zip"
   },
-  "nes_mitsumegatooru": {
+  "mitsumegatooru": {
     "download": "https://fightcade.download/fbneo/nes/mitsumegatooru.zip"
   },
-  "nes_mitsumegatooruc": {
+  "mitsumegatooruc": {
     "download": "https://fightcade.download/fbneo/nes/mitsumegatooruc.zip"
   },
-  "nes_mitsumegatooruj": {
+  "mitsumegatooruj": {
     "download": "https://fightcade.download/fbneo/nes/mitsumegatooruj.zip"
   },
-  "nes_moaikun": {
+  "moaikun": {
     "download": "https://fightcade.download/fbneo/nes/moaikun.zip"
   },
-  "nes_moeroproten": {
+  "moeroproten": {
     "download": "https://fightcade.download/fbneo/nes/moeroproten.zip"
   },
-  "nes_moerotwi": {
+  "moerotwi": {
     "download": "https://fightcade.download/fbneo/nes/moerotwi.zip"
   },
-  "nes_mojontwiboo": {
+  "mojontwiboo": {
     "download": "https://fightcade.download/fbneo/nes/mojontwiboo.zip"
   },
-  "nes_mojontwichegod": {
+  "mojontwichegod": {
     "download": "https://fightcade.download/fbneo/nes/mojontwichegod.zip"
   },
-  "nes_mojontwichewri": {
+  "mojontwichewri": {
     "download": "https://fightcade.download/fbneo/nes/mojontwichewri.zip"
   },
-  "nes_mojontwimul": {
+  "mojontwimul": {
     "download": "https://fightcade.download/fbneo/nes/mojontwimul.zip"
   },
-  "nes_monopoly": {
+  "monopoly": {
     "download": "https://fightcade.download/fbneo/nes/monopoly.zip"
   },
-  "nes_monsterparty": {
+  "monsterparty": {
     "download": "https://fightcade.download/fbneo/nes/monsterparty.zip"
   },
-  "nes_monstinmypoc": {
+  "monstinmypoc": {
     "download": "https://fightcade.download/fbneo/nes/monstinmypoc.zip"
   },
-  "nes_monsttrural": {
+  "monsttrural": {
     "download": "https://fightcade.download/fbneo/nes/monsttrural.zip"
   },
-  "nes_mooncrystal": {
+  "mooncrystal": {
     "download": "https://fightcade.download/fbneo/nes/mooncrystal.zip"
   },
-  "nes_mooncrystalj": {
+  "mooncrystalj": {
     "download": "https://fightcade.download/fbneo/nes/mooncrystalj.zip"
   },
-  "nes_moonranger": {
+  "moonranger": {
     "download": "https://fightcade.download/fbneo/nes/moonranger.zip"
   },
-  "nes_mortakom3": {
+  "mortakom3": {
     "download": "https://fightcade.download/fbneo/nes/mortakom3.zip"
   },
-  "nes_mortakomiiispe": {
+  "mortakomiiispe": {
     "download": "https://fightcade.download/fbneo/nes/mortakomiiispe.zip"
   },
-  "nes_mortakomiispe": {
+  "mortakomiispe": {
     "download": "https://fightcade.download/fbneo/nes/mortakomiispe.zip"
   },
-  "nes_mortalkombat4": {
+  "mortalkombat4": {
     "download": "https://fightcade.download/fbneo/nes/mortalkombat4.zip"
   },
-  "nes_mother": {
+  "mother": {
     "download": "https://fightcade.download/fbneo/nes/mother.zip"
   },
-  "nes_motoccha": {
+  "motoccha": {
     "download": "https://fightcade.download/fbneo/nes/motoccha.zip"
   },
-  "nes_motocchaj": {
+  "motocchaj": {
     "download": "https://fightcade.download/fbneo/nes/motocchaj.zip"
   },
-  "nes_motorcitpat": {
+  "motorcitpat": {
     "download": "https://fightcade.download/fbneo/nes/motorcitpat.zip"
   },
-  "nes_mottoabudek": {
+  "mottoabudek": {
     "download": "https://fightcade.download/fbneo/nes/mottoabudek.zip"
   },
-  "nes_mourysenmad": {
+  "mourysenmad": {
     "download": "https://fightcade.download/fbneo/nes/mourysenmad.zip"
   },
-  "nes_mourysenmadj": {
+  "mourysenmadj": {
     "download": "https://fightcade.download/fbneo/nes/mourysenmadj.zip"
   },
-  "nes_mrsplash": {
+  "mrsplash": {
     "download": "https://fightcade.download/fbneo/nes/mrsplash.zip"
   },
-  "nes_mspacman": {
+  "mspacman": {
     "download": "https://fightcade.download/fbneo/nes/mspacman.zip"
   },
-  "nes_mule": {
+  "mule": {
     "download": "https://fightcade.download/fbneo/nes/mule.zip"
   },
-  "nes_multidude": {
+  "multidude": {
     "download": "https://fightcade.download/fbneo/nes/multidude.zip"
   },
-  "nes_muppeadv": {
+  "muppeadv": {
     "download": "https://fightcade.download/fbneo/nes/muppeadv.zip"
   },
-  "nes_musasnoken": {
+  "musasnoken": {
     "download": "https://fightcade.download/fbneo/nes/musasnoken.zip"
   },
-  "nes_muscle": {
+  "muscle": {
     "download": "https://fightcade.download/fbneo/nes/muscle.zip"
   },
-  "nes_mutanvir": {
+  "mutanvir": {
     "download": "https://fightcade.download/fbneo/nes/mutanvir.zip"
   },
-  "nes_mysteryquest": {
+  "mysteryquest": {
     "download": "https://fightcade.download/fbneo/nes/mysteryquest.zip"
   },
-  "nes_mysticorigins": {
+  "mysticorigins": {
     "download": "https://fightcade.download/fbneo/nes/mysticorigins.zip"
   },
-  "nes_nalleland": {
+  "nalleland": {
     "download": "https://fightcade.download/fbneo/nes/nalleland.zip"
   },
-  "nes_namcoclassic": {
+  "namcoclassic": {
     "download": "https://fightcade.download/fbneo/nes/namcoclassic.zip"
   },
-  "nes_namcoclassicii": {
+  "namcoclassicii": {
     "download": "https://fightcade.download/fbneo/nes/namcoclassicii.zip"
   },
-  "nes_nantebas": {
+  "nantebas": {
     "download": "https://fightcade.download/fbneo/nes/nantebas.zip"
   },
-  "nes_nantebasj": {
+  "nantebasj": {
     "download": "https://fightcade.download/fbneo/nes/nantebasj.zip"
   },
-  "nes_narc": {
+  "narc": {
     "download": "https://fightcade.download/fbneo/nes/narc.zip"
   },
-  "nes_nebsanddebs": {
+  "nebsanddebs": {
     "download": "https://fightcade.download/fbneo/nes/nebsanddebs.zip"
   },
-  "nes_nekkekakden": {
+  "nekkekakden": {
     "download": "https://fightcade.download/fbneo/nes/nekkekakden.zip"
   },
-  "nes_nekkekakdenj": {
+  "nekkekakdenj": {
     "download": "https://fightcade.download/fbneo/nes/nekkekakdenj.zip"
   },
-  "nes_nekkekoukunkun": {
+  "nekkekoukunkun": {
     "download": "https://fightcade.download/fbneo/nes/nekkekoukunkun.zip"
   },
-  "nes_nekkestrbas": {
+  "nekkestrbas": {
     "download": "https://fightcade.download/fbneo/nes/nekkestrbas.zip"
   },
-  "nes_neoheiali": {
+  "nekkestrbasen": {
+    "download": "https://fightcade.download/fbneo/nes/nekkestrbasen.zip"
+  },
+  "neoheiali": {
     "download": "https://fightcade.download/fbneo/nes/neoheiali.zip"
   },
-  "nes_nescape": {
+  "nescape": {
     "download": "https://fightcade.download/fbneo/nes/nescape.zip"
   },
-  "nes_nesopetougol": {
+  "nesopetougol": {
     "download": "https://fightcade.download/fbneo/nes/nesopetougol.zip"
   },
-  "nes_nesvircle": {
+  "nesvircle": {
     "download": "https://fightcade.download/fbneo/nes/nesvircle.zip"
   },
-  "nes_newghoii": {
+  "newghoii": {
     "download": "https://fightcade.download/fbneo/nes/newghoii.zip"
   },
-  "nes_newyornya": {
+  "newyornya": {
     "download": "https://fightcade.download/fbneo/nes/newyornya.zip"
   },
-  "nes_newzeasto": {
+  "newzeasto": {
     "download": "https://fightcade.download/fbneo/nes/newzeasto.zip"
   },
-  "nes_nigelmansworchch": {
+  "nigelmansworchch": {
     "download": "https://fightcade.download/fbneo/nes/nigelmansworchch.zip"
   },
-  "nes_nightonelmstra": {
+  "nightonelmstra": {
     "download": "https://fightcade.download/fbneo/nes/nightonelmstra.zip"
   },
-  "nes_nightshade": {
+  "nightshade": {
     "download": "https://fightcade.download/fbneo/nes/nightshade.zip"
   },
-  "nes_nimnom": {
+  "nimnom": {
     "download": "https://fightcade.download/fbneo/nes/nimnom.zip"
   },
-  "nes_ninjacopsaizou": {
+  "ninjacopsaizou": {
     "download": "https://fightcade.download/fbneo/nes/ninjacopsaizou.zip"
   },
-  "nes_ninjacrusaders": {
+  "ninjacrusaders": {
     "download": "https://fightcade.download/fbneo/nes/ninjacrusaders.zip"
   },
-  "nes_ninjagaiden": {
+  "ninjagaiden": {
     "download": "https://fightcade.download/fbneo/nes/ninjagaiden.zip"
   },
-  "nes_ninjagaiii": {
+  "ninjagaiii": {
     "download": "https://fightcade.download/fbneo/nes/ninjagaiii.zip"
   },
-  "nes_ninjagaiiii": {
+  "ninjagaiiii": {
     "download": "https://fightcade.download/fbneo/nes/ninjagaiiii.zip"
   },
-  "nes_ninjahatkun": {
+  "ninjahatkun": {
     "download": "https://fightcade.download/fbneo/nes/ninjahatkun.zip"
   },
-  "nes_ninjajaj": {
+  "ninjajaj": {
     "download": "https://fightcade.download/fbneo/nes/ninjajaj.zip"
   },
-  "nes_ninjajajj": {
+  "ninjajajj": {
     "download": "https://fightcade.download/fbneo/nes/ninjajajj.zip"
   },
-  "nes_ninjajajkun": {
+  "ninjajajkun": {
     "download": "https://fightcade.download/fbneo/nes/ninjajajkun.zip"
   },
-  "nes_ninjakid": {
+  "ninjakid": {
     "download": "https://fightcade.download/fbneo/nes/ninjakid.zip"
   },
-  "nes_ninjakunashnosh": {
+  "ninjakunashnosh": {
     "download": "https://fightcade.download/fbneo/nes/ninjakunashnosh.zip"
   },
-  "nes_ninjakunmajnobo": {
+  "ninjakunmajnobo": {
     "download": "https://fightcade.download/fbneo/nes/ninjakunmajnobo.zip"
   },
-  "nes_ninjarahoi": {
+  "ninjarahoi": {
     "download": "https://fightcade.download/fbneo/nes/ninjarahoi.zip"
   },
-  "nes_ninjarahoij": {
+  "ninjarahoij": {
     "download": "https://fightcade.download/fbneo/nes/ninjarahoij.zip"
   },
-  "nes_ninjaryuden": {
+  "ninjaryuden": {
     "download": "https://fightcade.download/fbneo/nes/ninjaryuden.zip"
   },
-  "nes_ninjaryudenc": {
+  "ninjaryudenc": {
     "download": "https://fightcade.download/fbneo/nes/ninjaryudenc.zip"
   },
-  "nes_ninjaryudenii": {
+  "ninjaryudenii": {
     "download": "https://fightcade.download/fbneo/nes/ninjaryudenii.zip"
   },
-  "nes_ninjaryudeniic": {
+  "ninjaryudeniic": {
     "download": "https://fightcade.download/fbneo/nes/ninjaryudeniic.zip"
   },
-  "nes_ninjaryudeniii": {
+  "ninjaryudeniii": {
     "download": "https://fightcade.download/fbneo/nes/ninjaryudeniii.zip"
   },
-  "nes_ninjaryudeniiic": {
+  "ninjaryudeniiic": {
     "download": "https://fightcade.download/fbneo/nes/ninjaryudeniiic.zip"
   },
-  "nes_ninteworcup": {
+  "ninteworcup": {
     "download": "https://fightcade.download/fbneo/nes/ninteworcup.zip"
   },
-  "nes_nixrelic": {
+  "nixrelic": {
     "download": "https://fightcade.download/fbneo/nes/nixrelic.zip"
   },
-  "nes_noahsark": {
+  "noahsark": {
     "download": "https://fightcade.download/fbneo/nes/noahsark.zip"
   },
-  "nes_nomolos": {
+  "nomolos": {
     "download": "https://fightcade.download/fbneo/nes/nomolos.zip"
   },
-  "nes_northsouth": {
+  "northsouth": {
     "download": "https://fightcade.download/fbneo/nes/northsouth.zip"
   },
-  "nes_novasqu": {
+  "novasqu": {
     "download": "https://fightcade.download/fbneo/nes/novasqu.zip"
   },
-  "nes_nutsmilk": {
+  "nutsmilk": {
     "download": "https://fightcade.download/fbneo/nes/nutsmilk.zip"
   },
-  "nes_obakenoqtar": {
+  "obakenoqtar": {
     "download": "https://fightcade.download/fbneo/nes/obakenoqtar.zip"
   },
-  "nes_onyankotown": {
+  "onyankotown": {
     "download": "https://fightcade.download/fbneo/nes/onyankotown.zip"
   },
-  "nes_operationwolf": {
+  "operationwolf": {
     "download": "https://fightcade.download/fbneo/nes/operationwolf.zip"
   },
-  "nes_outlanders": {
+  "outlanders": {
     "download": "https://fightcade.download/fbneo/nes/outlanders.zip"
   },
-  "nes_outlandersj": {
+  "outlandersj": {
     "download": "https://fightcade.download/fbneo/nes/outlandersj.zip"
   },
-  "nes_overhorizon": {
+  "overhorizon": {
     "download": "https://fightcade.download/fbneo/nes/overhorizon.zip"
   },
-  "nes_overlord": {
+  "overlord": {
     "download": "https://fightcade.download/fbneo/nes/overlord.zip"
   },
-  "nes_pacland": {
+  "pacland": {
     "download": "https://fightcade.download/fbneo/nes/pacland.zip"
   },
-  "nes_pacman": {
+  "pacman": {
     "download": "https://fightcade.download/fbneo/nes/pacman.zip"
   },
-  "nes_pacmance": {
+  "pacmance": {
     "download": "https://fightcade.download/fbneo/nes/pacmance.zip"
   },
-  "nes_pacmania": {
+  "pacmania": {
     "download": "https://fightcade.download/fbneo/nes/pacmania.zip"
   },
-  "nes_palamedes": {
+  "palamedes": {
     "download": "https://fightcade.download/fbneo/nes/palamedes.zip"
   },
-  "nes_palamii": {
+  "palamii": {
     "download": "https://fightcade.download/fbneo/nes/palamii.zip"
   },
-  "nes_pandababy": {
+  "pandababy": {
     "download": "https://fightcade.download/fbneo/nes/pandababy.zip"
   },
-  "nes_panicdizzy": {
+  "panicdizzy": {
     "download": "https://fightcade.download/fbneo/nes/panicdizzy.zip"
   },
-  "nes_panicrestaurant": {
+  "panicrestaurant": {
     "download": "https://fightcade.download/fbneo/nes/panicrestaurant.zip"
   },
-  "nes_paperboy": {
+  "paperboy": {
     "download": "https://fightcade.download/fbneo/nes/paperboy.zip"
   },
-  "nes_paperboy2": {
+  "paperboy2": {
     "download": "https://fightcade.download/fbneo/nes/paperboy2.zip"
   },
-  "nes_papillongals": {
+  "papillongals": {
     "download": "https://fightcade.download/fbneo/nes/papillongals.zip"
   },
-  "nes_parallelworld": {
+  "parallelworld": {
     "download": "https://fightcade.download/fbneo/nes/parallelworld.zip"
   },
-  "nes_parasolhenbee": {
+  "parasolhenbee": {
     "download": "https://fightcade.download/fbneo/nes/parasolhenbee.zip"
   },
-  "nes_parasstaraiislii": {
+  "parasstaraiislii": {
     "download": "https://fightcade.download/fbneo/nes/parasstaraiislii.zip"
   },
-  "nes_parisdakralspe": {
+  "parisdakralspe": {
     "download": "https://fightcade.download/fbneo/nes/parisdakralspe.zip"
   },
-  "nes_parisdakralspej": {
+  "parisdakralspej": {
     "download": "https://fightcade.download/fbneo/nes/parisdakralspej.zip"
   },
-  "nes_parodius": {
+  "parodius": {
     "download": "https://fightcade.download/fbneo/nes/parodius.zip"
   },
-  "nes_parodiusda": {
+  "parodiusda": {
     "download": "https://fightcade.download/fbneo/nes/parodiusda.zip"
   },
-  "nes_parodiusdaj": {
+  "parodiusdaj": {
     "download": "https://fightcade.download/fbneo/nes/parodiusdaj.zip"
   },
-  "nes_peekaboopoker": {
+  "peekaboopoker": {
     "download": "https://fightcade.download/fbneo/nes/peekaboopoker.zip"
   },
-  "nes_peepartime": {
+  "peepartime": {
     "download": "https://fightcade.download/fbneo/nes/peepartime.zip"
   },
-  "nes_penguinkunwars": {
+  "penguinkunwars": {
     "download": "https://fightcade.download/fbneo/nes/penguinkunwars.zip"
   },
-  "nes_pengusea": {
+  "pengusea": {
     "download": "https://fightcade.download/fbneo/nes/pengusea.zip"
   },
-  "nes_perfectbowling": {
+  "perfectbowling": {
     "download": "https://fightcade.download/fbneo/nes/perfectbowling.zip"
   },
-  "nes_perfectpair": {
+  "perfectpair": {
     "download": "https://fightcade.download/fbneo/nes/perfectpair.zip"
   },
-  "nes_perman": {
+  "perman": {
     "download": "https://fightcade.download/fbneo/nes/perman.zip"
   },
-  "nes_permapar2": {
+  "permapar2": {
     "download": "https://fightcade.download/fbneo/nes/permapar2.zip"
   },
-  "nes_pesterminator": {
+  "pesterminator": {
     "download": "https://fightcade.download/fbneo/nes/pesterminator.zip"
   },
-  "nes_peterpanpir": {
+  "peterpanpir": {
     "download": "https://fightcade.download/fbneo/nes/peterpanpir.zip"
   },
-  "nes_phantomfighter": {
+  "phantomfighter": {
     "download": "https://fightcade.download/fbneo/nes/phantomfighter.zip"
   },
-  "nes_pictionary": {
+  "pictionary": {
     "download": "https://fightcade.download/fbneo/nes/pictionary.zip"
   },
-  "nes_pinbacvbyred": {
+  "pinbacvbyred": {
     "download": "https://fightcade.download/fbneo/nes/pinbacvbyred.zip"
   },
-  "nes_pinball": {
+  "pinball": {
     "download": "https://fightcade.download/fbneo/nes/pinball.zip"
   },
-  "nes_pinballquest": {
+  "pinballquest": {
     "download": "https://fightcade.download/fbneo/nes/pinballquest.zip"
   },
-  "nes_pinbot": {
+  "pinbot": {
     "download": "https://fightcade.download/fbneo/nes/pinbot.zip"
   },
-  "nes_pizzapop": {
+  "pizzapop": {
     "download": "https://fightcade.download/fbneo/nes/pizzapop.zip"
   },
-  "nes_pizzapopj": {
+  "pizzapopj": {
     "download": "https://fightcade.download/fbneo/nes/pizzapopj.zip"
   },
-  "nes_plasmaball": {
+  "plasmaball": {
     "download": "https://fightcade.download/fbneo/nes/plasmaball.zip"
   },
-  "nes_plasmaballj": {
+  "plasmaballj": {
     "download": "https://fightcade.download/fbneo/nes/plasmaballj.zip"
   },
-  "nes_platoon": {
+  "platoon": {
     "download": "https://fightcade.download/fbneo/nes/platoon.zip"
   },
-  "nes_pockezau": {
+  "pockezau": {
     "download": "https://fightcade.download/fbneo/nes/pockezau.zip"
   },
-  "nes_pogocats": {
+  "pogocats": {
     "download": "https://fightcade.download/fbneo/nes/pogocats.zip"
   },
-  "nes_pooyan": {
+  "pooyan": {
     "download": "https://fightcade.download/fbneo/nes/pooyan.zip"
   },
-  "nes_popeye": {
+  "popeye": {
     "download": "https://fightcade.download/fbneo/nes/popeye.zip"
   },
-  "nes_popoteam": {
+  "popoteam": {
     "download": "https://fightcade.download/fbneo/nes/popoteam.zip"
   },
-  "nes_pow": {
+  "pow": {
     "download": "https://fightcade.download/fbneo/nes/pow.zip"
   },
-  "nes_powerblade": {
+  "powerblade": {
     "download": "https://fightcade.download/fbneo/nes/powerblade.zip"
   },
-  "nes_powerblade2": {
+  "powerblade2": {
     "download": "https://fightcade.download/fbneo/nes/powerblade2.zip"
   },
-  "nes_powerblazer": {
+  "powerblazer": {
     "download": "https://fightcade.download/fbneo/nes/powerblazer.zip"
   },
-  "nes_powerpunchii": {
+  "powerpunchii": {
     "download": "https://fightcade.download/fbneo/nes/powerpunchii.zip"
   },
-  "nes_powerrangersiv": {
+  "powerrangersiv": {
     "download": "https://fightcade.download/fbneo/nes/powerrangersiv.zip"
   },
-  "nes_powerraniii": {
+  "powerraniii": {
     "download": "https://fightcade.download/fbneo/nes/powerraniii.zip"
   },
-  "nes_powersoccer": {
+  "powersoccer": {
     "download": "https://fightcade.download/fbneo/nes/powersoccer.zip"
   },
-  "nes_predator": {
+  "predator": {
     "download": "https://fightcade.download/fbneo/nes/predator.zip"
   },
-  "nes_princeofpersia": {
+  "princeofpersia": {
     "download": "https://fightcade.download/fbneo/nes/princeofpersia.zip"
   },
-  "nes_princtominsalki": {
+  "princtominsalki": {
     "download": "https://fightcade.download/fbneo/nes/princtominsalki.zip"
   },
-  "nes_princtominsalkij": {
+  "princtominsalkij": {
     "download": "https://fightcade.download/fbneo/nes/princtominsalkij.zip"
   },
-  "nes_princtominsalkit": {
+  "princtominsalkit": {
     "download": "https://fightcade.download/fbneo/nes/princtominsalkit.zip"
   },
-  "nes_probotector": {
+  "probotector": {
     "download": "https://fightcade.download/fbneo/nes/probotector.zip"
   },
-  "nes_projectblue": {
+  "projectblue": {
     "download": "https://fightcade.download/fbneo/nes/projectblue.zip"
   },
-  "nes_prowrestling": {
+  "prowrestling": {
     "download": "https://fightcade.download/fbneo/nes/prowrestling.zip"
   },
-  "nes_pulveration": {
+  "pulveration": {
     "download": "https://fightcade.download/fbneo/nes/pulveration.zip"
   },
-  "nes_punchout": {
+  "punchout": {
     "download": "https://fightcade.download/fbneo/nes/punchout.zip"
   },
-  "nes_punisherthe": {
+  "punisherthe": {
     "download": "https://fightcade.download/fbneo/nes/punisherthe.zip"
   },
-  "nes_purplecapeman": {
+  "purplecapeman": {
     "download": "https://fightcade.download/fbneo/nes/purplecapeman.zip"
   },
-  "nes_pussnboo": {
+  "pussnboo": {
     "download": "https://fightcade.download/fbneo/nes/pussnboo.zip"
   },
-  "nes_puyopuyo": {
+  "puyopuyo": {
     "download": "https://fightcade.download/fbneo/nes/puyopuyo.zip"
   },
-  "nes_puzslot": {
+  "puzslot": {
     "download": "https://fightcade.download/fbneo/nes/puzslot.zip"
   },
-  "nes_puzznic": {
+  "puzznic": {
     "download": "https://fightcade.download/fbneo/nes/puzznic.zip"
   },
-  "nes_pyokonodai": {
+  "pyokonodai": {
     "download": "https://fightcade.download/fbneo/nes/pyokonodai.zip"
   },
-  "nes_pyramid": {
+  "pyramid": {
     "download": "https://fightcade.download/fbneo/nes/pyramid.zip"
   },
-  "nes_pyramidii": {
+  "pyramidii": {
     "download": "https://fightcade.download/fbneo/nes/pyramidii.zip"
   },
-  "nes_qbert": {
+  "qbert": {
     "download": "https://fightcade.download/fbneo/nes/qbert.zip"
   },
-  "nes_qboy": {
+  "qboy": {
     "download": "https://fightcade.download/fbneo/nes/qboy.zip"
   },
-  "nes_qiwan": {
+  "qiwan": {
     "download": "https://fightcade.download/fbneo/nes/qiwan.zip"
   },
-  "nes_qix": {
+  "qix": {
     "download": "https://fightcade.download/fbneo/nes/qix.zip"
   },
-  "nes_quarth": {
+  "quarth": {
     "download": "https://fightcade.download/fbneo/nes/quarth.zip"
   },
-  "nes_quattadv": {
+  "quattadv": {
     "download": "https://fightcade.download/fbneo/nes/quattadv.zip"
   },
-  "nes_quattroarcade": {
+  "quattroarcade": {
     "download": "https://fightcade.download/fbneo/nes/quattroarcade.zip"
   },
-  "nes_quattrosports": {
+  "quattrosports": {
     "download": "https://fightcade.download/fbneo/nes/quattrosports.zip"
   },
-  "nes_questforge": {
+  "questforge": {
     "download": "https://fightcade.download/fbneo/nes/questforge.zip"
   },
-  "nes_questofkithe": {
+  "questofkithe": {
     "download": "https://fightcade.download/fbneo/nes/questofkithe.zip"
   },
-  "nes_questofkithej": {
+  "questofkithej": {
     "download": "https://fightcade.download/fbneo/nes/questofkithej.zip"
   },
-  "nes_quinty": {
+  "quinty": {
     "download": "https://fightcade.download/fbneo/nes/quinty.zip"
   },
-  "nes_racketattack": {
+  "racketattack": {
     "download": "https://fightcade.download/fbneo/nes/racketattack.zip"
   },
-  "nes_racketsrivals": {
+  "racketsrivals": {
     "download": "https://fightcade.download/fbneo/nes/racketsrivals.zip"
   },
-  "nes_radiasen": {
+  "radiasen": {
     "download": "https://fightcade.download/fbneo/nes/radiasen.zip"
   },
-  "nes_radiasenj": {
+  "radiasenj": {
     "download": "https://fightcade.download/fbneo/nes/radiasenj.zip"
   },
-  "nes_radrac": {
+  "radrac": {
     "download": "https://fightcade.download/fbneo/nes/radrac.zip"
   },
-  "nes_radracer": {
+  "radracer": {
     "download": "https://fightcade.download/fbneo/nes/radracer.zip"
   },
-  "nes_radracerii": {
+  "radracerii": {
     "download": "https://fightcade.download/fbneo/nes/radracerii.zip"
   },
-  "nes_rafworld": {
+  "rafworld": {
     "download": "https://fightcade.download/fbneo/nes/rafworld.zip"
   },
-  "nes_raid2020": {
+  "raid2020": {
     "download": "https://fightcade.download/fbneo/nes/raid2020.zip"
   },
-  "nes_raidonbunbay": {
+  "raidonbunbay": {
     "download": "https://fightcade.download/fbneo/nes/raidonbunbay.zip"
   },
-  "nes_rainbisloce": {
+  "rainbisloce": {
     "download": "https://fightcade.download/fbneo/nes/rainbisloce.zip"
   },
-  "nes_rainbisltai": {
+  "rainbisltai": {
     "download": "https://fightcade.download/fbneo/nes/rainbisltai.zip"
   },
-  "nes_rallybike": {
+  "rallybike": {
     "download": "https://fightcade.download/fbneo/nes/rallybike.zip"
   },
-  "nes_rambo": {
+  "rambo": {
     "download": "https://fightcade.download/fbneo/nes/rambo.zip"
   },
-  "nes_rampage": {
+  "rampage": {
     "download": "https://fightcade.download/fbneo/nes/rampage.zip"
   },
-  "nes_rampart": {
+  "rampart": {
     "download": "https://fightcade.download/fbneo/nes/rampart.zip"
   },
-  "nes_rbibas2": {
+  "rbibas2": {
     "download": "https://fightcade.download/fbneo/nes/rbibas2.zip"
   },
-  "nes_rbibas3": {
+  "rbibas3": {
     "download": "https://fightcade.download/fbneo/nes/rbibas3.zip"
   },
-  "nes_rbibaseball": {
+  "rbibaseball": {
     "download": "https://fightcade.download/fbneo/nes/rbibaseball.zip"
   },
-  "nes_rcproam": {
+  "rcproam": {
     "download": "https://fightcade.download/fbneo/nes/rcproam.zip"
   },
-  "nes_rcproamii": {
+  "rcproamii": {
     "download": "https://fightcade.download/fbneo/nes/rcproamii.zip"
   },
-  "nes_redarremerii": {
+  "redarremerii": {
     "download": "https://fightcade.download/fbneo/nes/redarremerii.zip"
   },
-  "nes_renegade": {
+  "renegade": {
     "download": "https://fightcade.download/fbneo/nes/renegade.zip"
   },
-  "nes_renstisho": {
+  "renstisho": {
     "download": "https://fightcade.download/fbneo/nes/renstisho.zip"
   },
-  "nes_ringking": {
+  "ringking": {
     "download": "https://fightcade.download/fbneo/nes/ringking.zip"
   },
-  "nes_riseamo": {
+  "riseamo": {
     "download": "https://fightcade.download/fbneo/nes/riseamo.zip"
   },
-  "nes_rivercitran": {
+  "rivercitran": {
     "download": "https://fightcade.download/fbneo/nes/rivercitran.zip"
   },
-  "nes_roadblasters": {
+  "roadblasters": {
     "download": "https://fightcade.download/fbneo/nes/roadblasters.zip"
   },
-  "nes_roadfighter": {
+  "roadfighter": {
     "download": "https://fightcade.download/fbneo/nes/roadfighter.zip"
   },
-  "nes_roadrunner": {
+  "roadrunner": {
     "download": "https://fightcade.download/fbneo/nes/roadrunner.zip"
   },
-  "nes_roboccowars": {
+  "roboccowars": {
     "download": "https://fightcade.download/fbneo/nes/roboccowars.zip"
   },
-  "nes_robocop": {
+  "robocop": {
     "download": "https://fightcade.download/fbneo/nes/robocop.zip"
   },
-  "nes_robocop2": {
+  "robocop2": {
     "download": "https://fightcade.download/fbneo/nes/robocop2.zip"
   },
-  "nes_robocop3": {
+  "robocop3": {
     "download": "https://fightcade.download/fbneo/nes/robocop3.zip"
   },
-  "nes_robocvster": {
+  "robocvster": {
     "download": "https://fightcade.download/fbneo/nes/robocvster.zip"
   },
-  "nes_robodemons": {
+  "robodemons": {
     "download": "https://fightcade.download/fbneo/nes/robodemons.zip"
   },
-  "nes_robowarrior": {
+  "robowarrior": {
     "download": "https://fightcade.download/fbneo/nes/robowarrior.zip"
   },
-  "nes_rockball": {
+  "rockball": {
     "download": "https://fightcade.download/fbneo/nes/rockball.zip"
   },
-  "nes_rocketeerthe": {
+  "rocketeerthe": {
     "download": "https://fightcade.download/fbneo/nes/rocketeerthe.zip"
   },
-  "nes_rockinkats": {
+  "rockinkats": {
     "download": "https://fightcade.download/fbneo/nes/rockinkats.zip"
   },
-  "nes_rockm2": {
+  "rockm2": {
     "download": "https://fightcade.download/fbneo/nes/rockm2.zip"
   },
-  "nes_rockm3": {
+  "rockm3": {
     "download": "https://fightcade.download/fbneo/nes/rockm3.zip"
   },
-  "nes_rockm4": {
+  "rockm4": {
     "download": "https://fightcade.download/fbneo/nes/rockm4.zip"
   },
-  "nes_rockm4mi": {
+  "rockm4mi": {
     "download": "https://fightcade.download/fbneo/nes/rockm4mi.zip"
   },
-  "nes_rockm5": {
+  "rockm5": {
     "download": "https://fightcade.download/fbneo/nes/rockm5.zip"
   },
-  "nes_rockm6": {
+  "rockm6": {
     "download": "https://fightcade.download/fbneo/nes/rockm6.zip"
   },
-  "nes_rockman": {
+  "rockman": {
     "download": "https://fightcade.download/fbneo/nes/rockman.zip"
   },
-  "nes_rocknball": {
+  "rocknball": {
     "download": "https://fightcade.download/fbneo/nes/rocknball.zip"
   },
-  "nes_rodland": {
+  "rodland": {
     "download": "https://fightcade.download/fbneo/nes/rodland.zip"
   },
-  "nes_rodlande": {
+  "rodlande": {
     "download": "https://fightcade.download/fbneo/nes/rodlande.zip"
   },
-  "nes_rollerac": {
+  "rollerac": {
     "download": "https://fightcade.download/fbneo/nes/rollerac.zip"
   },
-  "nes_rollerball": {
+  "rollerball": {
     "download": "https://fightcade.download/fbneo/nes/rollerball.zip"
   },
-  "nes_rollergames": {
+  "rollergames": {
     "download": "https://fightcade.download/fbneo/nes/rollergames.zip"
   },
-  "nes_rollie": {
+  "rollie": {
     "download": "https://fightcade.download/fbneo/nes/rollie.zip"
   },
-  "nes_rollingthunder": {
+  "rollingthunder": {
     "download": "https://fightcade.download/fbneo/nes/rollingthunder.zip"
   },
-  "nes_rollingthunderj": {
+  "rollingthunderj": {
     "download": "https://fightcade.download/fbneo/nes/rollingthunderj.zip"
   },
-  "nes_romancia": {
+  "romancia": {
     "download": "https://fightcade.download/fbneo/nes/romancia.zip"
   },
-  "nes_romanciaj": {
+  "romanciaj": {
     "download": "https://fightcade.download/fbneo/nes/romanciaj.zip"
   },
-  "nes_rushnattack": {
+  "rushnattack": {
     "download": "https://fightcade.download/fbneo/nes/rushnattack.zip"
   },
-  "nes_rygar": {
+  "rygar": {
     "download": "https://fightcade.download/fbneo/nes/rygar.zip"
   },
-  "nes_saintsaitiamahuxi": {
+  "saintsaitiamahuxi": {
     "download": "https://fightcade.download/fbneo/nes/saintsaitiamahuxi.zip"
   },
-  "nes_saintseiougden": {
+  "saintseiougden": {
     "download": "https://fightcade.download/fbneo/nes/saintseiougden.zip"
   },
-  "nes_saintseiougdenj": {
+  "saintseiougdenj": {
     "download": "https://fightcade.download/fbneo/nes/saintseiougdenj.zip"
   },
-  "nes_saintseiougdenkahen": {
+  "saintseiougdenkahen": {
     "download": "https://fightcade.download/fbneo/nes/saintseiougdenkahen.zip"
   },
-  "nes_saintseiougdenkahenj": {
+  "saintseiougdenkahenj": {
     "download": "https://fightcade.download/fbneo/nes/saintseiougdenkahenj.zip"
   },
-  "nes_saintseiyaodc": {
+  "saintseiyaodc": {
     "download": "https://fightcade.download/fbneo/nes/saintseiyaodc.zip"
   },
-  "nes_saintseiyaodkhc": {
+  "saintseiyaodkhc": {
     "download": "https://fightcade.download/fbneo/nes/saintseiyaodkhc.zip"
   },
-  "nes_saiyuukiworld": {
+  "saiyuukiworld": {
     "download": "https://fightcade.download/fbneo/nes/saiyuukiworld.zip"
   },
-  "nes_saiyuukiworldc": {
+  "saiyuukiworldc": {
     "download": "https://fightcade.download/fbneo/nes/saiyuukiworldc.zip"
   },
-  "nes_saiyuwor2": {
+  "saiyuwor2": {
     "download": "https://fightcade.download/fbneo/nes/saiyuwor2.zip"
   },
-  "nes_saiyuwor2c": {
+  "saiyuwor2c": {
     "download": "https://fightcade.download/fbneo/nes/saiyuwor2c.zip"
   },
-  "nes_salamander": {
+  "salamander": {
     "download": "https://fightcade.download/fbneo/nes/salamander.zip"
   },
-  "nes_salamanderc": {
+  "salamanderc": {
     "download": "https://fightcade.download/fbneo/nes/salamanderc.zip"
   },
-  "nes_sansaranaga": {
+  "sansaranaga": {
     "download": "https://fightcade.download/fbneo/nes/sansaranaga.zip"
   },
-  "nes_sansaranagaj": {
+  "sansaranagaj": {
     "download": "https://fightcade.download/fbneo/nes/sansaranagaj.zip"
   },
-  "nes_saturnsmash": {
+  "saturnsmash": {
     "download": "https://fightcade.download/fbneo/nes/saturnsmash.zip"
   },
-  "nes_scat": {
+  "scat": {
     "download": "https://fightcade.download/fbneo/nes/scat.zip"
   },
-  "nes_scramble": {
+  "scramble": {
     "download": "https://fightcade.download/fbneo/nes/scramble.zip"
   },
-  "nes_secretties": {
+  "secretties": {
     "download": "https://fightcade.download/fbneo/nes/secretties.zip"
   },
-  "nes_sectionz": {
+  "sectionz": {
     "download": "https://fightcade.download/fbneo/nes/sectionz.zip"
   },
-  "nes_seicross": {
+  "seicross": {
     "download": "https://fightcade.download/fbneo/nes/seicross.zip"
   },
-  "nes_seiredenlic": {
+  "seiredenlic": {
     "download": "https://fightcade.download/fbneo/nes/seiredenlic.zip"
   },
-  "nes_senjounoookami": {
+  "senjounoookami": {
     "download": "https://fightcade.download/fbneo/nes/senjounoookami.zip"
   },
-  "nes_sgthel": {
+  "sgthel": {
     "download": "https://fightcade.download/fbneo/nes/sgthel.zip"
   },
-  "nes_shadonin": {
+  "shadonin": {
     "download": "https://fightcade.download/fbneo/nes/shadonin.zip"
   },
-  "nes_shadowarepiii": {
+  "shadowarepiii": {
     "download": "https://fightcade.download/fbneo/nes/shadowarepiii.zip"
   },
-  "nes_shadowgate": {
+  "shadowgate": {
     "download": "https://fightcade.download/fbneo/nes/shadowgate.zip"
   },
-  "nes_shadowwarriors": {
+  "shadowwarriors": {
     "download": "https://fightcade.download/fbneo/nes/shadowwarriors.zip"
   },
-  "nes_shanghai": {
+  "shanghai": {
     "download": "https://fightcade.download/fbneo/nes/shanghai.zip"
   },
-  "nes_sharkshark": {
+  "sharkshark": {
     "download": "https://fightcade.download/fbneo/nes/sharkshark.zip"
   },
-  "nes_shatterhand": {
+  "shatterhand": {
     "download": "https://fightcade.download/fbneo/nes/shatterhand.zip"
   },
-  "nes_shin4ninuchma": {
+  "shin4ninuchma": {
     "download": "https://fightcade.download/fbneo/nes/shin4ninuchma.zip"
   },
-  "nes_shinobi": {
+  "shinobi": {
     "download": "https://fightcade.download/fbneo/nes/shinobi.zip"
   },
-  "nes_shinsamspi2": {
+  "shinsamspi2": {
     "download": "https://fightcade.download/fbneo/nes/shinsamspi2.zip"
   },
-  "nes_shockwave": {
+  "shockwave": {
     "download": "https://fightcade.download/fbneo/nes/shockwave.zip"
   },
-  "nes_shootingrange": {
+  "shootingrange": {
     "download": "https://fightcade.download/fbneo/nes/shootingrange.zip"
   },
-  "nes_shufflepuckcafe": {
+  "shufflepuckcafe": {
     "download": "https://fightcade.download/fbneo/nes/shufflepuckcafe.zip"
   },
-  "nes_shufflepuckcafej": {
+  "shufflepuckcafej": {
     "download": "https://fightcade.download/fbneo/nes/shufflepuckcafej.zip"
   },
-  "nes_sidepocket": {
+  "sidepocket": {
     "download": "https://fightcade.download/fbneo/nes/sidepocket.zip"
   },
-  "nes_sidewinder": {
+  "sidewinder": {
     "download": "https://fightcade.download/fbneo/nes/sidewinder.zip"
   },
-  "nes_silentservice": {
+  "silentservice": {
     "download": "https://fightcade.download/fbneo/nes/silentservice.zip"
   },
-  "nes_silkworm": {
+  "silkworm": {
     "download": "https://fightcade.download/fbneo/nes/silkworm.zip"
   },
-  "nes_silkwormc": {
+  "silkwormc": {
     "download": "https://fightcade.download/fbneo/nes/silkwormc.zip"
   },
-  "nes_silvereagle": {
+  "silvereagle": {
     "download": "https://fightcade.download/fbneo/nes/silvereagle.zip"
   },
-  "nes_silversurfer": {
+  "silversurfer": {
     "download": "https://fightcade.download/fbneo/nes/silversurfer.zip"
   },
-  "nes_simcity": {
+  "simcity": {
     "download": "https://fightcade.download/fbneo/nes/simcity.zip"
   },
-  "nes_simpsbarmeeradman": {
+  "simpsbarmeeradman": {
     "download": "https://fightcade.download/fbneo/nes/simpsbarmeeradman.zip"
   },
-  "nes_simpsbarvsspamu": {
+  "simpsbarvsspamu": {
     "download": "https://fightcade.download/fbneo/nes/simpsbarvsspamu.zip"
   },
-  "nes_simpsbarvswor": {
+  "simpsbarvswor": {
     "download": "https://fightcade.download/fbneo/nes/simpsbarvswor.zip"
   },
-  "nes_sinkingfeeling": {
+  "sinkingfeeling": {
     "download": "https://fightcade.download/fbneo/nes/sinkingfeeling.zip"
   },
-  "nes_sirababol": {
+  "sirababol": {
     "download": "https://fightcade.download/fbneo/nes/sirababol.zip"
   },
-  "nes_sirababolr": {
+  "sirababolr": {
     "download": "https://fightcade.download/fbneo/nes/sirababolr.zip"
   },
-  "nes_skateboy": {
+  "skartfighter": {
+    "download": "https://fightcade.download/fbneo/nes/skartfighter.zip"
+  },
+  "skateboy": {
     "download": "https://fightcade.download/fbneo/nes/skateboy.zip"
   },
-  "nes_skateordie": {
+  "skateordie": {
     "download": "https://fightcade.download/fbneo/nes/skateordie.zip"
   },
-  "nes_skateordie2": {
+  "skateordie2": {
     "download": "https://fightcade.download/fbneo/nes/skateordie2.zip"
   },
-  "nes_skiordie": {
+  "skiordie": {
     "download": "https://fightcade.download/fbneo/nes/skiordie.zip"
   },
-  "nes_skullcro": {
+  "skullcro": {
     "download": "https://fightcade.download/fbneo/nes/skullcro.zip"
   },
-  "nes_skydestroyer": {
+  "skydestroyer": {
     "download": "https://fightcade.download/fbneo/nes/skydestroyer.zip"
   },
-  "nes_skykid": {
+  "skykid": {
     "download": "https://fightcade.download/fbneo/nes/skykid.zip"
   },
-  "nes_skyshark": {
+  "skyshark": {
     "download": "https://fightcade.download/fbneo/nes/skyshark.zip"
   },
-  "nes_slalom": {
+  "slalom": {
     "download": "https://fightcade.download/fbneo/nes/slalom.zip"
   },
-  "nes_smashtv": {
+  "smashtv": {
     "download": "https://fightcade.download/fbneo/nes/smashtv.zip"
   },
-  "nes_smb": {
+  "smb": {
     "download": "https://fightcade.download/fbneo/nes/smb.zip"
   },
-  "nes_smb2": {
+  "smb2": {
     "download": "https://fightcade.download/fbneo/nes/smb2.zip"
   },
-  "nes_smb2j": {
+  "smb2j": {
     "download": "https://fightcade.download/fbneo/nes/smb2j.zip"
   },
-  "nes_smb3": {
+  "smb3": {
     "download": "https://fightcade.download/fbneo/nes/smb3.zip"
   },
-  "nes_smb3c": {
+  "smb3c": {
     "download": "https://fightcade.download/fbneo/nes/smb3c.zip"
   },
-  "nes_smbdx": {
+  "smbdx": {
     "download": "https://fightcade.download/fbneo/nes/smbdx.zip"
   },
-  "nes_snakeratnrol": {
+  "smbtwopla": {
+    "download": "https://fightcade.download/fbneo/nes/smbtwopla.zip"
+  },
+  "snakeratnrol": {
     "download": "https://fightcade.download/fbneo/nes/snakeratnrol.zip"
   },
-  "nes_snakesrevenge": {
+  "snakesrevenge": {
     "download": "https://fightcade.download/fbneo/nes/snakesrevenge.zip"
   },
-  "nes_snoopssilsposp": {
+  "snoopssilsposp": {
     "download": "https://fightcade.download/fbneo/nes/snoopssilsposp.zip"
   },
-  "nes_snowbrothers": {
+  "snowbrothers": {
     "download": "https://fightcade.download/fbneo/nes/snowbrothers.zip"
   },
-  "nes_soccelea": {
+  "soccelea": {
     "download": "https://fightcade.download/fbneo/nes/soccelea.zip"
   },
-  "nes_soccer": {
+  "soccer": {
     "download": "https://fightcade.download/fbneo/nes/soccer.zip"
   },
-  "nes_solarjet": {
+  "solarjet": {
     "download": "https://fightcade.download/fbneo/nes/solarjet.zip"
   },
-  "nes_solomonskey": {
+  "solomonskey": {
     "download": "https://fightcade.download/fbneo/nes/solomonskey.zip"
   },
-  "nes_solst": {
+  "solst": {
     "download": "https://fightcade.download/fbneo/nes/solst.zip"
   },
-  "nes_solstice": {
+  "solstice": {
     "download": "https://fightcade.download/fbneo/nes/solstice.zip"
   },
-  "nes_somari": {
+  "somari": {
     "download": "https://fightcade.download/fbneo/nes/somari.zip"
   },
-  "nes_sonic": {
+  "sonic": {
     "download": "https://fightcade.download/fbneo/nes/sonic.zip"
   },
-  "nes_sonson": {
+  "sonson": {
     "download": "https://fightcade.download/fbneo/nes/sonson.zip"
   },
-  "nes_spaceharrier": {
+  "spaceharrier": {
     "download": "https://fightcade.download/fbneo/nes/spaceharrier.zip"
   },
-  "nes_spacehunter": {
+  "spacehunter": {
     "download": "https://fightcade.download/fbneo/nes/spacehunter.zip"
   },
-  "nes_spaceinvaders": {
+  "spaceinvaders": {
     "download": "https://fightcade.download/fbneo/nes/spaceinvaders.zip"
   },
-  "nes_spartanx": {
+  "spartanx": {
     "download": "https://fightcade.download/fbneo/nes/spartanx.zip"
   },
-  "nes_spartanx2": {
+  "spartanx2": {
     "download": "https://fightcade.download/fbneo/nes/spartanx2.zip"
   },
-  "nes_speluii": {
+  "speluii": {
     "download": "https://fightcade.download/fbneo/nes/speluii.zip"
   },
-  "nes_speluiij": {
+  "speluiij": {
     "download": "https://fightcade.download/fbneo/nes/speluiij.zip"
   },
-  "nes_spelunker": {
+  "spelunker": {
     "download": "https://fightcade.download/fbneo/nes/spelunker.zip"
   },
-  "nes_spideman": {
+  "spideman": {
     "download": "https://fightcade.download/fbneo/nes/spideman.zip"
   },
-  "nes_splathou": {
+  "splathou": {
     "download": "https://fightcade.download/fbneo/nes/splathou.zip"
   },
-  "nes_spot": {
+  "spot": {
     "download": "https://fightcade.download/fbneo/nes/spot.zip"
   },
-  "nes_spyhunter": {
+  "spyhunter": {
     "download": "https://fightcade.download/fbneo/nes/spyhunter.zip"
   },
-  "nes_spyvsspy": {
+  "spyvsspy": {
     "download": "https://fightcade.download/fbneo/nes/spyvsspy.zip"
   },
-  "nes_sqoon": {
+  "sqoon": {
     "download": "https://fightcade.download/fbneo/nes/sqoon.zip"
   },
-  "nes_squashed": {
+  "squashed": {
     "download": "https://fightcade.download/fbneo/nes/squashed.zip"
   },
-  "nes_srp": {
+  "srp": {
     "download": "https://fightcade.download/fbneo/nes/srp.zip"
   },
-  "nes_stanley": {
+  "stanley": {
     "download": "https://fightcade.download/fbneo/nes/stanley.zip"
   },
-  "nes_starevil": {
+  "starevil": {
     "download": "https://fightcade.download/fbneo/nes/starevil.zip"
   },
-  "nes_starforce": {
+  "starforce": {
     "download": "https://fightcade.download/fbneo/nes/starforce.zip"
   },
-  "nes_stargate": {
+  "stargate": {
     "download": "https://fightcade.download/fbneo/nes/stargate.zip"
   },
-  "nes_starluster": {
+  "starluster": {
     "download": "https://fightcade.download/fbneo/nes/starluster.zip"
   },
-  "nes_starshiphector": {
+  "starshiphector": {
     "download": "https://fightcade.download/fbneo/nes/starshiphector.zip"
   },
-  "nes_starsoldier": {
+  "starsoldier": {
     "download": "https://fightcade.download/fbneo/nes/starsoldier.zip"
   },
-  "nes_startii": {
+  "startii": {
     "download": "https://fightcade.download/fbneo/nes/startii.zip"
   },
-  "nes_startre25tann": {
+  "startre25tann": {
     "download": "https://fightcade.download/fbneo/nes/startre25tann.zip"
   },
-  "nes_startrenexgen": {
+  "startrenexgen": {
     "download": "https://fightcade.download/fbneo/nes/startrenexgen.zip"
   },
-  "nes_startrevfinfr": {
+  "startrevfinfr": {
     "download": "https://fightcade.download/fbneo/nes/startrevfinfr.zip"
   },
-  "nes_startropics": {
+  "startropics": {
     "download": "https://fightcade.download/fbneo/nes/startropics.zip"
   },
-  "nes_starvoyager": {
+  "starvoyager": {
     "download": "https://fightcade.download/fbneo/nes/starvoyager.zip"
   },
-  "nes_starwar": {
+  "starwar": {
     "download": "https://fightcade.download/fbneo/nes/starwar.zip"
   },
-  "nes_starwars": {
+  "starwars": {
     "download": "https://fightcade.download/fbneo/nes/starwars.zip"
   },
-  "nes_starwarsj": {
+  "starwarsj": {
     "download": "https://fightcade.download/fbneo/nes/starwarsj.zip"
   },
-  "nes_starwarst": {
+  "starwarst": {
     "download": "https://fightcade.download/fbneo/nes/starwarst.zip"
   },
-  "nes_sted": {
+  "sted": {
     "download": "https://fightcade.download/fbneo/nes/sted.zip"
   },
-  "nes_stedj": {
+  "stedj": {
     "download": "https://fightcade.download/fbneo/nes/stedj.zip"
   },
-  "nes_steinsgate": {
+  "steinsgate": {
     "download": "https://fightcade.download/fbneo/nes/steinsgate.zip"
   },
-  "nes_stickhun": {
+  "stickhun": {
     "download": "https://fightcade.download/fbneo/nes/stickhun.zip"
   },
-  "nes_stinger": {
+  "stinger": {
     "download": "https://fightcade.download/fbneo/nes/stinger.zip"
   },
-  "nes_streefig201": {
+  "streefig201": {
     "download": "https://fightcade.download/fbneo/nes/streefig201.zip"
   },
-  "nes_streefigii": {
+  "streefigii": {
     "download": "https://fightcade.download/fbneo/nes/streefigii.zip"
   },
-  "nes_streefigiihac": {
+  "streefigiihac": {
     "download": "https://fightcade.download/fbneo/nes/streefigiihac.zip"
   },
-  "nes_streefigiii": {
+  "streefigiii": {
     "download": "https://fightcade.download/fbneo/nes/streefigiii.zip"
   },
-  "nes_streetheroes": {
+  "streetheroes": {
     "download": "https://fightcade.download/fbneo/nes/streetheroes.zip"
   },
-  "nes_strider": {
+  "strider": {
     "download": "https://fightcade.download/fbneo/nes/strider.zip"
   },
-  "nes_strikewolf": {
+  "strikewolf": {
     "download": "https://fightcade.download/fbneo/nes/strikewolf.zip"
   },
-  "nes_stuntkids": {
+  "stuntkids": {
     "download": "https://fightcade.download/fbneo/nes/stuntkids.zip"
   },
-  "nes_sugorque": {
+  "sugorque": {
     "download": "https://fightcade.download/fbneo/nes/sugorque.zip"
   },
-  "nes_sugorquej": {
+  "sugorquej": {
     "download": "https://fightcade.download/fbneo/nes/sugorquej.zip"
   },
-  "nes_sukebandeka3": {
+  "sukebandeka3": {
     "download": "https://fightcade.download/fbneo/nes/sukebandeka3.zip"
   },
-  "nes_summecar92": {
+  "summecar92": {
     "download": "https://fightcade.download/fbneo/nes/summecar92.zip"
   },
-  "nes_sundafun": {
+  "sundafun": {
     "download": "https://fightcade.download/fbneo/nes/sundafun.zip"
   },
-  "nes_sunman": {
+  "sunman": {
     "download": "https://fightcade.download/fbneo/nes/sunman.zip"
   },
-  "nes_superarabian": {
+  "superarabian": {
     "download": "https://fightcade.download/fbneo/nes/superarabian.zip"
   },
-  "nes_superbatpun": {
+  "superbatpun": {
     "download": "https://fightcade.download/fbneo/nes/superbatpun.zip"
   },
-  "nes_superc": {
+  "superc": {
     "download": "https://fightcade.download/fbneo/nes/superc.zip"
   },
-  "nes_supercars": {
+  "supercars": {
     "download": "https://fightcade.download/fbneo/nes/supercars.zip"
   },
-  "nes_superchii": {
+  "superchii": {
     "download": "https://fightcade.download/fbneo/nes/superchii.zip"
   },
-  "nes_supercontrac": {
+  "supercontrac": {
     "download": "https://fightcade.download/fbneo/nes/supercontrac.zip"
   },
-  "nes_superdodgeball": {
+  "superdodgeball": {
     "download": "https://fightcade.download/fbneo/nes/superdodgeball.zip"
   },
-  "nes_supergun": {
+  "supergun": {
     "download": "https://fightcade.download/fbneo/nes/supergun.zip"
   },
-  "nes_superhomwar": {
+  "superhomwar": {
     "download": "https://fightcade.download/fbneo/nes/superhomwar.zip"
   },
-  "nes_superman": {
+  "superman": {
     "download": "https://fightcade.download/fbneo/nes/superman.zip"
   },
-  "nes_supermarwor": {
+  "supermarwor": {
     "download": "https://fightcade.download/fbneo/nes/supermarwor.zip"
   },
-  "nes_superpainter": {
+  "superpainter": {
     "download": "https://fightcade.download/fbneo/nes/superpainter.zip"
   },
-  "nes_superpang": {
+  "superpang": {
     "download": "https://fightcade.download/fbneo/nes/superpang.zip"
   },
-  "nes_superpang2": {
+  "superpang2": {
     "download": "https://fightcade.download/fbneo/nes/superpang2.zip"
   },
-  "nes_superpinball": {
+  "superpinball": {
     "download": "https://fightcade.download/fbneo/nes/superpinball.zip"
   },
-  "nes_superpit30t": {
+  "superpit30t": {
     "download": "https://fightcade.download/fbneo/nes/superpit30t.zip"
   },
-  "nes_superpitfall": {
+  "superpitfall": {
     "download": "https://fightcade.download/fbneo/nes/superpitfall.zip"
   },
-  "nes_superrugby": {
+  "superrugby": {
     "download": "https://fightcade.download/fbneo/nes/superrugby.zip"
   },
-  "nes_supershi": {
+  "supershi": {
     "download": "https://fightcade.download/fbneo/nes/supershi.zip"
   },
-  "nes_superspivbal": {
+  "superspivbal": {
     "download": "https://fightcade.download/fbneo/nes/superspivbal.zip"
   },
-  "nes_supersprint": {
+  "supersprint": {
     "download": "https://fightcade.download/fbneo/nes/supersprint.zip"
   },
-  "nes_superspyhunter": {
+  "superspyhunter": {
     "download": "https://fightcade.download/fbneo/nes/superspyhunter.zip"
   },
-  "nes_superstarforce": {
+  "superstarforce": {
     "download": "https://fightcade.download/fbneo/nes/superstarforce.zip"
   },
-  "nes_supertiltbro": {
+  "supertiltbro": {
     "download": "https://fightcade.download/fbneo/nes/supertiltbro.zip"
   },
-  "nes_superturrican": {
+  "superturrican": {
     "download": "https://fightcade.download/fbneo/nes/superturrican.zip"
   },
-  "nes_superuwol": {
+  "superuwol": {
     "download": "https://fightcade.download/fbneo/nes/superuwol.zip"
   },
-  "nes_superxev": {
+  "superxev": {
     "download": "https://fightcade.download/fbneo/nes/superxev.zip"
   },
-  "nes_swampthing": {
+  "swampthing": {
     "download": "https://fightcade.download/fbneo/nes/swampthing.zip"
   },
-  "nes_sweethome": {
+  "sweethome": {
     "download": "https://fightcade.download/fbneo/nes/sweethome.zip"
   },
-  "nes_sweethomee": {
+  "sweethomee": {
     "download": "https://fightcade.download/fbneo/nes/sweethomee.zip"
   },
-  "nes_swordandser": {
+  "swordandser": {
     "download": "https://fightcade.download/fbneo/nes/swordandser.zip"
   },
-  "nes_swordmaster": {
+  "swordmaster": {
     "download": "https://fightcade.download/fbneo/nes/swordmaster.zip"
   },
-  "nes_taboo": {
+  "taboo": {
     "download": "https://fightcade.download/fbneo/nes/taboo.zip"
   },
-  "nes_tagindragon": {
+  "tagindragon": {
     "download": "https://fightcade.download/fbneo/nes/tagindragon.zip"
   },
-  "nes_tagteawre": {
+  "tagteawre": {
     "download": "https://fightcade.download/fbneo/nes/tagteawre.zip"
   },
-  "nes_taitochasehq": {
+  "taitochasehq": {
     "download": "https://fightcade.download/fbneo/nes/taitochasehq.zip"
   },
-  "nes_taitograpri": {
+  "taitograpri": {
     "download": "https://fightcade.download/fbneo/nes/taitograpri.zip"
   },
-  "nes_taitograprij": {
+  "taitograprij": {
     "download": "https://fightcade.download/fbneo/nes/taitograprij.zip"
   },
-  "nes_taiyonoyuufir": {
+  "taiyonoyuufir": {
     "download": "https://fightcade.download/fbneo/nes/taiyonoyuufir.zip"
   },
-  "nes_taiyonoyuufirj": {
+  "taiyonoyuufirj": {
     "download": "https://fightcade.download/fbneo/nes/taiyonoyuufirj.zip"
   },
-  "nes_takahmeinobugho": {
+  "takahmeinobugho": {
     "download": "https://fightcade.download/fbneo/nes/takahmeinobugho.zip"
   },
-  "nes_takesnosenfuu": {
+  "takesnosenfuu": {
     "download": "https://fightcade.download/fbneo/nes/takesnosenfuu.zip"
   },
-  "nes_takesscha": {
+  "takesscha": {
     "download": "https://fightcade.download/fbneo/nes/takesscha.zip"
   },
-  "nes_takesschaj": {
+  "takesschaj": {
     "download": "https://fightcade.download/fbneo/nes/takesschaj.zip"
   },
-  "nes_talespin": {
+  "talespin": {
     "download": "https://fightcade.download/fbneo/nes/talespin.zip"
   },
-  "nes_targetrenegade": {
+  "targetrenegade": {
     "download": "https://fightcade.download/fbneo/nes/targetrenegade.zip"
   },
-  "nes_tasac": {
+  "tasac": {
     "download": "https://fightcade.download/fbneo/nes/tasac.zip"
   },
-  "nes_tashimasnoprigaip": {
+  "tashimasnoprigaip": {
     "download": "https://fightcade.download/fbneo/nes/tashimasnoprigaip.zip"
   },
-  "nes_tatakainobanka": {
+  "tatakainobanka": {
     "download": "https://fightcade.download/fbneo/nes/tatakainobanka.zip"
   },
-  "nes_tatakchorobseitr": {
+  "tatakchorobseitr": {
     "download": "https://fightcade.download/fbneo/nes/tatakchorobseitr.zip"
   },
-  "nes_tatakrahman": {
+  "tatakrahman": {
     "download": "https://fightcade.download/fbneo/nes/tatakrahman.zip"
   },
-  "nes_tc2": {
+  "tc2": {
     "download": "https://fightcade.download/fbneo/nes/tc2.zip"
   },
-  "nes_tcsurfdesign": {
+  "tcsurfdesign": {
     "download": "https://fightcade.download/fbneo/nes/tcsurfdesign.zip"
   },
-  "nes_tecmobaseball": {
+  "tecmobaseball": {
     "download": "https://fightcade.download/fbneo/nes/tecmobaseball.zip"
   },
-  "nes_tecmobowl": {
+  "tecmobowl": {
     "download": "https://fightcade.download/fbneo/nes/tecmobowl.zip"
   },
-  "nes_tecmocup": {
+  "tecmocup": {
     "download": "https://fightcade.download/fbneo/nes/tecmocup.zip"
   },
-  "nes_tecmonbabas": {
+  "tecmonbabas": {
     "download": "https://fightcade.download/fbneo/nes/tecmonbabas.zip"
   },
-  "nes_tecmosuperbowl": {
+  "tecmosuperbowl": {
     "download": "https://fightcade.download/fbneo/nes/tecmosuperbowl.zip"
   },
-  "nes_tecmoworcupsoc": {
+  "tecmoworcupsoc": {
     "download": "https://fightcade.download/fbneo/nes/tecmoworcupsoc.zip"
   },
-  "nes_tecmoworwre": {
+  "tecmoworwre": {
     "download": "https://fightcade.download/fbneo/nes/tecmoworwre.zip"
   },
-  "nes_tekken2": {
+  "tekken2": {
     "download": "https://fightcade.download/fbneo/nes/tekken2.zip"
   },
-  "nes_tekken3": {
+  "tekken3": {
     "download": "https://fightcade.download/fbneo/nes/tekken3.zip"
   },
-  "nes_tenkabus": {
+  "tenkabus": {
     "download": "https://fightcade.download/fbneo/nes/tenkabus.zip"
   },
-  "nes_tenkanogoi": {
+  "tenkanogoi": {
     "download": "https://fightcade.download/fbneo/nes/tenkanogoi.zip"
   },
-  "nes_tennis": {
+  "tennis": {
     "download": "https://fightcade.download/fbneo/nes/tennis.zip"
   },
-  "nes_teraonodosooz": {
+  "teraonodosooz": {
     "download": "https://fightcade.download/fbneo/nes/teraonodosooz.zip"
   },
-  "nes_termi2": {
+  "termi2": {
     "download": "https://fightcade.download/fbneo/nes/termi2.zip"
   },
-  "nes_terminatorthe": {
+  "terminatorthe": {
     "download": "https://fightcade.download/fbneo/nes/terminatorthe.zip"
   },
-  "nes_terracresta": {
+  "terracresta": {
     "download": "https://fightcade.download/fbneo/nes/terracresta.zip"
   },
-  "nes_tetra": {
+  "tetra": {
     "download": "https://fightcade.download/fbneo/nes/tetra.zip"
   },
-  "nes_tetri2bom": {
+  "tetri2bom": {
     "download": "https://fightcade.download/fbneo/nes/tetri2bom.zip"
   },
-  "nes_tetris": {
+  "tetris": {
     "download": "https://fightcade.download/fbneo/nes/tetris.zip"
   },
-  "nes_tetris2": {
+  "tetris2": {
     "download": "https://fightcade.download/fbneo/nes/tetris2.zip"
   },
-  "nes_tetrisu": {
+  "tetristpg": {
+    "download": "https://fightcade.download/fbneo/nes/tetristpg.zip"
+  },
+  "tetristpn": {
+    "download": "https://fightcade.download/fbneo/nes/tetristpn.zip"
+  },
+  "tetrisu": {
     "download": "https://fightcade.download/fbneo/nes/tetrisu.zip"
   },
-  "nes_tetsuwanatom": {
+  "tetsuwanatom": {
     "download": "https://fightcade.download/fbneo/nes/tetsuwanatom.zip"
   },
-  "nes_thexder": {
+  "thexder": {
     "download": "https://fightcade.download/fbneo/nes/thexder.zip"
   },
-  "nes_threestooges": {
+  "threestooges": {
     "download": "https://fightcade.download/fbneo/nes/threestooges.zip"
   },
-  "nes_thunderbirds": {
+  "thunderbirds": {
     "download": "https://fightcade.download/fbneo/nes/thunderbirds.zip"
   },
-  "nes_thunderbolt2": {
+  "thunderbolt2": {
     "download": "https://fightcade.download/fbneo/nes/thunderbolt2.zip"
   },
-  "nes_thundercade": {
+  "thundercade": {
     "download": "https://fightcade.download/fbneo/nes/thundercade.zip"
   },
-  "nes_thunderwarrior": {
+  "thunderwarrior": {
     "download": "https://fightcade.download/fbneo/nes/thunderwarrior.zip"
   },
-  "nes_thundlig": {
+  "thundlig": {
     "download": "https://fightcade.download/fbneo/nes/thundlig.zip"
   },
-  "nes_tigerheli": {
+  "tigerheli": {
     "download": "https://fightcade.download/fbneo/nes/tigerheli.zip"
   },
-  "nes_timediveonman": {
+  "timediveonman": {
     "download": "https://fightcade.download/fbneo/nes/timediveonman.zip"
   },
-  "nes_timelord": {
+  "timelord": {
     "download": "https://fightcade.download/fbneo/nes/timelord.zip"
   },
-  "nes_timezone": {
+  "timezone": {
     "download": "https://fightcade.download/fbneo/nes/timezone.zip"
   },
-  "nes_timezonej": {
+  "timezonej": {
     "download": "https://fightcade.download/fbneo/nes/timezonej.zip"
   },
-  "nes_tinasadvisl": {
+  "tinasadvisl": {
     "download": "https://fightcade.download/fbneo/nes/tinasadvisl.zip"
   },
-  "nes_tinasadvislii": {
+  "tinasadvislii": {
     "download": "https://fightcade.download/fbneo/nes/tinasadvislii.zip"
   },
-  "nes_tinasadvisliii": {
+  "tinasadvisliii": {
     "download": "https://fightcade.download/fbneo/nes/tinasadvisliii.zip"
   },
-  "nes_tinytooadv": {
+  "tinytooadv": {
     "download": "https://fightcade.download/fbneo/nes/tinytooadv.zip"
   },
-  "nes_tinytooadv2molaheyo": {
+  "tinytooadv2molaheyo": {
     "download": "https://fightcade.download/fbneo/nes/tinytooadv2molaheyo.zip"
   },
-  "nes_tinytooadv2trinwa": {
+  "tinytooadv2trinwa": {
     "download": "https://fightcade.download/fbneo/nes/tinytooadv2trinwa.zip"
   },
-  "nes_tinytooadv6": {
+  "tinytooadv6": {
     "download": "https://fightcade.download/fbneo/nes/tinytooadv6.zip"
   },
-  "nes_titan": {
+  "titan": {
     "download": "https://fightcade.download/fbneo/nes/titan.zip"
   },
-  "nes_titanwarriors": {
+  "titanwarriors": {
     "download": "https://fightcade.download/fbneo/nes/titanwarriors.zip"
   },
-  "nes_tmnt": {
+  "tmnt": {
     "download": "https://fightcade.download/fbneo/nes/tmnt.zip"
   },
-  "nes_tmntc": {
+  "tmntc": {
     "download": "https://fightcade.download/fbneo/nes/tmntc.zip"
   },
-  "nes_tmntiiarcgam": {
+  "tmntiiarcgam": {
     "download": "https://fightcade.download/fbneo/nes/tmntiiarcgam.zip"
   },
-  "nes_tmntiiarcgamj": {
+  "tmntiiarcgamj": {
     "download": "https://fightcade.download/fbneo/nes/tmntiiarcgamj.zip"
   },
-  "nes_tmntiii": {
+  "tmntiii": {
     "download": "https://fightcade.download/fbneo/nes/tmntiii.zip"
   },
-  "nes_tmntiimanpro": {
+  "tmntiimanpro": {
     "download": "https://fightcade.download/fbneo/nes/tmntiimanpro.zip"
   },
-  "nes_tmnttoufig": {
+  "tmnttoufig": {
     "download": "https://fightcade.download/fbneo/nes/tmnttoufig.zip"
   },
-  "nes_toki": {
+  "toki": {
     "download": "https://fightcade.download/fbneo/nes/toki.zip"
   },
-  "nes_tokkyshisol": {
+  "tokkyshisol": {
     "download": "https://fightcade.download/fbneo/nes/tokkyshisol.zip"
   },
-  "nes_tokkyshisolj": {
+  "tokkyshisolj": {
     "download": "https://fightcade.download/fbneo/nes/tokkyshisolj.zip"
   },
-  "nes_tokorsannomammosemo": {
+  "tokorsannomammosemo": {
     "download": "https://fightcade.download/fbneo/nes/tokorsannomammosemo.zip"
   },
-  "nes_tomjerultgamcatandm": {
+  "tomjerultgamcatandm": {
     "download": "https://fightcade.download/fbneo/nes/tomjerultgamcatandm.zip"
   },
-  "nes_toobin": {
+  "toobin": {
     "download": "https://fightcade.download/fbneo/nes/toobin.zip"
   },
-  "nes_topgun": {
+  "topgun": {
     "download": "https://fightcade.download/fbneo/nes/topgun.zip"
   },
-  "nes_topgunsecmis": {
+  "topgunsecmis": {
     "download": "https://fightcade.download/fbneo/nes/topgunsecmis.zip"
   },
-  "nes_topstriker": {
+  "topstriker": {
     "download": "https://fightcade.download/fbneo/nes/topstriker.zip"
   },
-  "nes_totallyrad": {
+  "totallyrad": {
     "download": "https://fightcade.download/fbneo/nes/totallyrad.zip"
   },
-  "nes_totalrecall": {
+  "totalrecall": {
     "download": "https://fightcade.download/fbneo/nes/totalrecall.zip"
   },
-  "nes_totheearth": {
+  "totheearth": {
     "download": "https://fightcade.download/fbneo/nes/totheearth.zip"
   },
-  "nes_totsumac": {
+  "totsumac": {
     "download": "https://fightcade.download/fbneo/nes/totsumac.zip"
   },
-  "nes_touhourououmu": {
+  "touhourououmu": {
     "download": "https://fightcade.download/fbneo/nes/touhourououmu.zip"
   },
-  "nes_toukonclub": {
+  "toukonclub": {
     "download": "https://fightcade.download/fbneo/nes/toukonclub.zip"
   },
-  "nes_towerdru": {
+  "towerdru": {
     "download": "https://fightcade.download/fbneo/nes/towerdru.zip"
   },
-  "nes_towerofturmoil": {
+  "towerofturmoil": {
     "download": "https://fightcade.download/fbneo/nes/towerofturmoil.zip"
   },
-  "nes_toxiccrusaders": {
+  "toxiccrusaders": {
     "download": "https://fightcade.download/fbneo/nes/toxiccrusaders.zip"
   },
-  "nes_trackfield": {
+  "trackfield": {
     "download": "https://fightcade.download/fbneo/nes/trackfield.zip"
   },
-  "nes_trackfieldii": {
+  "trackfieldii": {
     "download": "https://fightcade.download/fbneo/nes/trackfieldii.zip"
   },
-  "nes_treasuremaster": {
+  "treasuremaster": {
     "download": "https://fightcade.download/fbneo/nes/treasuremaster.zip"
   },
-  "nes_trog": {
+  "trog": {
     "download": "https://fightcade.download/fbneo/nes/trog.zip"
   },
-  "nes_trojan": {
+  "trojan": {
     "download": "https://fightcade.download/fbneo/nes/trojan.zip"
   },
-  "nes_tsupparioozumou": {
+  "tsupparioozumou": {
     "download": "https://fightcade.download/fbneo/nes/tsupparioozumou.zip"
   },
-  "nes_twinb3": {
+  "twinb3": {
     "download": "https://fightcade.download/fbneo/nes/twinb3.zip"
   },
-  "nes_twinbee": {
+  "twinbee": {
     "download": "https://fightcade.download/fbneo/nes/twinbee.zip"
   },
-  "nes_twincobra": {
+  "twincobra": {
     "download": "https://fightcade.download/fbneo/nes/twincobra.zip"
   },
-  "nes_twindracomedi": {
+  "twindracomedi": {
     "download": "https://fightcade.download/fbneo/nes/twindracomedi.zip"
   },
-  "nes_twindragons": {
+  "twindragons": {
     "download": "https://fightcade.download/fbneo/nes/twindragons.zip"
   },
-  "nes_twineagle": {
+  "twineagle": {
     "download": "https://fightcade.download/fbneo/nes/twineagle.zip"
   },
-  "nes_uchuucoscar": {
+  "uchuucoscar": {
     "download": "https://fightcade.download/fbneo/nes/uchuucoscar.zip"
   },
-  "nes_uchuukeisdf": {
+  "uchuukeisdf": {
     "download": "https://fightcade.download/fbneo/nes/uchuukeisdf.zip"
   },
-  "nes_ufouria": {
+  "ufouria": {
     "download": "https://fightcade.download/fbneo/nes/ufouria.zip"
   },
-  "nes_ultimaexodus": {
+  "ultimaexodus": {
     "download": "https://fightcade.download/fbneo/nes/ultimaexodus.zip"
   },
-  "nes_ultimfrocha": {
+  "ultimfrocha": {
     "download": "https://fightcade.download/fbneo/nes/ultimfrocha.zip"
   },
-  "nes_ultimleasoc": {
+  "ultimleasoc": {
     "download": "https://fightcade.download/fbneo/nes/ultimleasoc.zip"
   },
-  "nes_ultimleasoci": {
+  "ultimleasoci": {
     "download": "https://fightcade.download/fbneo/nes/ultimleasoci.zip"
   },
-  "nes_ultimmorkom3": {
+  "ultimmorkom3": {
     "download": "https://fightcade.download/fbneo/nes/ultimmorkom3.zip"
   },
-  "nes_ultimmorkom3h": {
+  "ultimmorkom3h": {
     "download": "https://fightcade.download/fbneo/nes/ultimmorkom3h.zip"
   },
-  "nes_ultimqueava": {
+  "ultimqueava": {
     "download": "https://fightcade.download/fbneo/nes/ultimqueava.zip"
   },
-  "nes_ultimstu": {
+  "ultimstu": {
     "download": "https://fightcade.download/fbneo/nes/ultimstu.zip"
   },
-  "nes_ultimwardes": {
+  "ultimwardes": {
     "download": "https://fightcade.download/fbneo/nes/ultimwardes.zip"
   },
-  "nes_uncanxmen": {
+  "uncanxmen": {
     "download": "https://fightcade.download/fbneo/nes/uncanxmen.zip"
   },
-  "nes_unchartedwaters": {
+  "unchartedwaters": {
     "download": "https://fightcade.download/fbneo/nes/unchartedwaters.zip"
   },
-  "nes_underadv": {
+  "underadv": {
     "download": "https://fightcade.download/fbneo/nes/underadv.zip"
   },
-  "nes_uninvited": {
+  "uninvited": {
     "download": "https://fightcade.download/fbneo/nes/uninvited.zip"
   },
-  "nes_univesol": {
+  "univesol": {
     "download": "https://fightcade.download/fbneo/nes/univesol.zip"
   },
-  "nes_urbanchampion": {
+  "urbanchampion": {
     "download": "https://fightcade.download/fbneo/nes/urbanchampion.zip"
   },
-  "nes_urbanstrike": {
+  "urbanstrike": {
     "download": "https://fightcade.download/fbneo/nes/urbanstrike.zip"
   },
-  "nes_uruseyat": {
+  "uruseyat": {
     "download": "https://fightcade.download/fbneo/nes/uruseyat.zip"
   },
-  "nes_uschavba": {
+  "uschavba": {
     "download": "https://fightcade.download/fbneo/nes/uschavba.zip"
   },
-  "nes_utsurundesu": {
+  "utsurundesu": {
     "download": "https://fightcade.download/fbneo/nes/utsurundesu.zip"
   },
-  "nes_valis": {
+  "valis": {
     "download": "https://fightcade.download/fbneo/nes/valis.zip"
   },
-  "nes_valkynobou": {
+  "valkynobou": {
     "download": "https://fightcade.download/fbneo/nes/valkynobou.zip"
   },
-  "nes_valkynobouj": {
+  "valkynobouj": {
     "download": "https://fightcade.download/fbneo/nes/valkynobouj.zip"
   },
-  "nes_veggieinvaders": {
+  "veggieinvaders": {
     "download": "https://fightcade.download/fbneo/nes/veggieinvaders.zip"
   },
-  "nes_vice": {
+  "vice": {
     "download": "https://fightcade.download/fbneo/nes/vice.zip"
   },
-  "nes_volguardii": {
+  "volguardii": {
     "download": "https://fightcade.download/fbneo/nes/volguardii.zip"
   },
-  "nes_volleyball": {
+  "volleyball": {
     "download": "https://fightcade.download/fbneo/nes/volleyball.zip"
   },
-  "nes_wackyraces": {
+  "wackyraces": {
     "download": "https://fightcade.download/fbneo/nes/wackyraces.zip"
   },
-  "nes_wagyanland": {
+  "wagyanland": {
     "download": "https://fightcade.download/fbneo/nes/wagyanland.zip"
   },
-  "nes_wagyanland2": {
+  "wagyanland2": {
     "download": "https://fightcade.download/fbneo/nes/wagyanland2.zip"
   },
-  "nes_wagyanland3": {
+  "wagyanland3": {
     "download": "https://fightcade.download/fbneo/nes/wagyanland3.zip"
   },
-  "nes_waiwaiwor2": {
+  "waiwaiwor2": {
     "download": "https://fightcade.download/fbneo/nes/waiwaiwor2.zip"
   },
-  "nes_waiwaiworld": {
+  "waiwaiworld": {
     "download": "https://fightcade.download/fbneo/nes/waiwaiworld.zip"
   },
-  "nes_waiwaiworldc": {
+  "waiwaiworldc": {
     "download": "https://fightcade.download/fbneo/nes/waiwaiworldc.zip"
   },
-  "nes_wall": {
+  "wall": {
     "download": "https://fightcade.download/fbneo/nes/wall.zip"
   },
-  "nes_wallstreetkid": {
+  "wallstreetkid": {
     "download": "https://fightcade.download/fbneo/nes/wallstreetkid.zip"
   },
-  "nes_wallybeanogan": {
+  "wallybeanogan": {
     "download": "https://fightcade.download/fbneo/nes/wallybeanogan.zip"
   },
-  "nes_wanpakoknogouwo": {
+  "wanpakoknogouwo": {
     "download": "https://fightcade.download/fbneo/nes/wanpakoknogouwo.zip"
   },
-  "nes_warinthegulf": {
+  "warinthegulf": {
     "download": "https://fightcade.download/fbneo/nes/warinthegulf.zip"
   },
-  "nes_warioswoods": {
+  "warioswoods": {
     "download": "https://fightcade.download/fbneo/nes/warioswoods.zip"
   },
-  "nes_warpman": {
+  "warpman": {
     "download": "https://fightcade.download/fbneo/nes/warpman.zip"
   },
-  "nes_waynesworld": {
+  "waynesworld": {
     "download": "https://fightcade.download/fbneo/nes/waynesworld.zip"
   },
-  "nes_wcwworchawre": {
+  "wcwworchawre": {
     "download": "https://fightcade.download/fbneo/nes/wcwworchawre.zip"
   },
-  "nes_werew": {
+  "werew": {
     "download": "https://fightcade.download/fbneo/nes/werew.zip"
   },
-  "nes_whereintimiscasa": {
+  "whereintimiscasa": {
     "download": "https://fightcade.download/fbneo/nes/whereintimiscasa.zip"
   },
-  "nes_whereswaldo": {
+  "whereswaldo": {
     "download": "https://fightcade.download/fbneo/nes/whereswaldo.zip"
   },
-  "nes_whompem": {
+  "whompem": {
     "download": "https://fightcade.download/fbneo/nes/whompem.zip"
   },
-  "nes_widget": {
+  "widget": {
     "download": "https://fightcade.download/fbneo/nes/widget.zip"
   },
-  "nes_wildgunman": {
+  "wildgunman": {
     "download": "https://fightcade.download/fbneo/nes/wildgunman.zip"
   },
-  "nes_willow": {
+  "willow": {
     "download": "https://fightcade.download/fbneo/nes/willow.zip"
   },
-  "nes_wingmad": {
+  "wingmad": {
     "download": "https://fightcade.download/fbneo/nes/wingmad.zip"
   },
-  "nes_wits": {
+  "wits": {
     "download": "https://fightcade.download/fbneo/nes/wits.zip"
   },
-  "nes_wizarwar": {
+  "wizarwar": {
     "download": "https://fightcade.download/fbneo/nes/wizarwar.zip"
   },
-  "nes_wizarwariii": {
+  "wizarwariii": {
     "download": "https://fightcade.download/fbneo/nes/wizarwariii.zip"
   },
-  "nes_wolfling": {
+  "wolfling": {
     "download": "https://fightcade.download/fbneo/nes/wolfling.zip"
   },
-  "nes_wolverine": {
+  "wolverine": {
     "download": "https://fightcade.download/fbneo/nes/wolverine.zip"
   },
-  "nes_wonderlanddizzy": {
+  "wonderlanddizzy": {
     "download": "https://fightcade.download/fbneo/nes/wonderlanddizzy.zip"
   },
-  "nes_woodypoko": {
+  "woodypoko": {
     "download": "https://fightcade.download/fbneo/nes/woodypoko.zip"
   },
-  "nes_worldchamp": {
+  "worldchamp": {
     "download": "https://fightcade.download/fbneo/nes/worldchamp.zip"
   },
-  "nes_wrathblaman": {
+  "wrathblaman": {
     "download": "https://fightcade.download/fbneo/nes/wrathblaman.zip"
   },
-  "nes_wreckingcrew": {
+  "wreckingcrew": {
     "download": "https://fightcade.download/fbneo/nes/wreckingcrew.zip"
   },
-  "nes_wurm": {
+  "wurm": {
     "download": "https://fightcade.download/fbneo/nes/wurm.zip"
   },
-  "nes_wxniao": {
+  "wxniao": {
     "download": "https://fightcade.download/fbneo/nes/wxniao.zip"
   },
-  "nes_xenophobe": {
+  "xenophobe": {
     "download": "https://fightcade.download/fbneo/nes/xenophobe.zip"
   },
-  "nes_xevious": {
+  "xevious": {
     "download": "https://fightcade.download/fbneo/nes/xevious.zip"
   },
-  "nes_xexyz": {
+  "xexyz": {
     "download": "https://fightcade.download/fbneo/nes/xexyz.zip"
   },
-  "nes_xiaohonmao": {
+  "xiaohonmao": {
     "download": "https://fightcade.download/fbneo/nes/xiaohonmao.zip"
   },
-  "nes_yiearkungfu": {
+  "yiearkungfu": {
     "download": "https://fightcade.download/fbneo/nes/yiearkungfu.zip"
   },
-  "nes_yonoid": {
+  "yonoid": {
     "download": "https://fightcade.download/fbneo/nes/yonoid.zip"
   },
-  "nes_yoshi": {
+  "yoshi": {
     "download": "https://fightcade.download/fbneo/nes/yoshi.zip"
   },
-  "nes_yoshiscookie": {
+  "yoshiscookie": {
     "download": "https://fightcade.download/fbneo/nes/yoshiscookie.zip"
   },
-  "nes_youkaiclub": {
+  "youkaiclub": {
     "download": "https://fightcade.download/fbneo/nes/youkaiclub.zip"
   },
-  "nes_youkaidouchuuki": {
+  "youkaidouchuuki": {
     "download": "https://fightcade.download/fbneo/nes/youkaidouchuuki.zip"
   },
-  "nes_youkaikurabu": {
+  "youkaikurabu": {
     "download": "https://fightcade.download/fbneo/nes/youkaikurabu.zip"
   },
-  "nes_youngindjonchr": {
+  "youngindjonchr": {
     "download": "https://fightcade.download/fbneo/nes/youngindjonchr.zip"
   },
-  "nes_ys": {
+  "ys": {
     "download": "https://fightcade.download/fbneo/nes/ys.zip"
   },
-  "nes_ysii": {
+  "ysii": {
     "download": "https://fightcade.download/fbneo/nes/ysii.zip"
   },
-  "nes_ysiii": {
+  "ysiii": {
     "download": "https://fightcade.download/fbneo/nes/ysiii.zip"
   },
-  "nes_ysiiij": {
+  "ysiiij": {
     "download": "https://fightcade.download/fbneo/nes/ysiiij.zip"
   },
-  "nes_ysiij": {
+  "ysiij": {
     "download": "https://fightcade.download/fbneo/nes/ysiij.zip"
   },
-  "nes_ysj": {
+  "ysj": {
     "download": "https://fightcade.download/fbneo/nes/ysj.zip"
   },
-  "nes_yumepenmon": {
+  "yumepenmon": {
     "download": "https://fightcade.download/fbneo/nes/yumepenmon.zip"
   },
-  "nes_yumepenmonj": {
+  "yumepenmonj": {
     "download": "https://fightcade.download/fbneo/nes/yumepenmonj.zip"
   },
-  "nes_yunr5": {
+  "yunr5": {
     "download": "https://fightcade.download/fbneo/nes/yunr5.zip"
   },
-  "nes_yuuyuuhakfin": {
+  "yuuyuuhakfin": {
     "download": "https://fightcade.download/fbneo/nes/yuuyuuhakfin.zip"
   },
-  "nes_zanac": {
+  "zanac": {
     "download": "https://fightcade.download/fbneo/nes/zanac.zip"
   },
-  "nes_zeldaii": {
+  "zeldaii": {
     "download": "https://fightcade.download/fbneo/nes/zeldaii.zip"
   },
-  "nes_zen": {
+  "zen": {
     "download": "https://fightcade.download/fbneo/nes/zen.zip"
   },
-  "nes_zhenbenxiyouji": {
+  "zhenbenxiyouji": {
     "download": "https://fightcade.download/fbneo/nes/zhenbenxiyouji.zip"
   },
-  "nes_zippyrace": {
+  "zippyrace": {
     "download": "https://fightcade.download/fbneo/nes/zippyrace.zip"
   },
-  "nes_zombiecalavera": {
+  "zombiecalavera": {
     "download": "https://fightcade.download/fbneo/nes/zombiecalavera.zip"
   },
-  "nes_zombiehunter": {
+  "zombiehunter": {
     "download": "https://fightcade.download/fbneo/nes/zombiehunter.zip"
   },
-  "nes_zombienation": {
+  "zombienation": {
     "download": "https://fightcade.download/fbneo/nes/zombienation.zip"
   },
-  "nes_zoomisec": {
+  "zoomisec": {
     "download": "https://fightcade.download/fbneo/nes/zoomisec.zip"
   },
-  "nes_zunousengal": {
+  "zunousengal": {
     "download": "https://fightcade.download/fbneo/nes/zunousengal.zip"
   }
 }

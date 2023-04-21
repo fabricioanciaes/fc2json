@@ -1,12 +1,21 @@
 {
+  "3dragon": {
+    "download": "https://fightcade.download/fbneo/sms/3dragon.zip"
+  },
   "4pak": {
     "download": "https://fightcade.download/fbneo/sms/4pak.zip"
   },
   "94swc": {
     "download": "https://fightcade.download/fbneo/sms/94swc.zip"
   },
+  "aburner": {
+    "download": "https://fightcade.download/fbneo/sms/aburner.zip"
+  },
   "aceoface": {
     "download": "https://fightcade.download/fbneo/sms/aceoface.zip"
+  },
+  "actionfg": {
+    "download": "https://fightcade.download/fbneo/sms/actionfg.zip"
   },
   "actionfg1": {
     "download": "https://fightcade.download/fbneo/sms/actionfg1.zip",
@@ -14,11 +23,8 @@
       "actionfg"
     ]
   },
-  "actionfg": {
-    "download": "https://fightcade.download/fbneo/sms/actionfg.zip"
-  },
-  "herolanc": {
-    "download": "https://fightcade.download/fbneo/sms/herolanc.zip"
+  "addfam": {
+    "download": "https://fightcade.download/fbneo/sms/addfam.zip"
   },
   "aerialas": {
     "download": "https://fightcade.download/fbneo/sms/aerialas.zip"
@@ -29,8 +35,8 @@
       "aerialas"
     ]
   },
-  "aburner": {
-    "download": "https://fightcade.download/fbneo/sms/aburner.zip"
+  "agassi": {
+    "download": "https://fightcade.download/fbneo/sms/agassi.zip"
   },
   "agidooly": {
     "download": "https://fightcade.download/fbneo/sms/agidooly.zip",
@@ -41,6 +47,15 @@
   "airresc": {
     "download": "https://fightcade.download/fbneo/sms/airresc.zip"
   },
+  "akrr102e": {
+    "download": "https://fightcade.download/fbneo/sms/akrr102e.zip",
+    "require": [
+      "alexkidd"
+    ]
+  },
+  "aladdin": {
+    "download": "https://fightcade.download/fbneo/sms/aladdin.zip"
+  },
   "aleste": {
     "download": "https://fightcade.download/fbneo/sms/aleste.zip",
     "require": [
@@ -50,20 +65,14 @@
   "alesteiigg2sms": {
     "download": "https://fightcade.download/fbneo/sms/alesteiigg2sms.zip"
   },
-  "alexhitw": {
-    "download": "https://fightcade.download/fbneo/sms/alexhitw.zip"
-  },
-  "alexlost": {
-    "download": "https://fightcade.download/fbneo/sms/alexlost.zip"
-  },
   "alexbmx": {
     "download": "https://fightcade.download/fbneo/sms/alexbmx.zip"
   },
-  "alexkiddb": {
-    "download": "https://fightcade.download/fbneo/sms/alexkiddb.zip",
-    "require": [
-      "alexkidd"
-    ]
+  "alexhitw": {
+    "download": "https://fightcade.download/fbneo/sms/alexhitw.zip"
+  },
+  "alexkidd": {
+    "download": "https://fightcade.download/fbneo/sms/alexkidd.zip"
   },
   "alexkidd1": {
     "download": "https://fightcade.download/fbneo/sms/alexkidd1.zip",
@@ -71,26 +80,29 @@
       "alexkidd"
     ]
   },
-  "alexkidd": {
-    "download": "https://fightcade.download/fbneo/sms/alexkidd.zip"
-  },
   "alexkidd2": {
     "download": "https://fightcade.download/fbneo/sms/alexkidd2.zip"
   },
-  "akrr102e": {
-    "download": "https://fightcade.download/fbneo/sms/akrr102e.zip",
+  "alexkidd3f": {
+    "download": "https://fightcade.download/fbneo/sms/alexkidd3f.zip"
+  },
+  "alexkiddb": {
+    "download": "https://fightcade.download/fbneo/sms/alexkiddb.zip",
     "require": [
       "alexkidd"
     ]
-  },
-  "alexshin": {
-    "download": "https://fightcade.download/fbneo/sms/alexshin.zip"
   },
   "alexkiddj": {
     "download": "https://fightcade.download/fbneo/sms/alexkiddj.zip",
     "require": [
       "alexkidd"
     ]
+  },
+  "alexlost": {
+    "download": "https://fightcade.download/fbneo/sms/alexlost.zip"
+  },
+  "alexshin": {
+    "download": "https://fightcade.download/fbneo/sms/alexshin.zip"
   },
   "alf": {
     "download": "https://fightcade.download/fbneo/sms/alf.zip"
@@ -100,9 +112,6 @@
   },
   "alien3": {
     "download": "https://fightcade.download/fbneo/sms/alien3.zip"
-  },
-  "astorm": {
-    "download": "https://fightcade.download/fbneo/sms/astorm.zip"
   },
   "aliensyn": {
     "download": "https://fightcade.download/fbneo/sms/aliensyn.zip"
@@ -128,9 +137,6 @@
   "ameripf": {
     "download": "https://fightcade.download/fbneo/sms/ameripf.zip"
   },
-  "agassi": {
-    "download": "https://fightcade.download/fbneo/sms/agassi.zip"
-  },
   "anmitsu": {
     "download": "https://fightcade.download/fbneo/sms/anmitsu.zip",
     "require": [
@@ -149,11 +155,8 @@
       "argosnj"
     ]
   },
-  "tvcolos": {
-    "download": "https://fightcade.download/fbneo/sms/tvcolos.zip",
-    "require": [
-      "asterix"
-    ]
+  "ariel": {
+    "download": "https://fightcade.download/fbneo/sms/ariel.zip"
   },
   "ashura": {
     "download": "https://fightcade.download/fbneo/sms/ashura.zip",
@@ -161,14 +164,20 @@
       "secret"
     ]
   },
+  "assaultc": {
+    "download": "https://fightcade.download/fbneo/sms/assaultc.zip"
+  },
   "assaultc1": {
     "download": "https://fightcade.download/fbneo/sms/assaultc1.zip",
     "require": [
       "assaultc"
     ]
   },
-  "assaultc": {
-    "download": "https://fightcade.download/fbneo/sms/assaultc.zip"
+  "astergre": {
+    "download": "https://fightcade.download/fbneo/sms/astergre.zip"
+  },
+  "asterix": {
+    "download": "https://fightcade.download/fbneo/sms/asterix.zip"
   },
   "asterix1": {
     "download": "https://fightcade.download/fbneo/sms/asterix1.zip",
@@ -176,14 +185,11 @@
       "asterix"
     ]
   },
-  "asterix": {
-    "download": "https://fightcade.download/fbneo/sms/asterix.zip"
-  },
-  "astergre": {
-    "download": "https://fightcade.download/fbneo/sms/astergre.zip"
-  },
   "astermis": {
     "download": "https://fightcade.download/fbneo/sms/astermis.zip"
+  },
+  "astorm": {
+    "download": "https://fightcade.download/fbneo/sms/astorm.zip"
   },
   "astrofl": {
     "download": "https://fightcade.download/fbneo/sms/astrofl.zip",
@@ -197,14 +203,11 @@
       "transbot"
     ]
   },
-  "astrow": {
-    "download": "https://fightcade.download/fbneo/sms/astrow.zip"
-  },
   "astropit": {
     "download": "https://fightcade.download/fbneo/sms/astropit.zip"
   },
-  "smgp2": {
-    "download": "https://fightcade.download/fbneo/sms/smgp2.zip"
+  "astrow": {
+    "download": "https://fightcade.download/fbneo/sms/astrow.zip"
   },
   "aztecadv": {
     "download": "https://fightcade.download/fbneo/sms/aztecadv.zip"
@@ -215,6 +218,9 @@
   "backtof3": {
     "download": "https://fightcade.download/fbneo/sms/backtof3.zip"
   },
+  "bakabon": {
+    "download": "https://fightcade.download/fbneo/sms/bakabon.zip"
+  },
   "bakubaku": {
     "download": "https://fightcade.download/fbneo/sms/bakubaku.zip"
   },
@@ -223,6 +229,12 @@
   },
   "baraburu10": {
     "download": "https://fightcade.download/fbneo/sms/baraburu10.zip"
+  },
+  "bartvssm": {
+    "download": "https://fightcade.download/fbneo/sms/bartvssm.zip"
+  },
+  "bartvsw": {
+    "download": "https://fightcade.download/fbneo/sms/bartvsw.zip"
   },
   "basketn": {
     "download": "https://fightcade.download/fbneo/sms/basketn.zip"
@@ -233,11 +245,14 @@
   "battleor": {
     "download": "https://fightcade.download/fbneo/sms/battleor.zip"
   },
-  "bmaniacs": {
-    "download": "https://fightcade.download/fbneo/sms/bmaniacs.zip"
+  "beast": {
+    "download": "https://fightcade.download/fbneo/sms/beast.zip"
   },
   "blackblt": {
     "download": "https://fightcade.download/fbneo/sms/blackblt.zip"
+  },
+  "bladeag": {
+    "download": "https://fightcade.download/fbneo/sms/bladeag.zip"
   },
   "bladeag1": {
     "download": "https://fightcade.download/fbneo/sms/bladeag1.zip",
@@ -245,20 +260,32 @@
       "bladeag"
     ]
   },
-  "bladeag": {
-    "download": "https://fightcade.download/fbneo/sms/bladeag.zip"
-  },
   "blockhol": {
     "download": "https://fightcade.download/fbneo/sms/blockhol.zip"
   },
-  "bombraid": {
-    "download": "https://fightcade.download/fbneo/sms/bombraid.zip"
+  "bmaniacs": {
+    "download": "https://fightcade.download/fbneo/sms/bmaniacs.zip"
   },
   "bnzabros": {
     "download": "https://fightcade.download/fbneo/sms/bnzabros.zip"
   },
-  "dracula": {
-    "download": "https://fightcade.download/fbneo/sms/dracula.zip"
+  "bombraid": {
+    "download": "https://fightcade.download/fbneo/sms/bombraid.zip"
+  },
+  "bonkers": {
+    "download": "https://fightcade.download/fbneo/sms/bonkers.zip"
+  },
+  "borgman": {
+    "download": "https://fightcade.download/fbneo/sms/borgman.zip",
+    "require": [
+      "cyborgh"
+    ]
+  },
+  "borgmanp": {
+    "download": "https://fightcade.download/fbneo/sms/borgmanp.zip",
+    "require": [
+      "cyborgh"
+    ]
   },
   "brucelee10": {
     "download": "https://fightcade.download/fbneo/sms/brucelee10.zip"
@@ -281,11 +308,8 @@
   "buggyrun": {
     "download": "https://fightcade.download/fbneo/sms/buggyrun.zip"
   },
-  "cso": {
-    "download": "https://fightcade.download/fbneo/sms/cso.zip"
-  },
-  "calgames": {
-    "download": "https://fightcade.download/fbneo/sms/calgames.zip"
+  "calgame2": {
+    "download": "https://fightcade.download/fbneo/sms/calgame2.zip"
   },
   "calgame2b": {
     "download": "https://fightcade.download/fbneo/sms/calgame2b.zip",
@@ -293,8 +317,8 @@
       "calgame2"
     ]
   },
-  "calgame2": {
-    "download": "https://fightcade.download/fbneo/sms/calgame2.zip"
+  "calgames": {
+    "download": "https://fightcade.download/fbneo/sms/calgames.zip"
   },
   "captsilv": {
     "download": "https://fightcade.download/fbneo/sms/captsilv.zip"
@@ -303,6 +327,15 @@
     "download": "https://fightcade.download/fbneo/sms/captsilvu.zip",
     "require": [
       "captsilv"
+    ]
+  },
+  "carmnwld": {
+    "download": "https://fightcade.download/fbneo/sms/carmnwld.zip"
+  },
+  "carmnwldb": {
+    "download": "https://fightcade.download/fbneo/sms/carmnwldb.zip",
+    "require": [
+      "carmnwld"
     ]
   },
   "casino": {
@@ -314,14 +347,14 @@
   "castlill": {
     "download": "https://fightcade.download/fbneo/sms/castlill.zip"
   },
-  "castlillu": {
-    "download": "https://fightcade.download/fbneo/sms/castlillu.zip",
+  "castlills": {
+    "download": "https://fightcade.download/fbneo/sms/castlills.zip",
     "require": [
       "castlill"
     ]
   },
-  "castlills": {
-    "download": "https://fightcade.download/fbneo/sms/castlills.zip",
+  "castlillu": {
+    "download": "https://fightcade.download/fbneo/sms/castlillu.zip",
     "require": [
       "castlill"
     ]
@@ -337,6 +370,9 @@
     "require": [
       "ghosth"
     ]
+  },
+  "chasehq": {
+    "download": "https://fightcade.download/fbneo/sms/chasehq.zip"
   },
   "cheese": {
     "download": "https://fightcade.download/fbneo/sms/cheese.zip"
@@ -356,20 +392,11 @@
       "choplift"
     ]
   },
-  "borgman": {
-    "download": "https://fightcade.download/fbneo/sms/borgman.zip",
-    "require": [
-      "cyborgh"
-    ]
-  },
-  "borgmanp": {
-    "download": "https://fightcade.download/fbneo/sms/borgmanp.zip",
-    "require": [
-      "cyborgh"
-    ]
-  },
   "chuckrck": {
     "download": "https://fightcade.download/fbneo/sms/chuckrck.zip"
+  },
+  "chukrck2": {
+    "download": "https://fightcade.download/fbneo/sms/chukrck2.zip"
   },
   "chukrck2b": {
     "download": "https://fightcade.download/fbneo/sms/chukrck2b.zip",
@@ -377,8 +404,11 @@
       "chukrck2"
     ]
   },
-  "chukrck2": {
-    "download": "https://fightcade.download/fbneo/sms/chukrck2.zip"
+  "circuit": {
+    "download": "https://fightcade.download/fbneo/sms/circuit.zip",
+    "require": [
+      "worldgp"
+    ]
   },
   "cloudmst": {
     "download": "https://fightcade.download/fbneo/sms/cloudmst.zip"
@@ -395,9 +425,6 @@
       "columns"
     ]
   },
-  "comicbak": {
-    "download": "https://fightcade.download/fbneo/sms/comicbak.zip"
-  },
   "comical": {
     "download": "https://fightcade.download/fbneo/sms/comical.zip"
   },
@@ -413,11 +440,29 @@
       "comical"
     ]
   },
+  "comicbak": {
+    "download": "https://fightcade.download/fbneo/sms/comicbak.zip"
+  },
   "coolspot": {
     "download": "https://fightcade.download/fbneo/sms/coolspot.zip"
   },
   "cosmic": {
     "download": "https://fightcade.download/fbneo/sms/cosmic.zip"
+  },
+  "crashdum": {
+    "download": "https://fightcade.download/fbneo/sms/crashdum.zip"
+  },
+  "cso": {
+    "download": "https://fightcade.download/fbneo/sms/cso.zip"
+  },
+  "cybers": {
+    "download": "https://fightcade.download/fbneo/sms/cybers.zip"
+  },
+  "cybersp": {
+    "download": "https://fightcade.download/fbneo/sms/cybersp.zip",
+    "require": [
+      "cybers"
+    ]
   },
   "cyborgh": {
     "download": "https://fightcade.download/fbneo/sms/cyborgh.zip"
@@ -440,6 +485,21 @@
   "datastorm10": {
     "download": "https://fightcade.download/fbneo/sms/datastorm10.zip"
   },
+  "dcrystal": {
+    "download": "https://fightcade.download/fbneo/sms/dcrystal.zip"
+  },
+  "ddragon": {
+    "download": "https://fightcade.download/fbneo/sms/ddragon.zip"
+  },
+  "ddragonk": {
+    "download": "https://fightcade.download/fbneo/sms/ddragonk.zip",
+    "require": [
+      "ddragon"
+    ]
+  },
+  "ddux": {
+    "download": "https://fightcade.download/fbneo/sms/ddux.zip"
+  },
   "deadang": {
     "download": "https://fightcade.download/fbneo/sms/deadang.zip"
   },
@@ -449,8 +509,8 @@
   "desert": {
     "download": "https://fightcade.download/fbneo/sms/desert.zip"
   },
-  "dstrike": {
-    "download": "https://fightcade.download/fbneo/sms/dstrike.zip"
+  "dhead": {
+    "download": "https://fightcade.download/fbneo/sms/dhead.zip"
   },
   "dicktr": {
     "download": "https://fightcade.download/fbneo/sms/dicktr.zip"
@@ -458,17 +518,8 @@
   "dinobash": {
     "download": "https://fightcade.download/fbneo/sms/dinobash.zip"
   },
-  "aladdin": {
-    "download": "https://fightcade.download/fbneo/sms/aladdin.zip"
-  },
-  "ariel": {
-    "download": "https://fightcade.download/fbneo/sms/ariel.zip"
-  },
-  "bonkers": {
-    "download": "https://fightcade.download/fbneo/sms/bonkers.zip"
-  },
-  "lionking": {
-    "download": "https://fightcade.download/fbneo/sms/lionking.zip"
+  "dinodool": {
+    "download": "https://fightcade.download/fbneo/sms/dinodool.zip"
   },
   "dokidoki": {
     "download": "https://fightcade.download/fbneo/sms/dokidoki.zip",
@@ -481,15 +532,6 @@
     "require": [
       "pengland"
     ]
-  },
-  "ddragonk": {
-    "download": "https://fightcade.download/fbneo/sms/ddragonk.zip",
-    "require": [
-      "ddragon"
-    ]
-  },
-  "ddragon": {
-    "download": "https://fightcade.download/fbneo/sms/ddragon.zip"
   },
   "doublhwk": {
     "download": "https://fightcade.download/fbneo/sms/doublhwk.zip"
@@ -506,50 +548,41 @@
       "quartet"
     ]
   },
+  "dracula": {
+    "download": "https://fightcade.download/fbneo/sms/dracula.zip"
+  },
+  "dragon": {
+    "download": "https://fightcade.download/fbneo/sms/dragon.zip"
+  },
   "drhello": {
     "download": "https://fightcade.download/fbneo/sms/drhello.zip"
   },
   "drrobotn": {
     "download": "https://fightcade.download/fbneo/sms/drrobotn.zip"
   },
-  "dragon": {
-    "download": "https://fightcade.download/fbneo/sms/dragon.zip"
+  "dstrike": {
+    "download": "https://fightcade.download/fbneo/sms/dstrike.zip"
   },
-  "dcrystal": {
-    "download": "https://fightcade.download/fbneo/sms/dcrystal.zip"
+  "dumpmats": {
+    "download": "https://fightcade.download/fbneo/sms/dumpmats.zip",
+    "require": [
+      "prowres"
+    ]
   },
   "dynduke": {
     "download": "https://fightcade.download/fbneo/sms/dynduke.zip"
   },
-  "ddux": {
-    "download": "https://fightcade.download/fbneo/sms/ddux.zip"
-  },
-  "dhead": {
-    "download": "https://fightcade.download/fbneo/sms/dhead.zip"
-  },
-  "eswatc1": {
-    "download": "https://fightcade.download/fbneo/sms/eswatc1.zip",
-    "require": [
-      "eswatc"
-    ]
-  },
-  "eswatc": {
-    "download": "https://fightcade.download/fbneo/sms/eswatc.zip"
-  },
-  "exainnov": {
-    "download": "https://fightcade.download/fbneo/sms/exainnov.zip"
-  },
   "eagles5": {
     "download": "https://fightcade.download/fbneo/sms/eagles5.zip"
   },
-  "ejim": {
-    "download": "https://fightcade.download/fbneo/sms/ejim.zip"
+  "ecco": {
+    "download": "https://fightcade.download/fbneo/sms/ecco.zip"
   },
   "ecco2": {
     "download": "https://fightcade.download/fbneo/sms/ecco2.zip"
   },
-  "ecco": {
-    "download": "https://fightcade.download/fbneo/sms/ecco.zip"
+  "ejim": {
+    "download": "https://fightcade.download/fbneo/sms/ejim.zip"
   },
   "enduro": {
     "download": "https://fightcade.download/fbneo/sms/enduro.zip"
@@ -560,14 +593,32 @@
       "enduro"
     ]
   },
-  "f1spirit": {
-    "download": "https://fightcade.download/fbneo/sms/f1spirit.zip"
+  "eswatc": {
+    "download": "https://fightcade.download/fbneo/sms/eswatc.zip"
   },
-  "f16fight": {
-    "download": "https://fightcade.download/fbneo/sms/f16fight.zip"
+  "eswatc1": {
+    "download": "https://fightcade.download/fbneo/sms/eswatc1.zip",
+    "require": [
+      "eswatc"
+    ]
   },
-  "f16fightc": {
-    "download": "https://fightcade.download/fbneo/sms/f16fightc.zip",
+  "exainnov": {
+    "download": "https://fightcade.download/fbneo/sms/exainnov.zip"
+  },
+  "excdizzy": {
+    "download": "https://fightcade.download/fbneo/sms/excdizzy.zip"
+  },
+  "f1": {
+    "download": "https://fightcade.download/fbneo/sms/f1.zip"
+  },
+  "f16falc": {
+    "download": "https://fightcade.download/fbneo/sms/f16falc.zip",
+    "require": [
+      "f16fight"
+    ]
+  },
+  "f16falcc": {
+    "download": "https://fightcade.download/fbneo/sms/f16falcc.zip",
     "require": [
       "f16fight"
     ]
@@ -584,23 +635,17 @@
       "f16fight"
     ]
   },
-  "f16falc": {
-    "download": "https://fightcade.download/fbneo/sms/f16falc.zip",
+  "f16fight": {
+    "download": "https://fightcade.download/fbneo/sms/f16fight.zip"
+  },
+  "f16fightc": {
+    "download": "https://fightcade.download/fbneo/sms/f16fightc.zip",
     "require": [
       "f16fight"
     ]
   },
-  "f16falcc": {
-    "download": "https://fightcade.download/fbneo/sms/f16falcc.zip",
-    "require": [
-      "f16fight"
-    ]
-  },
-  "f1": {
-    "download": "https://fightcade.download/fbneo/sms/f1.zip"
-  },
-  "fatetris": {
-    "download": "https://fightcade.download/fbneo/sms/fatetris.zip"
+  "f1spirit": {
+    "download": "https://fightcade.download/fbneo/sms/f1spirit.zip"
   },
   "family": {
     "download": "https://fightcade.download/fbneo/sms/family.zip",
@@ -610,6 +655,24 @@
   },
   "fantdizz": {
     "download": "https://fightcade.download/fbneo/sms/fantdizz.zip"
+  },
+  "fantzon2": {
+    "download": "https://fightcade.download/fbneo/sms/fantzon2.zip"
+  },
+  "fantzon2j": {
+    "download": "https://fightcade.download/fbneo/sms/fantzon2j.zip",
+    "require": [
+      "fantzon2"
+    ]
+  },
+  "fantzone": {
+    "download": "https://fightcade.download/fbneo/sms/fantzone.zip"
+  },
+  "fantzone1": {
+    "download": "https://fightcade.download/fbneo/sms/fantzone1.zip",
+    "require": [
+      "fantzone"
+    ]
   },
   "fantzonej": {
     "download": "https://fightcade.download/fbneo/sms/fantzonej.zip",
@@ -623,26 +686,11 @@
       "fantzone"
     ]
   },
-  "fantzone1": {
-    "download": "https://fightcade.download/fbneo/sms/fantzone1.zip",
-    "require": [
-      "fantzone"
-    ]
-  },
-  "fantzone": {
-    "download": "https://fightcade.download/fbneo/sms/fantzone.zip"
-  },
   "fantzonm": {
     "download": "https://fightcade.download/fbneo/sms/fantzonm.zip"
   },
-  "fantzon2j": {
-    "download": "https://fightcade.download/fbneo/sms/fantzon2j.zip",
-    "require": [
-      "fantzon2"
-    ]
-  },
-  "fantzon2": {
-    "download": "https://fightcade.download/fbneo/sms/fantzon2.zip"
+  "fatetris": {
+    "download": "https://fightcade.download/fbneo/sms/fatetris.zip"
   },
   "felipe": {
     "download": "https://fightcade.download/fbneo/sms/felipe.zip",
@@ -668,38 +716,23 @@
   "fireice": {
     "download": "https://fightcade.download/fbneo/sms/fireice.zip"
   },
-  "fpoint": {
-    "download": "https://fightcade.download/fbneo/sms/fpoint.zip"
+  "flash": {
+    "download": "https://fightcade.download/fbneo/sms/flash.zip"
   },
-  "fpigarus": {
-    "download": "https://fightcade.download/fbneo/sms/fpigarus.zip"
+  "flint": {
+    "download": "https://fightcade.download/fbneo/sms/flint.zip"
   },
   "forgottn": {
     "download": "https://fightcade.download/fbneo/sms/forgottn.zip"
   },
-  "pitpot": {
-    "download": "https://fightcade.download/fbneo/sms/pitpot.zip"
+  "fpigarus": {
+    "download": "https://fightcade.download/fbneo/sms/fpigarus.zip"
   },
-  "pitpot1": {
-    "download": "https://fightcade.download/fbneo/sms/pitpot1.zip",
-    "require": [
-      "pitpot"
-    ]
-  },
-  "gloc": {
-    "download": "https://fightcade.download/fbneo/sms/gloc.zip"
+  "fpoint": {
+    "download": "https://fightcade.download/fbneo/sms/fpoint.zip"
   },
   "gaegujan": {
     "download": "https://fightcade.download/fbneo/sms/gaegujan.zip"
-  },
-  "gground": {
-    "download": "https://fightcade.download/fbneo/sms/gground.zip"
-  },
-  "ggroundp": {
-    "download": "https://fightcade.download/fbneo/sms/ggroundp.zip",
-    "require": [
-      "gground"
-    ]
   },
   "galactpr": {
     "download": "https://fightcade.download/fbneo/sms/galactpr.zip"
@@ -707,20 +740,8 @@
   "galaxian": {
     "download": "https://fightcade.download/fbneo/sms/galaxian.zip"
   },
-  "gforce": {
-    "download": "https://fightcade.download/fbneo/sms/gforce.zip"
-  },
-  "gforceu": {
-    "download": "https://fightcade.download/fbneo/sms/gforceu.zip",
-    "require": [
-      "gforce"
-    ]
-  },
   "gamebox": {
     "download": "https://fightcade.download/fbneo/sms/gamebox.zip"
-  },
-  "robocop": {
-    "download": "https://fightcade.download/fbneo/sms/robocop.zip"
   },
   "gangster": {
     "download": "https://fightcade.download/fbneo/sms/gangster.zip"
@@ -728,8 +749,8 @@
   "gauntlet": {
     "download": "https://fightcade.download/fbneo/sms/gauntlet.zip"
   },
-  "punpun": {
-    "download": "https://fightcade.download/fbneo/sms/punpun.zip"
+  "gaxewarr": {
+    "download": "https://fightcade.download/fbneo/sms/gaxewarr.zip"
   },
   "georgeko": {
     "download": "https://fightcade.download/fbneo/sms/georgeko.zip"
@@ -740,11 +761,38 @@
       "teddyboy"
     ]
   },
+  "gforce": {
+    "download": "https://fightcade.download/fbneo/sms/gforce.zip"
+  },
+  "gforceu": {
+    "download": "https://fightcade.download/fbneo/sms/gforceu.zip",
+    "require": [
+      "gforce"
+    ]
+  },
+  "gground": {
+    "download": "https://fightcade.download/fbneo/sms/gground.zip"
+  },
+  "ggroundp": {
+    "download": "https://fightcade.download/fbneo/sms/ggroundp.zip",
+    "require": [
+      "gground"
+    ]
+  },
+  "ghostbst": {
+    "download": "https://fightcade.download/fbneo/sms/ghostbst.zip"
+  },
   "ghosth": {
     "download": "https://fightcade.download/fbneo/sms/ghosth.zip"
   },
   "ghosthc": {
     "download": "https://fightcade.download/fbneo/sms/ghosthc.zip",
+    "require": [
+      "ghosth"
+    ]
+  },
+  "ghosthcp": {
+    "download": "https://fightcade.download/fbneo/sms/ghosthcp.zip",
     "require": [
       "ghosth"
     ]
@@ -767,15 +815,6 @@
       "ghosth"
     ]
   },
-  "ghosthcp": {
-    "download": "https://fightcade.download/fbneo/sms/ghosthcp.zip",
-    "require": [
-      "ghosth"
-    ]
-  },
-  "ghostbst": {
-    "download": "https://fightcade.download/fbneo/sms/ghostbst.zip"
-  },
   "ghouls": {
     "download": "https://fightcade.download/fbneo/sms/ghouls.zip"
   },
@@ -794,17 +833,11 @@
       "globald"
     ]
   },
-  "dumpmats": {
-    "download": "https://fightcade.download/fbneo/sms/dumpmats.zip",
-    "require": [
-      "prowres"
-    ]
+  "gloc": {
+    "download": "https://fightcade.download/fbneo/sms/gloc.zip"
   },
   "goldnaxe": {
     "download": "https://fightcade.download/fbneo/sms/goldnaxe.zip"
-  },
-  "gaxewarr": {
-    "download": "https://fightcade.download/fbneo/sms/gaxewarr.zip"
   },
   "golfaman": {
     "download": "https://fightcade.download/fbneo/sms/golfaman.zip"
@@ -851,6 +884,12 @@
       "greatglf"
     ]
   },
+  "greatglfp": {
+    "download": "https://fightcade.download/fbneo/sms/greatglfp.zip",
+    "require": [
+      "greatglf"
+    ]
+  },
   "greatglj": {
     "download": "https://fightcade.download/fbneo/sms/greatglj.zip"
   },
@@ -858,12 +897,6 @@
     "download": "https://fightcade.download/fbneo/sms/greatglk.zip",
     "require": [
       "greatglj"
-    ]
-  },
-  "greatglfp": {
-    "download": "https://fightcade.download/fbneo/sms/greatglfp.zip",
-    "require": [
-      "greatglf"
     ]
   },
   "greatice": {
@@ -911,14 +944,14 @@
   "hangon": {
     "download": "https://fightcade.download/fbneo/sms/hangon.zip"
   },
+  "hangonaw": {
+    "download": "https://fightcade.download/fbneo/sms/hangonaw.zip"
+  },
   "hangonj": {
     "download": "https://fightcade.download/fbneo/sms/hangonj.zip",
     "require": [
       "hangon"
     ]
-  },
-  "hangonaw": {
-    "download": "https://fightcade.download/fbneo/sms/hangonaw.zip"
   },
   "hangonsh": {
     "download": "https://fightcade.download/fbneo/sms/hangonsh.zip"
@@ -931,6 +964,60 @@
   },
   "heavyw": {
     "download": "https://fightcade.download/fbneo/sms/heavyw.zip"
+  },
+  "herolanc": {
+    "download": "https://fightcade.download/fbneo/sms/herolanc.zip"
+  },
+  "hicom3a": {
+    "download": "https://fightcade.download/fbneo/sms/hicom3a.zip"
+  },
+  "hicom3b": {
+    "download": "https://fightcade.download/fbneo/sms/hicom3b.zip",
+    "require": [
+      "hicom3a"
+    ]
+  },
+  "hicom3c": {
+    "download": "https://fightcade.download/fbneo/sms/hicom3c.zip",
+    "require": [
+      "hicom3a"
+    ]
+  },
+  "hicom3d": {
+    "download": "https://fightcade.download/fbneo/sms/hicom3d.zip",
+    "require": [
+      "hicom3a"
+    ]
+  },
+  "hicom3e": {
+    "download": "https://fightcade.download/fbneo/sms/hicom3e.zip",
+    "require": [
+      "hicom3a"
+    ]
+  },
+  "hicom3f": {
+    "download": "https://fightcade.download/fbneo/sms/hicom3f.zip",
+    "require": [
+      "hicom3a"
+    ]
+  },
+  "hicom8a": {
+    "download": "https://fightcade.download/fbneo/sms/hicom8a.zip",
+    "require": [
+      "hicom3a"
+    ]
+  },
+  "hicom8b": {
+    "download": "https://fightcade.download/fbneo/sms/hicom8b.zip",
+    "require": [
+      "hicom3a"
+    ]
+  },
+  "hicom8c": {
+    "download": "https://fightcade.download/fbneo/sms/hicom8c.zip",
+    "require": [
+      "hicom3a"
+    ]
   },
   "highsc": {
     "download": "https://fightcade.download/fbneo/sms/highsc.zip"
@@ -959,6 +1046,9 @@
   "hoshiw": {
     "download": "https://fightcade.download/fbneo/sms/hoshiw.zip"
   },
+  "hulk": {
+    "download": "https://fightcade.download/fbneo/sms/hulk.zip"
+  },
   "hwaran": {
     "download": "https://fightcade.download/fbneo/sms/hwaran.zip",
     "require": [
@@ -983,6 +1073,21 @@
       "indycrus"
     ]
   },
+  "janggun": {
+    "download": "https://fightcade.download/fbneo/sms/janggun.zip"
+  },
+  "jangpun3": {
+    "download": "https://fightcade.download/fbneo/sms/jangpun3.zip"
+  },
+  "jb007": {
+    "download": "https://fightcade.download/fbneo/sms/jb007.zip"
+  },
+  "jb007b": {
+    "download": "https://fightcade.download/fbneo/sms/jb007b.zip",
+    "require": [
+      "jb007"
+    ]
+  },
   "jbdougko": {
     "download": "https://fightcade.download/fbneo/sms/jbdougko.zip",
     "require": [
@@ -995,29 +1100,14 @@
       "heavyw"
     ]
   },
-  "jb007b": {
-    "download": "https://fightcade.download/fbneo/sms/jb007b.zip",
-    "require": [
-      "jb007"
-    ]
-  },
-  "jb007": {
-    "download": "https://fightcade.download/fbneo/sms/jb007.zip"
-  },
-  "robocod": {
-    "download": "https://fightcade.download/fbneo/sms/robocod.zip"
-  },
-  "jangpun3": {
-    "download": "https://fightcade.download/fbneo/sms/jangpun3.zip"
-  },
-  "janggun": {
-    "download": "https://fightcade.download/fbneo/sms/janggun.zip"
-  },
   "joemont": {
     "download": "https://fightcade.download/fbneo/sms/joemont.zip"
   },
   "jpark": {
     "download": "https://fightcade.download/fbneo/sms/jpark.zip"
+  },
+  "jungle": {
+    "download": "https://fightcade.download/fbneo/sms/jungle.zip"
   },
   "kenseid": {
     "download": "https://fightcade.download/fbneo/sms/kenseid.zip"
@@ -1064,11 +1154,11 @@
   "landill": {
     "download": "https://fightcade.download/fbneo/sms/landill.zip"
   },
-  "lghost": {
-    "download": "https://fightcade.download/fbneo/sms/lghost.zip"
-  },
   "legndill": {
     "download": "https://fightcade.download/fbneo/sms/legndill.zip"
+  },
+  "lemming2": {
+    "download": "https://fightcade.download/fbneo/sms/lemming2.zip"
   },
   "lemmings": {
     "download": "https://fightcade.download/fbneo/sms/lemmings.zip"
@@ -1079,14 +1169,17 @@
       "lemmings"
     ]
   },
-  "lemming2": {
-    "download": "https://fightcade.download/fbneo/sms/lemming2.zip"
+  "lghost": {
+    "download": "https://fightcade.download/fbneo/sms/lghost.zip"
   },
-  "sn_lwep3": {
-    "download": "https://fightcade.download/fbneo/sms/sn_lwep3.zip"
+  "lionking": {
+    "download": "https://fightcade.download/fbneo/sms/lionking.zip"
   },
   "loffire": {
     "download": "https://fightcade.download/fbneo/sms/loffire.zip"
+  },
+  "lordswrd": {
+    "download": "https://fightcade.download/fbneo/sms/lordswrd.zip"
   },
   "lordswrdj": {
     "download": "https://fightcade.download/fbneo/sms/lordswrdj.zip",
@@ -1094,22 +1187,19 @@
       "lordswrd"
     ]
   },
-  "lordswrd": {
-    "download": "https://fightcade.download/fbneo/sms/lordswrd.zip"
-  },
   "loretta": {
     "download": "https://fightcade.download/fbneo/sms/loretta.zip"
   },
   "lostraider101": {
     "download": "https://fightcade.download/fbneo/sms/lostraider101.zip"
   },
-  "mjsengok": {
-    "download": "https://fightcade.download/fbneo/sms/mjsengok.zip"
+  "luckydim": {
+    "download": "https://fightcade.download/fbneo/sms/luckydim.zip"
   },
-  "mjsengokp": {
-    "download": "https://fightcade.download/fbneo/sms/mjsengokp.zip",
+  "luckydimp": {
+    "download": "https://fightcade.download/fbneo/sms/luckydimp.zip",
     "require": [
-      "mjsengok"
+      "luckydim"
     ]
   },
   "makairet": {
@@ -1133,20 +1223,20 @@
   "marble": {
     "download": "https://fightcade.download/fbneo/sms/marble.zip"
   },
+  "marksman": {
+    "download": "https://fightcade.download/fbneo/sms/marksman.zip"
+  },
   "marksmanu": {
     "download": "https://fightcade.download/fbneo/sms/marksmanu.zip",
     "require": [
       "marksman"
     ]
   },
-  "marksman": {
-    "download": "https://fightcade.download/fbneo/sms/marksman.zip"
+  "mastcomb": {
+    "download": "https://fightcade.download/fbneo/sms/mastcomb.zip"
   },
   "mastdark": {
     "download": "https://fightcade.download/fbneo/sms/mastdark.zip"
-  },
-  "mastcomb": {
-    "download": "https://fightcade.download/fbneo/sms/mastcomb.zip"
   },
   "mazehunt": {
     "download": "https://fightcade.download/fbneo/sms/mazehunt.zip"
@@ -1163,20 +1253,11 @@
   "mercs": {
     "download": "https://fightcade.download/fbneo/sms/mercs.zip"
   },
-  "mwalk": {
-    "download": "https://fightcade.download/fbneo/sms/mwalk.zip"
-  },
-  "mwalkp": {
-    "download": "https://fightcade.download/fbneo/sms/mwalkp.zip",
-    "require": [
-      "mwalk"
-    ]
+  "mickeyuc": {
+    "download": "https://fightcade.download/fbneo/sms/mickeyuc.zip"
   },
   "mickmack": {
     "download": "https://fightcade.download/fbneo/sms/mickmack.zip"
-  },
-  "mickeyuc": {
-    "download": "https://fightcade.download/fbneo/sms/mickeyuc.zip"
   },
   "micromac": {
     "download": "https://fightcade.download/fbneo/sms/micromac.zip"
@@ -1193,6 +1274,24 @@
   "missil3d": {
     "download": "https://fightcade.download/fbneo/sms/missil3d.zip"
   },
+  "mjsengok": {
+    "download": "https://fightcade.download/fbneo/sms/mjsengok.zip"
+  },
+  "mjsengokp": {
+    "download": "https://fightcade.download/fbneo/sms/mjsengokp.zip",
+    "require": [
+      "mjsengok"
+    ]
+  },
+  "mk": {
+    "download": "https://fightcade.download/fbneo/sms/mk.zip"
+  },
+  "mk2": {
+    "download": "https://fightcade.download/fbneo/sms/mk2.zip"
+  },
+  "mk3": {
+    "download": "https://fightcade.download/fbneo/sms/mk3.zip"
+  },
   "moggym100": {
     "download": "https://fightcade.download/fbneo/sms/moggym100.zip"
   },
@@ -1205,14 +1304,14 @@
   "monopoly": {
     "download": "https://fightcade.download/fbneo/sms/monopoly.zip"
   },
-  "monopolyu": {
-    "download": "https://fightcade.download/fbneo/sms/monopolyu.zip",
+  "monopolyp": {
+    "download": "https://fightcade.download/fbneo/sms/monopolyp.zip",
     "require": [
       "monopoly"
     ]
   },
-  "monopolyp": {
-    "download": "https://fightcade.download/fbneo/sms/monopolyp.zip",
+  "monopolyu": {
+    "download": "https://fightcade.download/fbneo/sms/monopolyu.zip",
     "require": [
       "monopoly"
     ]
@@ -1229,17 +1328,17 @@
   "mopirang": {
     "download": "https://fightcade.download/fbneo/sms/mopirang.zip"
   },
-  "mk": {
-    "download": "https://fightcade.download/fbneo/sms/mk.zip"
-  },
-  "mk3": {
-    "download": "https://fightcade.download/fbneo/sms/mk3.zip"
-  },
-  "mk2": {
-    "download": "https://fightcade.download/fbneo/sms/mk2.zip"
-  },
   "mspacman": {
     "download": "https://fightcade.download/fbneo/sms/mspacman.zip"
+  },
+  "mwalk": {
+    "download": "https://fightcade.download/fbneo/sms/mwalk.zip"
+  },
+  "mwalkp": {
+    "download": "https://fightcade.download/fbneo/sms/mwalkp.zip",
+    "require": [
+      "mwalk"
+    ]
   },
   "myhero": {
     "download": "https://fightcade.download/fbneo/sms/myhero.zip"
@@ -1262,9 +1361,6 @@
       "bublbobl"
     ]
   },
-  "novdmvdp": {
-    "download": "https://fightcade.download/fbneo/sms/novdmvdp.zip"
-  },
   "ngaiden": {
     "download": "https://fightcade.download/fbneo/sms/ngaiden.zip"
   },
@@ -1273,6 +1369,18 @@
     "require": [
       "ngaiden"
     ]
+  },
+  "ninja": {
+    "download": "https://fightcade.download/fbneo/sms/ninja.zip"
+  },
+  "ninjaj": {
+    "download": "https://fightcade.download/fbneo/sms/ninjaj.zip",
+    "require": [
+      "ninja"
+    ]
+  },
+  "novdmvdp": {
+    "download": "https://fightcade.download/fbneo/sms/novdmvdp.zip"
   },
   "olympgld": {
     "download": "https://fightcade.download/fbneo/sms/olympgld.zip"
@@ -1292,14 +1400,17 @@
   "opwolf": {
     "download": "https://fightcade.download/fbneo/sms/opwolf.zip"
   },
+  "ottifant": {
+    "download": "https://fightcade.download/fbneo/sms/ottifant.zip"
+  },
+  "outrneur": {
+    "download": "https://fightcade.download/fbneo/sms/outrneur.zip"
+  },
   "outrun": {
     "download": "https://fightcade.download/fbneo/sms/outrun.zip"
   },
   "outrun3d": {
     "download": "https://fightcade.download/fbneo/sms/outrun3d.zip"
-  },
-  "outrneur": {
-    "download": "https://fightcade.download/fbneo/sms/outrneur.zip"
   },
   "pacmania": {
     "download": "https://fightcade.download/fbneo/sms/pacmania.zip"
@@ -1328,11 +1439,53 @@
   "pgatour": {
     "download": "https://fightcade.download/fbneo/sms/pgatour.zip"
   },
-  "pstarb": {
-    "download": "https://fightcade.download/fbneo/sms/pstarb.zip",
+  "pitfight": {
+    "download": "https://fightcade.download/fbneo/sms/pitfight.zip"
+  },
+  "pitfightb": {
+    "download": "https://fightcade.download/fbneo/sms/pitfightb.zip",
     "require": [
-      "pstar"
+      "pitfight"
     ]
+  },
+  "pitpot": {
+    "download": "https://fightcade.download/fbneo/sms/pitpot.zip"
+  },
+  "pitpot1": {
+    "download": "https://fightcade.download/fbneo/sms/pitpot1.zip",
+    "require": [
+      "pitpot"
+    ]
+  },
+  "pooyan": {
+    "download": "https://fightcade.download/fbneo/sms/pooyan.zip"
+  },
+  "populous": {
+    "download": "https://fightcade.download/fbneo/sms/populous.zip"
+  },
+  "poseidon": {
+    "download": "https://fightcade.download/fbneo/sms/poseidon.zip"
+  },
+  "ppersia": {
+    "download": "https://fightcade.download/fbneo/sms/ppersia.zip"
+  },
+  "predatr2": {
+    "download": "https://fightcade.download/fbneo/sms/predatr2.zip"
+  },
+  "predatr2b": {
+    "download": "https://fightcade.download/fbneo/sms/predatr2b.zip",
+    "require": [
+      "predatr2"
+    ]
+  },
+  "prowres": {
+    "download": "https://fightcade.download/fbneo/sms/prowres.zip"
+  },
+  "proyakyu": {
+    "download": "https://fightcade.download/fbneo/sms/proyakyu.zip"
+  },
+  "pstar": {
+    "download": "https://fightcade.download/fbneo/sms/pstar.zip"
   },
   "pstar1": {
     "download": "https://fightcade.download/fbneo/sms/pstar1.zip",
@@ -1340,8 +1493,11 @@
       "pstar"
     ]
   },
-  "pstar": {
-    "download": "https://fightcade.download/fbneo/sms/pstar.zip"
+  "pstarb": {
+    "download": "https://fightcade.download/fbneo/sms/pstarb.zip",
+    "require": [
+      "pstar"
+    ]
   },
   "pstarj": {
     "download": "https://fightcade.download/fbneo/sms/pstarj.zip",
@@ -1361,53 +1517,20 @@
       "pstar"
     ]
   },
-  "pitfightb": {
-    "download": "https://fightcade.download/fbneo/sms/pitfightb.zip",
-    "require": [
-      "pitfight"
-    ]
-  },
-  "pitfight": {
-    "download": "https://fightcade.download/fbneo/sms/pitfight.zip"
-  },
-  "pooyan": {
-    "download": "https://fightcade.download/fbneo/sms/pooyan.zip"
-  },
-  "populous": {
-    "download": "https://fightcade.download/fbneo/sms/populous.zip"
-  },
-  "poseidon": {
-    "download": "https://fightcade.download/fbneo/sms/poseidon.zip"
-  },
   "pstrike": {
     "download": "https://fightcade.download/fbneo/sms/pstrike.zip"
   },
   "pstrike2": {
     "download": "https://fightcade.download/fbneo/sms/pstrike2.zip"
   },
-  "predatr2b": {
-    "download": "https://fightcade.download/fbneo/sms/predatr2b.zip",
-    "require": [
-      "predatr2"
-    ]
-  },
-  "predatr2": {
-    "download": "https://fightcade.download/fbneo/sms/predatr2.zip"
-  },
-  "ppersia": {
-    "download": "https://fightcade.download/fbneo/sms/ppersia.zip"
-  },
-  "prowres": {
-    "download": "https://fightcade.download/fbneo/sms/prowres.zip"
-  },
-  "sms3samp": {
-    "download": "https://fightcade.download/fbneo/sms/sms3samp.zip"
-  },
   "psychicw": {
     "download": "https://fightcade.download/fbneo/sms/psychicw.zip"
   },
   "psychof": {
     "download": "https://fightcade.download/fbneo/sms/psychof.zip"
+  },
+  "punpun": {
+    "download": "https://fightcade.download/fbneo/sms/punpun.zip"
   },
   "puttputt": {
     "download": "https://fightcade.download/fbneo/sms/puttputt.zip"
@@ -1423,36 +1546,6 @@
   },
   "quartet": {
     "download": "https://fightcade.download/fbneo/sms/quartet.zip"
-  },
-  "shavnyak": {
-    "download": "https://fightcade.download/fbneo/sms/shavnyak.zip"
-  },
-  "rtypep": {
-    "download": "https://fightcade.download/fbneo/sms/rtypep.zip",
-    "require": [
-      "rtype"
-    ]
-  },
-  "rtype": {
-    "download": "https://fightcade.download/fbneo/sms/rtype.zip"
-  },
-  "rcgp": {
-    "download": "https://fightcade.download/fbneo/sms/rcgp.zip"
-  },
-  "rcgpp": {
-    "download": "https://fightcade.download/fbneo/sms/rcgpp.zip",
-    "require": [
-      "rcgp"
-    ]
-  },
-  "rbislandb": {
-    "download": "https://fightcade.download/fbneo/sms/rbislandb.zip",
-    "require": [
-      "rbisland"
-    ]
-  },
-  "rbisland": {
-    "download": "https://fightcade.download/fbneo/sms/rbisland.zip"
   },
   "rambo2": {
     "download": "https://fightcade.download/fbneo/sms/rambo2.zip",
@@ -1472,6 +1565,24 @@
   "rastan": {
     "download": "https://fightcade.download/fbneo/sms/rastan.zip"
   },
+  "rbisland": {
+    "download": "https://fightcade.download/fbneo/sms/rbisland.zip"
+  },
+  "rbislandb": {
+    "download": "https://fightcade.download/fbneo/sms/rbislandb.zip",
+    "require": [
+      "rbisland"
+    ]
+  },
+  "rcgp": {
+    "download": "https://fightcade.download/fbneo/sms/rcgp.zip"
+  },
+  "rcgpp": {
+    "download": "https://fightcade.download/fbneo/sms/rcgpp.zip",
+    "require": [
+      "rcgp"
+    ]
+  },
   "regjacks": {
     "download": "https://fightcade.download/fbneo/sms/regjacks.zip",
     "require": [
@@ -1490,6 +1601,12 @@
   "roadrash": {
     "download": "https://fightcade.download/fbneo/sms/roadrash.zip"
   },
+  "robocod": {
+    "download": "https://fightcade.download/fbneo/sms/robocod.zip"
+  },
+  "robocop": {
+    "download": "https://fightcade.download/fbneo/sms/robocop.zip"
+  },
   "robocop3": {
     "download": "https://fightcade.download/fbneo/sms/robocop3.zip"
   },
@@ -1499,14 +1616,17 @@
   "rocky": {
     "download": "https://fightcade.download/fbneo/sms/rocky.zip"
   },
+  "rtype": {
+    "download": "https://fightcade.download/fbneo/sms/rtype.zip"
+  },
+  "rtypep": {
+    "download": "https://fightcade.download/fbneo/sms/rtypep.zip",
+    "require": [
+      "rtype"
+    ]
+  },
   "running": {
     "download": "https://fightcade.download/fbneo/sms/running.zip"
-  },
-  "saposos": {
-    "download": "https://fightcade.download/fbneo/sms/saposos.zip",
-    "require": [
-      "astrow"
-    ]
   },
   "sagaia": {
     "download": "https://fightcade.download/fbneo/sms/sagaia.zip"
@@ -1518,6 +1638,12 @@
     "download": "https://fightcade.download/fbneo/sms/sapomestr.zip",
     "require": [
       "kungfuk"
+    ]
+  },
+  "saposos": {
+    "download": "https://fightcade.download/fbneo/sms/saposos.zip",
+    "require": [
+      "astrow"
     ]
   },
   "sapoxule": {
@@ -1535,14 +1661,38 @@
       "satell7"
     ]
   },
-  "sspirits": {
-    "download": "https://fightcade.download/fbneo/sms/sspirits.zip"
+  "sbioman1": {
+    "download": "https://fightcade.download/fbneo/sms/sbioman1.zip"
+  },
+  "sboy1": {
+    "download": "https://fightcade.download/fbneo/sms/sboy1.zip"
+  },
+  "sboy2": {
+    "download": "https://fightcade.download/fbneo/sms/sboy2.zip"
+  },
+  "sboy3": {
+    "download": "https://fightcade.download/fbneo/sms/sboy3.zip"
+  },
+  "sboy4": {
+    "download": "https://fightcade.download/fbneo/sms/sboy4.zip"
+  },
+  "sci": {
+    "download": "https://fightcade.download/fbneo/sms/sci.zip"
+  },
+  "scip": {
+    "download": "https://fightcade.download/fbneo/sms/scip.zip",
+    "require": [
+      "sci"
+    ]
   },
   "sdi": {
     "download": "https://fightcade.download/fbneo/sms/sdi.zip",
     "require": [
       "globald"
     ]
+  },
+  "sdmilhao": {
+    "download": "https://fightcade.download/fbneo/sms/sdmilhao.zip"
   },
   "secret": {
     "download": "https://fightcade.download/fbneo/sms/secret.zip"
@@ -1571,11 +1721,8 @@
   "sensible": {
     "download": "https://fightcade.download/fbneo/sms/sensible.zip"
   },
-  "shdancer": {
-    "download": "https://fightcade.download/fbneo/sms/shdancer.zip"
-  },
-  "beast": {
-    "download": "https://fightcade.download/fbneo/sms/beast.zip"
+  "sf2": {
+    "download": "https://fightcade.download/fbneo/sms/sf2.zip"
   },
   "shanghai": {
     "download": "https://fightcade.download/fbneo/sms/shanghai.zip"
@@ -1585,6 +1732,30 @@
     "require": [
       "shanghai"
     ]
+  },
+  "sharr3d": {
+    "download": "https://fightcade.download/fbneo/sms/sharr3d.zip"
+  },
+  "sharr3dj": {
+    "download": "https://fightcade.download/fbneo/sms/sharr3dj.zip",
+    "require": [
+      "sharr3d"
+    ]
+  },
+  "sharrier": {
+    "download": "https://fightcade.download/fbneo/sms/sharrier.zip"
+  },
+  "sharrierju": {
+    "download": "https://fightcade.download/fbneo/sms/sharrierju.zip",
+    "require": [
+      "sharrier"
+    ]
+  },
+  "shavnyak": {
+    "download": "https://fightcade.download/fbneo/sms/shavnyak.zip"
+  },
+  "shdancer": {
+    "download": "https://fightcade.download/fbneo/sms/shdancer.zip"
   },
   "shinobi": {
     "download": "https://fightcade.download/fbneo/sms/shinobi.zip"
@@ -1598,20 +1769,23 @@
   "shooting": {
     "download": "https://fightcade.download/fbneo/sms/shooting.zip"
   },
-  "sdmilhao": {
-    "download": "https://fightcade.download/fbneo/sms/sdmilhao.zip"
-  },
   "silvervalley": {
     "download": "https://fightcade.download/fbneo/sms/silvervalley.zip"
   },
   "sitio": {
     "download": "https://fightcade.download/fbneo/sms/sitio.zip"
   },
+  "skickoff": {
+    "download": "https://fightcade.download/fbneo/sms/skickoff.zip"
+  },
   "skyjag": {
     "download": "https://fightcade.download/fbneo/sms/skyjag.zip"
   },
-  "slapshotp": {
-    "download": "https://fightcade.download/fbneo/sms/slapshotp.zip",
+  "slapshot": {
+    "download": "https://fightcade.download/fbneo/sms/slapshot.zip"
+  },
+  "slapshota": {
+    "download": "https://fightcade.download/fbneo/sms/slapshota.zip",
     "require": [
       "slapshot"
     ]
@@ -1622,32 +1796,65 @@
       "slapshot"
     ]
   },
-  "slapshota": {
-    "download": "https://fightcade.download/fbneo/sms/slapshota.zip",
+  "slapshotp": {
+    "download": "https://fightcade.download/fbneo/sms/slapshotp.zip",
     "require": [
       "slapshot"
     ]
   },
-  "slapshot": {
-    "download": "https://fightcade.download/fbneo/sms/slapshot.zip"
-  },
   "smashtv": {
     "download": "https://fightcade.download/fbneo/sms/smashtv.zip"
+  },
+  "smgp": {
+    "download": "https://fightcade.download/fbneo/sms/smgp.zip"
+  },
+  "smgp2": {
+    "download": "https://fightcade.download/fbneo/sms/smgp2.zip"
+  },
+  "smgpp1": {
+    "download": "https://fightcade.download/fbneo/sms/smgpp1.zip",
+    "require": [
+      "smgp"
+    ]
+  },
+  "smgpp2": {
+    "download": "https://fightcade.download/fbneo/sms/smgpp2.zip",
+    "require": [
+      "smgp"
+    ]
+  },
+  "smgpu": {
+    "download": "https://fightcade.download/fbneo/sms/smgpu.zip",
+    "require": [
+      "smgp"
+    ]
+  },
+  "sms3samp": {
+    "download": "https://fightcade.download/fbneo/sms/sms3samp.zip"
+  },
+  "smurfs": {
+    "download": "https://fightcade.download/fbneo/sms/smurfs.zip"
+  },
+  "smurfs2": {
+    "download": "https://fightcade.download/fbneo/sms/smurfs2.zip"
+  },
+  "smurfs2p": {
+    "download": "https://fightcade.download/fbneo/sms/smurfs2p.zip",
+    "require": [
+      "smurfs2"
+    ]
+  },
+  "sn_ateam": {
+    "download": "https://fightcade.download/fbneo/sms/sn_ateam.zip"
+  },
+  "sn_lwep3": {
+    "download": "https://fightcade.download/fbneo/sms/sn_lwep3.zip"
   },
   "solomon": {
     "download": "https://fightcade.download/fbneo/sms/solomon.zip"
   },
-  "sonicbls": {
-    "download": "https://fightcade.download/fbneo/sms/sonicbls.zip"
-  },
   "sonic": {
     "download": "https://fightcade.download/fbneo/sms/sonic.zip"
-  },
-  "sonicfm102": {
-    "download": "https://fightcade.download/fbneo/sms/sonicfm102.zip",
-    "require": [
-      "sonic"
-    ]
   },
   "sonic2": {
     "download": "https://fightcade.download/fbneo/sms/sonic2.zip"
@@ -1658,53 +1865,38 @@
       "sonic2"
     ]
   },
+  "sonicbls": {
+    "download": "https://fightcade.download/fbneo/sms/sonicbls.zip"
+  },
   "sonicc": {
     "download": "https://fightcade.download/fbneo/sms/sonicc.zip"
-  },
-  "sspin": {
-    "download": "https://fightcade.download/fbneo/sms/sspin.zip"
   },
   "sonicedu": {
     "download": "https://fightcade.download/fbneo/sms/sonicedu.zip"
   },
+  "sonicfm102": {
+    "download": "https://fightcade.download/fbneo/sms/sonicfm102.zip",
+    "require": [
+      "sonic"
+    ]
+  },
+  "sor": {
+    "download": "https://fightcade.download/fbneo/sms/sor.zip"
+  },
+  "sor2": {
+    "download": "https://fightcade.download/fbneo/sms/sor2.zip"
+  },
   "spacegun": {
     "download": "https://fightcade.download/fbneo/sms/spacegun.zip"
-  },
-  "sharrier": {
-    "download": "https://fightcade.download/fbneo/sms/sharrier.zip"
-  },
-  "sharrierju": {
-    "download": "https://fightcade.download/fbneo/sms/sharrierju.zip",
-    "require": [
-      "sharrier"
-    ]
-  },
-  "sharr3d": {
-    "download": "https://fightcade.download/fbneo/sms/sharr3d.zip"
-  },
-  "sharr3dj": {
-    "download": "https://fightcade.download/fbneo/sms/sharr3dj.zip",
-    "require": [
-      "sharr3d"
-    ]
-  },
-  "sci": {
-    "download": "https://fightcade.download/fbneo/sms/sci.zip"
-  },
-  "scip": {
-    "download": "https://fightcade.download/fbneo/sms/scip.zip",
-    "require": [
-      "sci"
-    ]
   },
   "speedbl": {
     "download": "https://fightcade.download/fbneo/sms/speedbl.zip"
   },
-  "speedblv": {
-    "download": "https://fightcade.download/fbneo/sms/speedblv.zip"
-  },
   "speedbl2": {
     "download": "https://fightcade.download/fbneo/sms/speedbl2.zip"
+  },
+  "speedblv": {
+    "download": "https://fightcade.download/fbneo/sms/speedblv.zip"
   },
   "spellcst": {
     "download": "https://fightcade.download/fbneo/sms/spellcst.zip"
@@ -1724,8 +1916,17 @@
       "worldsoc"
     ]
   },
+  "spyvsspy": {
+    "download": "https://fightcade.download/fbneo/sms/spyvsspy.zip"
+  },
   "spyvsspyj": {
     "download": "https://fightcade.download/fbneo/sms/spyvsspyj.zip",
+    "require": [
+      "spyvsspy"
+    ]
+  },
+  "spyvsspyj1": {
+    "download": "https://fightcade.download/fbneo/sms/spyvsspyj1.zip",
     "require": [
       "spyvsspy"
     ]
@@ -1736,44 +1937,44 @@
       "spyvsspy"
     ]
   },
-  "spyvsspytw": {
-    "download": "https://fightcade.download/fbneo/sms/spyvsspytw.zip",
-    "require": [
-      "spyvsspy"
-    ]
-  },
-  "spyvsspy": {
-    "download": "https://fightcade.download/fbneo/sms/spyvsspy.zip"
-  },
-  "spyvsspyj1": {
-    "download": "https://fightcade.download/fbneo/sms/spyvsspyj1.zip",
-    "require": [
-      "spyvsspy"
-    ]
-  },
   "spyvsspys": {
     "download": "https://fightcade.download/fbneo/sms/spyvsspys.zip",
     "require": [
       "spyvsspy"
     ]
   },
+  "spyvsspytw": {
+    "download": "https://fightcade.download/fbneo/sms/spyvsspytw.zip",
+    "require": [
+      "spyvsspy"
+    ]
+  },
+  "ssinv": {
+    "download": "https://fightcade.download/fbneo/sms/ssinv.zip"
+  },
+  "sspin": {
+    "download": "https://fightcade.download/fbneo/sms/sspin.zip"
+  },
+  "sspirits": {
+    "download": "https://fightcade.download/fbneo/sms/sspirits.zip"
+  },
   "starwars": {
     "download": "https://fightcade.download/fbneo/sms/starwars.zip"
   },
-  "sf2": {
-    "download": "https://fightcade.download/fbneo/sms/sf2.zip"
+  "stennis": {
+    "download": "https://fightcade.download/fbneo/sms/stennis.zip"
   },
-  "strtmast": {
-    "download": "https://fightcade.download/fbneo/sms/strtmast.zip"
-  },
-  "sor": {
-    "download": "https://fightcade.download/fbneo/sms/sor.zip"
-  },
-  "sor2": {
-    "download": "https://fightcade.download/fbneo/sms/sor2.zip"
+  "stennisc": {
+    "download": "https://fightcade.download/fbneo/sms/stennisc.zip",
+    "require": [
+      "stennis"
+    ]
   },
   "strider": {
     "download": "https://fightcade.download/fbneo/sms/strider.zip"
+  },
+  "strider2": {
+    "download": "https://fightcade.download/fbneo/sms/strider2.zip"
   },
   "striderd": {
     "download": "https://fightcade.download/fbneo/sms/striderd.zip",
@@ -1781,8 +1982,8 @@
       "strider"
     ]
   },
-  "strider2": {
-    "download": "https://fightcade.download/fbneo/sms/strider2.zip"
+  "strtmast": {
+    "download": "https://fightcade.download/fbneo/sms/strtmast.zip"
   },
   "submarin": {
     "download": "https://fightcade.download/fbneo/sms/submarin.zip"
@@ -1808,59 +2009,8 @@
       "woodypop"
     ]
   },
-  "suprbskt": {
-    "download": "https://fightcade.download/fbneo/sms/suprbskt.zip"
-  },
-  "sbioman1": {
-    "download": "https://fightcade.download/fbneo/sms/sbioman1.zip"
-  },
-  "sboy3": {
-    "download": "https://fightcade.download/fbneo/sms/sboy3.zip"
-  },
-  "sboy4": {
-    "download": "https://fightcade.download/fbneo/sms/sboy4.zip"
-  },
-  "sboy1": {
-    "download": "https://fightcade.download/fbneo/sms/sboy1.zip"
-  },
-  "sboy2": {
-    "download": "https://fightcade.download/fbneo/sms/sboy2.zip"
-  },
-  "suprbubl": {
-    "download": "https://fightcade.download/fbneo/sms/suprbubl.zip",
-    "require": [
-      "bublbobl"
-    ]
-  },
-  "supgolf": {
-    "download": "https://fightcade.download/fbneo/sms/supgolf.zip",
-    "require": [
-      "golfaman"
-    ]
-  },
-  "skickoff": {
-    "download": "https://fightcade.download/fbneo/sms/skickoff.zip"
-  },
-  "smgp": {
-    "download": "https://fightcade.download/fbneo/sms/smgp.zip"
-  },
-  "smgpp2": {
-    "download": "https://fightcade.download/fbneo/sms/smgpp2.zip",
-    "require": [
-      "smgp"
-    ]
-  },
-  "smgpp1": {
-    "download": "https://fightcade.download/fbneo/sms/smgpp1.zip",
-    "require": [
-      "smgp"
-    ]
-  },
-  "smgpu": {
-    "download": "https://fightcade.download/fbneo/sms/smgpu.zip",
-    "require": [
-      "smgp"
-    ]
+  "superman": {
+    "download": "https://fightcade.download/fbneo/sms/superman.zip"
   },
   "superoff": {
     "download": "https://fightcade.download/fbneo/sms/superoff.zip"
@@ -1868,35 +2018,23 @@
   "superrac": {
     "download": "https://fightcade.download/fbneo/sms/superrac.zip"
   },
-  "ssinv": {
-    "download": "https://fightcade.download/fbneo/sms/ssinv.zip"
-  },
-  "stennis": {
-    "download": "https://fightcade.download/fbneo/sms/stennis.zip"
-  },
-  "stennisc": {
-    "download": "https://fightcade.download/fbneo/sms/stennisc.zip",
+  "supgolf": {
+    "download": "https://fightcade.download/fbneo/sms/supgolf.zip",
     "require": [
-      "stennis"
+      "golfaman"
     ]
   },
-  "wboymlndj": {
-    "download": "https://fightcade.download/fbneo/sms/wboymlndj.zip",
-    "require": [
-      "wboymlnd"
-    ]
+  "suprbskt": {
+    "download": "https://fightcade.download/fbneo/sms/suprbskt.zip"
   },
-  "superman": {
-    "download": "https://fightcade.download/fbneo/sms/superman.zip"
+  "suprbubl": {
+    "download": "https://fightcade.download/fbneo/sms/suprbubl.zip",
+    "require": [
+      "bublbobl"
+    ]
   },
   "t2ag": {
     "download": "https://fightcade.download/fbneo/sms/t2ag.zip"
-  },
-  "chasehq": {
-    "download": "https://fightcade.download/fbneo/sms/chasehq.zip"
-  },
-  "tazmars": {
-    "download": "https://fightcade.download/fbneo/sms/tazmars.zip"
   },
   "tazmania": {
     "download": "https://fightcade.download/fbneo/sms/tazmania.zip"
@@ -1905,6 +2043,18 @@
     "download": "https://fightcade.download/fbneo/sms/tazmaniap.zip",
     "require": [
       "tazmania"
+    ]
+  },
+  "tazmars": {
+    "download": "https://fightcade.download/fbneo/sms/tazmars.zip"
+  },
+  "tblade": {
+    "download": "https://fightcade.download/fbneo/sms/tblade.zip"
+  },
+  "tbladej": {
+    "download": "https://fightcade.download/fbneo/sms/tbladej.zip",
+    "require": [
+      "tblade"
     ]
   },
   "tecmow92": {
@@ -1922,12 +2072,6 @@
       "teddyboy"
     ]
   },
-  "teddyboyjp": {
-    "download": "https://fightcade.download/fbneo/sms/teddyboyjp.zip",
-    "require": [
-      "teddyboy"
-    ]
-  },
   "teddyboyj": {
     "download": "https://fightcade.download/fbneo/sms/teddyboyj.zip",
     "require": [
@@ -1940,155 +2084,20 @@
       "teddyboy"
     ]
   },
+  "teddyboyjp": {
+    "download": "https://fightcade.download/fbneo/sms/teddyboyjp.zip",
+    "require": [
+      "teddyboy"
+    ]
+  },
   "tennis": {
     "download": "https://fightcade.download/fbneo/sms/tennis.zip"
-  },
-  "bakabon": {
-    "download": "https://fightcade.download/fbneo/sms/bakabon.zip"
   },
   "term2": {
     "download": "https://fightcade.download/fbneo/sms/term2.zip"
   },
-  "sn_ateam": {
-    "download": "https://fightcade.download/fbneo/sms/sn_ateam.zip"
-  },
-  "addfam": {
-    "download": "https://fightcade.download/fbneo/sms/addfam.zip"
-  },
-  "hicom8a": {
-    "download": "https://fightcade.download/fbneo/sms/hicom8a.zip",
-    "require": [
-      "hicom3a"
-    ]
-  },
-  "hicom8b": {
-    "download": "https://fightcade.download/fbneo/sms/hicom8b.zip",
-    "require": [
-      "hicom3a"
-    ]
-  },
-  "hicom8c": {
-    "download": "https://fightcade.download/fbneo/sms/hicom8c.zip",
-    "require": [
-      "hicom3a"
-    ]
-  },
-  "hicom3e": {
-    "download": "https://fightcade.download/fbneo/sms/hicom3e.zip",
-    "require": [
-      "hicom3a"
-    ]
-  },
-  "hicom3b": {
-    "download": "https://fightcade.download/fbneo/sms/hicom3b.zip",
-    "require": [
-      "hicom3a"
-    ]
-  },
-  "hicom3a": {
-    "download": "https://fightcade.download/fbneo/sms/hicom3a.zip"
-  },
-  "hicom3f": {
-    "download": "https://fightcade.download/fbneo/sms/hicom3f.zip",
-    "require": [
-      "hicom3a"
-    ]
-  },
-  "hicom3d": {
-    "download": "https://fightcade.download/fbneo/sms/hicom3d.zip",
-    "require": [
-      "hicom3a"
-    ]
-  },
-  "hicom3c": {
-    "download": "https://fightcade.download/fbneo/sms/hicom3c.zip",
-    "require": [
-      "hicom3a"
-    ]
-  },
-  "circuit": {
-    "download": "https://fightcade.download/fbneo/sms/circuit.zip",
-    "require": [
-      "worldgp"
-    ]
-  },
-  "cybers": {
-    "download": "https://fightcade.download/fbneo/sms/cybers.zip"
-  },
-  "cybersp": {
-    "download": "https://fightcade.download/fbneo/sms/cybersp.zip",
-    "require": [
-      "cybers"
-    ]
-  },
-  "dinodool": {
-    "download": "https://fightcade.download/fbneo/sms/dinodool.zip"
-  },
-  "excdizzy": {
-    "download": "https://fightcade.download/fbneo/sms/excdizzy.zip"
-  },
-  "flash": {
-    "download": "https://fightcade.download/fbneo/sms/flash.zip"
-  },
-  "flint": {
-    "download": "https://fightcade.download/fbneo/sms/flint.zip"
-  },
-  "crashdum": {
-    "download": "https://fightcade.download/fbneo/sms/crashdum.zip"
-  },
-  "hulk": {
-    "download": "https://fightcade.download/fbneo/sms/hulk.zip"
-  },
-  "jungle": {
-    "download": "https://fightcade.download/fbneo/sms/jungle.zip"
-  },
-  "luckydim": {
-    "download": "https://fightcade.download/fbneo/sms/luckydim.zip"
-  },
-  "luckydimp": {
-    "download": "https://fightcade.download/fbneo/sms/luckydimp.zip",
-    "require": [
-      "luckydim"
-    ]
-  },
-  "xevious": {
-    "download": "https://fightcade.download/fbneo/sms/xevious.zip"
-  },
-  "tnzs": {
-    "download": "https://fightcade.download/fbneo/sms/tnzs.zip"
-  },
-  "ninja": {
-    "download": "https://fightcade.download/fbneo/sms/ninja.zip"
-  },
-  "ninjaj": {
-    "download": "https://fightcade.download/fbneo/sms/ninjaj.zip",
-    "require": [
-      "ninja"
-    ]
-  },
-  "ottifant": {
-    "download": "https://fightcade.download/fbneo/sms/ottifant.zip"
-  },
-  "proyakyu": {
-    "download": "https://fightcade.download/fbneo/sms/proyakyu.zip"
-  },
-  "bartvssm": {
-    "download": "https://fightcade.download/fbneo/sms/bartvssm.zip"
-  },
-  "bartvsw": {
-    "download": "https://fightcade.download/fbneo/sms/bartvsw.zip"
-  },
-  "smurfs": {
-    "download": "https://fightcade.download/fbneo/sms/smurfs.zip"
-  },
-  "smurfs2": {
-    "download": "https://fightcade.download/fbneo/sms/smurfs2.zip"
-  },
-  "smurfs2p": {
-    "download": "https://fightcade.download/fbneo/sms/smurfs2p.zip",
-    "require": [
-      "smurfs2"
-    ]
+  "termntr": {
+    "download": "https://fightcade.download/fbneo/sms/termntr.zip"
   },
   "termntrb": {
     "download": "https://fightcade.download/fbneo/sms/termntrb.zip",
@@ -2096,32 +2105,20 @@
       "termntr"
     ]
   },
-  "termntr": {
-    "download": "https://fightcade.download/fbneo/sms/termntr.zip"
-  },
-  "3dragon": {
-    "download": "https://fightcade.download/fbneo/sms/3dragon.zip"
-  },
-  "tblade": {
-    "download": "https://fightcade.download/fbneo/sms/tblade.zip"
-  },
-  "tbladej": {
-    "download": "https://fightcade.download/fbneo/sms/tbladej.zip",
-    "require": [
-      "tblade"
-    ]
-  },
   "timesold": {
     "download": "https://fightcade.download/fbneo/sms/timesold.zip"
+  },
+  "tnzs": {
+    "download": "https://fightcade.download/fbneo/sms/tnzs.zip"
+  },
+  "tomjermv": {
+    "download": "https://fightcade.download/fbneo/sms/tomjermv.zip"
   },
   "tomjerry": {
     "download": "https://fightcade.download/fbneo/sms/tomjerry.zip",
     "require": [
       "tomjermv"
     ]
-  },
-  "tomjermv": {
-    "download": "https://fightcade.download/fbneo/sms/tomjermv.zip"
   },
   "totowld3": {
     "download": "https://fightcade.download/fbneo/sms/totowld3.zip"
@@ -2159,6 +2156,12 @@
       "wboy3"
     ]
   },
+  "tvcolos": {
+    "download": "https://fightcade.download/fbneo/sms/tvcolos.zip",
+    "require": [
+      "asterix"
+    ]
+  },
   "ultima4": {
     "download": "https://fightcade.download/fbneo/sms/ultima4.zip"
   },
@@ -2177,11 +2180,11 @@
       "mastdark"
     ]
   },
-  "vigilant": {
-    "download": "https://fightcade.download/fbneo/sms/vigilant.zip"
-  },
   "vfa": {
     "download": "https://fightcade.download/fbneo/sms/vfa.zip"
+  },
+  "vigilant": {
+    "download": "https://fightcade.download/fbneo/sms/vigilant.zip"
   },
   "voyage": {
     "download": "https://fightcade.download/fbneo/sms/voyage.zip"
@@ -2189,53 +2192,8 @@
   "WaimanuSMS": {
     "download": "https://fightcade.download/fbneo/sms/WaimanuSMS.zip"
   },
-  "wpayton": {
-    "download": "https://fightcade.download/fbneo/sms/wpayton.zip",
-    "require": [
-      "ameripf"
-    ]
-  },
   "wanted": {
     "download": "https://fightcade.download/fbneo/sms/wanted.zip"
-  },
-  "wekainvaders10": {
-    "download": "https://fightcade.download/fbneo/sms/wekainvaders10.zip"
-  },
-  "carmnwldb": {
-    "download": "https://fightcade.download/fbneo/sms/carmnwldb.zip",
-    "require": [
-      "carmnwld"
-    ]
-  },
-  "carmnwld": {
-    "download": "https://fightcade.download/fbneo/sms/carmnwld.zip"
-  },
-  "wimbled": {
-    "download": "https://fightcade.download/fbneo/sms/wimbled.zip"
-  },
-  "wimbled2": {
-    "download": "https://fightcade.download/fbneo/sms/wimbled2.zip"
-  },
-  "wingwarriors": {
-    "download": "https://fightcade.download/fbneo/sms/wingwarriors.zip"
-  },
-  "wintolb": {
-    "download": "https://fightcade.download/fbneo/sms/wintolb.zip",
-    "require": [
-      "wintol"
-    ]
-  },
-  "wintol": {
-    "download": "https://fightcade.download/fbneo/sms/wintol.zip"
-  },
-  "wolfchld": {
-    "download": "https://fightcade.download/fbneo/sms/wolfchld.zip"
-  },
-  "wboya": {
-    "download": "https://fightcade.download/fbneo/sms/wboya.zip",
-    "require": [
-      "wboy"
-    ]
   },
   "wboy": {
     "download": "https://fightcade.download/fbneo/sms/wboy.zip"
@@ -2243,11 +2201,23 @@
   "wboy3": {
     "download": "https://fightcade.download/fbneo/sms/wboy3.zip"
   },
+  "wboya": {
+    "download": "https://fightcade.download/fbneo/sms/wboya.zip",
+    "require": [
+      "wboy"
+    ]
+  },
   "wboymlnd": {
     "download": "https://fightcade.download/fbneo/sms/wboymlnd.zip"
   },
   "wboymlnda": {
     "download": "https://fightcade.download/fbneo/sms/wboymlnda.zip",
+    "require": [
+      "wboymlnd"
+    ]
+  },
+  "wboymlndj": {
+    "download": "https://fightcade.download/fbneo/sms/wboymlndj.zip",
     "require": [
       "wboymlnd"
     ]
@@ -2267,12 +2237,6 @@
       "wboymwld"
     ]
   },
-  "wonsiin": {
-    "download": "https://fightcade.download/fbneo/sms/wonsiin.zip"
-  },
-  "woodypop": {
-    "download": "https://fightcade.download/fbneo/sms/woodypop.zip"
-  },
   "wclead": {
     "download": "https://fightcade.download/fbneo/sms/wclead.zip"
   },
@@ -2288,6 +2252,27 @@
   "wcup94": {
     "download": "https://fightcade.download/fbneo/sms/wcup94.zip"
   },
+  "wekainvaders10": {
+    "download": "https://fightcade.download/fbneo/sms/wekainvaders10.zip"
+  },
+  "wimbled": {
+    "download": "https://fightcade.download/fbneo/sms/wimbled.zip"
+  },
+  "wimbled2": {
+    "download": "https://fightcade.download/fbneo/sms/wimbled2.zip"
+  },
+  "wingwarriors": {
+    "download": "https://fightcade.download/fbneo/sms/wingwarriors.zip"
+  },
+  "wintol": {
+    "download": "https://fightcade.download/fbneo/sms/wintol.zip"
+  },
+  "wintolb": {
+    "download": "https://fightcade.download/fbneo/sms/wintolb.zip",
+    "require": [
+      "wintol"
+    ]
+  },
   "wldgames": {
     "download": "https://fightcade.download/fbneo/sms/wldgames.zip"
   },
@@ -2297,14 +2282,17 @@
       "wldgames"
     ]
   },
+  "wolfchld": {
+    "download": "https://fightcade.download/fbneo/sms/wolfchld.zip"
+  },
+  "wonsiin": {
+    "download": "https://fightcade.download/fbneo/sms/wonsiin.zip"
+  },
+  "woodypop": {
+    "download": "https://fightcade.download/fbneo/sms/woodypop.zip"
+  },
   "worldgp": {
     "download": "https://fightcade.download/fbneo/sms/worldgp.zip"
-  },
-  "worldgpu": {
-    "download": "https://fightcade.download/fbneo/sms/worldgpu.zip",
-    "require": [
-      "worldgp"
-    ]
   },
   "worldgpp": {
     "download": "https://fightcade.download/fbneo/sms/worldgpp.zip",
@@ -2312,14 +2300,23 @@
       "worldgp"
     ]
   },
+  "worldgpu": {
+    "download": "https://fightcade.download/fbneo/sms/worldgpu.zip",
+    "require": [
+      "worldgp"
+    ]
+  },
   "worldsoc": {
     "download": "https://fightcade.download/fbneo/sms/worldsoc.zip"
   },
+  "wpayton": {
+    "download": "https://fightcade.download/fbneo/sms/wpayton.zip",
+    "require": [
+      "ameripf"
+    ]
+  },
   "wwfsteel": {
     "download": "https://fightcade.download/fbneo/sms/wwfsteel.zip"
-  },
-  "xmenmojo": {
-    "download": "https://fightcade.download/fbneo/sms/xmenmojo.zip"
   },
   "xenon2": {
     "download": "https://fightcade.download/fbneo/sms/xenon2.zip"
@@ -2330,14 +2327,17 @@
       "xenon2"
     ]
   },
+  "xevious": {
+    "download": "https://fightcade.download/fbneo/sms/xevious.zip"
+  },
+  "xmenmojo": {
+    "download": "https://fightcade.download/fbneo/sms/xmenmojo.zip"
+  },
   "xyzolog": {
     "download": "https://fightcade.download/fbneo/sms/xyzolog.zip"
   },
-  "ysj": {
-    "download": "https://fightcade.download/fbneo/sms/ysj.zip",
-    "require": [
-      "ys"
-    ]
+  "ys": {
+    "download": "https://fightcade.download/fbneo/sms/ys.zip"
   },
   "ysd": {
     "download": "https://fightcade.download/fbneo/sms/ysd.zip",
@@ -2345,8 +2345,11 @@
       "ys"
     ]
   },
-  "ys": {
-    "download": "https://fightcade.download/fbneo/sms/ys.zip"
+  "ysj": {
+    "download": "https://fightcade.download/fbneo/sms/ysj.zip",
+    "require": [
+      "ys"
+    ]
   },
   "zaxxon3d": {
     "download": "https://fightcade.download/fbneo/sms/zaxxon3d.zip"
@@ -2357,14 +2360,11 @@
       "zaxxon3d"
     ]
   },
-  "zillionb": {
-    "download": "https://fightcade.download/fbneo/sms/zillionb.zip",
-    "require": [
-      "zillion"
-    ]
-  },
   "zillion": {
     "download": "https://fightcade.download/fbneo/sms/zillion.zip"
+  },
+  "zillion2": {
+    "download": "https://fightcade.download/fbneo/sms/zillion2.zip"
   },
   "zilliona": {
     "download": "https://fightcade.download/fbneo/sms/zilliona.zip",
@@ -2372,8 +2372,11 @@
       "zillion"
     ]
   },
-  "zillion2": {
-    "download": "https://fightcade.download/fbneo/sms/zillion2.zip"
+  "zillionb": {
+    "download": "https://fightcade.download/fbneo/sms/zillionb.zip",
+    "require": [
+      "zillion"
+    ]
   },
   "zool": {
     "download": "https://fightcade.download/fbneo/sms/zool.zip"
