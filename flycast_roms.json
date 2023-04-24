@@ -1657,6 +1657,10 @@
     "flycast_dc_cvs2": {
         "download": "https://fightcade.download/flycast/dc/Capcom%20vs.%20SNK%202%20-%20Millionaire%20Fighting%202001%20(Japan).chd"
     },
+    "flycast_dc_daytona": {
+        "download": "https://fightcade.download/flycast/dc/Daytona%20USA%20%28USA%29.chd",
+        "required": ["save_dc_daytona"]
+    },
     "flycast_dc_doa2": {
         "download": "https://fightcade.download/flycast/dc/Dead%20or%20Alive%202%20(USA).chd"
     },
@@ -1777,6 +1781,10 @@
     "save_dc_cvs2": {
         "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Capcom%20vs.%20SNK%202%20-%20Millionaire%20Fighting%202001%20(Japan).state.net",
         "copy_to": "../data/Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan).state.net"
+    },
+    "save_dc_daytona": {
+        "download": "https://github.com/blueminder/flycast-netplay-savestates/raw/main/Daytona%20USA%20%28USA%29.state.net",
+        "copy_to": "../data/Daytona USA (USA).state.net"
     },
     "save_dc_vonot": {
         "download":"https://github.com/blueminder/flycast-netplay-savestates/raw/main/Cyber%20Troopers%20-%20Virtual-On%20-%20Oratorio%20Tangram%20(USA).state.net",
